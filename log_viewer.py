@@ -10,7 +10,7 @@ if os.path.exists(log_path):
     with open(log_path, "r", encoding="utf-8") as file:
         logs = file.readlines()
  
-    filtro = st.text_input("🔍 Filtrar por palavra-chave (ex: erro, baixado, ignorado)")
+    filtro = st.text_input("🔍 Filtrar por palavra-chave (ex: enviado,erro, baixado, ignorado)")
  
     if filtro:
         logs_filtrados = [linha for linha in logs if filtro.lower() in linha.lower()]
