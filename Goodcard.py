@@ -1,0 +1,86 @@
+#Configuração do servidor
+import logging.config
+import pysftp
+import logging
+import os
+import stat
+
+
+host = 'integracao.embratec.com.br'
+usuario = 'sftp.cacique'
+senha = '!@Cac1qU3'
+
+
+# Configurando o logging
+logging.basicConfig(
+    filename='goodcard.log',
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    encoding='utf-8'
+)
+
+cnopts = pysftp.CnOpts()
+cnopts.hostkeys = None  # Ignora verificação de chave (não recomendado em produção)
+
+try:
+    with pysftp.Connection(host, username=usuario, password=senha, cnopts=cnopts) as sftp:
+        sftp.cwd('/cacique')
+        arquivosDisponiveis = sftp.listdir()
+        logging.info(arquivosDisponiveis)
+        pastaOrigem = '/cacique'
+        pastaDestino ='C:/Users/jose.alcir/Documents/ArquivosDiarios'
+        pastaProcessados ='/cacique/Processados'
+        if not os.path.exists(pastaDestino):
+            logging.info('Pasta local não existe')
+
+        for arquivo in arquivosDisponiveis:
+            caminho_remoto = f"{pastaOrigem}/{arquivo}"
+
+            try:
+                info = sftp.stat(caminho_remoto)
+            # Verifica se é arquivo regular (não é pasta)
+                if stat.S_ISREG(info.st_mode) and arquivo.endswith('.txt'):
+                    origem =f'/cacique/{arquivo}'
+                    destino =f'C:/Users/jose.alcir/Documents/ArquivosDiarios/{arquivo}'
+                    sftp.get(origem,destino)
+                    logging.info(f'Movido: {arquivo} -> {destino}')
+                    caminhoProcesados = f"{pastaProcessados}/{arquivo}"
+                    sftp.rename(caminho_remoto, caminhoProcesados)
+                    logging.info(f'Movendo {arquivo} para {caminhoProcesados}')
+                else:
+                    logging.info(f'⏭️ Ignorado (não é .csv ou não é arquivo): {arquivo}')
+            except Exception as e:
+                logging.info('{e}')
+except Exception as e:
+    logging.info(f"Não foi possivel conectar: {e}")
+
+
+def transfereCatalogador():
+    hostDestino = 'ftp.eextrato.com.br'
+    usuarioDestino = 'monitoramento'
+    senhaDestino = '@#kvZLGDvUl6XLonX1bl79YNgMwTasIvaY'
+    pastaRemotaDestino = '/eextrato/GOODCARD/'
+    pastaLocal = 'C:/Users/jose.alcir/Documents/ArquivosDiarios'
+    cnopts = pysftp.CnOpts()
+    cnopts.hostkeys = None  # Ignora verificação de chave (não recomendado em produção)
+
+    logging.basicConfig(
+    filename='uploadGoodcard.log',
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    encoding='utf-8'
+)
+
+    try:
+        with pysftp.Connection(host=hostDestino,username=usuarioDestino,password=senhaDestino, cnopts= cnopts) as sftp:
+            for arquivo in os.listdir(pastaLocal):
+                if arquivo.endswith('.txt'):
+                    localPath = os.path.join(pastaLocal,arquivo)
+                    remotePath = f'{pastaRemotaDestino}/{arquivo}'
+                    sftp.put(localPath, remotePath)
+                    logging.info(f'Enviado {arquivo} -> {remotePath}')
+    except Exception as e:
+        logging.error(f'Erro ao transferir arquvios: {e}')
+
+
+transfereCatalogador()
