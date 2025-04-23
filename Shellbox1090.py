@@ -44,9 +44,9 @@ def autopostoPanamby():
                 sftp.rename(caminho_remoto, caminhoProcesados)
 
             else:
-                logging.info(f'⏭️ Ignorado (não é .csv ou não é arquivo): {arquivo}')
+                logging.info(f'⏭️ Ignorado (não é .csv ou não é arquivo)')
         except Exception as e:
-            logging.info(f'Erro ao processar {arquivo}: {e}')
+            logging.info(f'Erro ao baixar para pasta local {arquivo}: {e}')
 
     sftp.close()
     transport.close()
@@ -87,7 +87,7 @@ def autopostoValeMaisElaine():
             else:
                 logging.info(f'⏭️ Ignorado (não é .csv ou não é arquivo): {arquivo}')
         except Exception as e:
-            logging.info(f'Erro ao processar {arquivo}: {e}')
+            logging.info(f'Erro ao baixar para pasta local {arquivo}: {e}')
 
     sftp.close()
     transport.close()
@@ -127,7 +127,7 @@ def autopostoValeMaisFabio():
             else:
                 logging.info(f'⏭️ Ignorado (não é .csv ou não é arquivo): {arquivo}')
         except Exception as e:
-            logging.info(f'Erro ao processar {arquivo}: {e}')
+            logging.info(f'Erro ao baixar para pasta local {arquivo}: {e}')
 
     sftp.close()
     transport.close()
@@ -167,7 +167,7 @@ def autopostoValeMaisRodrigo():
             else:
                 logging.info(f'⏭️ Ignorado (não é .csv ou não é arquivo): {arquivo}')
         except Exception as e:
-            logging.info(f'Erro ao processar {arquivo}: {e}')
+            logging.info(f'Erro ao baixar para pasta local {arquivo}: {e}')
 
     sftp.close()
     transport.close()
@@ -206,7 +206,7 @@ def autopostoValeMaisRogerio():
             else:
                 logging.info(f'⏭️ Ignorado (não é .csv ou não é arquivo): {arquivo}')
         except Exception as e:
-            logging.info(f'Erro ao processar {arquivo}: {e}')
+            logging.info(f'Erro ao baixar para pasta local {arquivo}: {e}')
 
     sftp.close()
     transport.close()
@@ -246,7 +246,7 @@ def autopostoValeMaisSociedade():
             else:
                 logging.info(f'⏭ Ignorado (não é .csv ou não é arquivo): {arquivo}')
         except Exception as e:
-            logging.info(f'Erro ao processar {arquivo}: {e}')
+            logging.info(f'Erro ao baixar para pasta local {arquivo}: {e}')
 
     sftp.close()
     transport.close()
