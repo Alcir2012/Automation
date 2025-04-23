@@ -66,7 +66,7 @@ if os.path.exists(log_path):
             alt.Chart(contagem)
                .mark_bar()
                .encode(
-                   x=alt.X('Quantidade:Q', title='Quantidade'),
+                   x=alt.X('Quantidade:Q', title='Quantidade',axis=alt.Axis(format='d')),
                    y=alt.Y('Tipo:N', sort='-x', title='Tipo de Evento')
                )
         )
