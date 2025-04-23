@@ -2,7 +2,7 @@ import streamlit as st
 import os
 import re
 import pandas as pd
-import altair as alt  # Biblioteca para o gráfico horizontal
+import altair as alt
 
 # ========== CONFIGURAÇÕES ==========
 st.set_page_config(page_title="Logs Shellbox", layout="wide")
@@ -20,11 +20,7 @@ def ler_log_estruturado(caminho_log):
         match = re.match(padrao, linha)
         if match:
             data, tipo, detalhe = match.groups()
-            dados.append({
-                'data': data,
-                'tipo': tipo.strip(),
-                'arquivo': detalhe.strip()
-            })
+            dados.append({'data': data, 'tipo': tipo.strip(), 'arquivo': detalhe.strip()})
 
     return pd.DataFrame(dados)
 
@@ -32,31 +28,47 @@ def ler_log_estruturado(caminho_log):
 log_path = "shellbox.log"
 
 if os.path.exists(log_path):
-    # --- PARTE 1: DASHBOARD ESTRUTURADO ---
-    st.subheader("📊 Dashboard de Tipos de Evento")
+    # Leitura estruturada
     df = ler_log_estruturado(log_path)
 
     if not df.empty:
-        # Converte a coluna 'data' para datetime (se precisar de futura filtragem por data)
-        df['data'] = pd.to_datetime(df['data'])
+        # Normaliza tipos de evento
+        def normalize_tipo(t):
+            if 'Baixado' in t:
+                return 'Baixado'
+            elif 'Enviado' in t:
+                return 'Enviado'
+            elif 'Ignorado' in t:
+                return 'Ignorado'
+            elif 'Erro' in t:
+                return 'Erro'
+            else:
+                return t
 
-        # Prepara tabela de contagem por tipo
+        df['tipo'] = df['tipo'].apply(normalize_tipo)
+
+        # Exibe detalhamento
+        st.subheader("📋 Detalhamento das ações")
+        st.dataframe(df[['data', 'tipo', 'arquivo']])
+
+        # Prepara dados para gráfico
+        df['data'] = pd.to_datetime(df['data'])
         contagem = (
             df['tipo']
-            .value_counts()
-            .rename_axis('Tipo')
-            .reset_index(name='Quantidade')
+              .value_counts()
+              .rename_axis('Tipo')
+              .reset_index(name='Quantidade')
         )
-        st.dataframe(contagem)
 
-        # Gráfico de barras horizontal com Altair
+        # Gráfico de barras horizontal
+        st.subheader("📊 Dashboard Tipos de Evento")
         chart = (
             alt.Chart(contagem)
-            .mark_bar()
-            .encode(
-                x=alt.X('Quantidade:Q', title='Quantidade'),
-                y=alt.Y('Tipo:N', sort='-x', title='Tipo de Evento')
-            )
+               .mark_bar()
+               .encode(
+                   x=alt.X('Quantidade:Q', title='Quantidade'),
+                   y=alt.Y('Tipo:N', sort='-x', title='Tipo de Evento')
+               )
         )
         st.altair_chart(chart, use_container_width=True)
     else:
@@ -64,7 +76,7 @@ if os.path.exists(log_path):
 
     st.markdown("---")
 
-    # --- PARTE 2: VISUALIZAÇÃO BRUTA DO LOG ---
+    # Exibição bruta do log
     st.subheader("📝 Log Completo")
     with open(log_path, "r", encoding="utf-8") as file:
         linhas = file.readlines()
@@ -79,6 +91,5 @@ if os.path.exists(log_path):
         st.text_area("Resultado filtrado", "".join(lines), height=300)
     else:
         st.text_area("Log completo", "".join(linhas), height=300)
-
 else:
     st.warning("⚠️ Arquivo de log não encontrado.")

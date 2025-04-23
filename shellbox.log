@@ -1,298 +1,64 @@
-2025-04-15 11:08:55,856 - INFO - Connected (version 2.0, client OpenSSH_8.0)
-2025-04-15 11:08:56,277 - INFO - Authentication (publickey) successful!
-2025-04-15 11:08:56,607 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-15 11:08:57,005 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
-2025-04-15 11:08:57,005 - INFO - [chan 0] sftp session closed.
-2025-04-15 11:08:57,361 - INFO - Connected (version 2.0, client OpenSSH_8.0)
-2025-04-15 11:08:57,728 - INFO - Authentication (publickey) successful!
-2025-04-15 11:08:58,008 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-15 11:08:58,385 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
-2025-04-15 11:08:58,386 - INFO - [chan 0] sftp session closed.
-2025-04-15 11:08:58,744 - INFO - Connected (version 2.0, client OpenSSH_8.0)
-2025-04-15 11:08:59,145 - INFO - Authentication (publickey) successful!
-2025-04-15 11:08:59,433 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-15 11:08:59,888 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
-2025-04-15 11:08:59,888 - INFO - [chan 0] sftp session closed.
-2025-04-15 11:09:00,108 - INFO - Connected (version 2.0, client OpenSSH_8.0)
-2025-04-15 11:09:00,489 - INFO - Authentication (publickey) successful!
-2025-04-15 11:09:00,806 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-15 11:09:01,233 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
-2025-04-15 11:09:01,233 - INFO - [chan 0] sftp session closed.
-2025-04-15 11:09:01,458 - INFO - Connected (version 2.0, client OpenSSH_8.0)
-2025-04-15 11:09:01,911 - INFO - Authentication (publickey) successful!
-2025-04-15 11:09:02,206 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-15 11:09:02,565 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
-2025-04-15 11:09:02,565 - INFO - [chan 0] sftp session closed.
-2025-04-15 11:09:02,793 - INFO - Connected (version 2.0, client OpenSSH_8.0)
-2025-04-15 11:09:03,166 - INFO - Authentication (publickey) successful!
-2025-04-15 11:09:03,441 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-15 11:09:03,804 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
-2025-04-15 11:09:03,804 - INFO - [chan 0] sftp session closed.
-2025-04-15 11:09:04,148 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
-2025-04-15 11:09:05,112 - INFO - Authentication (password) successful!
-2025-04-15 11:13:35,451 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
-2025-04-15 11:13:36,407 - INFO - Authentication (password) successful!
-2025-04-15 11:13:36,929 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-15 11:13:37,624 - INFO -  Enviado: autopostostatusdopanamby-mov-finan-02164-20250415.csv -> /eextrato/SHELLBOX/autopostostatusdopanamby-mov-finan-02164-20250415.csv
-2025-04-15 11:13:40,935 - INFO -  Enviado: autopostostatusdopanamby-vendas-02164-20250415.csv -> /eextrato/SHELLBOX/autopostostatusdopanamby-vendas-02164-20250415.csv
-2025-04-15 11:13:42,490 - INFO -  Enviado: valemaiselaine-mov-finan-01271-20250415.csv -> /eextrato/SHELLBOX/valemaiselaine-mov-finan-01271-20250415.csv
-2025-04-15 11:13:43,700 - INFO -  Enviado: valemaiselaine-vendas-01271-20250415.csv -> /eextrato/SHELLBOX/valemaiselaine-vendas-01271-20250415.csv
-2025-04-15 11:13:45,305 - INFO -  Enviado: valemaisfabio-mov-finan-01269-20250415.csv -> /eextrato/SHELLBOX/valemaisfabio-mov-finan-01269-20250415.csv
-2025-04-15 11:13:46,383 - INFO -  Enviado: valemaisfabio-vendas-01271-20250415.csv -> /eextrato/SHELLBOX/valemaisfabio-vendas-01271-20250415.csv
-2025-04-15 11:13:47,595 - INFO -  Enviado: valemaisrodrigo-mov-finan-01265-20250415.csv -> /eextrato/SHELLBOX/valemaisrodrigo-mov-finan-01265-20250415.csv
-2025-04-15 11:13:48,284 - INFO -  Enviado: valemaisrodrigo-vendas-01265-20250415.csv -> /eextrato/SHELLBOX/valemaisrodrigo-vendas-01265-20250415.csv
-2025-04-15 11:13:51,090 - INFO -  Enviado: valemaisrogerio-mov-finan-01270-20250415.csv -> /eextrato/SHELLBOX/valemaisrogerio-mov-finan-01270-20250415.csv
-2025-04-15 11:13:52,670 - INFO -  Enviado: valemaisrogerio-vendas-01270-20250415.csv -> /eextrato/SHELLBOX/valemaisrogerio-vendas-01270-20250415.csv
-2025-04-15 11:13:55,072 - INFO -  Enviado: valemaissociedade-mov-finan-01265-20250415.csv -> /eextrato/SHELLBOX/valemaissociedade-mov-finan-01265-20250415.csv
-2025-04-15 11:13:56,468 - INFO -  Enviado: valemaissociedade-vendas-01264-20250415.csv -> /eextrato/SHELLBOX/valemaissociedade-vendas-01264-20250415.csv
-2025-04-15 11:13:56,468 - INFO - [chan 0] sftp session closed.
-2025-04-16 14:44:23,824 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
-2025-04-16 14:44:24,349 - INFO - Authentication (password) successful!
-2025-04-16 14:44:24,599 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-16 14:44:24,600 - INFO - [chan 0] sftp session closed.
-2025-04-16 14:57:10,989 - INFO - Connected (version 2.0, client OpenSSH_8.0)
-2025-04-16 14:57:11,660 - INFO - Authentication (publickey) successful!
-2025-04-16 14:57:12,099 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-16 14:57:14,814 - INFO - Baixado: autopostostatusdopanamby-vendas-02165-20250416.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\autopostostatusdopanamby-vendas-02165-20250416.csv
-2025-04-16 14:57:15,608 - INFO - Baixado: autopostostatusdopanamby-mov-finan-02165-20250416.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\autopostostatusdopanamby-mov-finan-02165-20250416.csv
-2025-04-16 14:57:15,807 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
-2025-04-16 14:57:15,808 - INFO - [chan 0] sftp session closed.
-2025-04-16 14:57:16,156 - INFO - Connected (version 2.0, client OpenSSH_8.0)
-2025-04-16 14:57:16,810 - INFO - Authentication (publickey) successful!
-2025-04-16 14:57:17,272 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-16 14:57:19,096 - INFO - Baixado: valemaiselaine-vendas-01272-20250416.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaiselaine-vendas-01272-20250416.csv
-2025-04-16 14:57:20,295 - INFO - Baixado: valemaiselaine-mov-finan-01272-20250416.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaiselaine-mov-finan-01272-20250416.csv
-2025-04-16 14:57:20,492 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
-2025-04-16 14:57:20,492 - INFO - [chan 0] sftp session closed.
-2025-04-16 14:57:20,962 - INFO - Connected (version 2.0, client OpenSSH_8.0)
-2025-04-16 14:57:21,607 - INFO - Authentication (publickey) successful!
-2025-04-16 14:57:22,068 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-16 14:57:23,988 - INFO - Baixado: valemaisfabio-vendas-01272-20250416.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisfabio-vendas-01272-20250416.csv
-2025-04-16 14:57:25,351 - INFO - Baixado: valemaisfabio-mov-finan-01270-20250416.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisfabio-mov-finan-01270-20250416.csv
-2025-04-16 14:57:25,548 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
-2025-04-16 14:57:25,548 - INFO - [chan 0] sftp session closed.
-2025-04-16 14:57:26,135 - INFO - Connected (version 2.0, client OpenSSH_8.0)
-2025-04-16 14:57:26,868 - INFO - Authentication (publickey) successful!
-2025-04-16 14:57:27,304 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-16 14:57:29,028 - INFO - Baixado: valemaisrodrigo-vendas-01266-20250416.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrodrigo-vendas-01266-20250416.csv
-2025-04-16 14:57:29,231 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
-2025-04-16 14:57:30,138 - INFO - Baixado: valemaisrodrigo-mov-finan-01266-20250416.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrodrigo-mov-finan-01266-20250416.csv
-2025-04-16 14:57:30,241 - INFO - [chan 0] sftp session closed.
-2025-04-16 14:57:30,767 - INFO - Connected (version 2.0, client OpenSSH_8.0)
-2025-04-16 14:57:31,542 - INFO - Authentication (publickey) successful!
-2025-04-16 14:57:31,989 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-16 14:57:34,255 - INFO - Baixado: valemaisrogerio-vendas-01271-20250416.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrogerio-vendas-01271-20250416.csv
-2025-04-16 14:57:35,672 - INFO - Baixado: valemaisrogerio-mov-finan-01271-20250416.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrogerio-mov-finan-01271-20250416.csv
-2025-04-16 14:57:35,882 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
-2025-04-16 14:57:35,882 - INFO - [chan 0] sftp session closed.
-2025-04-16 14:57:36,542 - INFO - Connected (version 2.0, client OpenSSH_8.0)
-2025-04-16 14:57:37,153 - INFO - Authentication (publickey) successful!
-2025-04-16 14:57:37,598 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-16 14:57:40,157 - INFO - Baixado: valemaissociedade-mov-finan-01266-20250416.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaissociedade-mov-finan-01266-20250416.csv
-2025-04-16 14:57:41,575 - INFO - Baixado: valemaissociedade-vendas-01265-20250416.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaissociedade-vendas-01265-20250416.csv
-2025-04-16 14:57:41,776 - INFO - ⏭ Ignorado (não é .csv ou não é arquivo): Processados
-2025-04-16 14:57:41,777 - INFO - [chan 0] sftp session closed.
-2025-04-16 14:57:42,668 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
-2025-04-16 14:57:43,868 - INFO - Authentication (password) successful!
-2025-04-16 14:57:44,521 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-16 14:57:45,543 - INFO -  Enviado: autopostostatusdopanamby-mov-finan-02165-20250416.csv -> /eextrato/SHELLBOX/autopostostatusdopanamby-mov-finan-02165-20250416.csv
-2025-04-16 14:57:49,797 - INFO -  Enviado: autopostostatusdopanamby-vendas-02165-20250416.csv -> /eextrato/SHELLBOX/autopostostatusdopanamby-vendas-02165-20250416.csv
-2025-04-16 14:57:51,571 - INFO -  Enviado: valemaiselaine-mov-finan-01272-20250416.csv -> /eextrato/SHELLBOX/valemaiselaine-mov-finan-01272-20250416.csv
-2025-04-16 14:57:53,191 - INFO -  Enviado: valemaiselaine-vendas-01272-20250416.csv -> /eextrato/SHELLBOX/valemaiselaine-vendas-01272-20250416.csv
-2025-04-16 14:57:54,950 - INFO -  Enviado: valemaisfabio-mov-finan-01270-20250416.csv -> /eextrato/SHELLBOX/valemaisfabio-mov-finan-01270-20250416.csv
-2025-04-16 14:57:56,593 - INFO -  Enviado: valemaisfabio-vendas-01272-20250416.csv -> /eextrato/SHELLBOX/valemaisfabio-vendas-01272-20250416.csv
-2025-04-16 14:57:57,687 - INFO -  Enviado: valemaisrodrigo-mov-finan-01266-20250416.csv -> /eextrato/SHELLBOX/valemaisrodrigo-mov-finan-01266-20250416.csv
-2025-04-16 14:57:58,992 - INFO -  Enviado: valemaisrodrigo-vendas-01266-20250416.csv -> /eextrato/SHELLBOX/valemaisrodrigo-vendas-01266-20250416.csv
-2025-04-16 14:58:01,747 - INFO -  Enviado: valemaisrogerio-mov-finan-01271-20250416.csv -> /eextrato/SHELLBOX/valemaisrogerio-mov-finan-01271-20250416.csv
-2025-04-16 14:58:04,050 - INFO -  Enviado: valemaisrogerio-vendas-01271-20250416.csv -> /eextrato/SHELLBOX/valemaisrogerio-vendas-01271-20250416.csv
-2025-04-16 14:58:06,323 - INFO -  Enviado: valemaissociedade-mov-finan-01266-20250416.csv -> /eextrato/SHELLBOX/valemaissociedade-mov-finan-01266-20250416.csv
-2025-04-16 14:58:08,431 - INFO -  Enviado: valemaissociedade-vendas-01265-20250416.csv -> /eextrato/SHELLBOX/valemaissociedade-vendas-01265-20250416.csv
-2025-04-16 14:58:08,432 - INFO - [chan 0] sftp session closed.
-2025-04-22 06:43:22,870 - INFO - Connected (version 2.0, client OpenSSH_8.0)
-2025-04-22 06:43:23,298 - INFO - Authentication (publickey) successful!
-2025-04-22 06:43:23,617 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-22 06:43:24,808 - INFO - Baixado: autopostostatusdopanamby-vendas-02167-20250418.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\autopostostatusdopanamby-vendas-02167-20250418.csv
-2025-04-22 06:43:25,298 - INFO - Baixado: autopostostatusdopanamby-mov-finan-02167-20250418.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\autopostostatusdopanamby-mov-finan-02167-20250418.csv
-2025-04-22 06:43:26,096 - INFO - Baixado: autopostostatusdopanamby-vendas-02168-20250419.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\autopostostatusdopanamby-vendas-02168-20250419.csv
-2025-04-22 06:43:26,968 - INFO - Baixado: autopostostatusdopanamby-vendas-02170-20250421.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\autopostostatusdopanamby-vendas-02170-20250421.csv
-2025-04-22 06:43:28,069 - INFO - Baixado: autopostostatusdopanamby-vendas-02169-20250420.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\autopostostatusdopanamby-vendas-02169-20250420.csv
-2025-04-22 06:43:28,524 - INFO - Baixado: autopostostatusdopanamby-mov-finan-02168-20250419.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\autopostostatusdopanamby-mov-finan-02168-20250419.csv
-2025-04-22 06:43:28,648 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
-2025-04-22 06:43:29,028 - INFO - Baixado: autopostostatusdopanamby-mov-finan-02170-20250421.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\autopostostatusdopanamby-mov-finan-02170-20250421.csv
-2025-04-22 06:43:29,468 - INFO - Baixado: autopostostatusdopanamby-mov-finan-02169-20250420.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\autopostostatusdopanamby-mov-finan-02169-20250420.csv
-2025-04-22 06:43:29,728 - INFO - [chan 0] sftp session closed.
-2025-04-22 06:43:30,422 - INFO - Connected (version 2.0, client OpenSSH_8.0)
-2025-04-22 06:43:30,908 - INFO - Authentication (publickey) successful!
-2025-04-22 06:43:31,195 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-22 06:43:32,266 - INFO - Baixado: valemaiselaine-vendas-01277-20250421.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaiselaine-vendas-01277-20250421.csv
-2025-04-22 06:43:32,894 - INFO - Baixado: valemaiselaine-mov-finan-01274-20250418.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaiselaine-mov-finan-01274-20250418.csv
-2025-04-22 06:43:33,779 - INFO - Baixado: valemaiselaine-mov-finan-01276-20250420.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaiselaine-mov-finan-01276-20250420.csv
-2025-04-22 06:43:34,769 - INFO - Baixado: valemaiselaine-vendas-01274-20250418.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaiselaine-vendas-01274-20250418.csv
-2025-04-22 06:43:35,725 - INFO - Baixado: valemaiselaine-mov-finan-01275-20250419.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaiselaine-mov-finan-01275-20250419.csv
-2025-04-22 06:43:35,825 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
-2025-04-22 06:43:36,628 - INFO - Baixado: valemaiselaine-vendas-01276-20250420.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaiselaine-vendas-01276-20250420.csv
-2025-04-22 06:43:37,517 - INFO - Baixado: valemaiselaine-vendas-01275-20250419.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaiselaine-vendas-01275-20250419.csv
-2025-04-22 06:43:38,827 - INFO - Baixado: valemaiselaine-mov-finan-01277-20250421.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaiselaine-mov-finan-01277-20250421.csv
-2025-04-22 06:43:38,877 - INFO - [chan 0] sftp session closed.
-2025-04-22 06:43:39,557 - INFO - Connected (version 2.0, client OpenSSH_8.0)
-2025-04-22 06:43:40,023 - INFO - Authentication (publickey) successful!
-2025-04-22 06:43:40,342 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-22 06:43:41,330 - INFO - Baixado: valemaisfabio-vendas-01277-20250421.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisfabio-vendas-01277-20250421.csv
-2025-04-22 06:43:42,162 - INFO - Baixado: valemaisfabio-mov-finan-01274-20250420.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisfabio-mov-finan-01274-20250420.csv
-2025-04-22 06:43:42,954 - INFO - Baixado: valemaisfabio-mov-finan-01273-20250419.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisfabio-mov-finan-01273-20250419.csv
-2025-04-22 06:43:43,715 - INFO - Baixado: valemaisfabio-vendas-01275-20250419.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisfabio-vendas-01275-20250419.csv
-2025-04-22 06:43:44,432 - INFO - Baixado: valemaisfabio-vendas-01276-20250420.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisfabio-vendas-01276-20250420.csv
-2025-04-22 06:43:44,536 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
-2025-04-22 06:43:45,252 - INFO - Baixado: valemaisfabio-mov-finan-01275-20250421.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisfabio-mov-finan-01275-20250421.csv
-2025-04-22 06:43:46,105 - INFO - Baixado: valemaisfabio-vendas-01274-20250418.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisfabio-vendas-01274-20250418.csv
-2025-04-22 06:43:46,725 - INFO - Baixado: valemaisfabio-mov-finan-01272-20250418.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisfabio-mov-finan-01272-20250418.csv
-2025-04-22 06:43:46,784 - INFO - [chan 0] sftp session closed.
-2025-04-22 06:43:47,333 - INFO - Connected (version 2.0, client OpenSSH_8.0)
-2025-04-22 06:43:47,753 - INFO - Authentication (publickey) successful!
-2025-04-22 06:43:48,018 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-22 06:43:48,897 - INFO - Baixado: valemaisrodrigo-mov-finan-01269-20250419.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrodrigo-mov-finan-01269-20250419.csv
-2025-04-22 06:43:49,436 - INFO - Baixado: valemaisrodrigo-vendas-01271-20250421.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrodrigo-vendas-01271-20250421.csv
-2025-04-22 06:43:50,092 - INFO - Baixado: valemaisrodrigo-mov-finan-01268-20250418.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrodrigo-mov-finan-01268-20250418.csv
-2025-04-22 06:43:50,735 - INFO - Baixado: valemaisrodrigo-vendas-01270-20250420.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrodrigo-vendas-01270-20250420.csv
-2025-04-22 06:43:50,859 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
-2025-04-22 06:43:51,570 - INFO - Baixado: valemaisrodrigo-mov-finan-01271-20250421.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrodrigo-mov-finan-01271-20250421.csv
-2025-04-22 06:43:52,556 - INFO - Baixado: valemaisrodrigo-vendas-01268-20250418.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrodrigo-vendas-01268-20250418.csv
-2025-04-22 06:43:54,152 - INFO - Baixado: valemaisrodrigo-vendas-01269-20250419.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrodrigo-vendas-01269-20250419.csv
-2025-04-22 06:43:54,831 - INFO - Baixado: valemaisrodrigo-mov-finan-01270-20250420.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrodrigo-mov-finan-01270-20250420.csv
-2025-04-22 06:43:54,894 - INFO - [chan 0] sftp session closed.
-2025-04-22 06:43:55,619 - INFO - Connected (version 2.0, client OpenSSH_8.0)
-2025-04-22 06:43:58,037 - INFO - Authentication (publickey) successful!
-2025-04-22 06:43:58,322 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-22 06:44:00,477 - INFO - Baixado: valemaisrogerio-mov-finan-01275-20250420.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrogerio-mov-finan-01275-20250420.csv
-2025-04-22 06:44:02,217 - INFO - Baixado: valemaisrogerio-vendas-01273-20250418.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrogerio-vendas-01273-20250418.csv
-2025-04-22 06:44:03,145 - INFO - Baixado: valemaisrogerio-vendas-01276-20250421.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrogerio-vendas-01276-20250421.csv
-2025-04-22 06:44:04,246 - INFO - Baixado: valemaisrogerio-vendas-01275-20250420.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrogerio-vendas-01275-20250420.csv
-2025-04-22 06:44:04,354 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
-2025-04-22 06:44:05,398 - INFO - Baixado: valemaisrogerio-mov-finan-01276-20250421.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrogerio-mov-finan-01276-20250421.csv
-2025-04-22 06:44:06,400 - INFO - Baixado: valemaisrogerio-vendas-01274-20250419.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrogerio-vendas-01274-20250419.csv
-2025-04-22 06:44:07,458 - INFO - Baixado: valemaisrogerio-mov-finan-01274-20250419.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrogerio-mov-finan-01274-20250419.csv
-2025-04-22 06:44:08,745 - INFO - Baixado: valemaisrogerio-mov-finan-01273-20250418.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrogerio-mov-finan-01273-20250418.csv
-2025-04-22 06:44:08,799 - INFO - [chan 0] sftp session closed.
-2025-04-22 06:44:09,303 - INFO - Connected (version 2.0, client OpenSSH_8.0)
-2025-04-22 06:44:09,673 - INFO - Authentication (publickey) successful!
-2025-04-22 06:44:09,982 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-22 06:44:11,155 - INFO - Baixado: valemaissociedade-mov-finan-01270-20250420.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaissociedade-mov-finan-01270-20250420.csv
-2025-04-22 06:44:11,870 - INFO - Baixado: valemaissociedade-vendas-01270-20250421.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaissociedade-vendas-01270-20250421.csv
-2025-04-22 06:44:12,992 - INFO - Baixado: valemaissociedade-vendas-01267-20250418.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaissociedade-vendas-01267-20250418.csv
-2025-04-22 06:44:13,947 - INFO - Baixado: valemaissociedade-vendas-01268-20250419.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaissociedade-vendas-01268-20250419.csv
-2025-04-22 06:44:14,904 - INFO - Baixado: valemaissociedade-mov-finan-01269-20250419.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaissociedade-mov-finan-01269-20250419.csv
-2025-04-22 06:44:15,013 - INFO - ⏭ Ignorado (não é .csv ou não é arquivo): Processados
-2025-04-22 06:44:15,792 - INFO - Baixado: valemaissociedade-mov-finan-01268-20250418.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaissociedade-mov-finan-01268-20250418.csv
-2025-04-22 06:44:16,703 - INFO - Baixado: valemaissociedade-mov-finan-01271-20250421.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaissociedade-mov-finan-01271-20250421.csv
-2025-04-22 06:44:17,578 - INFO - Baixado: valemaissociedade-vendas-01269-20250420.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaissociedade-vendas-01269-20250420.csv
-2025-04-22 06:44:17,640 - INFO - [chan 0] sftp session closed.
-2025-04-22 06:44:18,028 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
-2025-04-22 06:44:18,557 - INFO - Authentication (password) successful!
-2025-04-22 06:44:18,805 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-22 06:44:19,153 - INFO -  Enviado: autopostostatusdopanamby-mov-finan-02167-20250418.csv -> /eextrato/SHELLBOX/autopostostatusdopanamby-mov-finan-02167-20250418.csv
-2025-04-22 06:44:19,500 - INFO -  Enviado: autopostostatusdopanamby-mov-finan-02168-20250419.csv -> /eextrato/SHELLBOX/autopostostatusdopanamby-mov-finan-02168-20250419.csv
-2025-04-22 06:44:19,875 - INFO -  Enviado: autopostostatusdopanamby-mov-finan-02169-20250420.csv -> /eextrato/SHELLBOX/autopostostatusdopanamby-mov-finan-02169-20250420.csv
-2025-04-22 06:44:20,223 - INFO -  Enviado: autopostostatusdopanamby-mov-finan-02170-20250421.csv -> /eextrato/SHELLBOX/autopostostatusdopanamby-mov-finan-02170-20250421.csv
-2025-04-22 06:44:21,957 - INFO -  Enviado: autopostostatusdopanamby-vendas-02167-20250418.csv -> /eextrato/SHELLBOX/autopostostatusdopanamby-vendas-02167-20250418.csv
-2025-04-22 06:44:23,648 - INFO -  Enviado: autopostostatusdopanamby-vendas-02168-20250419.csv -> /eextrato/SHELLBOX/autopostostatusdopanamby-vendas-02168-20250419.csv
-2025-04-22 06:44:25,455 - INFO -  Enviado: autopostostatusdopanamby-vendas-02169-20250420.csv -> /eextrato/SHELLBOX/autopostostatusdopanamby-vendas-02169-20250420.csv
-2025-04-22 06:44:27,193 - INFO -  Enviado: autopostostatusdopanamby-vendas-02170-20250421.csv -> /eextrato/SHELLBOX/autopostostatusdopanamby-vendas-02170-20250421.csv
-2025-04-22 06:44:28,052 - INFO -  Enviado: valemaiselaine-mov-finan-01274-20250418.csv -> /eextrato/SHELLBOX/valemaiselaine-mov-finan-01274-20250418.csv
-2025-04-22 06:44:29,083 - INFO -  Enviado: valemaiselaine-mov-finan-01275-20250419.csv -> /eextrato/SHELLBOX/valemaiselaine-mov-finan-01275-20250419.csv
-2025-04-22 06:44:30,006 - INFO -  Enviado: valemaiselaine-mov-finan-01276-20250420.csv -> /eextrato/SHELLBOX/valemaiselaine-mov-finan-01276-20250420.csv
-2025-04-22 06:44:31,067 - INFO -  Enviado: valemaiselaine-mov-finan-01277-20250421.csv -> /eextrato/SHELLBOX/valemaiselaine-mov-finan-01277-20250421.csv
-2025-04-22 06:44:32,252 - INFO -  Enviado: valemaiselaine-vendas-01274-20250418.csv -> /eextrato/SHELLBOX/valemaiselaine-vendas-01274-20250418.csv
-2025-04-22 06:44:33,164 - INFO -  Enviado: valemaiselaine-vendas-01275-20250419.csv -> /eextrato/SHELLBOX/valemaiselaine-vendas-01275-20250419.csv
-2025-04-22 06:44:34,023 - INFO -  Enviado: valemaiselaine-vendas-01276-20250420.csv -> /eextrato/SHELLBOX/valemaiselaine-vendas-01276-20250420.csv
-2025-04-22 06:44:34,715 - INFO -  Enviado: valemaiselaine-vendas-01277-20250421.csv -> /eextrato/SHELLBOX/valemaiselaine-vendas-01277-20250421.csv
-2025-04-22 06:44:35,530 - INFO -  Enviado: valemaisfabio-mov-finan-01272-20250418.csv -> /eextrato/SHELLBOX/valemaisfabio-mov-finan-01272-20250418.csv
-2025-04-22 06:44:36,351 - INFO -  Enviado: valemaisfabio-mov-finan-01273-20250419.csv -> /eextrato/SHELLBOX/valemaisfabio-mov-finan-01273-20250419.csv
-2025-04-22 06:44:37,157 - INFO -  Enviado: valemaisfabio-mov-finan-01274-20250420.csv -> /eextrato/SHELLBOX/valemaisfabio-mov-finan-01274-20250420.csv
-2025-04-22 06:44:38,049 - INFO -  Enviado: valemaisfabio-mov-finan-01275-20250421.csv -> /eextrato/SHELLBOX/valemaisfabio-mov-finan-01275-20250421.csv
-2025-04-22 06:44:39,089 - INFO -  Enviado: valemaisfabio-vendas-01274-20250418.csv -> /eextrato/SHELLBOX/valemaisfabio-vendas-01274-20250418.csv
-2025-04-22 06:44:40,008 - INFO -  Enviado: valemaisfabio-vendas-01275-20250419.csv -> /eextrato/SHELLBOX/valemaisfabio-vendas-01275-20250419.csv
-2025-04-22 06:44:40,818 - INFO -  Enviado: valemaisfabio-vendas-01276-20250420.csv -> /eextrato/SHELLBOX/valemaisfabio-vendas-01276-20250420.csv
-2025-04-22 06:44:41,592 - INFO -  Enviado: valemaisfabio-vendas-01277-20250421.csv -> /eextrato/SHELLBOX/valemaisfabio-vendas-01277-20250421.csv
-2025-04-22 06:44:42,132 - INFO -  Enviado: valemaisrodrigo-mov-finan-01268-20250418.csv -> /eextrato/SHELLBOX/valemaisrodrigo-mov-finan-01268-20250418.csv
-2025-04-22 06:44:42,660 - INFO -  Enviado: valemaisrodrigo-mov-finan-01269-20250419.csv -> /eextrato/SHELLBOX/valemaisrodrigo-mov-finan-01269-20250419.csv
-2025-04-22 06:44:43,203 - INFO -  Enviado: valemaisrodrigo-mov-finan-01270-20250420.csv -> /eextrato/SHELLBOX/valemaisrodrigo-mov-finan-01270-20250420.csv
-2025-04-22 06:44:45,050 - INFO -  Enviado: valemaisrodrigo-mov-finan-01271-20250421.csv -> /eextrato/SHELLBOX/valemaisrodrigo-mov-finan-01271-20250421.csv
-2025-04-22 06:44:45,723 - INFO -  Enviado: valemaisrodrigo-vendas-01268-20250418.csv -> /eextrato/SHELLBOX/valemaisrodrigo-vendas-01268-20250418.csv
-2025-04-22 06:44:46,360 - INFO -  Enviado: valemaisrodrigo-vendas-01269-20250419.csv -> /eextrato/SHELLBOX/valemaisrodrigo-vendas-01269-20250419.csv
-2025-04-22 06:44:46,912 - INFO -  Enviado: valemaisrodrigo-vendas-01270-20250420.csv -> /eextrato/SHELLBOX/valemaisrodrigo-vendas-01270-20250420.csv
-2025-04-22 06:44:47,393 - INFO -  Enviado: valemaisrodrigo-vendas-01271-20250421.csv -> /eextrato/SHELLBOX/valemaisrodrigo-vendas-01271-20250421.csv
-2025-04-22 06:44:48,828 - INFO -  Enviado: valemaisrogerio-mov-finan-01273-20250418.csv -> /eextrato/SHELLBOX/valemaisrogerio-mov-finan-01273-20250418.csv
-2025-04-22 06:44:50,465 - INFO -  Enviado: valemaisrogerio-mov-finan-01274-20250419.csv -> /eextrato/SHELLBOX/valemaisrogerio-mov-finan-01274-20250419.csv
-2025-04-22 06:44:52,020 - INFO -  Enviado: valemaisrogerio-mov-finan-01275-20250420.csv -> /eextrato/SHELLBOX/valemaisrogerio-mov-finan-01275-20250420.csv
-2025-04-22 06:44:53,791 - INFO -  Enviado: valemaisrogerio-mov-finan-01276-20250421.csv -> /eextrato/SHELLBOX/valemaisrogerio-mov-finan-01276-20250421.csv
-2025-04-22 06:44:55,805 - INFO -  Enviado: valemaisrogerio-vendas-01273-20250418.csv -> /eextrato/SHELLBOX/valemaisrogerio-vendas-01273-20250418.csv
-2025-04-22 06:44:57,469 - INFO -  Enviado: valemaisrogerio-vendas-01274-20250419.csv -> /eextrato/SHELLBOX/valemaisrogerio-vendas-01274-20250419.csv
-2025-04-22 06:44:59,084 - INFO -  Enviado: valemaisrogerio-vendas-01275-20250420.csv -> /eextrato/SHELLBOX/valemaisrogerio-vendas-01275-20250420.csv
-2025-04-22 06:45:00,519 - INFO -  Enviado: valemaisrogerio-vendas-01276-20250421.csv -> /eextrato/SHELLBOX/valemaisrogerio-vendas-01276-20250421.csv
-2025-04-22 06:45:02,122 - INFO -  Enviado: valemaissociedade-mov-finan-01268-20250418.csv -> /eextrato/SHELLBOX/valemaissociedade-mov-finan-01268-20250418.csv
-2025-04-22 06:45:03,729 - INFO -  Enviado: valemaissociedade-mov-finan-01269-20250419.csv -> /eextrato/SHELLBOX/valemaissociedade-mov-finan-01269-20250419.csv
-2025-04-22 06:45:04,954 - INFO -  Enviado: valemaissociedade-mov-finan-01270-20250420.csv -> /eextrato/SHELLBOX/valemaissociedade-mov-finan-01270-20250420.csv
-2025-04-22 06:45:06,305 - INFO -  Enviado: valemaissociedade-mov-finan-01271-20250421.csv -> /eextrato/SHELLBOX/valemaissociedade-mov-finan-01271-20250421.csv
-2025-04-22 06:45:07,934 - INFO -  Enviado: valemaissociedade-vendas-01267-20250418.csv -> /eextrato/SHELLBOX/valemaissociedade-vendas-01267-20250418.csv
-2025-04-22 06:45:09,116 - INFO -  Enviado: valemaissociedade-vendas-01268-20250419.csv -> /eextrato/SHELLBOX/valemaissociedade-vendas-01268-20250419.csv
-2025-04-22 06:45:10,255 - INFO -  Enviado: valemaissociedade-vendas-01269-20250420.csv -> /eextrato/SHELLBOX/valemaissociedade-vendas-01269-20250420.csv
-2025-04-22 06:45:11,250 - INFO -  Enviado: valemaissociedade-vendas-01270-20250421.csv -> /eextrato/SHELLBOX/valemaissociedade-vendas-01270-20250421.csv
-2025-04-22 06:45:11,251 - INFO - [chan 0] sftp session closed.
-2025-04-22 14:29:30,029 - INFO - Connected (version 2.0, client OpenSSH_8.0)
-2025-04-22 14:29:30,541 - INFO - Authentication (publickey) successful!
-2025-04-22 14:29:30,820 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-22 14:29:31,562 - INFO - Baixado: autopostostatusdopanamby-mov-finan-02171-20250422.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\autopostostatusdopanamby-mov-finan-02171-20250422.csv
-2025-04-22 14:29:31,662 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
-2025-04-22 14:29:32,349 - INFO - Baixado: autopostostatusdopanamby-vendas-02171-20250422.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\autopostostatusdopanamby-vendas-02171-20250422.csv
-2025-04-22 14:29:32,397 - INFO - [chan 0] sftp session closed.
-2025-04-22 14:29:32,638 - INFO - Connected (version 2.0, client OpenSSH_8.0)
-2025-04-22 14:29:33,097 - INFO - Authentication (publickey) successful!
-2025-04-22 14:29:33,375 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-22 14:29:34,373 - INFO - Baixado: valemaiselaine-vendas-01278-20250422.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaiselaine-vendas-01278-20250422.csv
-2025-04-22 14:29:34,478 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
-2025-04-22 14:29:35,156 - INFO - Baixado: valemaiselaine-mov-finan-01278-20250422.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaiselaine-mov-finan-01278-20250422.csv
-2025-04-22 14:29:35,210 - INFO - [chan 0] sftp session closed.
-2025-04-22 14:29:35,480 - INFO - Connected (version 2.0, client OpenSSH_8.0)
-2025-04-22 14:29:35,890 - INFO - Authentication (publickey) successful!
-2025-04-22 14:29:36,148 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-22 14:29:37,070 - INFO - Baixado: valemaisfabio-mov-finan-01276-20250422.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisfabio-mov-finan-01276-20250422.csv
-2025-04-22 14:29:37,175 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
-2025-04-22 14:29:37,729 - INFO - Baixado: valemaisfabio-vendas-01278-20250422.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisfabio-vendas-01278-20250422.csv
-2025-04-22 14:29:37,780 - INFO - [chan 0] sftp session closed.
-2025-04-22 14:29:38,057 - INFO - Connected (version 2.0, client OpenSSH_8.0)
-2025-04-22 14:29:38,456 - INFO - Authentication (publickey) successful!
-2025-04-22 14:29:38,722 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-22 14:29:39,565 - INFO - Baixado: valemaisrodrigo-vendas-01272-20250422.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrodrigo-vendas-01272-20250422.csv
-2025-04-22 14:29:40,197 - INFO - Baixado: valemaisrodrigo-mov-finan-01272-20250422.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrodrigo-mov-finan-01272-20250422.csv
-2025-04-22 14:29:40,291 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
-2025-04-22 14:29:40,291 - INFO - [chan 0] sftp session closed.
-2025-04-22 14:29:40,547 - INFO - Connected (version 2.0, client OpenSSH_8.0)
-2025-04-22 14:29:40,948 - INFO - Authentication (publickey) successful!
-2025-04-22 14:29:41,227 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-22 14:29:42,289 - INFO - Baixado: valemaisrogerio-vendas-01277-20250422.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrogerio-vendas-01277-20250422.csv
-2025-04-22 14:29:42,396 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
-2025-04-22 14:29:43,051 - INFO - Baixado: valemaisrogerio-mov-finan-01277-20250422.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrogerio-mov-finan-01277-20250422.csv
-2025-04-22 14:29:43,105 - INFO - [chan 0] sftp session closed.
-2025-04-22 14:29:43,346 - INFO - Connected (version 2.0, client OpenSSH_8.0)
-2025-04-22 14:29:43,763 - INFO - Authentication (publickey) successful!
-2025-04-22 14:29:44,030 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-22 14:29:45,105 - INFO - Baixado: valemaissociedade-vendas-01271-20250422.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaissociedade-vendas-01271-20250422.csv
-2025-04-22 14:29:45,206 - INFO - ⏭ Ignorado (não é .csv ou não é arquivo): Processados
-2025-04-22 14:29:45,923 - INFO - Baixado: valemaissociedade-mov-finan-01272-20250422.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaissociedade-mov-finan-01272-20250422.csv
-2025-04-22 14:29:45,975 - INFO - [chan 0] sftp session closed.
-2025-04-22 14:29:46,243 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
-2025-04-22 14:29:46,780 - INFO - Authentication (password) successful!
-2025-04-22 14:29:47,033 - INFO - [chan 0] Opened sftp connection (server version 3)
-2025-04-22 14:29:47,376 - INFO -  Enviado: autopostostatusdopanamby-mov-finan-02171-20250422.csv -> /eextrato/SHELLBOX/autopostostatusdopanamby-mov-finan-02171-20250422.csv
-2025-04-22 14:29:49,052 - INFO -  Enviado: autopostostatusdopanamby-vendas-02171-20250422.csv -> /eextrato/SHELLBOX/autopostostatusdopanamby-vendas-02171-20250422.csv
-2025-04-22 14:29:49,959 - INFO -  Enviado: valemaiselaine-mov-finan-01278-20250422.csv -> /eextrato/SHELLBOX/valemaiselaine-mov-finan-01278-20250422.csv
-2025-04-22 14:29:50,654 - INFO -  Enviado: valemaiselaine-vendas-01278-20250422.csv -> /eextrato/SHELLBOX/valemaiselaine-vendas-01278-20250422.csv
-2025-04-22 14:29:51,524 - INFO -  Enviado: valemaisfabio-mov-finan-01276-20250422.csv -> /eextrato/SHELLBOX/valemaisfabio-mov-finan-01276-20250422.csv
-2025-04-22 14:29:52,216 - INFO -  Enviado: valemaisfabio-vendas-01278-20250422.csv -> /eextrato/SHELLBOX/valemaisfabio-vendas-01278-20250422.csv
-2025-04-22 14:29:52,821 - INFO -  Enviado: valemaisrodrigo-mov-finan-01272-20250422.csv -> /eextrato/SHELLBOX/valemaisrodrigo-mov-finan-01272-20250422.csv
-2025-04-22 14:29:53,260 - INFO -  Enviado: valemaisrodrigo-vendas-01272-20250422.csv -> /eextrato/SHELLBOX/valemaisrodrigo-vendas-01272-20250422.csv
-2025-04-22 14:29:54,476 - INFO -  Enviado: valemaisrogerio-mov-finan-01277-20250422.csv -> /eextrato/SHELLBOX/valemaisrogerio-mov-finan-01277-20250422.csv
-2025-04-22 14:29:55,625 - INFO -  Enviado: valemaisrogerio-vendas-01277-20250422.csv -> /eextrato/SHELLBOX/valemaisrogerio-vendas-01277-20250422.csv
-2025-04-22 14:29:56,787 - INFO -  Enviado: valemaissociedade-mov-finan-01272-20250422.csv -> /eextrato/SHELLBOX/valemaissociedade-mov-finan-01272-20250422.csv
-2025-04-22 14:29:57,657 - INFO -  Enviado: valemaissociedade-vendas-01271-20250422.csv -> /eextrato/SHELLBOX/valemaissociedade-vendas-01271-20250422.csv
-2025-04-22 14:29:57,658 - INFO - [chan 0] sftp session closed.
+2025-04-23 16:10:48,762 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-04-23 16:10:49,417 - INFO - Authentication (publickey) successful!
+2025-04-23 16:10:49,876 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-04-23 16:10:52,419 - INFO - Baixado: autopostostatusdopanamby-vendas-02172-20250423.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\autopostostatusdopanamby-vendas-02172-20250423.csv
+2025-04-23 16:10:52,623 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-04-23 16:10:53,317 - INFO - Baixado: autopostostatusdopanamby-mov-finan-02172-20250423.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\autopostostatusdopanamby-mov-finan-02172-20250423.csv
+2025-04-23 16:10:53,417 - INFO - [chan 0] sftp session closed.
+2025-04-23 16:10:53,792 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-04-23 16:10:54,384 - INFO - Authentication (publickey) successful!
+2025-04-23 16:10:54,817 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-04-23 16:10:56,719 - INFO - Baixado: valemaiselaine-vendas-01279-20250423.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaiselaine-vendas-01279-20250423.csv
+2025-04-23 16:10:58,034 - INFO - Baixado: valemaiselaine-mov-finan-01279-20250423.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaiselaine-mov-finan-01279-20250423.csv
+2025-04-23 16:10:58,236 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-04-23 16:10:58,236 - INFO - [chan 0] sftp session closed.
+2025-04-23 16:10:58,648 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-04-23 16:10:59,341 - INFO - Authentication (publickey) successful!
+2025-04-23 16:10:59,809 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-04-23 16:11:01,706 - INFO - Baixado: valemaisfabio-mov-finan-01277-20250423.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisfabio-mov-finan-01277-20250423.csv
+2025-04-23 16:11:01,913 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-04-23 16:11:02,924 - INFO - Baixado: valemaisfabio-vendas-01279-20250423.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisfabio-vendas-01279-20250423.csv
+2025-04-23 16:11:03,025 - INFO - [chan 0] sftp session closed.
+2025-04-23 16:11:03,395 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-04-23 16:11:04,189 - INFO - Authentication (publickey) successful!
+2025-04-23 16:11:04,653 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-04-23 16:11:06,284 - INFO - Baixado: valemaisrodrigo-mov-finan-01273-20250423.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrodrigo-mov-finan-01273-20250423.csv
+2025-04-23 16:11:06,485 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-04-23 16:11:07,433 - INFO - Baixado: valemaisrodrigo-vendas-01273-20250423.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrodrigo-vendas-01273-20250423.csv
+2025-04-23 16:11:07,533 - INFO - [chan 0] sftp session closed.
+2025-04-23 16:11:08,071 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-04-23 16:11:08,757 - INFO - Authentication (publickey) successful!
+2025-04-23 16:11:09,203 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-04-23 16:11:12,445 - INFO - Baixado: valemaisrogerio-vendas-01278-20250423.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrogerio-vendas-01278-20250423.csv
+2025-04-23 16:11:12,648 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-04-23 16:11:14,556 - INFO - Baixado: valemaisrogerio-mov-finan-01278-20250423.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaisrogerio-mov-finan-01278-20250423.csv
+2025-04-23 16:11:14,654 - INFO - [chan 0] sftp session closed.
+2025-04-23 16:11:15,299 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-04-23 16:11:15,930 - INFO - Authentication (publickey) successful!
+2025-04-23 16:11:16,383 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-04-23 16:11:18,358 - INFO - Baixado: valemaissociedade-mov-finan-01273-20250423.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaissociedade-mov-finan-01273-20250423.csv
+2025-04-23 16:11:19,975 - INFO - Baixado: valemaissociedade-vendas-01272-20250423.csv -> C:/Users/jose.alcir/Documents/ArquivosDiarios\valemaissociedade-vendas-01272-20250423.csv
+2025-04-23 16:11:20,177 - INFO - ⏭ Ignorado (não é .csv ou não é arquivo): Processados
+2025-04-23 16:11:20,177 - INFO - [chan 0] sftp session closed.
+2025-04-23 16:11:20,733 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-04-23 16:11:21,921 - INFO - Authentication (password) successful!
+2025-04-23 16:11:22,572 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-04-23 16:11:23,434 - INFO -  Enviado: autopostostatusdopanamby-mov-finan-02172-20250423.csv -> "SFTP BoaVista"
+2025-04-23 16:11:27,621 - INFO -  Enviado: autopostostatusdopanamby-vendas-02172-20250423.csv -> "SFTP BoaVista"
+2025-04-23 16:11:29,367 - INFO -  Enviado: valemaiselaine-mov-finan-01279-20250423.csv -> "SFTP BoaVista"
+2025-04-23 16:11:30,904 - INFO -  Enviado: valemaiselaine-vendas-01279-20250423.csv -> "SFTP BoaVista"
+2025-04-23 16:11:32,425 - INFO -  Enviado: valemaisfabio-mov-finan-01277-20250423.csv -> "SFTP BoaVista"
+2025-04-23 16:11:34,166 - INFO -  Enviado: valemaisfabio-vendas-01279-20250423.csv -> "SFTP BoaVista"
+2025-04-23 16:11:35,253 - INFO -  Enviado: valemaisrodrigo-mov-finan-01273-20250423.csv -> "SFTP BoaVista"
+2025-04-23 16:11:36,591 - INFO -  Enviado: valemaisrodrigo-vendas-01273-20250423.csv -> "SFTP BoaVista"
+2025-04-23 16:14:55,365 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-04-23 16:14:56,551 - INFO - Authentication (password) successful!
+2025-04-23 16:14:57,199 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-04-23 16:14:58,071 - INFO -  Enviado: autopostostatusdopanamby-mov-finan-02172-20250423.csv -> "SFTP BoaVista"
+2025-04-23 16:15:02,373 - INFO -  Enviado: autopostostatusdopanamby-vendas-02172-20250423.csv -> "SFTP BoaVista"
+2025-04-23 16:15:04,184 - INFO -  Enviado: valemaiselaine-mov-finan-01279-20250423.csv -> "SFTP BoaVista"
+2025-04-23 16:15:05,767 - INFO -  Enviado: valemaiselaine-vendas-01279-20250423.csv -> "SFTP BoaVista"
+2025-04-23 16:15:07,305 - INFO -  Enviado: valemaisfabio-mov-finan-01277-20250423.csv -> "SFTP BoaVista"
+2025-04-23 16:15:09,085 - INFO -  Enviado: valemaisfabio-vendas-01279-20250423.csv -> "SFTP BoaVista"
+2025-04-23 16:15:10,193 - INFO -  Enviado: valemaisrodrigo-mov-finan-01273-20250423.csv -> "SFTP BoaVista"
+2025-04-23 16:15:10,193 - INFO - [chan 0] sftp session closed.
