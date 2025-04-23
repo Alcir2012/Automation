@@ -272,7 +272,7 @@ def transfereCatalogador():
             remote_path = f"{pasta_remota_destino}/{arquivo}"
 
             sftp_destino.put(local_path, remote_path)
-            logging.info(f' Enviado: {arquivo} -> {remote_path}')
+            logging.info(f' Enviado: {arquivo} -> "SFTP BoaVista"')
 
     # Fechar conexão
     sftp_destino.close()
