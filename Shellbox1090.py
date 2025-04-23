@@ -39,7 +39,7 @@ def autopostoPanamby():
             if stat.S_ISREG(info.st_mode) and arquivo.endswith('.csv'):
                 local = os.path.join(pastaLocal, arquivo)
                 sftp.get(arquivo, local)
-                logging.info(f'Baixado: {arquivo} -> {local}')
+                logging.info(f'Baixado: {arquivo} -> Pasta local')
                 caminhoProcesados = f"{pastaProcessados}/{arquivo}"
                 sftp.rename(caminho_remoto, caminhoProcesados)
 
@@ -80,7 +80,7 @@ def autopostoValeMaisElaine():
             if stat.S_ISREG(info.st_mode) and arquivo.endswith('.csv'):
                 local = os.path.join(pastaLocal, arquivo)
                 sftp.get(arquivo, local)
-                logging.info(f'Baixado: {arquivo} -> {local}')
+                logging.info(f'Baixado: {arquivo} -> Pasta local')
                 caminhoProcesados = f"{pastaProcessados}/{arquivo}"
                 sftp.rename(caminho_remoto, caminhoProcesados)
 
@@ -121,7 +121,7 @@ def autopostoValeMaisFabio():
             if stat.S_ISREG(info.st_mode) and arquivo.endswith('.csv'):
                 local = os.path.join(pastaLocal, arquivo)
                 sftp.get(arquivo, local)
-                logging.info(f'Baixado: {arquivo} -> {local}')
+                logging.info(f'Baixado: {arquivo} -> Pasta local')
                 caminhoProcesados = f"{pastaProcessados}/{arquivo}"
                 sftp.rename(caminho_remoto, caminhoProcesados)
             else:
@@ -161,7 +161,7 @@ def autopostoValeMaisRodrigo():
             if stat.S_ISREG(info.st_mode) and arquivo.endswith('.csv'):
                 local = os.path.join(pastaLocal, arquivo)
                 sftp.get(arquivo, local)
-                logging.info(f'Baixado: {arquivo} -> {local}')
+                logging.info(f'Baixado: {arquivo} -> Pasta local')
                 caminhoProcesados = f"{pastaProcessados}/{arquivo}"
                 sftp.rename(caminho_remoto, caminhoProcesados)
             else:
@@ -200,7 +200,7 @@ def autopostoValeMaisRogerio():
             if stat.S_ISREG(info.st_mode) and arquivo.endswith('.csv'):
                 local = os.path.join(pastaLocal, arquivo)
                 sftp.get(arquivo, local)
-                logging.info(f'Baixado: {arquivo} -> {local}')
+                logging.info(f'Baixado: {arquivo} -> Pasta local')
                 caminhoProcesados = f"{pastaProcessados}/{arquivo}"
                 sftp.rename(caminho_remoto, caminhoProcesados)
             else:
@@ -240,7 +240,7 @@ def autopostoValeMaisSociedade():
             if stat.S_ISREG(info.st_mode) and arquivo.endswith('.csv'):
                 local = os.path.join(pastaLocal, arquivo)
                 sftp.get(arquivo, local)
-                logging.info(f'Baixado: {arquivo} -> {local}')
+                logging.info(f'Baixado: {arquivo} -> Pasta local')
                 caminhoProcesados = f"{pastaProcessados}/{arquivo}"
                 sftp.rename(caminho_remoto, caminhoProcesados)
             else:
