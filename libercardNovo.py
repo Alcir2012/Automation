@@ -94,7 +94,10 @@ def transfereSoftCatalogador():
 
             sftp_destino.put(localPath, remotePath)
             logging.info(f' Enviado: {arquivo} -> {remotePath}')
+            
+            os.remove(localPath)
+            logging.info(f'Removido localmente: {arquivo}')
 
-#downloadLibercard()
+downloadLibercard()
 transfereAuttarCatalogador()
 transfereSoftCatalogador()
