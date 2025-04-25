@@ -69,6 +69,9 @@ def transfereCatalogador():
             sftp_destino.put(local_path, remote_path)
             logging.info(f' Enviado: {arquivo} -> SFTP BoaVista')
 
+            os.remove(local_path)
+            logging.info('Removido localmente')
+
     # Fechar conexão
     sftp_destino.close()
     transport_destino.close()
