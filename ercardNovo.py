@@ -34,7 +34,7 @@ def baixaErcard():
                 local_path = os.path.join(pastaLocal,arquivo)
                 with open(local_path,'wb') as f:
                     ftp.retrbinary(f'RETR {arquivo}', f.write)
-                logging.info(f'Baixado: {arquivo} -> {local_path}')
+                logging.info(f'Baixado: {arquivo} -> Pasta local')
                 try:
                     ftp.rename(arquivo,f'{pastaProcessados}/{arquivo}')
                 except Exception as e:
@@ -67,7 +67,7 @@ def transfereCatalogador():
             remote_path = f"{pasta_remota_destino}/{arquivo}"
 
             sftp_destino.put(local_path, remote_path)
-            logging.info(f' Enviado: {arquivo} -> {remote_path}')
+            logging.info(f' Enviado: {arquivo} -> SFTP BoaVista')
 
     # Fechar conexão
     sftp_destino.close()
