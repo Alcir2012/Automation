@@ -71,6 +71,9 @@ def transfereAuttarCatalogador():
 
             sftp_destino.put(localPath, remotePath)
             logging.info(f' Enviado: {arquivo} -> {remotePath}')
+            
+            os.remove(localPath)
+            logging.info(f'Removido localmente: {arquivo}')
     
     sftp_destino.close()
     transport_destino.close()
@@ -94,7 +97,7 @@ def transfereSoftCatalogador():
 
             sftp_destino.put(localPath, remotePath)
             logging.info(f' Enviado: {arquivo} -> {remotePath}')
-            
+
             os.remove(localPath)
             logging.info(f'Removido localmente: {arquivo}')
 

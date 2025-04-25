@@ -7238,3 +7238,955 @@
 2025-04-24 08:09:42,718 - INFO -  Enviado: LIBERCARD_20250423000000_060281_75315333000109.txt -> /eextrato/LIBERCARD_SOFTEXPRESS/LIBERCARD_20250423000000_060281_75315333000109.txt
 2025-04-24 08:09:43,587 - INFO -  Enviado: LIBERCARD_20250423000000_060282_93209765000117.txt -> /eextrato/LIBERCARD_SOFTEXPRESS/LIBERCARD_20250423000000_060282_93209765000117.txt
 2025-04-24 08:09:44,444 - INFO -  Enviado: LIBERCARD_20250423000000_060287_00063960000109.txt -> /eextrato/LIBERCARD_SOFTEXPRESS/LIBERCARD_20250423000000_060287_00063960000109.txt
+2025-04-25 07:47:25,456 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-04-25 07:47:26,108 - INFO - Auth banner: b'**********************************************************\n*   => ACESSO PERMITIDO SOMENTE A PESSOAS AUTORIZADAS!   *\n*                                                        *\n*   => CASO NAO TENHA AUTORIZACAO FACA LOGOUT AGORA!     *\n*                                                        *\n*   => TODAS AS ACOES PODEM SER MONITORADAS!             *\n*                                                        *\n*   => VOCE CONCORDA COM OS PROCESSOS DE MONITORACAO!    *\n*                                                        *\n**********************************************************\n'
+2025-04-25 07:47:26,109 - INFO - Authentication (publickey) successful!
+2025-04-25 07:47:26,543 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-04-25 07:47:28,248 - INFO - Baixado: LIBERCARD_20250424000000_060340_75315333000109.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\LIBERCARD_20250424000000_060340_75315333000109.txt
+2025-04-25 07:47:28,354 - INFO - Movendo LIBERCARD_20250424000000_060340_75315333000109.txt de: /extrato_libercard//LIBERCARD_20250424000000_060340_75315333000109.txt para: /extrato_libercard/Processados//LIBERCARD_20250424000000_060340_75315333000109.txt
+2025-04-25 07:47:29,031 - INFO - Baixado: LIBERCARD_20250424000000_060341_93209765000117.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\LIBERCARD_20250424000000_060341_93209765000117.txt
+2025-04-25 07:47:29,129 - INFO - Movendo LIBERCARD_20250424000000_060341_93209765000117.txt de: /extrato_libercard//LIBERCARD_20250424000000_060341_93209765000117.txt para: /extrato_libercard/Processados//LIBERCARD_20250424000000_060341_93209765000117.txt
+2025-04-25 07:47:29,794 - INFO - Baixado: LIBERCARD_20250424000000_060346_00063960000109.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\LIBERCARD_20250424000000_060346_00063960000109.txt
+2025-04-25 07:47:29,891 - INFO - Movendo LIBERCARD_20250424000000_060346_00063960000109.txt de: /extrato_libercard//LIBERCARD_20250424000000_060346_00063960000109.txt para: /extrato_libercard/Processados//LIBERCARD_20250424000000_060346_00063960000109.txt
+2025-04-25 07:47:30,962 - INFO - Baixado: 0372088200015820250410.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0372088200015820250410.txt
+2025-04-25 07:47:31,059 - INFO - Erro ao processar 0372088200015820250410.txt: Failure
+2025-04-25 07:47:31,731 - INFO - Baixado: 0396321300010720250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0396321300010720250424.txt
+2025-04-25 07:47:31,827 - INFO - Movendo 0396321300010720250424.txt de: /extrato_libercard//0396321300010720250424.txt para: /extrato_libercard/Processados//0396321300010720250424.txt
+2025-04-25 07:47:32,503 - INFO - Baixado: 1018831500016820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1018831500016820250424.txt
+2025-04-25 07:47:32,603 - INFO - Movendo 1018831500016820250424.txt de: /extrato_libercard//1018831500016820250424.txt para: /extrato_libercard/Processados//1018831500016820250424.txt
+2025-04-25 07:47:33,292 - INFO - Baixado: 0729882100010320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0729882100010320250424.txt
+2025-04-25 07:47:33,388 - INFO - Movendo 0729882100010320250424.txt de: /extrato_libercard//0729882100010320250424.txt para: /extrato_libercard/Processados//0729882100010320250424.txt
+2025-04-25 07:47:34,071 - INFO - Baixado: 1100668700019920250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1100668700019920250424.txt
+2025-04-25 07:47:34,172 - INFO - Movendo 1100668700019920250424.txt de: /extrato_libercard//1100668700019920250424.txt para: /extrato_libercard/Processados//1100668700019920250424.txt
+2025-04-25 07:47:34,861 - INFO - Baixado: 0333492100018920250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0333492100018920250424.txt
+2025-04-25 07:47:34,960 - INFO - Movendo 0333492100018920250424.txt de: /extrato_libercard//0333492100018920250424.txt para: /extrato_libercard/Processados//0333492100018920250424.txt
+2025-04-25 07:47:35,642 - INFO - Baixado: 0721314300012020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0721314300012020250424.txt
+2025-04-25 07:47:35,739 - INFO - Movendo 0721314300012020250424.txt de: /extrato_libercard//0721314300012020250424.txt para: /extrato_libercard/Processados//0721314300012020250424.txt
+2025-04-25 07:47:36,424 - INFO - Baixado: 0721314300047320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0721314300047320250424.txt
+2025-04-25 07:47:36,521 - INFO - Movendo 0721314300047320250424.txt de: /extrato_libercard//0721314300047320250424.txt para: /extrato_libercard/Processados//0721314300047320250424.txt
+2025-04-25 07:47:37,204 - INFO - Baixado: 0019520100019120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0019520100019120250424.txt
+2025-04-25 07:47:37,302 - INFO - Movendo 0019520100019120250424.txt de: /extrato_libercard//0019520100019120250424.txt para: /extrato_libercard/Processados//0019520100019120250424.txt
+2025-04-25 07:47:37,979 - INFO - Baixado: 0820786900011320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0820786900011320250424.txt
+2025-04-25 07:47:38,077 - INFO - Movendo 0820786900011320250424.txt de: /extrato_libercard//0820786900011320250424.txt para: /extrato_libercard/Processados//0820786900011320250424.txt
+2025-04-25 07:47:38,753 - INFO - Baixado: 0892663100014820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0892663100014820250424.txt
+2025-04-25 07:47:38,850 - INFO - Movendo 0892663100014820250424.txt de: /extrato_libercard//0892663100014820250424.txt para: /extrato_libercard/Processados//0892663100014820250424.txt
+2025-04-25 07:47:39,526 - INFO - Baixado: 0777037800011320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0777037800011320250424.txt
+2025-04-25 07:47:39,623 - INFO - Movendo 0777037800011320250424.txt de: /extrato_libercard//0777037800011320250424.txt para: /extrato_libercard/Processados//0777037800011320250424.txt
+2025-04-25 07:47:40,307 - INFO - Baixado: 1038681100012620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1038681100012620250424.txt
+2025-04-25 07:47:40,407 - INFO - Movendo 1038681100012620250424.txt de: /extrato_libercard//1038681100012620250424.txt para: /extrato_libercard/Processados//1038681100012620250424.txt
+2025-04-25 07:47:41,091 - INFO - Baixado: 0227420900017920250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0227420900017920250424.txt
+2025-04-25 07:47:41,190 - INFO - Movendo 0227420900017920250424.txt de: /extrato_libercard//0227420900017920250424.txt para: /extrato_libercard/Processados//0227420900017920250424.txt
+2025-04-25 07:47:41,884 - INFO - Baixado: 0921535300034520250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0921535300034520250424.txt
+2025-04-25 07:47:41,984 - INFO - Movendo 0921535300034520250424.txt de: /extrato_libercard//0921535300034520250424.txt para: /extrato_libercard/Processados//0921535300034520250424.txt
+2025-04-25 07:47:42,692 - INFO - Baixado: 1096208300015320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1096208300015320250424.txt
+2025-04-25 07:47:42,798 - INFO - Movendo 1096208300015320250424.txt de: /extrato_libercard//1096208300015320250424.txt para: /extrato_libercard/Processados//1096208300015320250424.txt
+2025-04-25 07:47:43,488 - INFO - Baixado: 7377006700018920250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\7377006700018920250424.txt
+2025-04-25 07:47:43,589 - INFO - Movendo 7377006700018920250424.txt de: /extrato_libercard//7377006700018920250424.txt para: /extrato_libercard/Processados//7377006700018920250424.txt
+2025-04-25 07:47:44,275 - INFO - Baixado: 1484325500012020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1484325500012020250424.txt
+2025-04-25 07:47:44,677 - INFO - Movendo 1484325500012020250424.txt de: /extrato_libercard//1484325500012020250424.txt para: /extrato_libercard/Processados//1484325500012020250424.txt
+2025-04-25 07:47:45,361 - INFO - Baixado: 0544525600012620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0544525600012620250424.txt
+2025-04-25 07:47:45,464 - INFO - Movendo 0544525600012620250424.txt de: /extrato_libercard//0544525600012620250424.txt para: /extrato_libercard/Processados//0544525600012620250424.txt
+2025-04-25 07:47:46,140 - INFO - Baixado: 7380714100019420250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\7380714100019420250424.txt
+2025-04-25 07:47:46,235 - INFO - Movendo 7380714100019420250424.txt de: /extrato_libercard//7380714100019420250424.txt para: /extrato_libercard/Processados//7380714100019420250424.txt
+2025-04-25 07:47:46,912 - INFO - Baixado: 0704156900014420250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0704156900014420250424.txt
+2025-04-25 07:47:47,013 - INFO - Movendo 0704156900014420250424.txt de: /extrato_libercard//0704156900014420250424.txt para: /extrato_libercard/Processados//0704156900014420250424.txt
+2025-04-25 07:47:47,690 - INFO - Baixado: 1471238700011320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1471238700011320250424.txt
+2025-04-25 07:47:47,787 - INFO - Movendo 1471238700011320250424.txt de: /extrato_libercard//1471238700011320250424.txt para: /extrato_libercard/Processados//1471238700011320250424.txt
+2025-04-25 07:47:48,488 - INFO - Baixado: 2188694300013320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2188694300013320250424.txt
+2025-04-25 07:47:48,588 - INFO - Movendo 2188694300013320250424.txt de: /extrato_libercard//2188694300013320250424.txt para: /extrato_libercard/Processados//2188694300013320250424.txt
+2025-04-25 07:47:49,284 - INFO - Baixado: 0046743900012920250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0046743900012920250424.txt
+2025-04-25 07:47:49,380 - INFO - Movendo 0046743900012920250424.txt de: /extrato_libercard//0046743900012920250424.txt para: /extrato_libercard/Processados//0046743900012920250424.txt
+2025-04-25 07:47:50,067 - INFO - Baixado: 4155345400017720250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\4155345400017720250424.txt
+2025-04-25 07:47:50,164 - INFO - Movendo 4155345400017720250424.txt de: /extrato_libercard//4155345400017720250424.txt para: /extrato_libercard/Processados//4155345400017720250424.txt
+2025-04-25 07:47:50,859 - INFO - Baixado: 0837404700012720250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0837404700012720250424.txt
+2025-04-25 07:47:50,953 - INFO - Movendo 0837404700012720250424.txt de: /extrato_libercard//0837404700012720250424.txt para: /extrato_libercard/Processados//0837404700012720250424.txt
+2025-04-25 07:47:51,642 - INFO - Baixado: 2152271400013020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2152271400013020250424.txt
+2025-04-25 07:47:51,738 - INFO - Movendo 2152271400013020250424.txt de: /extrato_libercard//2152271400013020250424.txt para: /extrato_libercard/Processados//2152271400013020250424.txt
+2025-04-25 07:47:52,415 - INFO - Baixado: 0934781800015020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0934781800015020250424.txt
+2025-04-25 07:47:52,513 - INFO - Movendo 0934781800015020250424.txt de: /extrato_libercard//0934781800015020250424.txt para: /extrato_libercard/Processados//0934781800015020250424.txt
+2025-04-25 07:47:53,207 - INFO - Baixado: 1652640000017520250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1652640000017520250424.txt
+2025-04-25 07:47:53,307 - INFO - Movendo 1652640000017520250424.txt de: /extrato_libercard//1652640000017520250424.txt para: /extrato_libercard/Processados//1652640000017520250424.txt
+2025-04-25 07:47:53,980 - INFO - Baixado: 1400066100012120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1400066100012120250424.txt
+2025-04-25 07:47:54,078 - INFO - Movendo 1400066100012120250424.txt de: /extrato_libercard//1400066100012120250424.txt para: /extrato_libercard/Processados//1400066100012120250424.txt
+2025-04-25 07:47:54,753 - INFO - Baixado: 0730419900035220250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0730419900035220250424.txt
+2025-04-25 07:47:54,850 - INFO - Movendo 0730419900035220250424.txt de: /extrato_libercard//0730419900035220250424.txt para: /extrato_libercard/Processados//0730419900035220250424.txt
+2025-04-25 07:47:55,540 - INFO - Baixado: 0133338600011620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0133338600011620250424.txt
+2025-04-25 07:47:55,636 - INFO - Movendo 0133338600011620250424.txt de: /extrato_libercard//0133338600011620250424.txt para: /extrato_libercard/Processados//0133338600011620250424.txt
+2025-04-25 07:47:56,311 - INFO - Baixado: 0539653200010320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0539653200010320250424.txt
+2025-04-25 07:47:56,421 - INFO - Movendo 0539653200010320250424.txt de: /extrato_libercard//0539653200010320250424.txt para: /extrato_libercard/Processados//0539653200010320250424.txt
+2025-04-25 07:47:57,100 - INFO - Baixado: 1711879400019520250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1711879400019520250424.txt
+2025-04-25 07:47:57,197 - INFO - Movendo 1711879400019520250424.txt de: /extrato_libercard//1711879400019520250424.txt para: /extrato_libercard/Processados//1711879400019520250424.txt
+2025-04-25 07:47:57,889 - INFO - Baixado: 2321109300010720250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2321109300010720250424.txt
+2025-04-25 07:47:57,998 - INFO - Movendo 2321109300010720250424.txt de: /extrato_libercard//2321109300010720250424.txt para: /extrato_libercard/Processados//2321109300010720250424.txt
+2025-04-25 07:47:58,675 - INFO - Baixado: 2764316100015020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2764316100015020250424.txt
+2025-04-25 07:47:58,771 - INFO - Movendo 2764316100015020250424.txt de: /extrato_libercard//2764316100015020250424.txt para: /extrato_libercard/Processados//2764316100015020250424.txt
+2025-04-25 07:47:59,446 - INFO - Baixado: 2422108900018420250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2422108900018420250424.txt
+2025-04-25 07:47:59,543 - INFO - Movendo 2422108900018420250424.txt de: /extrato_libercard//2422108900018420250424.txt para: /extrato_libercard/Processados//2422108900018420250424.txt
+2025-04-25 07:48:00,229 - INFO - Baixado: 0577254800017320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0577254800017320250424.txt
+2025-04-25 07:48:00,326 - INFO - Movendo 0577254800017320250424.txt de: /extrato_libercard//0577254800017320250424.txt para: /extrato_libercard/Processados//0577254800017320250424.txt
+2025-04-25 07:48:01,009 - INFO - Baixado: 0878139400017420250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0878139400017420250424.txt
+2025-04-25 07:48:01,106 - INFO - Movendo 0878139400017420250424.txt de: /extrato_libercard//0878139400017420250424.txt para: /extrato_libercard/Processados//0878139400017420250424.txt
+2025-04-25 07:48:01,794 - INFO - Baixado: LIBERCARD_20250424000000_060291_01928075000108.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\LIBERCARD_20250424000000_060291_01928075000108.txt
+2025-04-25 07:48:01,889 - INFO - Movendo LIBERCARD_20250424000000_060291_01928075000108.txt de: /extrato_libercard//LIBERCARD_20250424000000_060291_01928075000108.txt para: /extrato_libercard/Processados//LIBERCARD_20250424000000_060291_01928075000108.txt
+2025-04-25 07:48:02,564 - INFO - Baixado: 0918221700013420250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0918221700013420250424.txt
+2025-04-25 07:48:02,659 - INFO - Movendo 0918221700013420250424.txt de: /extrato_libercard//0918221700013420250424.txt para: /extrato_libercard/Processados//0918221700013420250424.txt
+2025-04-25 07:48:03,341 - INFO - Baixado: 0918221700021520250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0918221700021520250424.txt
+2025-04-25 07:48:03,439 - INFO - Movendo 0918221700021520250424.txt de: /extrato_libercard//0918221700021520250424.txt para: /extrato_libercard/Processados//0918221700021520250424.txt
+2025-04-25 07:48:04,109 - INFO - Baixado: 0820786900038520250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0820786900038520250424.txt
+2025-04-25 07:48:04,204 - INFO - Movendo 0820786900038520250424.txt de: /extrato_libercard//0820786900038520250424.txt para: /extrato_libercard/Processados//0820786900038520250424.txt
+2025-04-25 07:48:04,878 - INFO - Baixado: 2213363400015520250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2213363400015520250424.txt
+2025-04-25 07:48:04,972 - INFO - Movendo 2213363400015520250424.txt de: /extrato_libercard//2213363400015520250424.txt para: /extrato_libercard/Processados//2213363400015520250424.txt
+2025-04-25 07:48:05,679 - INFO - Baixado: 4156676100019220250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\4156676100019220250424.txt
+2025-04-25 07:48:05,774 - INFO - Movendo 4156676100019220250424.txt de: /extrato_libercard//4156676100019220250424.txt para: /extrato_libercard/Processados//4156676100019220250424.txt
+2025-04-25 07:48:06,435 - INFO - Baixado: 3218798900018020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\3218798900018020250424.txt
+2025-04-25 07:48:06,532 - INFO - Movendo 3218798900018020250424.txt de: /extrato_libercard//3218798900018020250424.txt para: /extrato_libercard/Processados//3218798900018020250424.txt
+2025-04-25 07:48:07,193 - INFO - Baixado: 2509271500014220250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2509271500014220250424.txt
+2025-04-25 07:48:07,288 - INFO - Movendo 2509271500014220250424.txt de: /extrato_libercard//2509271500014220250424.txt para: /extrato_libercard/Processados//2509271500014220250424.txt
+2025-04-25 07:48:07,965 - INFO - Baixado: 0930502900015620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0930502900015620250424.txt
+2025-04-25 07:48:08,061 - INFO - Movendo 0930502900015620250424.txt de: /extrato_libercard//0930502900015620250424.txt para: /extrato_libercard/Processados//0930502900015620250424.txt
+2025-04-25 07:48:08,743 - INFO - Baixado: 1371115900040920250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1371115900040920250424.txt
+2025-04-25 07:48:08,837 - INFO - Movendo 1371115900040920250424.txt de: /extrato_libercard//1371115900040920250424.txt para: /extrato_libercard/Processados//1371115900040920250424.txt
+2025-04-25 07:48:09,508 - INFO - Baixado: 0721314300020120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0721314300020120250424.txt
+2025-04-25 07:48:09,602 - INFO - Movendo 0721314300020120250424.txt de: /extrato_libercard//0721314300020120250424.txt para: /extrato_libercard/Processados//0721314300020120250424.txt
+2025-04-25 07:48:10,278 - INFO - Baixado: 0174062700014120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0174062700014120250424.txt
+2025-04-25 07:48:10,377 - INFO - Movendo 0174062700014120250424.txt de: /extrato_libercard//0174062700014120250424.txt para: /extrato_libercard/Processados//0174062700014120250424.txt
+2025-04-25 07:48:11,042 - INFO - Baixado: 0423469300013820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0423469300013820250424.txt
+2025-04-25 07:48:11,137 - INFO - Movendo 0423469300013820250424.txt de: /extrato_libercard//0423469300013820250424.txt para: /extrato_libercard/Processados//0423469300013820250424.txt
+2025-04-25 07:48:11,812 - INFO - Baixado: 1023804200011920250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1023804200011920250424.txt
+2025-04-25 07:48:11,912 - INFO - Movendo 1023804200011920250424.txt de: /extrato_libercard//1023804200011920250424.txt para: /extrato_libercard/Processados//1023804200011920250424.txt
+2025-04-25 07:48:12,579 - INFO - Baixado: 0767119800018420250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0767119800018420250424.txt
+2025-04-25 07:48:12,706 - INFO - Movendo 0767119800018420250424.txt de: /extrato_libercard//0767119800018420250424.txt para: /extrato_libercard/Processados//0767119800018420250424.txt
+2025-04-25 07:48:13,380 - INFO - Baixado: 0313555300014020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0313555300014020250424.txt
+2025-04-25 07:48:13,478 - INFO - Movendo 0313555300014020250424.txt de: /extrato_libercard//0313555300014020250424.txt para: /extrato_libercard/Processados//0313555300014020250424.txt
+2025-04-25 07:48:14,142 - INFO - Baixado: 1233810900011220250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1233810900011220250424.txt
+2025-04-25 07:48:14,237 - INFO - Movendo 1233810900011220250424.txt de: /extrato_libercard//1233810900011220250424.txt para: /extrato_libercard/Processados//1233810900011220250424.txt
+2025-04-25 07:48:14,904 - INFO - Baixado: 0954025600016620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0954025600016620250424.txt
+2025-04-25 07:48:15,021 - INFO - Movendo 0954025600016620250424.txt de: /extrato_libercard//0954025600016620250424.txt para: /extrato_libercard/Processados//0954025600016620250424.txt
+2025-04-25 07:48:15,693 - INFO - Baixado: 0178115400012020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0178115400012020250424.txt
+2025-04-25 07:48:15,790 - INFO - Movendo 0178115400012020250424.txt de: /extrato_libercard//0178115400012020250424.txt para: /extrato_libercard/Processados//0178115400012020250424.txt
+2025-04-25 07:48:16,455 - INFO - Baixado: 0712320700010020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0712320700010020250424.txt
+2025-04-25 07:48:16,553 - INFO - Movendo 0712320700010020250424.txt de: /extrato_libercard//0712320700010020250424.txt para: /extrato_libercard/Processados//0712320700010020250424.txt
+2025-04-25 07:48:17,217 - INFO - Baixado: 0767208200016020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0767208200016020250424.txt
+2025-04-25 07:48:17,312 - INFO - Movendo 0767208200016020250424.txt de: /extrato_libercard//0767208200016020250424.txt para: /extrato_libercard/Processados//0767208200016020250424.txt
+2025-04-25 07:48:17,981 - INFO - Baixado: 0767208200024020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0767208200024020250424.txt
+2025-04-25 07:48:18,076 - INFO - Movendo 0767208200024020250424.txt de: /extrato_libercard//0767208200024020250424.txt para: /extrato_libercard/Processados//0767208200024020250424.txt
+2025-04-25 07:48:18,751 - INFO - Baixado: 0380386100010420250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0380386100010420250424.txt
+2025-04-25 07:48:18,846 - INFO - Movendo 0380386100010420250424.txt de: /extrato_libercard//0380386100010420250424.txt para: /extrato_libercard/Processados//0380386100010420250424.txt
+2025-04-25 07:48:19,518 - INFO - Baixado: 0921535300042620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0921535300042620250424.txt
+2025-04-25 07:48:19,614 - INFO - Movendo 0921535300042620250424.txt de: /extrato_libercard//0921535300042620250424.txt para: /extrato_libercard/Processados//0921535300042620250424.txt
+2025-04-25 07:48:20,302 - INFO - Baixado: 0256915600011320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0256915600011320250424.txt
+2025-04-25 07:48:20,399 - INFO - Movendo 0256915600011320250424.txt de: /extrato_libercard//0256915600011320250424.txt para: /extrato_libercard/Processados//0256915600011320250424.txt
+2025-04-25 07:48:21,068 - INFO - Baixado: 0117157500013020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0117157500013020250424.txt
+2025-04-25 07:48:21,162 - INFO - Movendo 0117157500013020250424.txt de: /extrato_libercard//0117157500013020250424.txt para: /extrato_libercard/Processados//0117157500013020250424.txt
+2025-04-25 07:48:21,828 - INFO - Baixado: 0592178600010120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0592178600010120250424.txt
+2025-04-25 07:48:21,924 - INFO - Movendo 0592178600010120250424.txt de: /extrato_libercard//0592178600010120250424.txt para: /extrato_libercard/Processados//0592178600010120250424.txt
+2025-04-25 07:48:22,594 - INFO - Baixado: 0496771100019020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0496771100019020250424.txt
+2025-04-25 07:48:22,687 - INFO - Movendo 0496771100019020250424.txt de: /extrato_libercard//0496771100019020250424.txt para: /extrato_libercard/Processados//0496771100019020250424.txt
+2025-04-25 07:48:23,357 - INFO - Baixado: 0541783800010720250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0541783800010720250424.txt
+2025-04-25 07:48:23,453 - INFO - Movendo 0541783800010720250424.txt de: /extrato_libercard//0541783800010720250424.txt para: /extrato_libercard/Processados//0541783800010720250424.txt
+2025-04-25 07:48:24,127 - INFO - Baixado: 1335272100010220250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1335272100010220250424.txt
+2025-04-25 07:48:24,223 - INFO - Movendo 1335272100010220250424.txt de: /extrato_libercard//1335272100010220250424.txt para: /extrato_libercard/Processados//1335272100010220250424.txt
+2025-04-25 07:48:24,888 - INFO - Baixado: 1519975100015620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1519975100015620250424.txt
+2025-04-25 07:48:24,984 - INFO - Movendo 1519975100015620250424.txt de: /extrato_libercard//1519975100015620250424.txt para: /extrato_libercard/Processados//1519975100015620250424.txt
+2025-04-25 07:48:25,652 - INFO - Baixado: 0477807700014820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0477807700014820250424.txt
+2025-04-25 07:48:25,747 - INFO - Movendo 0477807700014820250424.txt de: /extrato_libercard//0477807700014820250424.txt para: /extrato_libercard/Processados//0477807700014820250424.txt
+2025-04-25 07:48:26,417 - INFO - Baixado: 1576282900010720250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1576282900010720250424.txt
+2025-04-25 07:48:26,511 - INFO - Movendo 1576282900010720250424.txt de: /extrato_libercard//1576282900010720250424.txt para: /extrato_libercard/Processados//1576282900010720250424.txt
+2025-04-25 07:48:27,176 - INFO - Baixado: 7253713700019020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\7253713700019020250424.txt
+2025-04-25 07:48:27,272 - INFO - Movendo 7253713700019020250424.txt de: /extrato_libercard//7253713700019020250424.txt para: /extrato_libercard/Processados//7253713700019020250424.txt
+2025-04-25 07:48:27,930 - INFO - Baixado: 0933618300019520250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0933618300019520250424.txt
+2025-04-25 07:48:28,024 - INFO - Movendo 0933618300019520250424.txt de: /extrato_libercard//0933618300019520250424.txt para: /extrato_libercard/Processados//0933618300019520250424.txt
+2025-04-25 07:48:28,687 - INFO - Baixado: 0424787200010020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0424787200010020250424.txt
+2025-04-25 07:48:28,781 - INFO - Movendo 0424787200010020250424.txt de: /extrato_libercard//0424787200010020250424.txt para: /extrato_libercard/Processados//0424787200010020250424.txt
+2025-04-25 07:48:29,446 - INFO - Baixado: 4144927300010320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\4144927300010320250424.txt
+2025-04-25 07:48:29,544 - INFO - Movendo 4144927300010320250424.txt de: /extrato_libercard//4144927300010320250424.txt para: /extrato_libercard/Processados//4144927300010320250424.txt
+2025-04-25 07:48:30,203 - INFO - Baixado: 2462699700015820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2462699700015820250424.txt
+2025-04-25 07:48:30,298 - INFO - Movendo 2462699700015820250424.txt de: /extrato_libercard//2462699700015820250424.txt para: /extrato_libercard/Processados//2462699700015820250424.txt
+2025-04-25 07:48:31,185 - INFO - Baixado: 0372088200015820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0372088200015820250424.txt
+2025-04-25 07:48:31,278 - INFO - Movendo 0372088200015820250424.txt de: /extrato_libercard//0372088200015820250424.txt para: /extrato_libercard/Processados//0372088200015820250424.txt
+2025-04-25 07:48:31,938 - INFO - Baixado: 0589228200028320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0589228200028320250424.txt
+2025-04-25 07:48:32,032 - INFO - Movendo 0589228200028320250424.txt de: /extrato_libercard//0589228200028320250424.txt para: /extrato_libercard/Processados//0589228200028320250424.txt
+2025-04-25 07:48:32,696 - INFO - Baixado: 0589228200036420250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0589228200036420250424.txt
+2025-04-25 07:48:32,791 - INFO - Movendo 0589228200036420250424.txt de: /extrato_libercard//0589228200036420250424.txt para: /extrato_libercard/Processados//0589228200036420250424.txt
+2025-04-25 07:48:33,476 - INFO - Baixado: 0589228200044520250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0589228200044520250424.txt
+2025-04-25 07:48:33,572 - INFO - Movendo 0589228200044520250424.txt de: /extrato_libercard//0589228200044520250424.txt para: /extrato_libercard/Processados//0589228200044520250424.txt
+2025-04-25 07:48:34,247 - INFO - Baixado: 0606592600014120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0606592600014120250424.txt
+2025-04-25 07:48:34,345 - INFO - Movendo 0606592600014120250424.txt de: /extrato_libercard//0606592600014120250424.txt para: /extrato_libercard/Processados//0606592600014120250424.txt
+2025-04-25 07:48:35,020 - INFO - Baixado: 0851894300011220250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0851894300011220250424.txt
+2025-04-25 07:48:35,117 - INFO - Movendo 0851894300011220250424.txt de: /extrato_libercard//0851894300011220250424.txt para: /extrato_libercard/Processados//0851894300011220250424.txt
+2025-04-25 07:48:35,792 - INFO - Baixado: 1031901400012620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1031901400012620250424.txt
+2025-04-25 07:48:35,888 - INFO - Movendo 1031901400012620250424.txt de: /extrato_libercard//1031901400012620250424.txt para: /extrato_libercard/Processados//1031901400012620250424.txt
+2025-04-25 07:48:36,564 - INFO - Baixado: 1032873900018020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1032873900018020250424.txt
+2025-04-25 07:48:36,663 - INFO - Movendo 1032873900018020250424.txt de: /extrato_libercard//1032873900018020250424.txt para: /extrato_libercard/Processados//1032873900018020250424.txt
+2025-04-25 07:48:37,347 - INFO - Baixado: 1067890900015720250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1067890900015720250424.txt
+2025-04-25 07:48:37,445 - INFO - Movendo 1067890900015720250424.txt de: /extrato_libercard//1067890900015720250424.txt para: /extrato_libercard/Processados//1067890900015720250424.txt
+2025-04-25 07:48:38,120 - INFO - Baixado: 1891534300014120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1891534300014120250424.txt
+2025-04-25 07:48:38,220 - INFO - Movendo 1891534300014120250424.txt de: /extrato_libercard//1891534300014120250424.txt para: /extrato_libercard/Processados//1891534300014120250424.txt
+2025-04-25 07:48:38,895 - INFO - Baixado: 2242364600011420250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2242364600011420250424.txt
+2025-04-25 07:48:38,992 - INFO - Movendo 2242364600011420250424.txt de: /extrato_libercard//2242364600011420250424.txt para: /extrato_libercard/Processados//2242364600011420250424.txt
+2025-04-25 07:48:39,676 - INFO - Baixado: 2614668500017220250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2614668500017220250424.txt
+2025-04-25 07:48:39,771 - INFO - Movendo 2614668500017220250424.txt de: /extrato_libercard//2614668500017220250424.txt para: /extrato_libercard/Processados//2614668500017220250424.txt
+2025-04-25 07:48:40,462 - INFO - Baixado: 2653577100017720250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2653577100017720250424.txt
+2025-04-25 07:48:40,559 - INFO - Movendo 2653577100017720250424.txt de: /extrato_libercard//2653577100017720250424.txt para: /extrato_libercard/Processados//2653577100017720250424.txt
+2025-04-25 07:48:41,235 - INFO - Baixado: 2653580200019020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2653580200019020250424.txt
+2025-04-25 07:48:41,334 - INFO - Movendo 2653580200019020250424.txt de: /extrato_libercard//2653580200019020250424.txt para: /extrato_libercard/Processados//2653580200019020250424.txt
+2025-04-25 07:48:42,011 - INFO - Baixado: 2654149500015020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2654149500015020250424.txt
+2025-04-25 07:48:42,106 - INFO - Movendo 2654149500015020250424.txt de: /extrato_libercard//2654149500015020250424.txt para: /extrato_libercard/Processados//2654149500015020250424.txt
+2025-04-25 07:48:42,789 - INFO - Baixado: LIBERCARD_20250424000000_060292_08574018000109.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\LIBERCARD_20250424000000_060292_08574018000109.txt
+2025-04-25 07:48:42,886 - INFO - Movendo LIBERCARD_20250424000000_060292_08574018000109.txt de: /extrato_libercard//LIBERCARD_20250424000000_060292_08574018000109.txt para: /extrato_libercard/Processados//LIBERCARD_20250424000000_060292_08574018000109.txt
+2025-04-25 07:48:43,557 - INFO - Baixado: 1519975100040720250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1519975100040720250424.txt
+2025-04-25 07:48:43,654 - INFO - Movendo 1519975100040720250424.txt de: /extrato_libercard//1519975100040720250424.txt para: /extrato_libercard/Processados//1519975100040720250424.txt
+2025-04-25 07:48:44,329 - INFO - Baixado: 2923758700013920250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2923758700013920250424.txt
+2025-04-25 07:48:44,425 - INFO - Movendo 2923758700013920250424.txt de: /extrato_libercard//2923758700013920250424.txt para: /extrato_libercard/Processados//2923758700013920250424.txt
+2025-04-25 07:48:45,107 - INFO - Baixado: LIBERCARD_20250424000000_060293_08574018000532.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\LIBERCARD_20250424000000_060293_08574018000532.txt
+2025-04-25 07:48:45,203 - INFO - Movendo LIBERCARD_20250424000000_060293_08574018000532.txt de: /extrato_libercard//LIBERCARD_20250424000000_060293_08574018000532.txt para: /extrato_libercard/Processados//LIBERCARD_20250424000000_060293_08574018000532.txt
+2025-04-25 07:48:45,877 - INFO - Baixado: 0060241400019020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0060241400019020250424.txt
+2025-04-25 07:48:45,972 - INFO - Movendo 0060241400019020250424.txt de: /extrato_libercard//0060241400019020250424.txt para: /extrato_libercard/Processados//0060241400019020250424.txt
+2025-04-25 07:48:46,646 - INFO - Baixado: 1181206200011420250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1181206200011420250424.txt
+2025-04-25 07:48:46,744 - INFO - Movendo 1181206200011420250424.txt de: /extrato_libercard//1181206200011420250424.txt para: /extrato_libercard/Processados//1181206200011420250424.txt
+2025-04-25 07:48:47,417 - INFO - Baixado: 0858534800010820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0858534800010820250424.txt
+2025-04-25 07:48:47,514 - INFO - Movendo 0858534800010820250424.txt de: /extrato_libercard//0858534800010820250424.txt para: /extrato_libercard/Processados//0858534800010820250424.txt
+2025-04-25 07:48:48,187 - INFO - Baixado: 0312314200013420250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0312314200013420250424.txt
+2025-04-25 07:48:48,283 - INFO - Movendo 0312314200013420250424.txt de: /extrato_libercard//0312314200013420250424.txt para: /extrato_libercard/Processados//0312314200013420250424.txt
+2025-04-25 07:48:48,954 - INFO - Baixado: 0951761700015320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0951761700015320250424.txt
+2025-04-25 07:48:49,049 - INFO - Movendo 0951761700015320250424.txt de: /extrato_libercard//0951761700015320250424.txt para: /extrato_libercard/Processados//0951761700015320250424.txt
+2025-04-25 07:48:49,731 - INFO - Baixado: 0951761700031520250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0951761700031520250424.txt
+2025-04-25 07:48:49,827 - INFO - Movendo 0951761700031520250424.txt de: /extrato_libercard//0951761700031520250424.txt para: /extrato_libercard/Processados//0951761700031520250424.txt
+2025-04-25 07:48:50,508 - INFO - Baixado: 0951761700040420250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0951761700040420250424.txt
+2025-04-25 07:48:50,602 - INFO - Movendo 0951761700040420250424.txt de: /extrato_libercard//0951761700040420250424.txt para: /extrato_libercard/Processados//0951761700040420250424.txt
+2025-04-25 07:48:51,278 - INFO - Baixado: 0484314300011620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0484314300011620250424.txt
+2025-04-25 07:48:51,373 - INFO - Movendo 0484314300011620250424.txt de: /extrato_libercard//0484314300011620250424.txt para: /extrato_libercard/Processados//0484314300011620250424.txt
+2025-04-25 07:48:52,069 - INFO - Baixado: 0521566000010320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0521566000010320250424.txt
+2025-04-25 07:48:52,166 - INFO - Movendo 0521566000010320250424.txt de: /extrato_libercard//0521566000010320250424.txt para: /extrato_libercard/Processados//0521566000010320250424.txt
+2025-04-25 07:48:52,845 - INFO - Baixado: 2695961600018820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2695961600018820250424.txt
+2025-04-25 07:48:52,941 - INFO - Movendo 2695961600018820250424.txt de: /extrato_libercard//2695961600018820250424.txt para: /extrato_libercard/Processados//2695961600018820250424.txt
+2025-04-25 07:48:53,617 - INFO - Baixado: 0112074100017920250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0112074100017920250424.txt
+2025-04-25 07:48:53,714 - INFO - Movendo 0112074100017920250424.txt de: /extrato_libercard//0112074100017920250424.txt para: /extrato_libercard/Processados//0112074100017920250424.txt
+2025-04-25 07:48:54,439 - INFO - Baixado: 0726424500017520250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0726424500017520250424.txt
+2025-04-25 07:48:54,538 - INFO - Movendo 0726424500017520250424.txt de: /extrato_libercard//0726424500017520250424.txt para: /extrato_libercard/Processados//0726424500017520250424.txt
+2025-04-25 07:48:55,250 - INFO - Baixado: 1933297500014520250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1933297500014520250424.txt
+2025-04-25 07:48:55,348 - INFO - Movendo 1933297500014520250424.txt de: /extrato_libercard//1933297500014520250424.txt para: /extrato_libercard/Processados//1933297500014520250424.txt
+2025-04-25 07:48:56,025 - INFO - Baixado: 2077189800010920250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2077189800010920250424.txt
+2025-04-25 07:48:56,123 - INFO - Movendo 2077189800010920250424.txt de: /extrato_libercard//2077189800010920250424.txt para: /extrato_libercard/Processados//2077189800010920250424.txt
+2025-04-25 07:48:56,797 - INFO - Baixado: 2279957600010120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2279957600010120250424.txt
+2025-04-25 07:48:56,895 - INFO - Movendo 2279957600010120250424.txt de: /extrato_libercard//2279957600010120250424.txt para: /extrato_libercard/Processados//2279957600010120250424.txt
+2025-04-25 07:48:57,574 - INFO - Baixado: 2347323600014020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2347323600014020250424.txt
+2025-04-25 07:48:57,682 - INFO - Movendo 2347323600014020250424.txt de: /extrato_libercard//2347323600014020250424.txt para: /extrato_libercard/Processados//2347323600014020250424.txt
+2025-04-25 07:48:58,356 - INFO - Baixado: 2347323600022120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2347323600022120250424.txt
+2025-04-25 07:48:58,455 - INFO - Movendo 2347323600022120250424.txt de: /extrato_libercard//2347323600022120250424.txt para: /extrato_libercard/Processados//2347323600022120250424.txt
+2025-04-25 07:48:59,127 - INFO - Baixado: 0406453300019820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0406453300019820250424.txt
+2025-04-25 07:48:59,223 - INFO - Movendo 0406453300019820250424.txt de: /extrato_libercard//0406453300019820250424.txt para: /extrato_libercard/Processados//0406453300019820250424.txt
+2025-04-25 07:48:59,906 - INFO - Baixado: 0406453300027920250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0406453300027920250424.txt
+2025-04-25 07:49:00,001 - INFO - Movendo 0406453300027920250424.txt de: /extrato_libercard//0406453300027920250424.txt para: /extrato_libercard/Processados//0406453300027920250424.txt
+2025-04-25 07:49:00,685 - INFO - Baixado: 0406453300035020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0406453300035020250424.txt
+2025-04-25 07:49:00,782 - INFO - Movendo 0406453300035020250424.txt de: /extrato_libercard//0406453300035020250424.txt para: /extrato_libercard/Processados//0406453300035020250424.txt
+2025-04-25 07:49:01,456 - INFO - Baixado: 0406453300043020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0406453300043020250424.txt
+2025-04-25 07:49:01,553 - INFO - Movendo 0406453300043020250424.txt de: /extrato_libercard//0406453300043020250424.txt para: /extrato_libercard/Processados//0406453300043020250424.txt
+2025-04-25 07:49:02,230 - INFO - Baixado: 0406453300051120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0406453300051120250424.txt
+2025-04-25 07:49:02,328 - INFO - Movendo 0406453300051120250424.txt de: /extrato_libercard//0406453300051120250424.txt para: /extrato_libercard/Processados//0406453300051120250424.txt
+2025-04-25 07:49:03,007 - INFO - Baixado: 0423469300021920250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0423469300021920250424.txt
+2025-04-25 07:49:03,103 - INFO - Movendo 0423469300021920250424.txt de: /extrato_libercard//0423469300021920250424.txt para: /extrato_libercard/Processados//0423469300021920250424.txt
+2025-04-25 07:49:03,778 - INFO - Baixado: 1039579500013820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1039579500013820250424.txt
+2025-04-25 07:49:03,876 - INFO - Movendo 1039579500013820250424.txt de: /extrato_libercard//1039579500013820250424.txt para: /extrato_libercard/Processados//1039579500013820250424.txt
+2025-04-25 07:49:04,584 - INFO - Baixado: 0537791700012320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0537791700012320250424.txt
+2025-04-25 07:49:04,682 - INFO - Movendo 0537791700012320250424.txt de: /extrato_libercard//0537791700012320250424.txt para: /extrato_libercard/Processados//0537791700012320250424.txt
+2025-04-25 07:49:05,370 - INFO - Baixado: 1496691400011620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1496691400011620250424.txt
+2025-04-25 07:49:05,465 - INFO - Movendo 1496691400011620250424.txt de: /extrato_libercard//1496691400011620250424.txt para: /extrato_libercard/Processados//1496691400011620250424.txt
+2025-04-25 07:49:06,140 - INFO - Baixado: 1037125600016920250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1037125600016920250424.txt
+2025-04-25 07:49:06,237 - INFO - Movendo 1037125600016920250424.txt de: /extrato_libercard//1037125600016920250424.txt para: /extrato_libercard/Processados//1037125600016920250424.txt
+2025-04-25 07:49:06,921 - INFO - Baixado: 0030754900012320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0030754900012320250424.txt
+2025-04-25 07:49:07,017 - INFO - Movendo 0030754900012320250424.txt de: /extrato_libercard//0030754900012320250424.txt para: /extrato_libercard/Processados//0030754900012320250424.txt
+2025-04-25 07:49:07,702 - INFO - Baixado: 1227312400020020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1227312400020020250424.txt
+2025-04-25 07:49:07,796 - INFO - Movendo 1227312400020020250424.txt de: /extrato_libercard//1227312400020020250424.txt para: /extrato_libercard/Processados//1227312400020020250424.txt
+2025-04-25 07:49:08,471 - INFO - Baixado: 0020605800035820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0020605800035820250424.txt
+2025-04-25 07:49:08,566 - INFO - Movendo 0020605800035820250424.txt de: /extrato_libercard//0020605800035820250424.txt para: /extrato_libercard/Processados//0020605800035820250424.txt
+2025-04-25 07:49:09,254 - INFO - Baixado: 0075322100013020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0075322100013020250424.txt
+2025-04-25 07:49:09,362 - INFO - Movendo 0075322100013020250424.txt de: /extrato_libercard//0075322100013020250424.txt para: /extrato_libercard/Processados//0075322100013020250424.txt
+2025-04-25 07:49:10,034 - INFO - Baixado: 0305339500018920250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0305339500018920250424.txt
+2025-04-25 07:49:10,132 - INFO - Movendo 0305339500018920250424.txt de: /extrato_libercard//0305339500018920250424.txt para: /extrato_libercard/Processados//0305339500018920250424.txt
+2025-04-25 07:49:10,800 - INFO - Baixado: 0305339500026020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0305339500026020250424.txt
+2025-04-25 07:49:10,897 - INFO - Movendo 0305339500026020250424.txt de: /extrato_libercard//0305339500026020250424.txt para: /extrato_libercard/Processados//0305339500026020250424.txt
+2025-04-25 07:49:11,587 - INFO - Baixado: 0539036100010520250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0539036100010520250424.txt
+2025-04-25 07:49:11,684 - INFO - Movendo 0539036100010520250424.txt de: /extrato_libercard//0539036100010520250424.txt para: /extrato_libercard/Processados//0539036100010520250424.txt
+2025-04-25 07:49:12,365 - INFO - Baixado: 0894485100010220250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0894485100010220250424.txt
+2025-04-25 07:49:12,461 - INFO - Movendo 0894485100010220250424.txt de: /extrato_libercard//0894485100010220250424.txt para: /extrato_libercard/Processados//0894485100010220250424.txt
+2025-04-25 07:49:13,178 - INFO - Baixado: 0963435000018420250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0963435000018420250424.txt
+2025-04-25 07:49:13,273 - INFO - Movendo 0963435000018420250424.txt de: /extrato_libercard//0963435000018420250424.txt para: /extrato_libercard/Processados//0963435000018420250424.txt
+2025-04-25 07:49:13,949 - INFO - Baixado: 1051654200017520250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1051654200017520250424.txt
+2025-04-25 07:49:14,050 - INFO - Movendo 1051654200017520250424.txt de: /extrato_libercard//1051654200017520250424.txt para: /extrato_libercard/Processados//1051654200017520250424.txt
+2025-04-25 07:49:14,732 - INFO - Baixado: 0776837100016720250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0776837100016720250424.txt
+2025-04-25 07:49:14,829 - INFO - Movendo 0776837100016720250424.txt de: /extrato_libercard//0776837100016720250424.txt para: /extrato_libercard/Processados//0776837100016720250424.txt
+2025-04-25 07:49:15,619 - INFO - Baixado: 0724064100016220250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0724064100016220250424.txt
+2025-04-25 07:49:15,714 - INFO - Movendo 0724064100016220250424.txt de: /extrato_libercard//0724064100016220250424.txt para: /extrato_libercard/Processados//0724064100016220250424.txt
+2025-04-25 07:49:16,390 - INFO - Baixado: 1172857500014120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1172857500014120250424.txt
+2025-04-25 07:49:16,486 - INFO - Movendo 1172857500014120250424.txt de: /extrato_libercard//1172857500014120250424.txt para: /extrato_libercard/Processados//1172857500014120250424.txt
+2025-04-25 07:49:17,186 - INFO - Baixado: 0174625100018220250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0174625100018220250424.txt
+2025-04-25 07:49:17,282 - INFO - Movendo 0174625100018220250424.txt de: /extrato_libercard//0174625100018220250424.txt para: /extrato_libercard/Processados//0174625100018220250424.txt
+2025-04-25 07:49:17,970 - INFO - Baixado: 0018257400012820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0018257400012820250424.txt
+2025-04-25 07:49:18,067 - INFO - Movendo 0018257400012820250424.txt de: /extrato_libercard//0018257400012820250424.txt para: /extrato_libercard/Processados//0018257400012820250424.txt
+2025-04-25 07:49:18,755 - INFO - Baixado: 2217048500010220250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2217048500010220250424.txt
+2025-04-25 07:49:18,853 - INFO - Movendo 2217048500010220250424.txt de: /extrato_libercard//2217048500010220250424.txt para: /extrato_libercard/Processados//2217048500010220250424.txt
+2025-04-25 07:49:19,529 - INFO - Baixado: 0879865200012520250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0879865200012520250424.txt
+2025-04-25 07:49:19,625 - INFO - Movendo 0879865200012520250424.txt de: /extrato_libercard//0879865200012520250424.txt para: /extrato_libercard/Processados//0879865200012520250424.txt
+2025-04-25 07:49:20,299 - INFO - Baixado: 0502407800016020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0502407800016020250424.txt
+2025-04-25 07:49:20,396 - INFO - Movendo 0502407800016020250424.txt de: /extrato_libercard//0502407800016020250424.txt para: /extrato_libercard/Processados//0502407800016020250424.txt
+2025-04-25 07:49:21,067 - INFO - Baixado: 1030633400014120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1030633400014120250424.txt
+2025-04-25 07:49:21,166 - INFO - Movendo 1030633400014120250424.txt de: /extrato_libercard//1030633400014120250424.txt para: /extrato_libercard/Processados//1030633400014120250424.txt
+2025-04-25 07:49:21,845 - INFO - Baixado: 1466535700010120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1466535700010120250424.txt
+2025-04-25 07:49:21,940 - INFO - Movendo 1466535700010120250424.txt de: /extrato_libercard//1466535700010120250424.txt para: /extrato_libercard/Processados//1466535700010120250424.txt
+2025-04-25 07:49:22,615 - INFO - Baixado: 0814362500011420250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0814362500011420250424.txt
+2025-04-25 07:49:22,713 - INFO - Movendo 0814362500011420250424.txt de: /extrato_libercard//0814362500011420250424.txt para: /extrato_libercard/Processados//0814362500011420250424.txt
+2025-04-25 07:49:23,386 - INFO - Baixado: 1193884600019320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1193884600019320250424.txt
+2025-04-25 07:49:23,483 - INFO - Movendo 1193884600019320250424.txt de: /extrato_libercard//1193884600019320250424.txt para: /extrato_libercard/Processados//1193884600019320250424.txt
+2025-04-25 07:49:24,167 - INFO - Baixado: 7031510600016020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\7031510600016020250424.txt
+2025-04-25 07:49:24,265 - INFO - Movendo 7031510600016020250424.txt de: /extrato_libercard//7031510600016020250424.txt para: /extrato_libercard/Processados//7031510600016020250424.txt
+2025-04-25 07:49:24,944 - INFO - Baixado: 0426490000028820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0426490000028820250424.txt
+2025-04-25 07:49:25,039 - INFO - Movendo 0426490000028820250424.txt de: /extrato_libercard//0426490000028820250424.txt para: /extrato_libercard/Processados//0426490000028820250424.txt
+2025-04-25 07:49:25,717 - INFO - Baixado: 0414845300011020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0414845300011020250424.txt
+2025-04-25 07:49:25,814 - INFO - Movendo 0414845300011020250424.txt de: /extrato_libercard//0414845300011020250424.txt para: /extrato_libercard/Processados//0414845300011020250424.txt
+2025-04-25 07:49:26,493 - INFO - Baixado: 0635194700012320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0635194700012320250424.txt
+2025-04-25 07:49:26,588 - INFO - Movendo 0635194700012320250424.txt de: /extrato_libercard//0635194700012320250424.txt para: /extrato_libercard/Processados//0635194700012320250424.txt
+2025-04-25 07:49:27,266 - INFO - Baixado: 0119460000010920250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0119460000010920250424.txt
+2025-04-25 07:49:27,364 - INFO - Movendo 0119460000010920250424.txt de: /extrato_libercard//0119460000010920250424.txt para: /extrato_libercard/Processados//0119460000010920250424.txt
+2025-04-25 07:49:28,034 - INFO - Baixado: 0603902800011920250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0603902800011920250424.txt
+2025-04-25 07:49:28,131 - INFO - Movendo 0603902800011920250424.txt de: /extrato_libercard//0603902800011920250424.txt para: /extrato_libercard/Processados//0603902800011920250424.txt
+2025-04-25 07:49:28,803 - INFO - Baixado: 0603902800046120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0603902800046120250424.txt
+2025-04-25 07:49:28,898 - INFO - Movendo 0603902800046120250424.txt de: /extrato_libercard//0603902800046120250424.txt para: /extrato_libercard/Processados//0603902800046120250424.txt
+2025-04-25 07:49:29,577 - INFO - Baixado: 0603902800062320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0603902800062320250424.txt
+2025-04-25 07:49:29,672 - INFO - Movendo 0603902800062320250424.txt de: /extrato_libercard//0603902800062320250424.txt para: /extrato_libercard/Processados//0603902800062320250424.txt
+2025-04-25 07:49:30,350 - INFO - Baixado: 0603902800038020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0603902800038020250424.txt
+2025-04-25 07:49:30,445 - INFO - Movendo 0603902800038020250424.txt de: /extrato_libercard//0603902800038020250424.txt para: /extrato_libercard/Processados//0603902800038020250424.txt
+2025-04-25 07:49:31,123 - INFO - Baixado: 3523320400015720250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\3523320400015720250424.txt
+2025-04-25 07:49:31,220 - INFO - Movendo 3523320400015720250424.txt de: /extrato_libercard//3523320400015720250424.txt para: /extrato_libercard/Processados//3523320400015720250424.txt
+2025-04-25 07:49:31,895 - INFO - Baixado: 0153594100019220250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0153594100019220250424.txt
+2025-04-25 07:49:31,990 - INFO - Movendo 0153594100019220250424.txt de: /extrato_libercard//0153594100019220250424.txt para: /extrato_libercard/Processados//0153594100019220250424.txt
+2025-04-25 07:49:32,665 - INFO - Baixado: 0153594100027320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0153594100027320250424.txt
+2025-04-25 07:49:32,761 - INFO - Movendo 0153594100027320250424.txt de: /extrato_libercard//0153594100027320250424.txt para: /extrato_libercard/Processados//0153594100027320250424.txt
+2025-04-25 07:49:33,434 - INFO - Baixado: 0165672300010620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0165672300010620250424.txt
+2025-04-25 07:49:33,531 - INFO - Movendo 0165672300010620250424.txt de: /extrato_libercard//0165672300010620250424.txt para: /extrato_libercard/Processados//0165672300010620250424.txt
+2025-04-25 07:49:34,205 - INFO - Baixado: 0589228200010020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0589228200010020250424.txt
+2025-04-25 07:49:34,305 - INFO - Movendo 0589228200010020250424.txt de: /extrato_libercard//0589228200010020250424.txt para: /extrato_libercard/Processados//0589228200010020250424.txt
+2025-04-25 07:49:35,115 - INFO - Baixado: 1047869100019720250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1047869100019720250424.txt
+2025-04-25 07:49:35,211 - INFO - Movendo 1047869100019720250424.txt de: /extrato_libercard//1047869100019720250424.txt para: /extrato_libercard/Processados//1047869100019720250424.txt
+2025-04-25 07:49:35,889 - INFO - Baixado: 0536985000018520250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0536985000018520250424.txt
+2025-04-25 07:49:35,986 - INFO - Movendo 0536985000018520250424.txt de: /extrato_libercard//0536985000018520250424.txt para: /extrato_libercard/Processados//0536985000018520250424.txt
+2025-04-25 07:49:36,657 - INFO - Baixado: 3066725800010720250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\3066725800010720250424.txt
+2025-04-25 07:49:36,753 - INFO - Movendo 3066725800010720250424.txt de: /extrato_libercard//3066725800010720250424.txt para: /extrato_libercard/Processados//3066725800010720250424.txt
+2025-04-25 07:49:37,435 - INFO - Baixado: 1023788800013420250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1023788800013420250424.txt
+2025-04-25 07:49:37,532 - INFO - Movendo 1023788800013420250424.txt de: /extrato_libercard//1023788800013420250424.txt para: /extrato_libercard/Processados//1023788800013420250424.txt
+2025-04-25 07:49:38,210 - INFO - Baixado: 1026417000013720250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1026417000013720250424.txt
+2025-04-25 07:49:38,309 - INFO - Movendo 1026417000013720250424.txt de: /extrato_libercard//1026417000013720250424.txt para: /extrato_libercard/Processados//1026417000013720250424.txt
+2025-04-25 07:49:38,998 - INFO - Baixado: 0711063500019020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0711063500019020250424.txt
+2025-04-25 07:49:39,095 - INFO - Movendo 0711063500019020250424.txt de: /extrato_libercard//0711063500019020250424.txt para: /extrato_libercard/Processados//0711063500019020250424.txt
+2025-04-25 07:49:39,783 - INFO - Baixado: 0711063500027120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0711063500027120250424.txt
+2025-04-25 07:49:39,880 - INFO - Movendo 0711063500027120250424.txt de: /extrato_libercard//0711063500027120250424.txt para: /extrato_libercard/Processados//0711063500027120250424.txt
+2025-04-25 07:49:40,567 - INFO - Baixado: 0595947900010120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0595947900010120250424.txt
+2025-04-25 07:49:40,665 - INFO - Movendo 0595947900010120250424.txt de: /extrato_libercard//0595947900010120250424.txt para: /extrato_libercard/Processados//0595947900010120250424.txt
+2025-04-25 07:49:41,354 - INFO - Baixado: 3191877100019620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\3191877100019620250424.txt
+2025-04-25 07:49:41,449 - INFO - Movendo 3191877100019620250424.txt de: /extrato_libercard//3191877100019620250424.txt para: /extrato_libercard/Processados//3191877100019620250424.txt
+2025-04-25 07:49:42,123 - INFO - Baixado: 1833915400017820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1833915400017820250424.txt
+2025-04-25 07:49:42,220 - INFO - Movendo 1833915400017820250424.txt de: /extrato_libercard//1833915400017820250424.txt para: /extrato_libercard/Processados//1833915400017820250424.txt
+2025-04-25 07:49:42,895 - INFO - Baixado: 1657891700010820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1657891700010820250424.txt
+2025-04-25 07:49:42,993 - INFO - Movendo 1657891700010820250424.txt de: /extrato_libercard//1657891700010820250424.txt para: /extrato_libercard/Processados//1657891700010820250424.txt
+2025-04-25 07:49:43,675 - INFO - Baixado: 2170148400017620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2170148400017620250424.txt
+2025-04-25 07:49:43,771 - INFO - Movendo 2170148400017620250424.txt de: /extrato_libercard//2170148400017620250424.txt para: /extrato_libercard/Processados//2170148400017620250424.txt
+2025-04-25 07:49:44,442 - INFO - Baixado: 2483110500015020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2483110500015020250424.txt
+2025-04-25 07:49:44,539 - INFO - Movendo 2483110500015020250424.txt de: /extrato_libercard//2483110500015020250424.txt para: /extrato_libercard/Processados//2483110500015020250424.txt
+2025-04-25 07:49:45,219 - INFO - Baixado: 2675288200013520250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2675288200013520250424.txt
+2025-04-25 07:49:45,315 - INFO - Movendo 2675288200013520250424.txt de: /extrato_libercard//2675288200013520250424.txt para: /extrato_libercard/Processados//2675288200013520250424.txt
+2025-04-25 07:49:46,002 - INFO - Baixado: 2816207200015420250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2816207200015420250424.txt
+2025-04-25 07:49:46,098 - INFO - Movendo 2816207200015420250424.txt de: /extrato_libercard//2816207200015420250424.txt para: /extrato_libercard/Processados//2816207200015420250424.txt
+2025-04-25 07:49:46,774 - INFO - Baixado: 3073795000016420250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\3073795000016420250424.txt
+2025-04-25 07:49:46,870 - INFO - Movendo 3073795000016420250424.txt de: /extrato_libercard//3073795000016420250424.txt para: /extrato_libercard/Processados//3073795000016420250424.txt
+2025-04-25 07:49:47,548 - INFO - Baixado: 3087255700018320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\3087255700018320250424.txt
+2025-04-25 07:49:47,647 - INFO - Movendo 3087255700018320250424.txt de: /extrato_libercard//3087255700018320250424.txt para: /extrato_libercard/Processados//3087255700018320250424.txt
+2025-04-25 07:49:48,333 - INFO - Baixado: 3376492100018020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\3376492100018020250424.txt
+2025-04-25 07:49:48,432 - INFO - Movendo 3376492100018020250424.txt de: /extrato_libercard//3376492100018020250424.txt para: /extrato_libercard/Processados//3376492100018020250424.txt
+2025-04-25 07:49:49,123 - INFO - Baixado: 0547195500014020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0547195500014020250424.txt
+2025-04-25 07:49:49,219 - INFO - Movendo 0547195500014020250424.txt de: /extrato_libercard//0547195500014020250424.txt para: /extrato_libercard/Processados//0547195500014020250424.txt
+2025-04-25 07:49:49,910 - INFO - Baixado: 4141601700010120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\4141601700010120250424.txt
+2025-04-25 07:49:50,308 - INFO - Movendo 4141601700010120250424.txt de: /extrato_libercard//4141601700010120250424.txt para: /extrato_libercard/Processados//4141601700010120250424.txt
+2025-04-25 07:49:50,991 - INFO - Baixado: 0407895300012320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0407895300012320250424.txt
+2025-04-25 07:49:51,367 - INFO - Movendo 0407895300012320250424.txt de: /extrato_libercard//0407895300012320250424.txt para: /extrato_libercard/Processados//0407895300012320250424.txt
+2025-04-25 07:49:52,057 - INFO - Baixado: 1180539700010520250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1180539700010520250424.txt
+2025-04-25 07:49:52,154 - INFO - Movendo 1180539700010520250424.txt de: /extrato_libercard//1180539700010520250424.txt para: /extrato_libercard/Processados//1180539700010520250424.txt
+2025-04-25 07:49:52,847 - INFO - Baixado: 0290832400015820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0290832400015820250424.txt
+2025-04-25 07:49:52,948 - INFO - Movendo 0290832400015820250424.txt de: /extrato_libercard//0290832400015820250424.txt para: /extrato_libercard/Processados//0290832400015820250424.txt
+2025-04-25 07:49:53,634 - INFO - Baixado: 6340166500012720250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\6340166500012720250424.txt
+2025-04-25 07:49:53,734 - INFO - Movendo 6340166500012720250424.txt de: /extrato_libercard//6340166500012720250424.txt para: /extrato_libercard/Processados//6340166500012720250424.txt
+2025-04-25 07:49:54,419 - INFO - Baixado: 7401021600017420250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\7401021600017420250424.txt
+2025-04-25 07:49:54,520 - INFO - Movendo 7401021600017420250424.txt de: /extrato_libercard//7401021600017420250424.txt para: /extrato_libercard/Processados//7401021600017420250424.txt
+2025-04-25 07:49:55,208 - INFO - Baixado: 0721314300063520250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0721314300063520250424.txt
+2025-04-25 07:49:55,310 - INFO - Movendo 0721314300063520250424.txt de: /extrato_libercard//0721314300063520250424.txt para: /extrato_libercard/Processados//0721314300063520250424.txt
+2025-04-25 07:49:56,003 - INFO - Baixado: 0019520100027220250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0019520100027220250424.txt
+2025-04-25 07:49:56,105 - INFO - Movendo 0019520100027220250424.txt de: /extrato_libercard//0019520100027220250424.txt para: /extrato_libercard/Processados//0019520100027220250424.txt
+2025-04-25 07:49:56,801 - INFO - Baixado: 0020605800019620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0020605800019620250424.txt
+2025-04-25 07:49:56,903 - INFO - Movendo 0020605800019620250424.txt de: /extrato_libercard//0020605800019620250424.txt para: /extrato_libercard/Processados//0020605800019620250424.txt
+2025-04-25 07:49:57,581 - INFO - Baixado: 0378308500011020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0378308500011020250424.txt
+2025-04-25 07:49:57,676 - INFO - Movendo 0378308500011020250424.txt de: /extrato_libercard//0378308500011020250424.txt para: /extrato_libercard/Processados//0378308500011020250424.txt
+2025-04-25 07:49:58,364 - INFO - Baixado: 0229274700019620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0229274700019620250424.txt
+2025-04-25 07:49:58,459 - INFO - Movendo 0229274700019620250424.txt de: /extrato_libercard//0229274700019620250424.txt para: /extrato_libercard/Processados//0229274700019620250424.txt
+2025-04-25 07:49:59,143 - INFO - Baixado: 0229274700043920250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0229274700043920250424.txt
+2025-04-25 07:49:59,239 - INFO - Movendo 0229274700043920250424.txt de: /extrato_libercard//0229274700043920250424.txt para: /extrato_libercard/Processados//0229274700043920250424.txt
+2025-04-25 07:49:59,911 - INFO - Baixado: 0744877700016220250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0744877700016220250424.txt
+2025-04-25 07:50:00,008 - INFO - Movendo 0744877700016220250424.txt de: /extrato_libercard//0744877700016220250424.txt para: /extrato_libercard/Processados//0744877700016220250424.txt
+2025-04-25 07:50:00,883 - INFO - Baixado: 0817837500015820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0817837500015820250424.txt
+2025-04-25 07:50:00,982 - INFO - Movendo 0817837500015820250424.txt de: /extrato_libercard//0817837500015820250424.txt para: /extrato_libercard/Processados//0817837500015820250424.txt
+2025-04-25 07:50:01,653 - INFO - Baixado: 2409599800011320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2409599800011320250424.txt
+2025-04-25 07:50:01,748 - INFO - Movendo 2409599800011320250424.txt de: /extrato_libercard//2409599800011320250424.txt para: /extrato_libercard/Processados//2409599800011320250424.txt
+2025-04-25 07:50:02,422 - INFO - Baixado: 1915906700010020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1915906700010020250424.txt
+2025-04-25 07:50:02,521 - INFO - Movendo 1915906700010020250424.txt de: /extrato_libercard//1915906700010020250424.txt para: /extrato_libercard/Processados//1915906700010020250424.txt
+2025-04-25 07:50:03,199 - INFO - Baixado: 0496327000015920250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0496327000015920250424.txt
+2025-04-25 07:50:03,296 - INFO - Movendo 0496327000015920250424.txt de: /extrato_libercard//0496327000015920250424.txt para: /extrato_libercard/Processados//0496327000015920250424.txt
+2025-04-25 07:50:03,972 - INFO - Baixado: 4155066600010920250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\4155066600010920250424.txt
+2025-04-25 07:50:04,069 - INFO - Movendo 4155066600010920250424.txt de: /extrato_libercard//4155066600010920250424.txt para: /extrato_libercard/Processados//4155066600010920250424.txt
+2025-04-25 07:50:04,747 - INFO - Baixado: 0746747500013120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0746747500013120250424.txt
+2025-04-25 07:50:04,842 - INFO - Movendo 0746747500013120250424.txt de: /extrato_libercard//0746747500013120250424.txt para: /extrato_libercard/Processados//0746747500013120250424.txt
+2025-04-25 07:50:05,515 - INFO - Baixado: 1450778600014220250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1450778600014220250424.txt
+2025-04-25 07:50:05,612 - INFO - Movendo 1450778600014220250424.txt de: /extrato_libercard//1450778600014220250424.txt para: /extrato_libercard/Processados//1450778600014220250424.txt
+2025-04-25 07:50:06,288 - INFO - Baixado: 0177839700010020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0177839700010020250424.txt
+2025-04-25 07:50:06,382 - INFO - Movendo 0177839700010020250424.txt de: /extrato_libercard//0177839700010020250424.txt para: /extrato_libercard/Processados//0177839700010020250424.txt
+2025-04-25 07:50:07,055 - INFO - Baixado: 1199280900016320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1199280900016320250424.txt
+2025-04-25 07:50:07,152 - INFO - Movendo 1199280900016320250424.txt de: /extrato_libercard//1199280900016320250424.txt para: /extrato_libercard/Processados//1199280900016320250424.txt
+2025-04-25 07:50:07,832 - INFO - Baixado: 1036209500014720250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1036209500014720250424.txt
+2025-04-25 07:50:07,928 - INFO - Movendo 1036209500014720250424.txt de: /extrato_libercard//1036209500014720250424.txt para: /extrato_libercard/Processados//1036209500014720250424.txt
+2025-04-25 07:50:08,598 - INFO - Baixado: 4156757900015620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\4156757900015620250424.txt
+2025-04-25 07:50:08,696 - INFO - Movendo 4156757900015620250424.txt de: /extrato_libercard//4156757900015620250424.txt para: /extrato_libercard/Processados//4156757900015620250424.txt
+2025-04-25 07:50:09,378 - INFO - Baixado: 2242958800013620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2242958800013620250424.txt
+2025-04-25 07:50:09,476 - INFO - Movendo 2242958800013620250424.txt de: /extrato_libercard//2242958800013620250424.txt para: /extrato_libercard/Processados//2242958800013620250424.txt
+2025-04-25 07:50:10,151 - INFO - Baixado: 0785733200013620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0785733200013620250424.txt
+2025-04-25 07:50:10,249 - INFO - Movendo 0785733200013620250424.txt de: /extrato_libercard//0785733200013620250424.txt para: /extrato_libercard/Processados//0785733200013620250424.txt
+2025-04-25 07:50:10,945 - INFO - Baixado: 0622808300015720250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0622808300015720250424.txt
+2025-04-25 07:50:11,043 - INFO - Movendo 0622808300015720250424.txt de: /extrato_libercard//0622808300015720250424.txt para: /extrato_libercard/Processados//0622808300015720250424.txt
+2025-04-25 07:50:11,720 - INFO - Baixado: 0331254900010020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0331254900010020250424.txt
+2025-04-25 07:50:11,815 - INFO - Movendo 0331254900010020250424.txt de: /extrato_libercard//0331254900010020250424.txt para: /extrato_libercard/Processados//0331254900010020250424.txt
+2025-04-25 07:50:12,494 - INFO - Baixado: 0062653000014020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0062653000014020250424.txt
+2025-04-25 07:50:12,594 - INFO - Movendo 0062653000014020250424.txt de: /extrato_libercard//0062653000014020250424.txt para: /extrato_libercard/Processados//0062653000014020250424.txt
+2025-04-25 07:50:13,270 - INFO - Baixado: 0625094200010420250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0625094200010420250424.txt
+2025-04-25 07:50:13,365 - INFO - Movendo 0625094200010420250424.txt de: /extrato_libercard//0625094200010420250424.txt para: /extrato_libercard/Processados//0625094200010420250424.txt
+2025-04-25 07:50:14,038 - INFO - Baixado: 0770916300019720250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0770916300019720250424.txt
+2025-04-25 07:50:14,137 - INFO - Movendo 0770916300019720250424.txt de: /extrato_libercard//0770916300019720250424.txt para: /extrato_libercard/Processados//0770916300019720250424.txt
+2025-04-25 07:50:14,815 - INFO - Baixado: 0770916300027820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0770916300027820250424.txt
+2025-04-25 07:50:14,910 - INFO - Movendo 0770916300027820250424.txt de: /extrato_libercard//0770916300027820250424.txt para: /extrato_libercard/Processados//0770916300027820250424.txt
+2025-04-25 07:50:15,588 - INFO - Baixado: 0788511100017120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0788511100017120250424.txt
+2025-04-25 07:50:15,684 - INFO - Movendo 0788511100017120250424.txt de: /extrato_libercard//0788511100017120250424.txt para: /extrato_libercard/Processados//0788511100017120250424.txt
+2025-04-25 07:50:16,363 - INFO - Baixado: 1114565900015220250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1114565900015220250424.txt
+2025-04-25 07:50:16,459 - INFO - Movendo 1114565900015220250424.txt de: /extrato_libercard//1114565900015220250424.txt para: /extrato_libercard/Processados//1114565900015220250424.txt
+2025-04-25 07:50:17,139 - INFO - Baixado: 1469244800012820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1469244800012820250424.txt
+2025-04-25 07:50:17,235 - INFO - Movendo 1469244800012820250424.txt de: /extrato_libercard//1469244800012820250424.txt para: /extrato_libercard/Processados//1469244800012820250424.txt
+2025-04-25 07:50:17,910 - INFO - Baixado: 0734278500101020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0734278500101020250424.txt
+2025-04-25 07:50:18,004 - INFO - Movendo 0734278500101020250424.txt de: /extrato_libercard//0734278500101020250424.txt para: /extrato_libercard/Processados//0734278500101020250424.txt
+2025-04-25 07:50:18,711 - INFO - Baixado: 1144486200012020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1144486200012020250424.txt
+2025-04-25 07:50:18,807 - INFO - Movendo 1144486200012020250424.txt de: /extrato_libercard//1144486200012020250424.txt para: /extrato_libercard/Processados//1144486200012020250424.txt
+2025-04-25 07:50:19,481 - INFO - Baixado: 1023788800021520250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1023788800021520250424.txt
+2025-04-25 07:50:19,576 - INFO - Movendo 1023788800021520250424.txt de: /extrato_libercard//1023788800021520250424.txt para: /extrato_libercard/Processados//1023788800021520250424.txt
+2025-04-25 07:50:20,254 - INFO - Baixado: 0483990000018820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0483990000018820250424.txt
+2025-04-25 07:50:20,350 - INFO - Movendo 0483990000018820250424.txt de: /extrato_libercard//0483990000018820250424.txt para: /extrato_libercard/Processados//0483990000018820250424.txt
+2025-04-25 07:50:21,024 - INFO - Baixado: 0283417100014120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0283417100014120250424.txt
+2025-04-25 07:50:21,119 - INFO - Movendo 0283417100014120250424.txt de: /extrato_libercard//0283417100014120250424.txt para: /extrato_libercard/Processados//0283417100014120250424.txt
+2025-04-25 07:50:21,797 - INFO - Baixado: 0283417100022220250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0283417100022220250424.txt
+2025-04-25 07:50:21,893 - INFO - Movendo 0283417100022220250424.txt de: /extrato_libercard//0283417100022220250424.txt para: /extrato_libercard/Processados//0283417100022220250424.txt
+2025-04-25 07:50:22,572 - INFO - Baixado: 0283417100030320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0283417100030320250424.txt
+2025-04-25 07:50:22,682 - INFO - Movendo 0283417100030320250424.txt de: /extrato_libercard//0283417100030320250424.txt para: /extrato_libercard/Processados//0283417100030320250424.txt
+2025-04-25 07:50:23,357 - INFO - Baixado: 0431914500010020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0431914500010020250424.txt
+2025-04-25 07:50:23,452 - INFO - Movendo 0431914500010020250424.txt de: /extrato_libercard//0431914500010020250424.txt para: /extrato_libercard/Processados//0431914500010020250424.txt
+2025-04-25 07:50:24,133 - INFO - Baixado: 1371115900016620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1371115900016620250424.txt
+2025-04-25 07:50:24,230 - INFO - Movendo 1371115900016620250424.txt de: /extrato_libercard//1371115900016620250424.txt para: /extrato_libercard/Processados//1371115900016620250424.txt
+2025-04-25 07:50:24,906 - INFO - Baixado: 0484270000018420250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0484270000018420250424.txt
+2025-04-25 07:50:25,002 - INFO - Movendo 0484270000018420250424.txt de: /extrato_libercard//0484270000018420250424.txt para: /extrato_libercard/Processados//0484270000018420250424.txt
+2025-04-25 07:50:25,676 - INFO - Baixado: 2360299300017720250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2360299300017720250424.txt
+2025-04-25 07:50:25,778 - INFO - Movendo 2360299300017720250424.txt de: /extrato_libercard//2360299300017720250424.txt para: /extrato_libercard/Processados//2360299300017720250424.txt
+2025-04-25 07:50:26,453 - INFO - Baixado: 2664358600010420250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2664358600010420250424.txt
+2025-04-25 07:50:26,550 - INFO - Movendo 2664358600010420250424.txt de: /extrato_libercard//2664358600010420250424.txt para: /extrato_libercard/Processados//2664358600010420250424.txt
+2025-04-25 07:50:27,226 - INFO - Baixado: 0568637800010420250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0568637800010420250424.txt
+2025-04-25 07:50:27,323 - INFO - Movendo 0568637800010420250424.txt de: /extrato_libercard//0568637800010420250424.txt para: /extrato_libercard/Processados//0568637800010420250424.txt
+2025-04-25 07:50:27,998 - INFO - Baixado: 0616520800014720250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0616520800014720250424.txt
+2025-04-25 07:50:28,094 - INFO - Movendo 0616520800014720250424.txt de: /extrato_libercard//0616520800014720250424.txt para: /extrato_libercard/Processados//0616520800014720250424.txt
+2025-04-25 07:50:28,770 - INFO - Baixado: 0478714000010220250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0478714000010220250424.txt
+2025-04-25 07:50:28,863 - INFO - Movendo 0478714000010220250424.txt de: /extrato_libercard//0478714000010220250424.txt para: /extrato_libercard/Processados//0478714000010220250424.txt
+2025-04-25 07:50:29,554 - INFO - Baixado: 0549183600015020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0549183600015020250424.txt
+2025-04-25 07:50:29,649 - INFO - Movendo 0549183600015020250424.txt de: /extrato_libercard//0549183600015020250424.txt para: /extrato_libercard/Processados//0549183600015020250424.txt
+2025-04-25 07:50:30,323 - INFO - Baixado: 2109476900019620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2109476900019620250424.txt
+2025-04-25 07:50:30,417 - INFO - Movendo 2109476900019620250424.txt de: /extrato_libercard//2109476900019620250424.txt para: /extrato_libercard/Processados//2109476900019620250424.txt
+2025-04-25 07:50:31,096 - INFO - Baixado: 2109476900027720250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2109476900027720250424.txt
+2025-04-25 07:50:31,193 - INFO - Movendo 2109476900027720250424.txt de: /extrato_libercard//2109476900027720250424.txt para: /extrato_libercard/Processados//2109476900027720250424.txt
+2025-04-25 07:50:31,864 - INFO - Baixado: 0455893900012720250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0455893900012720250424.txt
+2025-04-25 07:50:31,959 - INFO - Movendo 0455893900012720250424.txt de: /extrato_libercard//0455893900012720250424.txt para: /extrato_libercard/Processados//0455893900012720250424.txt
+2025-04-25 07:50:32,638 - INFO - Baixado: 2370871200016520250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2370871200016520250424.txt
+2025-04-25 07:50:32,734 - INFO - Movendo 2370871200016520250424.txt de: /extrato_libercard//2370871200016520250424.txt para: /extrato_libercard/Processados//2370871200016520250424.txt
+2025-04-25 07:50:33,411 - INFO - Baixado: 1118672700012120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1118672700012120250424.txt
+2025-04-25 07:50:33,507 - INFO - Movendo 1118672700012120250424.txt de: /extrato_libercard//1118672700012120250424.txt para: /extrato_libercard/Processados//1118672700012120250424.txt
+2025-04-25 07:50:34,184 - INFO - Baixado: 0533942200010020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0533942200010020250424.txt
+2025-04-25 07:50:34,282 - INFO - Movendo 0533942200010020250424.txt de: /extrato_libercard//0533942200010020250424.txt para: /extrato_libercard/Processados//0533942200010020250424.txt
+2025-04-25 07:50:35,294 - INFO - Baixado: 0688766800018920250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0688766800018920250424.txt
+2025-04-25 07:50:35,389 - INFO - Movendo 0688766800018920250424.txt de: /extrato_libercard//0688766800018920250424.txt para: /extrato_libercard/Processados//0688766800018920250424.txt
+2025-04-25 07:50:36,064 - INFO - Baixado: 0742011000015120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0742011000015120250424.txt
+2025-04-25 07:50:36,160 - INFO - Movendo 0742011000015120250424.txt de: /extrato_libercard//0742011000015120250424.txt para: /extrato_libercard/Processados//0742011000015120250424.txt
+2025-04-25 07:50:36,838 - INFO - Baixado: 0497153100018220250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0497153100018220250424.txt
+2025-04-25 07:50:36,932 - INFO - Movendo 0497153100018220250424.txt de: /extrato_libercard//0497153100018220250424.txt para: /extrato_libercard/Processados//0497153100018220250424.txt
+2025-04-25 07:50:37,606 - INFO - Baixado: 0527191500015520250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0527191500015520250424.txt
+2025-04-25 07:50:37,701 - INFO - Movendo 0527191500015520250424.txt de: /extrato_libercard//0527191500015520250424.txt para: /extrato_libercard/Processados//0527191500015520250424.txt
+2025-04-25 07:50:38,391 - INFO - Baixado: 2271336800013020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2271336800013020250424.txt
+2025-04-25 07:50:38,486 - INFO - Movendo 2271336800013020250424.txt de: /extrato_libercard//2271336800013020250424.txt para: /extrato_libercard/Processados//2271336800013020250424.txt
+2025-04-25 07:50:39,162 - INFO - Baixado: 0312314200072020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0312314200072020250424.txt
+2025-04-25 07:50:39,261 - INFO - Movendo 0312314200072020250424.txt de: /extrato_libercard//0312314200072020250424.txt para: /extrato_libercard/Processados//0312314200072020250424.txt
+2025-04-25 07:50:39,939 - INFO - Baixado: 0467560400027020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0467560400027020250424.txt
+2025-04-25 07:50:40,034 - INFO - Movendo 0467560400027020250424.txt de: /extrato_libercard//0467560400027020250424.txt para: /extrato_libercard/Processados//0467560400027020250424.txt
+2025-04-25 07:50:40,731 - INFO - Baixado: LIBERCARD_20250424000000_060294_08394192000170.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\LIBERCARD_20250424000000_060294_08394192000170.txt
+2025-04-25 07:50:40,828 - INFO - Movendo LIBERCARD_20250424000000_060294_08394192000170.txt de: /extrato_libercard//LIBERCARD_20250424000000_060294_08394192000170.txt para: /extrato_libercard/Processados//LIBERCARD_20250424000000_060294_08394192000170.txt
+2025-04-25 07:50:41,508 - INFO - Baixado: LIBERCARD_20250424000000_060295_08090734000200.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\LIBERCARD_20250424000000_060295_08090734000200.txt
+2025-04-25 07:50:41,606 - INFO - Movendo LIBERCARD_20250424000000_060295_08090734000200.txt de: /extrato_libercard//LIBERCARD_20250424000000_060295_08090734000200.txt para: /extrato_libercard/Processados//LIBERCARD_20250424000000_060295_08090734000200.txt
+2025-04-25 07:50:42,279 - INFO - Baixado: LIBERCARD_20250424000000_060296_08090734000382.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\LIBERCARD_20250424000000_060296_08090734000382.txt
+2025-04-25 07:50:42,376 - INFO - Movendo LIBERCARD_20250424000000_060296_08090734000382.txt de: /extrato_libercard//LIBERCARD_20250424000000_060296_08090734000382.txt para: /extrato_libercard/Processados//LIBERCARD_20250424000000_060296_08090734000382.txt
+2025-04-25 07:50:43,051 - INFO - Baixado: LIBERCARD_20250424000000_060297_28261163000147.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\LIBERCARD_20250424000000_060297_28261163000147.txt
+2025-04-25 07:50:43,146 - INFO - Movendo LIBERCARD_20250424000000_060297_28261163000147.txt de: /extrato_libercard//LIBERCARD_20250424000000_060297_28261163000147.txt para: /extrato_libercard/Processados//LIBERCARD_20250424000000_060297_28261163000147.txt
+2025-04-25 07:50:43,822 - INFO - Baixado: 2221672000012120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2221672000012120250424.txt
+2025-04-25 07:50:43,919 - INFO - Movendo 2221672000012120250424.txt de: /extrato_libercard//2221672000012120250424.txt para: /extrato_libercard/Processados//2221672000012120250424.txt
+2025-04-25 07:50:44,598 - INFO - Baixado: LIBERCARD_20250424000000_060298_09238322000148.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\LIBERCARD_20250424000000_060298_09238322000148.txt
+2025-04-25 07:50:44,695 - INFO - Movendo LIBERCARD_20250424000000_060298_09238322000148.txt de: /extrato_libercard//LIBERCARD_20250424000000_060298_09238322000148.txt para: /extrato_libercard/Processados//LIBERCARD_20250424000000_060298_09238322000148.txt
+2025-04-25 07:50:45,373 - INFO - Baixado: 0312314200064920250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0312314200064920250424.txt
+2025-04-25 07:50:45,470 - INFO - Movendo 0312314200064920250424.txt de: /extrato_libercard//0312314200064920250424.txt para: /extrato_libercard/Processados//0312314200064920250424.txt
+2025-04-25 07:50:46,143 - INFO - Baixado: 0499552600010020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0499552600010020250424.txt
+2025-04-25 07:50:46,239 - INFO - Movendo 0499552600010020250424.txt de: /extrato_libercard//0499552600010020250424.txt para: /extrato_libercard/Processados//0499552600010020250424.txt
+2025-04-25 07:50:46,917 - INFO - Baixado: 2395778700018020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2395778700018020250424.txt
+2025-04-25 07:50:47,015 - INFO - Movendo 2395778700018020250424.txt de: /extrato_libercard//2395778700018020250424.txt para: /extrato_libercard/Processados//2395778700018020250424.txt
+2025-04-25 07:50:47,697 - INFO - Baixado: 2395778700034120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2395778700034120250424.txt
+2025-04-25 07:50:47,794 - INFO - Movendo 2395778700034120250424.txt de: /extrato_libercard//2395778700034120250424.txt para: /extrato_libercard/Processados//2395778700034120250424.txt
+2025-04-25 07:50:48,483 - INFO - Baixado: 1132256500010120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1132256500010120250424.txt
+2025-04-25 07:50:48,580 - INFO - Movendo 1132256500010120250424.txt de: /extrato_libercard//1132256500010120250424.txt para: /extrato_libercard/Processados//1132256500010120250424.txt
+2025-04-25 07:50:49,259 - INFO - Baixado: 0410321700034020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0410321700034020250424.txt
+2025-04-25 07:50:49,354 - INFO - Movendo 0410321700034020250424.txt de: /extrato_libercard//0410321700034020250424.txt para: /extrato_libercard/Processados//0410321700034020250424.txt
+2025-04-25 07:50:50,040 - INFO - Baixado: LIBERCARD_20250424000000_060299_14242030000119.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\LIBERCARD_20250424000000_060299_14242030000119.txt
+2025-04-25 07:50:50,148 - INFO - Movendo LIBERCARD_20250424000000_060299_14242030000119.txt de: /extrato_libercard//LIBERCARD_20250424000000_060299_14242030000119.txt para: /extrato_libercard/Processados//LIBERCARD_20250424000000_060299_14242030000119.txt
+2025-04-25 07:50:50,831 - INFO - Baixado: 2152271400021020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2152271400021020250424.txt
+2025-04-25 07:50:50,927 - INFO - Movendo 2152271400021020250424.txt de: /extrato_libercard//2152271400021020250424.txt para: /extrato_libercard/Processados//2152271400021020250424.txt
+2025-04-25 07:50:51,605 - INFO - Baixado: 4106511600019620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\4106511600019620250424.txt
+2025-04-25 07:50:51,702 - INFO - Movendo 4106511600019620250424.txt de: /extrato_libercard//4106511600019620250424.txt para: /extrato_libercard/Processados//4106511600019620250424.txt
+2025-04-25 07:50:52,377 - INFO - Baixado: 0463237400018020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0463237400018020250424.txt
+2025-04-25 07:50:52,471 - INFO - Movendo 0463237400018020250424.txt de: /extrato_libercard//0463237400018020250424.txt para: /extrato_libercard/Processados//0463237400018020250424.txt
+2025-04-25 07:50:53,146 - INFO - Baixado: 0463237400034220250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0463237400034220250424.txt
+2025-04-25 07:50:53,242 - INFO - Movendo 0463237400034220250424.txt de: /extrato_libercard//0463237400034220250424.txt para: /extrato_libercard/Processados//0463237400034220250424.txt
+2025-04-25 07:50:53,921 - INFO - Baixado: 2914220200015020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2914220200015020250424.txt
+2025-04-25 07:50:54,018 - INFO - Movendo 2914220200015020250424.txt de: /extrato_libercard//2914220200015020250424.txt para: /extrato_libercard/Processados//2914220200015020250424.txt
+2025-04-25 07:50:54,693 - INFO - Baixado: 0951761700066820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0951761700066820250424.txt
+2025-04-25 07:50:54,789 - INFO - Movendo 0951761700066820250424.txt de: /extrato_libercard//0951761700066820250424.txt para: /extrato_libercard/Processados//0951761700066820250424.txt
+2025-04-25 07:50:55,466 - INFO - Baixado: 0537791700063820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0537791700063820250424.txt
+2025-04-25 07:50:55,559 - INFO - Movendo 0537791700063820250424.txt de: /extrato_libercard//0537791700063820250424.txt para: /extrato_libercard/Processados//0537791700063820250424.txt
+2025-04-25 07:50:56,236 - INFO - Baixado: 0094539600022020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0094539600022020250424.txt
+2025-04-25 07:50:56,332 - INFO - Movendo 0094539600022020250424.txt de: /extrato_libercard//0094539600022020250424.txt para: /extrato_libercard/Processados//0094539600022020250424.txt
+2025-04-25 07:50:57,007 - INFO - Baixado: 1888559600011020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1888559600011020250424.txt
+2025-04-25 07:50:57,102 - INFO - Movendo 1888559600011020250424.txt de: /extrato_libercard//1888559600011020250424.txt para: /extrato_libercard/Processados//1888559600011020250424.txt
+2025-04-25 07:50:57,775 - INFO - Baixado: LIBERCARD_20250424000000_060300_13722711000111.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\LIBERCARD_20250424000000_060300_13722711000111.txt
+2025-04-25 07:50:57,871 - INFO - Movendo LIBERCARD_20250424000000_060300_13722711000111.txt de: /extrato_libercard//LIBERCARD_20250424000000_060300_13722711000111.txt para: /extrato_libercard/Processados//LIBERCARD_20250424000000_060300_13722711000111.txt
+2025-04-25 07:50:58,557 - INFO - Baixado: LIBERCARD_20250424000000_060301_08394192000684.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\LIBERCARD_20250424000000_060301_08394192000684.txt
+2025-04-25 07:50:58,653 - INFO - Movendo LIBERCARD_20250424000000_060301_08394192000684.txt de: /extrato_libercard//LIBERCARD_20250424000000_060301_08394192000684.txt para: /extrato_libercard/Processados//LIBERCARD_20250424000000_060301_08394192000684.txt
+2025-04-25 07:50:59,329 - INFO - Baixado: 0951761700058720250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0951761700058720250424.txt
+2025-04-25 07:50:59,424 - INFO - Movendo 0951761700058720250424.txt de: /extrato_libercard//0951761700058720250424.txt para: /extrato_libercard/Processados//0951761700058720250424.txt
+2025-04-25 07:51:00,099 - INFO - Baixado: 0634151200010620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0634151200010620250424.txt
+2025-04-25 07:51:00,193 - INFO - Movendo 0634151200010620250424.txt de: /extrato_libercard//0634151200010620250424.txt para: /extrato_libercard/Processados//0634151200010620250424.txt
+2025-04-25 07:51:00,874 - INFO - Baixado: 1437880100010820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1437880100010820250424.txt
+2025-04-25 07:51:00,969 - INFO - Movendo 1437880100010820250424.txt de: /extrato_libercard//1437880100010820250424.txt para: /extrato_libercard/Processados//1437880100010820250424.txt
+2025-04-25 07:51:01,649 - INFO - Baixado: 1066489300012320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1066489300012320250424.txt
+2025-04-25 07:51:01,744 - INFO - Movendo 1066489300012320250424.txt de: /extrato_libercard//1066489300012320250424.txt para: /extrato_libercard/Processados//1066489300012320250424.txt
+2025-04-25 07:51:02,426 - INFO - Baixado: 2354429900014020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2354429900014020250424.txt
+2025-04-25 07:51:02,520 - INFO - Movendo 2354429900014020250424.txt de: /extrato_libercard//2354429900014020250424.txt para: /extrato_libercard/Processados//2354429900014020250424.txt
+2025-04-25 07:51:03,199 - INFO - Baixado: 2615837900015620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2615837900015620250424.txt
+2025-04-25 07:51:03,295 - INFO - Movendo 2615837900015620250424.txt de: /extrato_libercard//2615837900015620250424.txt para: /extrato_libercard/Processados//2615837900015620250424.txt
+2025-04-25 07:51:03,970 - INFO - Baixado: 2152271400030020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2152271400030020250424.txt
+2025-04-25 07:51:04,067 - INFO - Movendo 2152271400030020250424.txt de: /extrato_libercard//2152271400030020250424.txt para: /extrato_libercard/Processados//2152271400030020250424.txt
+2025-04-25 07:51:04,739 - INFO - Baixado: 2152271400056320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2152271400056320250424.txt
+2025-04-25 07:51:04,837 - INFO - Movendo 2152271400056320250424.txt de: /extrato_libercard//2152271400056320250424.txt para: /extrato_libercard/Processados//2152271400056320250424.txt
+2025-04-25 07:51:05,744 - INFO - Baixado: 0460116500017020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0460116500017020250424.txt
+2025-04-25 07:51:05,839 - INFO - Movendo 0460116500017020250424.txt de: /extrato_libercard//0460116500017020250424.txt para: /extrato_libercard/Processados//0460116500017020250424.txt
+2025-04-25 07:51:06,521 - INFO - Baixado: 0312314200056820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0312314200056820250424.txt
+2025-04-25 07:51:06,617 - INFO - Movendo 0312314200056820250424.txt de: /extrato_libercard//0312314200056820250424.txt para: /extrato_libercard/Processados//0312314200056820250424.txt
+2025-04-25 07:51:07,298 - INFO - Baixado: LIBERCARD_20250424000000_060302_02114945000160.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\LIBERCARD_20250424000000_060302_02114945000160.txt
+2025-04-25 07:51:07,393 - INFO - Movendo LIBERCARD_20250424000000_060302_02114945000160.txt de: /extrato_libercard//LIBERCARD_20250424000000_060302_02114945000160.txt para: /extrato_libercard/Processados//LIBERCARD_20250424000000_060302_02114945000160.txt
+2025-04-25 07:51:08,077 - INFO - Baixado: 1075718700012620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\1075718700012620250424.txt
+2025-04-25 07:51:08,173 - INFO - Movendo 1075718700012620250424.txt de: /extrato_libercard//1075718700012620250424.txt para: /extrato_libercard/Processados//1075718700012620250424.txt
+2025-04-25 07:51:08,845 - INFO - Baixado: LIBERCARD_20250424000000_060303_32768826000191.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\LIBERCARD_20250424000000_060303_32768826000191.txt
+2025-04-25 07:51:08,942 - INFO - Movendo LIBERCARD_20250424000000_060303_32768826000191.txt de: /extrato_libercard//LIBERCARD_20250424000000_060303_32768826000191.txt para: /extrato_libercard/Processados//LIBERCARD_20250424000000_060303_32768826000191.txt
+2025-04-25 07:51:09,617 - INFO - Baixado: 2093621200019220250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2093621200019220250424.txt
+2025-04-25 07:51:09,712 - INFO - Movendo 2093621200019220250424.txt de: /extrato_libercard//2093621200019220250424.txt para: /extrato_libercard/Processados//2093621200019220250424.txt
+2025-04-25 07:51:10,391 - INFO - Baixado: 2093621200027320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2093621200027320250424.txt
+2025-04-25 07:51:10,489 - INFO - Movendo 2093621200027320250424.txt de: /extrato_libercard//2093621200027320250424.txt para: /extrato_libercard/Processados//2093621200027320250424.txt
+2025-04-25 07:51:11,168 - INFO - Baixado: 2093621200043520250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2093621200043520250424.txt
+2025-04-25 07:51:11,265 - INFO - Movendo 2093621200043520250424.txt de: /extrato_libercard//2093621200043520250424.txt para: /extrato_libercard/Processados//2093621200043520250424.txt
+2025-04-25 07:51:12,226 - INFO - Baixado: 0878139400025520250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0878139400025520250424.txt
+2025-04-25 07:51:12,322 - INFO - Movendo 0878139400025520250424.txt de: /extrato_libercard//0878139400025520250424.txt para: /extrato_libercard/Processados//0878139400025520250424.txt
+2025-04-25 07:51:12,999 - INFO - Baixado: 2395778700042220250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2395778700042220250424.txt
+2025-04-25 07:51:13,097 - INFO - Movendo 2395778700042220250424.txt de: /extrato_libercard//2395778700042220250424.txt para: /extrato_libercard/Processados//2395778700042220250424.txt
+2025-04-25 07:51:13,778 - INFO - Baixado: 2395778700050320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2395778700050320250424.txt
+2025-04-25 07:51:13,873 - INFO - Movendo 2395778700050320250424.txt de: /extrato_libercard//2395778700050320250424.txt para: /extrato_libercard/Processados//2395778700050320250424.txt
+2025-04-25 07:51:14,553 - INFO - Baixado: 3121818500013920250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\3121818500013920250424.txt
+2025-04-25 07:51:14,650 - INFO - Movendo 3121818500013920250424.txt de: /extrato_libercard//3121818500013920250424.txt para: /extrato_libercard/Processados//3121818500013920250424.txt
+2025-04-25 07:51:15,339 - INFO - Baixado: 0094539600014020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0094539600014020250424.txt
+2025-04-25 07:51:15,439 - INFO - Movendo 0094539600014020250424.txt de: /extrato_libercard//0094539600014020250424.txt para: /extrato_libercard/Processados//0094539600014020250424.txt
+2025-04-25 07:51:16,119 - INFO - Baixado: 2886160800012020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\2886160800012020250424.txt
+2025-04-25 07:51:16,215 - INFO - Movendo 2886160800012020250424.txt de: /extrato_libercard//2886160800012020250424.txt para: /extrato_libercard/Processados//2886160800012020250424.txt
+2025-04-25 07:51:16,884 - INFO - Baixado: 4750387000014720250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\4750387000014720250424.txt
+2025-04-25 07:51:16,980 - INFO - Movendo 4750387000014720250424.txt de: /extrato_libercard//4750387000014720250424.txt para: /extrato_libercard/Processados//4750387000014720250424.txt
+2025-04-25 07:51:17,653 - INFO - Baixado: 4750387000022820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\4750387000022820250424.txt
+2025-04-25 07:51:17,753 - INFO - Movendo 4750387000022820250424.txt de: /extrato_libercard//4750387000022820250424.txt para: /extrato_libercard/Processados//4750387000022820250424.txt
+2025-04-25 07:51:18,427 - INFO - Baixado: 4750387000030920250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\4750387000030920250424.txt
+2025-04-25 07:51:18,523 - INFO - Movendo 4750387000030920250424.txt de: /extrato_libercard//4750387000030920250424.txt para: /extrato_libercard/Processados//4750387000030920250424.txt
+2025-04-25 07:51:19,221 - INFO - Baixado: 4750387000049020250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\4750387000049020250424.txt
+2025-04-25 07:51:19,318 - INFO - Movendo 4750387000049020250424.txt de: /extrato_libercard//4750387000049020250424.txt para: /extrato_libercard/Processados//4750387000049020250424.txt
+2025-04-25 07:51:19,994 - INFO - Baixado: 0463237400042320250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0463237400042320250424.txt
+2025-04-25 07:51:20,089 - INFO - Movendo 0463237400042320250424.txt de: /extrato_libercard//0463237400042320250424.txt para: /extrato_libercard/Processados//0463237400042320250424.txt
+2025-04-25 07:51:20,762 - INFO - Baixado: 0410321700018820250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0410321700018820250424.txt
+2025-04-25 07:51:20,858 - INFO - Movendo 0410321700018820250424.txt de: /extrato_libercard//0410321700018820250424.txt para: /extrato_libercard/Processados//0410321700018820250424.txt
+2025-04-25 07:51:21,528 - INFO - Baixado: 0463237400026120250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0463237400026120250424.txt
+2025-04-25 07:51:21,623 - INFO - Movendo 0463237400026120250424.txt de: /extrato_libercard//0463237400026120250424.txt para: /extrato_libercard/Processados//0463237400026120250424.txt
+2025-04-25 07:51:22,299 - INFO - Baixado: 0463237400050420250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0463237400050420250424.txt
+2025-04-25 07:51:22,398 - INFO - Movendo 0463237400050420250424.txt de: /extrato_libercard//0463237400050420250424.txt para: /extrato_libercard/Processados//0463237400050420250424.txt
+2025-04-25 07:51:23,069 - INFO - Baixado: 0463237400069520250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0463237400069520250424.txt
+2025-04-25 07:51:23,164 - INFO - Movendo 0463237400069520250424.txt de: /extrato_libercard//0463237400069520250424.txt para: /extrato_libercard/Processados//0463237400069520250424.txt
+2025-04-25 07:51:23,846 - INFO - Baixado: 0463237400077620250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\0463237400077620250424.txt
+2025-04-25 07:51:23,943 - INFO - Movendo 0463237400077620250424.txt de: /extrato_libercard//0463237400077620250424.txt para: /extrato_libercard/Processados//0463237400077620250424.txt
+2025-04-25 07:51:24,623 - INFO - Baixado: LIBERCARD_20250424000000_060304_30721896000320.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\LIBERCARD_20250424000000_060304_30721896000320.txt
+2025-04-25 07:51:24,720 - INFO - Movendo LIBERCARD_20250424000000_060304_30721896000320.txt de: /extrato_libercard//LIBERCARD_20250424000000_060304_30721896000320.txt para: /extrato_libercard/Processados//LIBERCARD_20250424000000_060304_30721896000320.txt
+2025-04-25 07:51:25,404 - INFO - Baixado: LIBERCARD_20250424000000_060305_16785684000114.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\LIBERCARD_20250424000000_060305_16785684000114.txt
+2025-04-25 07:51:25,501 - INFO - Movendo LIBERCARD_20250424000000_060305_16785684000114.txt de: /extrato_libercard//LIBERCARD_20250424000000_060305_16785684000114.txt para: /extrato_libercard/Processados//LIBERCARD_20250424000000_060305_16785684000114.txt
+2025-04-25 07:51:26,175 - INFO - Baixado: LIBERCARD_20250424000000_060306_05599698000127.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\LIBERCARD_20250424000000_060306_05599698000127.txt
+2025-04-25 07:51:26,271 - INFO - Movendo LIBERCARD_20250424000000_060306_05599698000127.txt de: /extrato_libercard//LIBERCARD_20250424000000_060306_05599698000127.txt para: /extrato_libercard/Processados//LIBERCARD_20250424000000_060306_05599698000127.txt
+2025-04-25 07:51:26,948 - INFO - Baixado: LIBERCARD_20250424000000_060307_10325989000167.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\LIBERCARD_20250424000000_060307_10325989000167.txt
+2025-04-25 07:51:27,045 - INFO - Movendo LIBERCARD_20250424000000_060307_10325989000167.txt de: /extrato_libercard//LIBERCARD_20250424000000_060307_10325989000167.txt para: /extrato_libercard/Processados//LIBERCARD_20250424000000_060307_10325989000167.txt
+2025-04-25 07:51:28,313 - INFO - Baixado: LIBERCARD_20250424000000_060308_10366394000150.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios\LIBERCARD_20250424000000_060308_10366394000150.txt
+2025-04-25 07:51:28,409 - INFO - Movendo LIBERCARD_20250424000000_060308_10366394000150.txt de: /extrato_libercard//LIBERCARD_20250424000000_060308_10366394000150.txt para: /extrato_libercard/Processados//LIBERCARD_20250424000000_060308_10366394000150.txt
+2025-04-25 07:51:28,507 - INFO - ⏭️ Ignorado (não é .txt ou não é arquivo): Processados
+2025-04-25 07:51:28,507 - INFO - [chan 0] sftp session closed.
+2025-04-25 07:51:29,145 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-04-25 07:51:30,613 - INFO - Authentication (password) successful!
+2025-04-25 07:51:31,259 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-04-25 07:51:32,119 - INFO -  Enviado: 0018257400012820250424.txt -> /eextrato/LIBERCARD/0018257400012820250424.txt
+2025-04-25 07:51:32,974 - INFO -  Enviado: 0019520100019120250424.txt -> /eextrato/LIBERCARD/0019520100019120250424.txt
+2025-04-25 07:51:33,841 - INFO -  Enviado: 0019520100027220250424.txt -> /eextrato/LIBERCARD/0019520100027220250424.txt
+2025-04-25 07:51:34,698 - INFO -  Enviado: 0020605800019620250424.txt -> /eextrato/LIBERCARD/0020605800019620250424.txt
+2025-04-25 07:51:35,560 - INFO -  Enviado: 0020605800035820250424.txt -> /eextrato/LIBERCARD/0020605800035820250424.txt
+2025-04-25 07:51:36,416 - INFO -  Enviado: 0030754900012320250424.txt -> /eextrato/LIBERCARD/0030754900012320250424.txt
+2025-04-25 07:51:37,272 - INFO -  Enviado: 0046743900012920250424.txt -> /eextrato/LIBERCARD/0046743900012920250424.txt
+2025-04-25 07:51:38,129 - INFO -  Enviado: 0060241400019020250424.txt -> /eextrato/LIBERCARD/0060241400019020250424.txt
+2025-04-25 07:51:38,987 - INFO -  Enviado: 0062653000014020250424.txt -> /eextrato/LIBERCARD/0062653000014020250424.txt
+2025-04-25 07:51:39,850 - INFO -  Enviado: 0075322100013020250424.txt -> /eextrato/LIBERCARD/0075322100013020250424.txt
+2025-04-25 07:51:40,712 - INFO -  Enviado: 0094539600014020250424.txt -> /eextrato/LIBERCARD/0094539600014020250424.txt
+2025-04-25 07:51:41,571 - INFO -  Enviado: 0094539600022020250424.txt -> /eextrato/LIBERCARD/0094539600022020250424.txt
+2025-04-25 07:51:42,435 - INFO -  Enviado: 0112074100017920250424.txt -> /eextrato/LIBERCARD/0112074100017920250424.txt
+2025-04-25 07:51:43,303 - INFO -  Enviado: 0117157500013020250424.txt -> /eextrato/LIBERCARD/0117157500013020250424.txt
+2025-04-25 07:51:44,165 - INFO -  Enviado: 0119460000010920250424.txt -> /eextrato/LIBERCARD/0119460000010920250424.txt
+2025-04-25 07:51:45,016 - INFO -  Enviado: 0133338600011620250424.txt -> /eextrato/LIBERCARD/0133338600011620250424.txt
+2025-04-25 07:51:45,890 - INFO -  Enviado: 0153594100019220250424.txt -> /eextrato/LIBERCARD/0153594100019220250424.txt
+2025-04-25 07:51:46,755 - INFO -  Enviado: 0153594100027320250424.txt -> /eextrato/LIBERCARD/0153594100027320250424.txt
+2025-04-25 07:51:47,613 - INFO -  Enviado: 0165672300010620250424.txt -> /eextrato/LIBERCARD/0165672300010620250424.txt
+2025-04-25 07:51:48,472 - INFO -  Enviado: 0174062700014120250424.txt -> /eextrato/LIBERCARD/0174062700014120250424.txt
+2025-04-25 07:51:49,333 - INFO -  Enviado: 0174625100018220250424.txt -> /eextrato/LIBERCARD/0174625100018220250424.txt
+2025-04-25 07:51:50,188 - INFO -  Enviado: 0177839700010020250424.txt -> /eextrato/LIBERCARD/0177839700010020250424.txt
+2025-04-25 07:51:51,049 - INFO -  Enviado: 0178115400012020250424.txt -> /eextrato/LIBERCARD/0178115400012020250424.txt
+2025-04-25 07:51:51,906 - INFO -  Enviado: 0227420900017920250424.txt -> /eextrato/LIBERCARD/0227420900017920250424.txt
+2025-04-25 07:51:52,765 - INFO -  Enviado: 0229274700019620250424.txt -> /eextrato/LIBERCARD/0229274700019620250424.txt
+2025-04-25 07:51:53,623 - INFO -  Enviado: 0229274700043920250424.txt -> /eextrato/LIBERCARD/0229274700043920250424.txt
+2025-04-25 07:51:54,483 - INFO -  Enviado: 0256915600011320250424.txt -> /eextrato/LIBERCARD/0256915600011320250424.txt
+2025-04-25 07:51:55,340 - INFO -  Enviado: 0283417100014120250424.txt -> /eextrato/LIBERCARD/0283417100014120250424.txt
+2025-04-25 07:51:56,198 - INFO -  Enviado: 0283417100022220250424.txt -> /eextrato/LIBERCARD/0283417100022220250424.txt
+2025-04-25 07:51:57,059 - INFO -  Enviado: 0283417100030320250424.txt -> /eextrato/LIBERCARD/0283417100030320250424.txt
+2025-04-25 07:51:57,920 - INFO -  Enviado: 0290832400015820250424.txt -> /eextrato/LIBERCARD/0290832400015820250424.txt
+2025-04-25 07:51:58,778 - INFO -  Enviado: 0305339500018920250424.txt -> /eextrato/LIBERCARD/0305339500018920250424.txt
+2025-04-25 07:51:59,633 - INFO -  Enviado: 0305339500026020250424.txt -> /eextrato/LIBERCARD/0305339500026020250424.txt
+2025-04-25 07:52:00,492 - INFO -  Enviado: 0312314200013420250424.txt -> /eextrato/LIBERCARD/0312314200013420250424.txt
+2025-04-25 07:52:01,354 - INFO -  Enviado: 0312314200056820250424.txt -> /eextrato/LIBERCARD/0312314200056820250424.txt
+2025-04-25 07:52:02,210 - INFO -  Enviado: 0312314200064920250424.txt -> /eextrato/LIBERCARD/0312314200064920250424.txt
+2025-04-25 07:52:03,062 - INFO -  Enviado: 0312314200072020250424.txt -> /eextrato/LIBERCARD/0312314200072020250424.txt
+2025-04-25 07:52:03,920 - INFO -  Enviado: 0313555300014020250424.txt -> /eextrato/LIBERCARD/0313555300014020250424.txt
+2025-04-25 07:52:04,779 - INFO -  Enviado: 0331254900010020250424.txt -> /eextrato/LIBERCARD/0331254900010020250424.txt
+2025-04-25 07:52:05,636 - INFO -  Enviado: 0333492100018920250424.txt -> /eextrato/LIBERCARD/0333492100018920250424.txt
+2025-04-25 07:52:07,025 - INFO -  Enviado: 0372088200015820250410.txt -> /eextrato/LIBERCARD/0372088200015820250410.txt
+2025-04-25 07:52:07,901 - INFO -  Enviado: 0372088200015820250424.txt -> /eextrato/LIBERCARD/0372088200015820250424.txt
+2025-04-25 07:52:08,760 - INFO -  Enviado: 0378308500011020250424.txt -> /eextrato/LIBERCARD/0378308500011020250424.txt
+2025-04-25 07:52:09,617 - INFO -  Enviado: 0380386100010420250424.txt -> /eextrato/LIBERCARD/0380386100010420250424.txt
+2025-04-25 07:52:10,470 - INFO -  Enviado: 0396321300010720250424.txt -> /eextrato/LIBERCARD/0396321300010720250424.txt
+2025-04-25 07:52:11,323 - INFO -  Enviado: 0406453300019820250424.txt -> /eextrato/LIBERCARD/0406453300019820250424.txt
+2025-04-25 07:52:12,181 - INFO -  Enviado: 0406453300027920250424.txt -> /eextrato/LIBERCARD/0406453300027920250424.txt
+2025-04-25 07:52:13,044 - INFO -  Enviado: 0406453300035020250424.txt -> /eextrato/LIBERCARD/0406453300035020250424.txt
+2025-04-25 07:52:13,907 - INFO -  Enviado: 0406453300043020250424.txt -> /eextrato/LIBERCARD/0406453300043020250424.txt
+2025-04-25 07:52:14,773 - INFO -  Enviado: 0406453300051120250424.txt -> /eextrato/LIBERCARD/0406453300051120250424.txt
+2025-04-25 07:52:15,643 - INFO -  Enviado: 0407895300012320250424.txt -> /eextrato/LIBERCARD/0407895300012320250424.txt
+2025-04-25 07:52:16,509 - INFO -  Enviado: 0410321700018820250424.txt -> /eextrato/LIBERCARD/0410321700018820250424.txt
+2025-04-25 07:52:17,372 - INFO -  Enviado: 0410321700034020250424.txt -> /eextrato/LIBERCARD/0410321700034020250424.txt
+2025-04-25 07:52:18,236 - INFO -  Enviado: 0414845300011020250424.txt -> /eextrato/LIBERCARD/0414845300011020250424.txt
+2025-04-25 07:52:19,096 - INFO -  Enviado: 0423469300013820250424.txt -> /eextrato/LIBERCARD/0423469300013820250424.txt
+2025-04-25 07:52:19,962 - INFO -  Enviado: 0423469300021920250424.txt -> /eextrato/LIBERCARD/0423469300021920250424.txt
+2025-04-25 07:52:20,822 - INFO -  Enviado: 0424787200010020250424.txt -> /eextrato/LIBERCARD/0424787200010020250424.txt
+2025-04-25 07:52:21,685 - INFO -  Enviado: 0426490000028820250424.txt -> /eextrato/LIBERCARD/0426490000028820250424.txt
+2025-04-25 07:52:22,540 - INFO -  Enviado: 0431914500010020250424.txt -> /eextrato/LIBERCARD/0431914500010020250424.txt
+2025-04-25 07:52:23,404 - INFO -  Enviado: 0455893900012720250424.txt -> /eextrato/LIBERCARD/0455893900012720250424.txt
+2025-04-25 07:52:24,482 - INFO -  Enviado: 0460116500017020250424.txt -> /eextrato/LIBERCARD/0460116500017020250424.txt
+2025-04-25 07:52:25,342 - INFO -  Enviado: 0463237400018020250424.txt -> /eextrato/LIBERCARD/0463237400018020250424.txt
+2025-04-25 07:52:26,194 - INFO -  Enviado: 0463237400026120250424.txt -> /eextrato/LIBERCARD/0463237400026120250424.txt
+2025-04-25 07:52:27,049 - INFO -  Enviado: 0463237400034220250424.txt -> /eextrato/LIBERCARD/0463237400034220250424.txt
+2025-04-25 07:52:27,902 - INFO -  Enviado: 0463237400042320250424.txt -> /eextrato/LIBERCARD/0463237400042320250424.txt
+2025-04-25 07:52:28,762 - INFO -  Enviado: 0463237400050420250424.txt -> /eextrato/LIBERCARD/0463237400050420250424.txt
+2025-04-25 07:52:29,620 - INFO -  Enviado: 0463237400069520250424.txt -> /eextrato/LIBERCARD/0463237400069520250424.txt
+2025-04-25 07:52:30,476 - INFO -  Enviado: 0463237400077620250424.txt -> /eextrato/LIBERCARD/0463237400077620250424.txt
+2025-04-25 07:52:31,334 - INFO -  Enviado: 0467560400027020250424.txt -> /eextrato/LIBERCARD/0467560400027020250424.txt
+2025-04-25 07:52:32,187 - INFO -  Enviado: 0477807700014820250424.txt -> /eextrato/LIBERCARD/0477807700014820250424.txt
+2025-04-25 07:52:33,040 - INFO -  Enviado: 0478714000010220250424.txt -> /eextrato/LIBERCARD/0478714000010220250424.txt
+2025-04-25 07:52:33,898 - INFO -  Enviado: 0483990000018820250424.txt -> /eextrato/LIBERCARD/0483990000018820250424.txt
+2025-04-25 07:52:34,759 - INFO -  Enviado: 0484270000018420250424.txt -> /eextrato/LIBERCARD/0484270000018420250424.txt
+2025-04-25 07:52:35,618 - INFO -  Enviado: 0484314300011620250424.txt -> /eextrato/LIBERCARD/0484314300011620250424.txt
+2025-04-25 07:52:36,472 - INFO -  Enviado: 0496327000015920250424.txt -> /eextrato/LIBERCARD/0496327000015920250424.txt
+2025-04-25 07:52:37,326 - INFO -  Enviado: 0496771100019020250424.txt -> /eextrato/LIBERCARD/0496771100019020250424.txt
+2025-04-25 07:52:38,182 - INFO -  Enviado: 0497153100018220250424.txt -> /eextrato/LIBERCARD/0497153100018220250424.txt
+2025-04-25 07:52:39,037 - INFO -  Enviado: 0499552600010020250424.txt -> /eextrato/LIBERCARD/0499552600010020250424.txt
+2025-04-25 07:52:39,893 - INFO -  Enviado: 0502407800016020250424.txt -> /eextrato/LIBERCARD/0502407800016020250424.txt
+2025-04-25 07:52:40,754 - INFO -  Enviado: 0521566000010320250424.txt -> /eextrato/LIBERCARD/0521566000010320250424.txt
+2025-04-25 07:52:41,610 - INFO -  Enviado: 0527191500015520250424.txt -> /eextrato/LIBERCARD/0527191500015520250424.txt
+2025-04-25 07:52:42,470 - INFO -  Enviado: 0533942200010020250424.txt -> /eextrato/LIBERCARD/0533942200010020250424.txt
+2025-04-25 07:52:43,335 - INFO -  Enviado: 0536985000018520250424.txt -> /eextrato/LIBERCARD/0536985000018520250424.txt
+2025-04-25 07:52:44,191 - INFO -  Enviado: 0537791700012320250424.txt -> /eextrato/LIBERCARD/0537791700012320250424.txt
+2025-04-25 07:52:45,048 - INFO -  Enviado: 0537791700063820250424.txt -> /eextrato/LIBERCARD/0537791700063820250424.txt
+2025-04-25 07:52:45,902 - INFO -  Enviado: 0539036100010520250424.txt -> /eextrato/LIBERCARD/0539036100010520250424.txt
+2025-04-25 07:52:46,760 - INFO -  Enviado: 0539653200010320250424.txt -> /eextrato/LIBERCARD/0539653200010320250424.txt
+2025-04-25 07:52:47,614 - INFO -  Enviado: 0541783800010720250424.txt -> /eextrato/LIBERCARD/0541783800010720250424.txt
+2025-04-25 07:52:48,471 - INFO -  Enviado: 0544525600012620250424.txt -> /eextrato/LIBERCARD/0544525600012620250424.txt
+2025-04-25 07:52:49,328 - INFO -  Enviado: 0547195500014020250424.txt -> /eextrato/LIBERCARD/0547195500014020250424.txt
+2025-04-25 07:52:50,186 - INFO -  Enviado: 0549183600015020250424.txt -> /eextrato/LIBERCARD/0549183600015020250424.txt
+2025-04-25 07:52:51,053 - INFO -  Enviado: 0568637800010420250424.txt -> /eextrato/LIBERCARD/0568637800010420250424.txt
+2025-04-25 07:52:51,909 - INFO -  Enviado: 0577254800017320250424.txt -> /eextrato/LIBERCARD/0577254800017320250424.txt
+2025-04-25 07:52:52,769 - INFO -  Enviado: 0589228200010020250424.txt -> /eextrato/LIBERCARD/0589228200010020250424.txt
+2025-04-25 07:52:53,623 - INFO -  Enviado: 0589228200028320250424.txt -> /eextrato/LIBERCARD/0589228200028320250424.txt
+2025-04-25 07:52:54,480 - INFO -  Enviado: 0589228200036420250424.txt -> /eextrato/LIBERCARD/0589228200036420250424.txt
+2025-04-25 07:52:55,342 - INFO -  Enviado: 0589228200044520250424.txt -> /eextrato/LIBERCARD/0589228200044520250424.txt
+2025-04-25 07:52:56,203 - INFO -  Enviado: 0592178600010120250424.txt -> /eextrato/LIBERCARD/0592178600010120250424.txt
+2025-04-25 07:52:57,069 - INFO -  Enviado: 0595947900010120250424.txt -> /eextrato/LIBERCARD/0595947900010120250424.txt
+2025-04-25 07:52:57,926 - INFO -  Enviado: 0603902800011920250424.txt -> /eextrato/LIBERCARD/0603902800011920250424.txt
+2025-04-25 07:52:58,781 - INFO -  Enviado: 0603902800038020250424.txt -> /eextrato/LIBERCARD/0603902800038020250424.txt
+2025-04-25 07:52:59,636 - INFO -  Enviado: 0603902800046120250424.txt -> /eextrato/LIBERCARD/0603902800046120250424.txt
+2025-04-25 07:53:00,491 - INFO -  Enviado: 0603902800062320250424.txt -> /eextrato/LIBERCARD/0603902800062320250424.txt
+2025-04-25 07:53:01,348 - INFO -  Enviado: 0606592600014120250424.txt -> /eextrato/LIBERCARD/0606592600014120250424.txt
+2025-04-25 07:53:02,207 - INFO -  Enviado: 0616520800014720250424.txt -> /eextrato/LIBERCARD/0616520800014720250424.txt
+2025-04-25 07:53:03,064 - INFO -  Enviado: 0622808300015720250424.txt -> /eextrato/LIBERCARD/0622808300015720250424.txt
+2025-04-25 07:53:03,925 - INFO -  Enviado: 0625094200010420250424.txt -> /eextrato/LIBERCARD/0625094200010420250424.txt
+2025-04-25 07:53:04,787 - INFO -  Enviado: 0634151200010620250424.txt -> /eextrato/LIBERCARD/0634151200010620250424.txt
+2025-04-25 07:53:05,643 - INFO -  Enviado: 0635194700012320250424.txt -> /eextrato/LIBERCARD/0635194700012320250424.txt
+2025-04-25 07:53:06,729 - INFO -  Enviado: 0688766800018920250424.txt -> /eextrato/LIBERCARD/0688766800018920250424.txt
+2025-04-25 07:53:07,589 - INFO -  Enviado: 0704156900014420250424.txt -> /eextrato/LIBERCARD/0704156900014420250424.txt
+2025-04-25 07:53:08,448 - INFO -  Enviado: 0711063500019020250424.txt -> /eextrato/LIBERCARD/0711063500019020250424.txt
+2025-04-25 07:53:09,310 - INFO -  Enviado: 0711063500027120250424.txt -> /eextrato/LIBERCARD/0711063500027120250424.txt
+2025-04-25 07:53:10,172 - INFO -  Enviado: 0712320700010020250424.txt -> /eextrato/LIBERCARD/0712320700010020250424.txt
+2025-04-25 07:53:11,034 - INFO -  Enviado: 0721314300012020250424.txt -> /eextrato/LIBERCARD/0721314300012020250424.txt
+2025-04-25 07:53:11,891 - INFO -  Enviado: 0721314300020120250424.txt -> /eextrato/LIBERCARD/0721314300020120250424.txt
+2025-04-25 07:53:12,746 - INFO -  Enviado: 0721314300047320250424.txt -> /eextrato/LIBERCARD/0721314300047320250424.txt
+2025-04-25 07:53:13,605 - INFO -  Enviado: 0721314300063520250424.txt -> /eextrato/LIBERCARD/0721314300063520250424.txt
+2025-04-25 07:53:14,463 - INFO -  Enviado: 0724064100016220250424.txt -> /eextrato/LIBERCARD/0724064100016220250424.txt
+2025-04-25 07:53:15,315 - INFO -  Enviado: 0726424500017520250424.txt -> /eextrato/LIBERCARD/0726424500017520250424.txt
+2025-04-25 07:53:16,180 - INFO -  Enviado: 0729882100010320250424.txt -> /eextrato/LIBERCARD/0729882100010320250424.txt
+2025-04-25 07:53:17,039 - INFO -  Enviado: 0730419900035220250424.txt -> /eextrato/LIBERCARD/0730419900035220250424.txt
+2025-04-25 07:53:17,897 - INFO -  Enviado: 0734278500101020250424.txt -> /eextrato/LIBERCARD/0734278500101020250424.txt
+2025-04-25 07:53:18,753 - INFO -  Enviado: 0742011000015120250424.txt -> /eextrato/LIBERCARD/0742011000015120250424.txt
+2025-04-25 07:53:19,607 - INFO -  Enviado: 0744877700016220250424.txt -> /eextrato/LIBERCARD/0744877700016220250424.txt
+2025-04-25 07:53:20,467 - INFO -  Enviado: 0746747500013120250424.txt -> /eextrato/LIBERCARD/0746747500013120250424.txt
+2025-04-25 07:53:21,378 - INFO -  Enviado: 0767119800018420250424.txt -> /eextrato/LIBERCARD/0767119800018420250424.txt
+2025-04-25 07:53:22,232 - INFO -  Enviado: 0767208200016020250424.txt -> /eextrato/LIBERCARD/0767208200016020250424.txt
+2025-04-25 07:53:23,091 - INFO -  Enviado: 0767208200024020250424.txt -> /eextrato/LIBERCARD/0767208200024020250424.txt
+2025-04-25 07:53:23,938 - INFO -  Enviado: 0770916300019720250424.txt -> /eextrato/LIBERCARD/0770916300019720250424.txt
+2025-04-25 07:53:24,802 - INFO -  Enviado: 0770916300027820250424.txt -> /eextrato/LIBERCARD/0770916300027820250424.txt
+2025-04-25 07:53:25,659 - INFO -  Enviado: 0776837100016720250424.txt -> /eextrato/LIBERCARD/0776837100016720250424.txt
+2025-04-25 07:53:26,531 - INFO -  Enviado: 0777037800011320250424.txt -> /eextrato/LIBERCARD/0777037800011320250424.txt
+2025-04-25 07:53:27,389 - INFO -  Enviado: 0785733200013620250424.txt -> /eextrato/LIBERCARD/0785733200013620250424.txt
+2025-04-25 07:53:28,252 - INFO -  Enviado: 0788511100017120250424.txt -> /eextrato/LIBERCARD/0788511100017120250424.txt
+2025-04-25 07:53:29,108 - INFO -  Enviado: 0814362500011420250424.txt -> /eextrato/LIBERCARD/0814362500011420250424.txt
+2025-04-25 07:53:29,970 - INFO -  Enviado: 0817837500015820250424.txt -> /eextrato/LIBERCARD/0817837500015820250424.txt
+2025-04-25 07:53:30,829 - INFO -  Enviado: 0820786900011320250424.txt -> /eextrato/LIBERCARD/0820786900011320250424.txt
+2025-04-25 07:53:31,688 - INFO -  Enviado: 0820786900038520250424.txt -> /eextrato/LIBERCARD/0820786900038520250424.txt
+2025-04-25 07:53:32,549 - INFO -  Enviado: 0837404700012720250424.txt -> /eextrato/LIBERCARD/0837404700012720250424.txt
+2025-04-25 07:53:33,413 - INFO -  Enviado: 0851894300011220250424.txt -> /eextrato/LIBERCARD/0851894300011220250424.txt
+2025-04-25 07:53:34,272 - INFO -  Enviado: 0858534800010820250424.txt -> /eextrato/LIBERCARD/0858534800010820250424.txt
+2025-04-25 07:53:35,131 - INFO -  Enviado: 0878139400017420250424.txt -> /eextrato/LIBERCARD/0878139400017420250424.txt
+2025-04-25 07:53:35,994 - INFO -  Enviado: 0878139400025520250424.txt -> /eextrato/LIBERCARD/0878139400025520250424.txt
+2025-04-25 07:53:36,849 - INFO -  Enviado: 0879865200012520250424.txt -> /eextrato/LIBERCARD/0879865200012520250424.txt
+2025-04-25 07:53:37,706 - INFO -  Enviado: 0892663100014820250424.txt -> /eextrato/LIBERCARD/0892663100014820250424.txt
+2025-04-25 07:53:38,566 - INFO -  Enviado: 0894485100010220250424.txt -> /eextrato/LIBERCARD/0894485100010220250424.txt
+2025-04-25 07:53:39,426 - INFO -  Enviado: 0918221700013420250424.txt -> /eextrato/LIBERCARD/0918221700013420250424.txt
+2025-04-25 07:53:40,285 - INFO -  Enviado: 0918221700021520250424.txt -> /eextrato/LIBERCARD/0918221700021520250424.txt
+2025-04-25 07:53:41,145 - INFO -  Enviado: 0921535300034520250424.txt -> /eextrato/LIBERCARD/0921535300034520250424.txt
+2025-04-25 07:53:42,006 - INFO -  Enviado: 0921535300042620250424.txt -> /eextrato/LIBERCARD/0921535300042620250424.txt
+2025-04-25 07:53:42,858 - INFO -  Enviado: 0930502900015620250424.txt -> /eextrato/LIBERCARD/0930502900015620250424.txt
+2025-04-25 07:53:43,713 - INFO -  Enviado: 0933618300019520250424.txt -> /eextrato/LIBERCARD/0933618300019520250424.txt
+2025-04-25 07:53:44,591 - INFO -  Enviado: 0934781800015020250424.txt -> /eextrato/LIBERCARD/0934781800015020250424.txt
+2025-04-25 07:53:45,477 - INFO -  Enviado: 0951761700015320250424.txt -> /eextrato/LIBERCARD/0951761700015320250424.txt
+2025-04-25 07:53:46,352 - INFO -  Enviado: 0951761700031520250424.txt -> /eextrato/LIBERCARD/0951761700031520250424.txt
+2025-04-25 07:53:47,245 - INFO -  Enviado: 0951761700040420250424.txt -> /eextrato/LIBERCARD/0951761700040420250424.txt
+2025-04-25 07:53:48,106 - INFO -  Enviado: 0951761700058720250424.txt -> /eextrato/LIBERCARD/0951761700058720250424.txt
+2025-04-25 07:53:48,958 - INFO -  Enviado: 0951761700066820250424.txt -> /eextrato/LIBERCARD/0951761700066820250424.txt
+2025-04-25 07:53:49,814 - INFO -  Enviado: 0954025600016620250424.txt -> /eextrato/LIBERCARD/0954025600016620250424.txt
+2025-04-25 07:53:50,687 - INFO -  Enviado: 0963435000018420250424.txt -> /eextrato/LIBERCARD/0963435000018420250424.txt
+2025-04-25 07:53:51,806 - INFO -  Enviado: 1018831500016820250424.txt -> /eextrato/LIBERCARD/1018831500016820250424.txt
+2025-04-25 07:53:52,670 - INFO -  Enviado: 1023788800013420250424.txt -> /eextrato/LIBERCARD/1023788800013420250424.txt
+2025-04-25 07:53:53,556 - INFO -  Enviado: 1023788800021520250424.txt -> /eextrato/LIBERCARD/1023788800021520250424.txt
+2025-04-25 07:53:54,526 - INFO -  Enviado: 1023804200011920250424.txt -> /eextrato/LIBERCARD/1023804200011920250424.txt
+2025-04-25 07:53:55,528 - INFO -  Enviado: 1026417000013720250424.txt -> /eextrato/LIBERCARD/1026417000013720250424.txt
+2025-04-25 07:53:56,494 - INFO -  Enviado: 1030633400014120250424.txt -> /eextrato/LIBERCARD/1030633400014120250424.txt
+2025-04-25 07:53:57,471 - INFO -  Enviado: 1031901400012620250424.txt -> /eextrato/LIBERCARD/1031901400012620250424.txt
+2025-04-25 07:53:58,348 - INFO -  Enviado: 1032873900018020250424.txt -> /eextrato/LIBERCARD/1032873900018020250424.txt
+2025-04-25 07:53:59,339 - INFO -  Enviado: 1036209500014720250424.txt -> /eextrato/LIBERCARD/1036209500014720250424.txt
+2025-04-25 07:54:00,299 - INFO -  Enviado: 1037125600016920250424.txt -> /eextrato/LIBERCARD/1037125600016920250424.txt
+2025-04-25 07:54:01,205 - INFO -  Enviado: 1038681100012620250424.txt -> /eextrato/LIBERCARD/1038681100012620250424.txt
+2025-04-25 07:54:02,180 - INFO -  Enviado: 1039579500013820250424.txt -> /eextrato/LIBERCARD/1039579500013820250424.txt
+2025-04-25 07:54:03,052 - INFO -  Enviado: 1047869100019720250424.txt -> /eextrato/LIBERCARD/1047869100019720250424.txt
+2025-04-25 07:54:03,963 - INFO -  Enviado: 1051654200017520250424.txt -> /eextrato/LIBERCARD/1051654200017520250424.txt
+2025-04-25 07:54:04,956 - INFO -  Enviado: 1066489300012320250424.txt -> /eextrato/LIBERCARD/1066489300012320250424.txt
+2025-04-25 07:54:05,936 - INFO -  Enviado: 1067890900015720250424.txt -> /eextrato/LIBERCARD/1067890900015720250424.txt
+2025-04-25 07:54:06,898 - INFO -  Enviado: 1075718700012620250424.txt -> /eextrato/LIBERCARD/1075718700012620250424.txt
+2025-04-25 07:54:07,849 - INFO -  Enviado: 1096208300015320250424.txt -> /eextrato/LIBERCARD/1096208300015320250424.txt
+2025-04-25 07:54:08,819 - INFO -  Enviado: 1100668700019920250424.txt -> /eextrato/LIBERCARD/1100668700019920250424.txt
+2025-04-25 07:54:09,774 - INFO -  Enviado: 1114565900015220250424.txt -> /eextrato/LIBERCARD/1114565900015220250424.txt
+2025-04-25 07:54:10,709 - INFO -  Enviado: 1118672700012120250424.txt -> /eextrato/LIBERCARD/1118672700012120250424.txt
+2025-04-25 07:54:11,601 - INFO -  Enviado: 1132256500010120250424.txt -> /eextrato/LIBERCARD/1132256500010120250424.txt
+2025-04-25 07:54:12,509 - INFO -  Enviado: 1144486200012020250424.txt -> /eextrato/LIBERCARD/1144486200012020250424.txt
+2025-04-25 07:54:13,464 - INFO -  Enviado: 1172857500014120250424.txt -> /eextrato/LIBERCARD/1172857500014120250424.txt
+2025-04-25 07:54:14,431 - INFO -  Enviado: 1180539700010520250424.txt -> /eextrato/LIBERCARD/1180539700010520250424.txt
+2025-04-25 07:54:15,327 - INFO -  Enviado: 1181206200011420250424.txt -> /eextrato/LIBERCARD/1181206200011420250424.txt
+2025-04-25 07:54:16,203 - INFO -  Enviado: 1193884600019320250424.txt -> /eextrato/LIBERCARD/1193884600019320250424.txt
+2025-04-25 07:54:17,089 - INFO -  Enviado: 1199280900016320250424.txt -> /eextrato/LIBERCARD/1199280900016320250424.txt
+2025-04-25 07:54:17,954 - INFO -  Enviado: 1227312400020020250424.txt -> /eextrato/LIBERCARD/1227312400020020250424.txt
+2025-04-25 07:54:18,885 - INFO -  Enviado: 1233810900011220250424.txt -> /eextrato/LIBERCARD/1233810900011220250424.txt
+2025-04-25 07:54:19,757 - INFO -  Enviado: 1335272100010220250424.txt -> /eextrato/LIBERCARD/1335272100010220250424.txt
+2025-04-25 07:54:20,615 - INFO -  Enviado: 1371115900016620250424.txt -> /eextrato/LIBERCARD/1371115900016620250424.txt
+2025-04-25 07:54:21,480 - INFO -  Enviado: 1371115900040920250424.txt -> /eextrato/LIBERCARD/1371115900040920250424.txt
+2025-04-25 07:54:22,359 - INFO -  Enviado: 1400066100012120250424.txt -> /eextrato/LIBERCARD/1400066100012120250424.txt
+2025-04-25 07:54:23,409 - INFO -  Enviado: 1437880100010820250424.txt -> /eextrato/LIBERCARD/1437880100010820250424.txt
+2025-04-25 07:54:24,285 - INFO -  Enviado: 1450778600014220250424.txt -> /eextrato/LIBERCARD/1450778600014220250424.txt
+2025-04-25 07:54:25,151 - INFO -  Enviado: 1466535700010120250424.txt -> /eextrato/LIBERCARD/1466535700010120250424.txt
+2025-04-25 07:54:26,025 - INFO -  Enviado: 1469244800012820250424.txt -> /eextrato/LIBERCARD/1469244800012820250424.txt
+2025-04-25 07:54:26,880 - INFO -  Enviado: 1471238700011320250424.txt -> /eextrato/LIBERCARD/1471238700011320250424.txt
+2025-04-25 07:54:27,739 - INFO -  Enviado: 1484325500012020250424.txt -> /eextrato/LIBERCARD/1484325500012020250424.txt
+2025-04-25 07:54:28,641 - INFO -  Enviado: 1496691400011620250424.txt -> /eextrato/LIBERCARD/1496691400011620250424.txt
+2025-04-25 07:54:29,527 - INFO -  Enviado: 1519975100015620250424.txt -> /eextrato/LIBERCARD/1519975100015620250424.txt
+2025-04-25 07:54:30,383 - INFO -  Enviado: 1519975100040720250424.txt -> /eextrato/LIBERCARD/1519975100040720250424.txt
+2025-04-25 07:54:31,245 - INFO -  Enviado: 1576282900010720250424.txt -> /eextrato/LIBERCARD/1576282900010720250424.txt
+2025-04-25 07:54:32,116 - INFO -  Enviado: 1652640000017520250424.txt -> /eextrato/LIBERCARD/1652640000017520250424.txt
+2025-04-25 07:54:32,976 - INFO -  Enviado: 1657891700010820250424.txt -> /eextrato/LIBERCARD/1657891700010820250424.txt
+2025-04-25 07:54:33,852 - INFO -  Enviado: 1711879400019520250424.txt -> /eextrato/LIBERCARD/1711879400019520250424.txt
+2025-04-25 07:54:34,737 - INFO -  Enviado: 1833915400017820250424.txt -> /eextrato/LIBERCARD/1833915400017820250424.txt
+2025-04-25 07:54:35,633 - INFO -  Enviado: 1888559600011020250424.txt -> /eextrato/LIBERCARD/1888559600011020250424.txt
+2025-04-25 07:54:36,542 - INFO -  Enviado: 1891534300014120250424.txt -> /eextrato/LIBERCARD/1891534300014120250424.txt
+2025-04-25 07:54:37,445 - INFO -  Enviado: 1915906700010020250424.txt -> /eextrato/LIBERCARD/1915906700010020250424.txt
+2025-04-25 07:54:38,301 - INFO -  Enviado: 1933297500014520250424.txt -> /eextrato/LIBERCARD/1933297500014520250424.txt
+2025-04-25 07:54:39,165 - INFO -  Enviado: 2077189800010920250424.txt -> /eextrato/LIBERCARD/2077189800010920250424.txt
+2025-04-25 07:54:40,021 - INFO -  Enviado: 2093621200019220250424.txt -> /eextrato/LIBERCARD/2093621200019220250424.txt
+2025-04-25 07:54:40,881 - INFO -  Enviado: 2093621200027320250424.txt -> /eextrato/LIBERCARD/2093621200027320250424.txt
+2025-04-25 07:54:41,741 - INFO -  Enviado: 2093621200043520250424.txt -> /eextrato/LIBERCARD/2093621200043520250424.txt
+2025-04-25 07:54:42,642 - INFO -  Enviado: 2109476900019620250424.txt -> /eextrato/LIBERCARD/2109476900019620250424.txt
+2025-04-25 07:54:43,504 - INFO -  Enviado: 2109476900027720250424.txt -> /eextrato/LIBERCARD/2109476900027720250424.txt
+2025-04-25 07:54:44,369 - INFO -  Enviado: 2152271400013020250424.txt -> /eextrato/LIBERCARD/2152271400013020250424.txt
+2025-04-25 07:54:45,221 - INFO -  Enviado: 2152271400021020250424.txt -> /eextrato/LIBERCARD/2152271400021020250424.txt
+2025-04-25 07:54:46,078 - INFO -  Enviado: 2152271400030020250424.txt -> /eextrato/LIBERCARD/2152271400030020250424.txt
+2025-04-25 07:54:46,943 - INFO -  Enviado: 2152271400056320250424.txt -> /eextrato/LIBERCARD/2152271400056320250424.txt
+2025-04-25 07:54:48,212 - INFO -  Enviado: 2170148400017620250424.txt -> /eextrato/LIBERCARD/2170148400017620250424.txt
+2025-04-25 07:54:49,387 - INFO -  Enviado: 2188694300013320250424.txt -> /eextrato/LIBERCARD/2188694300013320250424.txt
+2025-04-25 07:54:50,341 - INFO -  Enviado: 2213363400015520250424.txt -> /eextrato/LIBERCARD/2213363400015520250424.txt
+2025-04-25 07:54:51,213 - INFO -  Enviado: 2217048500010220250424.txt -> /eextrato/LIBERCARD/2217048500010220250424.txt
+2025-04-25 07:54:52,074 - INFO -  Enviado: 2221672000012120250424.txt -> /eextrato/LIBERCARD/2221672000012120250424.txt
+2025-04-25 07:54:52,964 - INFO -  Enviado: 2242364600011420250424.txt -> /eextrato/LIBERCARD/2242364600011420250424.txt
+2025-04-25 07:54:53,822 - INFO -  Enviado: 2242958800013620250424.txt -> /eextrato/LIBERCARD/2242958800013620250424.txt
+2025-04-25 07:54:54,680 - INFO -  Enviado: 2271336800013020250424.txt -> /eextrato/LIBERCARD/2271336800013020250424.txt
+2025-04-25 07:54:55,575 - INFO -  Enviado: 2279957600010120250424.txt -> /eextrato/LIBERCARD/2279957600010120250424.txt
+2025-04-25 07:54:56,477 - INFO -  Enviado: 2321109300010720250424.txt -> /eextrato/LIBERCARD/2321109300010720250424.txt
+2025-04-25 07:54:57,397 - INFO -  Enviado: 2347323600014020250424.txt -> /eextrato/LIBERCARD/2347323600014020250424.txt
+2025-04-25 07:54:58,269 - INFO -  Enviado: 2347323600022120250424.txt -> /eextrato/LIBERCARD/2347323600022120250424.txt
+2025-04-25 07:54:59,136 - INFO -  Enviado: 2354429900014020250424.txt -> /eextrato/LIBERCARD/2354429900014020250424.txt
+2025-04-25 07:54:59,990 - INFO -  Enviado: 2360299300017720250424.txt -> /eextrato/LIBERCARD/2360299300017720250424.txt
+2025-04-25 07:55:00,844 - INFO -  Enviado: 2370871200016520250424.txt -> /eextrato/LIBERCARD/2370871200016520250424.txt
+2025-04-25 07:55:01,727 - INFO -  Enviado: 2395778700018020250424.txt -> /eextrato/LIBERCARD/2395778700018020250424.txt
+2025-04-25 07:55:02,658 - INFO -  Enviado: 2395778700034120250424.txt -> /eextrato/LIBERCARD/2395778700034120250424.txt
+2025-04-25 07:55:03,535 - INFO -  Enviado: 2395778700042220250424.txt -> /eextrato/LIBERCARD/2395778700042220250424.txt
+2025-04-25 07:55:04,407 - INFO -  Enviado: 2395778700050320250424.txt -> /eextrato/LIBERCARD/2395778700050320250424.txt
+2025-04-25 07:55:05,299 - INFO -  Enviado: 2409599800011320250424.txt -> /eextrato/LIBERCARD/2409599800011320250424.txt
+2025-04-25 07:55:06,179 - INFO -  Enviado: 2422108900018420250424.txt -> /eextrato/LIBERCARD/2422108900018420250424.txt
+2025-04-25 07:55:07,031 - INFO -  Enviado: 2462699700015820250424.txt -> /eextrato/LIBERCARD/2462699700015820250424.txt
+2025-04-25 07:55:07,898 - INFO -  Enviado: 2483110500015020250424.txt -> /eextrato/LIBERCARD/2483110500015020250424.txt
+2025-04-25 07:55:08,793 - INFO -  Enviado: 2509271500014220250424.txt -> /eextrato/LIBERCARD/2509271500014220250424.txt
+2025-04-25 07:55:09,669 - INFO -  Enviado: 2614668500017220250424.txt -> /eextrato/LIBERCARD/2614668500017220250424.txt
+2025-04-25 07:55:10,532 - INFO -  Enviado: 2615837900015620250424.txt -> /eextrato/LIBERCARD/2615837900015620250424.txt
+2025-04-25 07:55:11,411 - INFO -  Enviado: 2653577100017720250424.txt -> /eextrato/LIBERCARD/2653577100017720250424.txt
+2025-04-25 07:55:12,301 - INFO -  Enviado: 2653580200019020250424.txt -> /eextrato/LIBERCARD/2653580200019020250424.txt
+2025-04-25 07:55:13,174 - INFO -  Enviado: 2654149500015020250424.txt -> /eextrato/LIBERCARD/2654149500015020250424.txt
+2025-04-25 07:55:14,068 - INFO -  Enviado: 2664358600010420250424.txt -> /eextrato/LIBERCARD/2664358600010420250424.txt
+2025-04-25 07:55:14,928 - INFO -  Enviado: 2675288200013520250424.txt -> /eextrato/LIBERCARD/2675288200013520250424.txt
+2025-04-25 07:55:15,784 - INFO -  Enviado: 2695961600018820250424.txt -> /eextrato/LIBERCARD/2695961600018820250424.txt
+2025-04-25 07:55:16,743 - INFO -  Enviado: 2764316100015020250424.txt -> /eextrato/LIBERCARD/2764316100015020250424.txt
+2025-04-25 07:55:17,604 - INFO -  Enviado: 2816207200015420250424.txt -> /eextrato/LIBERCARD/2816207200015420250424.txt
+2025-04-25 07:55:18,459 - INFO -  Enviado: 2886160800012020250424.txt -> /eextrato/LIBERCARD/2886160800012020250424.txt
+2025-04-25 07:55:19,323 - INFO -  Enviado: 2914220200015020250424.txt -> /eextrato/LIBERCARD/2914220200015020250424.txt
+2025-04-25 07:55:20,183 - INFO -  Enviado: 2923758700013920250424.txt -> /eextrato/LIBERCARD/2923758700013920250424.txt
+2025-04-25 07:55:21,066 - INFO -  Enviado: 3066725800010720250424.txt -> /eextrato/LIBERCARD/3066725800010720250424.txt
+2025-04-25 07:55:21,924 - INFO -  Enviado: 3073795000016420250424.txt -> /eextrato/LIBERCARD/3073795000016420250424.txt
+2025-04-25 07:55:22,789 - INFO -  Enviado: 3087255700018320250424.txt -> /eextrato/LIBERCARD/3087255700018320250424.txt
+2025-04-25 07:55:23,678 - INFO -  Enviado: 3121818500013920250424.txt -> /eextrato/LIBERCARD/3121818500013920250424.txt
+2025-04-25 07:55:24,579 - INFO -  Enviado: 3191877100019620250424.txt -> /eextrato/LIBERCARD/3191877100019620250424.txt
+2025-04-25 07:55:25,438 - INFO -  Enviado: 3218798900018020250424.txt -> /eextrato/LIBERCARD/3218798900018020250424.txt
+2025-04-25 07:55:26,293 - INFO -  Enviado: 3376492100018020250424.txt -> /eextrato/LIBERCARD/3376492100018020250424.txt
+2025-04-25 07:55:27,161 - INFO -  Enviado: 3523320400015720250424.txt -> /eextrato/LIBERCARD/3523320400015720250424.txt
+2025-04-25 07:55:28,014 - INFO -  Enviado: 4106511600019620250424.txt -> /eextrato/LIBERCARD/4106511600019620250424.txt
+2025-04-25 07:55:28,882 - INFO -  Enviado: 4141601700010120250424.txt -> /eextrato/LIBERCARD/4141601700010120250424.txt
+2025-04-25 07:55:29,739 - INFO -  Enviado: 4144927300010320250424.txt -> /eextrato/LIBERCARD/4144927300010320250424.txt
+2025-04-25 07:55:30,604 - INFO -  Enviado: 4155066600010920250424.txt -> /eextrato/LIBERCARD/4155066600010920250424.txt
+2025-04-25 07:55:31,478 - INFO -  Enviado: 4155345400017720250424.txt -> /eextrato/LIBERCARD/4155345400017720250424.txt
+2025-04-25 07:55:32,345 - INFO -  Enviado: 4156676100019220250424.txt -> /eextrato/LIBERCARD/4156676100019220250424.txt
+2025-04-25 07:55:33,231 - INFO -  Enviado: 4156757900015620250424.txt -> /eextrato/LIBERCARD/4156757900015620250424.txt
+2025-04-25 07:55:34,093 - INFO -  Enviado: 4750387000014720250424.txt -> /eextrato/LIBERCARD/4750387000014720250424.txt
+2025-04-25 07:55:34,965 - INFO -  Enviado: 4750387000022820250424.txt -> /eextrato/LIBERCARD/4750387000022820250424.txt
+2025-04-25 07:55:35,821 - INFO -  Enviado: 4750387000030920250424.txt -> /eextrato/LIBERCARD/4750387000030920250424.txt
+2025-04-25 07:55:36,690 - INFO -  Enviado: 4750387000049020250424.txt -> /eextrato/LIBERCARD/4750387000049020250424.txt
+2025-04-25 07:55:37,567 - INFO -  Enviado: 6340166500012720250424.txt -> /eextrato/LIBERCARD/6340166500012720250424.txt
+2025-04-25 07:55:38,440 - INFO -  Enviado: 7031510600016020250424.txt -> /eextrato/LIBERCARD/7031510600016020250424.txt
+2025-04-25 07:55:39,309 - INFO -  Enviado: 7253713700019020250424.txt -> /eextrato/LIBERCARD/7253713700019020250424.txt
+2025-04-25 07:55:40,175 - INFO -  Enviado: 7377006700018920250424.txt -> /eextrato/LIBERCARD/7377006700018920250424.txt
+2025-04-25 07:55:41,038 - INFO -  Enviado: 7380714100019420250424.txt -> /eextrato/LIBERCARD/7380714100019420250424.txt
+2025-04-25 07:55:41,901 - INFO -  Enviado: 7401021600017420250424.txt -> /eextrato/LIBERCARD/7401021600017420250424.txt
+2025-04-25 07:55:41,901 - INFO - [chan 0] sftp session closed.
+2025-04-25 07:55:42,331 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-04-25 07:55:43,491 - INFO - Authentication (password) successful!
+2025-04-25 07:55:44,130 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-04-25 07:55:44,990 - INFO -  Enviado: LIBERCARD_20250424000000_060291_01928075000108.txt -> /eextrato/LIBERCARD_SOFTEXPRESS/LIBERCARD_20250424000000_060291_01928075000108.txt
+2025-04-25 07:55:44,991 - INFO - Removido localmente: LIBERCARD_20250424000000_060291_01928075000108.txt
+2025-04-25 07:55:45,849 - INFO -  Enviado: LIBERCARD_20250424000000_060292_08574018000109.txt -> /eextrato/LIBERCARD_SOFTEXPRESS/LIBERCARD_20250424000000_060292_08574018000109.txt
+2025-04-25 07:55:45,850 - INFO - Removido localmente: LIBERCARD_20250424000000_060292_08574018000109.txt
+2025-04-25 07:55:46,706 - INFO -  Enviado: LIBERCARD_20250424000000_060293_08574018000532.txt -> /eextrato/LIBERCARD_SOFTEXPRESS/LIBERCARD_20250424000000_060293_08574018000532.txt
+2025-04-25 07:55:46,707 - INFO - Removido localmente: LIBERCARD_20250424000000_060293_08574018000532.txt
+2025-04-25 07:55:47,560 - INFO -  Enviado: LIBERCARD_20250424000000_060294_08394192000170.txt -> /eextrato/LIBERCARD_SOFTEXPRESS/LIBERCARD_20250424000000_060294_08394192000170.txt
+2025-04-25 07:55:47,561 - INFO - Removido localmente: LIBERCARD_20250424000000_060294_08394192000170.txt
+2025-04-25 07:55:48,424 - INFO -  Enviado: LIBERCARD_20250424000000_060295_08090734000200.txt -> /eextrato/LIBERCARD_SOFTEXPRESS/LIBERCARD_20250424000000_060295_08090734000200.txt
+2025-04-25 07:55:48,425 - INFO - Removido localmente: LIBERCARD_20250424000000_060295_08090734000200.txt
+2025-04-25 07:55:49,277 - INFO -  Enviado: LIBERCARD_20250424000000_060296_08090734000382.txt -> /eextrato/LIBERCARD_SOFTEXPRESS/LIBERCARD_20250424000000_060296_08090734000382.txt
+2025-04-25 07:55:49,278 - INFO - Removido localmente: LIBERCARD_20250424000000_060296_08090734000382.txt
+2025-04-25 07:55:50,139 - INFO -  Enviado: LIBERCARD_20250424000000_060297_28261163000147.txt -> /eextrato/LIBERCARD_SOFTEXPRESS/LIBERCARD_20250424000000_060297_28261163000147.txt
+2025-04-25 07:55:50,140 - INFO - Removido localmente: LIBERCARD_20250424000000_060297_28261163000147.txt
+2025-04-25 07:55:50,997 - INFO -  Enviado: LIBERCARD_20250424000000_060298_09238322000148.txt -> /eextrato/LIBERCARD_SOFTEXPRESS/LIBERCARD_20250424000000_060298_09238322000148.txt
+2025-04-25 07:55:50,998 - INFO - Removido localmente: LIBERCARD_20250424000000_060298_09238322000148.txt
+2025-04-25 07:55:51,848 - INFO -  Enviado: LIBERCARD_20250424000000_060299_14242030000119.txt -> /eextrato/LIBERCARD_SOFTEXPRESS/LIBERCARD_20250424000000_060299_14242030000119.txt
+2025-04-25 07:55:51,848 - INFO - Removido localmente: LIBERCARD_20250424000000_060299_14242030000119.txt
+2025-04-25 07:55:52,704 - INFO -  Enviado: LIBERCARD_20250424000000_060300_13722711000111.txt -> /eextrato/LIBERCARD_SOFTEXPRESS/LIBERCARD_20250424000000_060300_13722711000111.txt
+2025-04-25 07:55:52,705 - INFO - Removido localmente: LIBERCARD_20250424000000_060300_13722711000111.txt
+2025-04-25 07:55:53,554 - INFO -  Enviado: LIBERCARD_20250424000000_060301_08394192000684.txt -> /eextrato/LIBERCARD_SOFTEXPRESS/LIBERCARD_20250424000000_060301_08394192000684.txt
+2025-04-25 07:55:53,555 - INFO - Removido localmente: LIBERCARD_20250424000000_060301_08394192000684.txt
+2025-04-25 07:55:54,409 - INFO -  Enviado: LIBERCARD_20250424000000_060302_02114945000160.txt -> /eextrato/LIBERCARD_SOFTEXPRESS/LIBERCARD_20250424000000_060302_02114945000160.txt
+2025-04-25 07:55:54,409 - INFO - Removido localmente: LIBERCARD_20250424000000_060302_02114945000160.txt
+2025-04-25 07:55:55,264 - INFO -  Enviado: LIBERCARD_20250424000000_060303_32768826000191.txt -> /eextrato/LIBERCARD_SOFTEXPRESS/LIBERCARD_20250424000000_060303_32768826000191.txt
+2025-04-25 07:55:55,265 - INFO - Removido localmente: LIBERCARD_20250424000000_060303_32768826000191.txt
+2025-04-25 07:55:56,120 - INFO -  Enviado: LIBERCARD_20250424000000_060304_30721896000320.txt -> /eextrato/LIBERCARD_SOFTEXPRESS/LIBERCARD_20250424000000_060304_30721896000320.txt
+2025-04-25 07:55:56,120 - INFO - Removido localmente: LIBERCARD_20250424000000_060304_30721896000320.txt
+2025-04-25 07:55:56,983 - INFO -  Enviado: LIBERCARD_20250424000000_060305_16785684000114.txt -> /eextrato/LIBERCARD_SOFTEXPRESS/LIBERCARD_20250424000000_060305_16785684000114.txt
+2025-04-25 07:55:56,984 - INFO - Removido localmente: LIBERCARD_20250424000000_060305_16785684000114.txt
+2025-04-25 07:55:57,853 - INFO -  Enviado: LIBERCARD_20250424000000_060306_05599698000127.txt -> /eextrato/LIBERCARD_SOFTEXPRESS/LIBERCARD_20250424000000_060306_05599698000127.txt
+2025-04-25 07:55:57,853 - INFO - Removido localmente: LIBERCARD_20250424000000_060306_05599698000127.txt
+2025-04-25 07:55:58,715 - INFO -  Enviado: LIBERCARD_20250424000000_060307_10325989000167.txt -> /eextrato/LIBERCARD_SOFTEXPRESS/LIBERCARD_20250424000000_060307_10325989000167.txt
+2025-04-25 07:55:58,715 - INFO - Removido localmente: LIBERCARD_20250424000000_060307_10325989000167.txt
+2025-04-25 07:55:59,579 - INFO -  Enviado: LIBERCARD_20250424000000_060308_10366394000150.txt -> /eextrato/LIBERCARD_SOFTEXPRESS/LIBERCARD_20250424000000_060308_10366394000150.txt
+2025-04-25 07:55:59,579 - INFO - Removido localmente: LIBERCARD_20250424000000_060308_10366394000150.txt
+2025-04-25 07:56:00,432 - INFO -  Enviado: LIBERCARD_20250424000000_060340_75315333000109.txt -> /eextrato/LIBERCARD_SOFTEXPRESS/LIBERCARD_20250424000000_060340_75315333000109.txt
+2025-04-25 07:56:00,433 - INFO - Removido localmente: LIBERCARD_20250424000000_060340_75315333000109.txt
+2025-04-25 07:56:01,293 - INFO -  Enviado: LIBERCARD_20250424000000_060341_93209765000117.txt -> /eextrato/LIBERCARD_SOFTEXPRESS/LIBERCARD_20250424000000_060341_93209765000117.txt
+2025-04-25 07:56:01,294 - INFO - Removido localmente: LIBERCARD_20250424000000_060341_93209765000117.txt
+2025-04-25 07:56:02,144 - INFO -  Enviado: LIBERCARD_20250424000000_060346_00063960000109.txt -> /eextrato/LIBERCARD_SOFTEXPRESS/LIBERCARD_20250424000000_060346_00063960000109.txt
+2025-04-25 07:56:02,145 - INFO - Removido localmente: LIBERCARD_20250424000000_060346_00063960000109.txt
