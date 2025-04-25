@@ -21,7 +21,7 @@ logging.basicConfig(
 
 cnopts = pysftp.CnOpts()
 cnopts.hostkeys = None  # Ignora verificação de chave (não recomendado em produção)
-'''
+
 try:
     with pysftp.Connection(host, username=usuario, password=senha, cnopts=cnopts) as sftp:
         sftp.cwd('/cacique')
@@ -54,7 +54,7 @@ try:
 except Exception as e:
     logging.info(f"Não foi possivel conectar: {e}")
 
-'''
+
 def transfereCatalogador():
     hostDestino = 'ftp.eextrato.com.br'
     usuarioDestino = 'monitoramento'
@@ -78,7 +78,7 @@ def transfereCatalogador():
                     localPath = os.path.join(pastaLocal,arquivo)
                     remotePath = f'{pastaRemotaDestino}/{arquivo}'
                     sftp.put(localPath, remotePath)
-                    logging.info(f'Enviado {arquivo} -> {remotePath}')
+                    logging.info(f'Enviado {arquivo} -> SFTP BoaVista')
                     os.remove(localPath)
                     logging.info(f'Removido localmente: {arquivo}')
     except Exception as e:

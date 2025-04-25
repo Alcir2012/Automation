@@ -54,7 +54,7 @@ def faztudoShellbox():
                 pyautogui.drag(-320, 220, duration=2)
                 time.sleep(2)
                 pyautogui.mouseUp()
-                time.sleep(45)
+                time.sleep(25)
                 pyautogui.click(x=700, y=260)
                 time.sleep(0.5)
                 pyautogui.hotkey('ctrl', 'a')
