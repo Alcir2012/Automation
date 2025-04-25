@@ -244,7 +244,7 @@ def autopostoValeMaisSociedade():
                 caminhoProcesados = f"{pastaProcessados}/{arquivo}"
                 sftp.rename(caminho_remoto, caminhoProcesados)
             else:
-                logging.info(f'⏭ Ignorado (não é .csv ou não é arquivo): {arquivo}')
+                logging.info(f'Ignorado pois não é um arquivo CSV')
         except Exception as e:
             logging.info(f'Erro ao baixar para pasta local {arquivo}: {e}')
 
@@ -272,7 +272,7 @@ def transfereCatalogador():
             remote_path = f"{pasta_remota_destino}/{arquivo}"
 
             sftp_destino.put(local_path, remote_path)
-            logging.info(f' Enviado: {arquivo} -> "SFTP BoaVista"')
+            logging.info(f' Enviado para processamento: {arquivo} -> "SFTP BoaVista"')
 
             os.remove(local_path)
             logging.info(f'Removido localmente: {arquivo}')

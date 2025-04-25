@@ -47,14 +47,17 @@ if os.path.exists(log_path):
 
         df['tipo'] = df['tipo'].apply(normalize_tipo)
 
-        # Exibe detalhamento
-        st.subheader("📋 Detalhamento das ações")
-        st.dataframe(df[['data', 'tipo', 'arquivo']])
+        # 🔹 Filtra eventos para o resumo (remove Ignorado)
+        df_filtrado = df[df['tipo'] != 'Ignorado']
 
-        # Prepara dados para gráfico
-        df['data'] = pd.to_datetime(df['data'])
+        # Exibe detalhamento (sem Ignorado)
+        st.subheader("📋 Detalhamento das ações")
+        st.dataframe(df_filtrado[['data', 'tipo', 'arquivo']])
+
+        # Prepara dados para gráfico (sem Ignorado)
+        df_filtrado['data'] = pd.to_datetime(df_filtrado['data'])
         contagem = (
-            df['tipo']
+            df_filtrado['tipo']
               .value_counts()
               .rename_axis('Tipo')
               .reset_index(name='Quantidade')
@@ -66,7 +69,7 @@ if os.path.exists(log_path):
             alt.Chart(contagem)
                .mark_bar()
                .encode(
-                   x=alt.X('Quantidade:Q', title='Quantidade',axis=alt.Axis(format='d')),
+                   x=alt.X('Quantidade:Q', title='Quantidade', axis=alt.Axis(format='d')),
                    y=alt.Y('Tipo:N', sort='-x', title='Tipo de Evento')
                )
         )

@@ -11096,3 +11096,31 @@
 2025-04-25 07:43:36,667 - INFO - Enviado SUPERMERCADOVIVENDAS_20250424.txt -> /eextrato/GOODCARD//SUPERMERCADOVIVENDAS_20250424.txt
 2025-04-25 07:43:36,676 - INFO - Removido localmente: SUPERMERCADOVIVENDAS_20250424.txt
 2025-04-25 07:43:36,676 - INFO - [chan 0] sftp session closed.
+2025-04-25 12:04:14,078 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-04-25 12:04:14,558 - INFO - Authentication (password) successful!
+2025-04-25 12:04:14,909 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-04-25 12:04:17,354 - INFO - ['2025.txt', 'GOODCARD_REDESONDA_20250424.txt', 'GOODCARD_SANTAAMELIA_20250410.txt', 'GOODCARD_SUPERMERCADOSCALEGARIS_20250331.txt', 'Processados', '\\', 'cacique']
+2025-04-25 12:04:17,826 - INFO - Movido: 2025.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios/2025.txt
+2025-04-25 12:04:17,907 - INFO - {e}
+2025-04-25 12:04:18,523 - INFO - Movido: GOODCARD_REDESONDA_20250424.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios/GOODCARD_REDESONDA_20250424.txt
+2025-04-25 12:04:18,596 - INFO - Movendo GOODCARD_REDESONDA_20250424.txt para /cacique/Processados/GOODCARD_REDESONDA_20250424.txt
+2025-04-25 12:04:19,318 - INFO - Movido: GOODCARD_SANTAAMELIA_20250410.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios/GOODCARD_SANTAAMELIA_20250410.txt
+2025-04-25 12:04:19,397 - INFO - Movendo GOODCARD_SANTAAMELIA_20250410.txt para /cacique/Processados/GOODCARD_SANTAAMELIA_20250410.txt
+2025-04-25 12:04:19,924 - INFO - Movido: GOODCARD_SUPERMERCADOSCALEGARIS_20250331.txt -> C:/Users/jose.alcir/Documents/ArquivosDiarios/GOODCARD_SUPERMERCADOSCALEGARIS_20250331.txt
+2025-04-25 12:04:20,002 - INFO - {e}
+2025-04-25 12:04:20,073 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-04-25 12:04:20,145 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): \
+2025-04-25 12:04:20,215 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): cacique
+2025-04-25 12:04:20,215 - INFO - [chan 0] sftp session closed.
+2025-04-25 12:04:20,485 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-04-25 12:04:21,083 - INFO - Authentication (password) successful!
+2025-04-25 12:04:21,997 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-04-25 12:04:22,358 - INFO - Enviado 2025.txt -> SFTP BoaVista
+2025-04-25 12:04:22,359 - INFO - Removido localmente: 2025.txt
+2025-04-25 12:04:22,741 - INFO - Enviado GOODCARD_REDESONDA_20250424.txt -> SFTP BoaVista
+2025-04-25 12:04:22,742 - INFO - Removido localmente: GOODCARD_REDESONDA_20250424.txt
+2025-04-25 12:04:23,441 - INFO - Enviado GOODCARD_SANTAAMELIA_20250410.txt -> SFTP BoaVista
+2025-04-25 12:04:23,443 - INFO - Removido localmente: GOODCARD_SANTAAMELIA_20250410.txt
+2025-04-25 12:04:23,774 - INFO - Enviado GOODCARD_SUPERMERCADOSCALEGARIS_20250331.txt -> SFTP BoaVista
+2025-04-25 12:04:23,775 - INFO - Removido localmente: GOODCARD_SUPERMERCADOSCALEGARIS_20250331.txt
+2025-04-25 12:04:23,776 - INFO - [chan 0] sftp session closed.
