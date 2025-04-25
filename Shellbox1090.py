@@ -244,7 +244,7 @@ def autopostoValeMaisSociedade():
                 caminhoProcesados = f"{pastaProcessados}/{arquivo}"
                 sftp.rename(caminho_remoto, caminhoProcesados)
             else:
-                logging.info(f'Ignorado pois não é um arquivo CSV')
+                logging.info(f'⏭️ Ignorado (não é .csv ou não é arquivo)')
         except Exception as e:
             logging.info(f'Erro ao baixar para pasta local {arquivo}: {e}')
 
