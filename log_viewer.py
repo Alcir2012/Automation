@@ -6,7 +6,7 @@ import altair as alt
 
 # ========== CONFIGURAÇÕES ==========
 st.set_page_config(page_title="Logs Shellbox", layout="wide")
-st.title("📄 Visualizador de Logs - Shellbox")
+st.title("📄 Visualizador de Logs - Shellbox 1090")
 
 # ========== FUNÇÃO DE PARSE ==========
 def ler_log_estruturado(caminho_log):
@@ -35,20 +35,20 @@ if os.path.exists(log_path):
         # Normaliza tipos de evento
         def normalize_tipo(t):
             if 'Baixado' in t:
-                return 'Baixado'
+                return 'Baixado localmente'
             elif 'Enviado' in t:
-                return 'Enviado'
+                return 'Enviado para processamento'
             elif 'Ignorado' in t:
-                return 'Ignorado'
+                return 'Ignorado não é um arquivo'
             elif 'Erro' in t:
-                return 'Erro'
+                return 'Erro interno'
             else:
                 return t
 
         df['tipo'] = df['tipo'].apply(normalize_tipo)
 
         # 🔹 Filtra eventos para o resumo (remove Ignorado)
-        df_filtrado = df[df['tipo'] != 'Ignorado']
+        df_filtrado = df[df['tipo'] != 'Ignorado não é um arquivo']
 
         # Exibe detalhamento (sem Ignorado)
         st.subheader("📋 Detalhamento das ações")
@@ -64,7 +64,7 @@ if os.path.exists(log_path):
         )
 
         # Gráfico de barras horizontal
-        st.subheader("📊 Dashboard Tipos de Evento")
+        st.subheader("📊 Grafico Tipos de Eventos")
         chart = (
             alt.Chart(contagem)
                .mark_bar()
