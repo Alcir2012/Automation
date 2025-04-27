@@ -99,18 +99,32 @@ if os.path.exists(log_path):
         )
         st.altair_chart(chart, use_container_width=True)
 
-        # ========== GRÁFICO DE EVENTOS POR DIA ==========
-        st.subheader("📆 Evolução Diária dos Eventos")
-        eventos_por_dia = df_filtrado.groupby([df_filtrado['data'].dt.date, 'tipo']).size().reset_index(name='quantidade')
+       # ========== GRÁFICO DE EVENTOS POR DIA ==========
+        st.subheader("📈 Registro dos arquivos em processamento - Dia")
 
-        chart_dia = alt.Chart(eventos_por_dia).mark_bar().encode(
-            x='data:T',
-            y='quantidade:Q',
-            color='tipo:N',
-            tooltip=['data', 'tipo', 'quantidade']
-        ).properties(height=300)
+        # 🔹 Primeiro: garantir que estamos só com a data (sem hora)
+        df_filtrado['dia'] = df_filtrado['data'].dt.strftime('%Y-%m-%d')  # vira string '2025-04-27'
+
+        # 🔹 Agrupa por dia + tipo
+        eventos_por_dia = df_filtrado.groupby(['dia', 'tipo']).size().reset_index(name='quantidade')
+    
+        # 🔹 Cria gráfico de linha
+        chart_dia = alt.Chart(eventos_por_dia).mark_bar(point=True).encode(
+            x=alt.X('dia:N', title='Data',
+                    sort= 'ascending',
+                    axis=alt.Axis(labelAngle=0)),  # ATENÇÃO: dia como Nominal (N) agora, não Temporal (T)
+            y=alt.Y('quantidade:Q', title='Quantidade de Eventos'),
+            color=alt.Color('tipo:N', title='Tipo de Evento'),
+            tooltip=['dia', 'tipo', 'quantidade']
+        ).transform_filter(
+            alt.FieldEqualPredicate(field='tipo',equal='Enviado para processamento')
+        ).properties(
+            height=400
+        )
 
         st.altair_chart(chart_dia, use_container_width=True)
+
+
 
         # ========== DOWNLOAD CSV ==========
         st.subheader("📥 Exportar dados")
