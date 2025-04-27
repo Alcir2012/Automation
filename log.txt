@@ -671,3 +671,116 @@
 2025-04-24 13:21:27,515 - WARNING - Tentativa 19: 
 2025-04-24 13:21:30,516 - ERROR - Limite de tentativas excedido. Encerrando busca.
 2025-04-24 13:21:36,416 - WARNING - Tentativa 20: 
+2025-04-27 07:57:13,200 - INFO - Imagem CSV localizada, iniciando processo de transferência.
+2025-04-27 07:58:02,147 - INFO - Transferência finalizada com sucesso.
+2025-04-27 07:58:05,332 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 07:58:12,527 - WARNING - Tentativa 1: 
+2025-04-27 07:58:15,630 - WARNING - Tentativa 2: 
+2025-04-27 07:58:18,713 - WARNING - Tentativa 3: 
+2025-04-27 07:58:21,715 - ERROR - Limite de tentativas excedido. Encerrando busca.
+2025-04-27 07:58:27,624 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 07:58:34,848 - WARNING - Tentativa 4: 
+2025-04-27 07:58:37,849 - ERROR - Limite de tentativas excedido. Encerrando busca.
+2025-04-27 07:58:43,710 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 07:58:50,936 - WARNING - Tentativa 5: 
+2025-04-27 07:58:53,937 - ERROR - Limite de tentativas excedido. Encerrando busca.
+2025-04-27 07:58:59,816 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 07:59:07,043 - WARNING - Tentativa 6: 
+2025-04-27 07:59:10,044 - ERROR - Limite de tentativas excedido. Encerrando busca.
+2025-04-27 07:59:15,963 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 07:59:23,155 - WARNING - Tentativa 7: 
+2025-04-27 07:59:26,156 - ERROR - Limite de tentativas excedido. Encerrando busca.
+2025-04-27 07:59:32,056 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 07:59:39,287 - WARNING - Tentativa 8: 
+2025-04-27 07:59:42,288 - ERROR - Limite de tentativas excedido. Encerrando busca.
+2025-04-27 07:59:48,199 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 07:59:55,395 - WARNING - Tentativa 9: 
+2025-04-27 07:59:58,396 - ERROR - Limite de tentativas excedido. Encerrando busca.
+2025-04-27 08:00:04,289 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:00:11,490 - INFO - Imagem CSV localizada, iniciando processo de transferência.
+2025-04-27 08:01:00,448 - INFO - Transferência finalizada com sucesso.
+2025-04-27 08:01:03,622 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:01:10,811 - INFO - Imagem CSV localizada, iniciando processo de transferência.
+2025-04-27 08:01:59,771 - INFO - Transferência finalizada com sucesso.
+2025-04-27 08:02:02,967 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:02:10,162 - INFO - Imagem CSV localizada, iniciando processo de transferência.
+2025-04-27 08:02:59,104 - INFO - Transferência finalizada com sucesso.
+2025-04-27 08:03:02,266 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:03:09,455 - WARNING - Tentativa 10: 
+2025-04-27 08:03:12,456 - ERROR - Limite de tentativas excedido. Encerrando busca.
+2025-04-27 08:03:18,298 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:03:25,521 - INFO - Imagem CSV localizada, iniciando processo de transferência.
+2025-04-27 08:04:14,445 - INFO - Transferência finalizada com sucesso.
+2025-04-27 08:04:17,622 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:04:24,813 - WARNING - Tentativa 11: 
+2025-04-27 08:04:27,814 - ERROR - Limite de tentativas excedido. Encerrando busca.
+2025-04-27 08:04:33,702 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:04:40,897 - INFO - Imagem CSV localizada, iniciando processo de transferência.
+2025-04-27 08:05:29,820 - INFO - Transferência finalizada com sucesso.
+2025-04-27 08:05:33,044 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:05:40,224 - INFO - Imagem CSV localizada, iniciando processo de transferência.
+2025-04-27 08:06:29,182 - INFO - Transferência finalizada com sucesso.
+2025-04-27 08:06:32,358 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:06:39,564 - INFO - Imagem CSV localizada, iniciando processo de transferência.
+2025-04-27 08:07:28,525 - INFO - Transferência finalizada com sucesso.
+2025-04-27 08:07:31,712 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:07:38,911 - INFO - Imagem CSV localizada, iniciando processo de transferência.
+2025-04-27 08:08:27,855 - INFO - Transferência finalizada com sucesso.
+2025-04-27 08:08:31,042 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:08:38,245 - INFO - Imagem CSV localizada, iniciando processo de transferência.
+2025-04-27 08:09:27,212 - INFO - Transferência finalizada com sucesso.
+2025-04-27 08:09:30,385 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:09:37,605 - INFO - Imagem CSV localizada, iniciando processo de transferência.
+2025-04-27 08:10:26,587 - INFO - Transferência finalizada com sucesso.
+2025-04-27 08:10:29,787 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:10:37,007 - INFO - Imagem CSV localizada, iniciando processo de transferência.
+2025-04-27 08:11:25,976 - INFO - Transferência finalizada com sucesso.
+2025-04-27 08:11:29,176 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:11:36,380 - INFO - Imagem CSV localizada, iniciando processo de transferência.
+2025-04-27 08:12:25,363 - INFO - Transferência finalizada com sucesso.
+2025-04-27 08:12:28,554 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:12:35,789 - INFO - Imagem CSV localizada, iniciando processo de transferência.
+2025-04-27 08:13:24,744 - INFO - Transferência finalizada com sucesso.
+2025-04-27 08:13:27,906 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:13:35,136 - INFO - Imagem CSV localizada, iniciando processo de transferência.
+2025-04-27 08:14:24,049 - INFO - Transferência finalizada com sucesso.
+2025-04-27 08:14:27,230 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:14:34,434 - INFO - Imagem CSV localizada, iniciando processo de transferência.
+2025-04-27 08:15:23,398 - INFO - Transferência finalizada com sucesso.
+2025-04-27 08:15:26,574 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:15:33,802 - INFO - Imagem CSV localizada, iniciando processo de transferência.
+2025-04-27 08:16:22,763 - INFO - Transferência finalizada com sucesso.
+2025-04-27 08:16:25,960 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:16:33,177 - INFO - Imagem CSV localizada, iniciando processo de transferência.
+2025-04-27 08:17:22,118 - INFO - Transferência finalizada com sucesso.
+2025-04-27 08:17:25,316 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:17:32,514 - INFO - Imagem CSV localizada, iniciando processo de transferência.
+2025-04-27 08:18:21,455 - INFO - Transferência finalizada com sucesso.
+2025-04-27 08:18:24,627 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:18:31,828 - INFO - Imagem CSV localizada, iniciando processo de transferência.
+2025-04-27 08:19:20,799 - INFO - Transferência finalizada com sucesso.
+2025-04-27 08:19:23,973 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:19:31,189 - INFO - Imagem CSV localizada, iniciando processo de transferência.
+2025-04-27 08:20:20,162 - INFO - Transferência finalizada com sucesso.
+2025-04-27 08:20:23,333 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:20:30,535 - INFO - Imagem CSV localizada, iniciando processo de transferência.
+2025-04-27 08:22:42,846 - INFO - Imagem CSV localizada, iniciando processo de transferência.
+2025-04-27 08:23:31,808 - INFO - Transferência finalizada com sucesso.
+2025-04-27 08:23:34,953 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:23:42,142 - WARNING - Tentativa 1: 
+2025-04-27 08:23:45,204 - WARNING - Tentativa 2: 
+2025-04-27 08:23:48,278 - WARNING - Tentativa 3: 
+2025-04-27 08:23:51,279 - ERROR - Limite de tentativas excedido. Encerrando busca.
+2025-04-27 08:23:57,070 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:24:04,234 - WARNING - Tentativa 4: 
+2025-04-27 08:24:07,235 - ERROR - Limite de tentativas excedido. Encerrando busca.
+2025-04-27 08:24:13,087 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:24:20,303 - INFO - Imagem CSV localizada, iniciando processo de transferência.
+2025-04-27 08:25:09,255 - INFO - Transferência finalizada com sucesso.
+2025-04-27 08:25:12,411 - INFO - Imagem de reconexão encontrada. Reestabelecendo sessão.
+2025-04-27 08:25:19,638 - WARNING - Tentativa 5: 
+2025-04-27 08:25:22,639 - ERROR - Limite de tentativas excedido. Encerrando busca.
+2025-04-27 08:25:28,431 - WARNING - Tentativa 6: 
+2025-04-27 08:25:31,432 - ERROR - Limite de tentativas excedido. Encerrando busca.
+2025-04-27 08:25:37,257 - WARNING - Tentativa 7: 
+2025-04-27 08:25:40,257 - ERROR - Limite de tentativas excedido. Encerrando busca.

@@ -110,6 +110,6 @@ def conectaCatalogador():
     time.sleep(2)
     pyautogui.press('enter')
 
-abreTudo()
+#abreTudo()
 faztudoShellbox()
 conectaCatalogador()
