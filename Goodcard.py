@@ -43,7 +43,7 @@ try:
                     origem =f'/cacique/{arquivo}'
                     destino =f'C:/Users/jose.alcir/Documents/ArquivosDiarios/{arquivo}'
                     sftp.get(origem,destino)
-                    logging.info(f'baixado: {arquivo} -> Pasta local')
+                    logging.info(f'Baixado: {arquivo} -> Pasta local')
                     caminhoProcesados = f"{pastaProcessados}/{arquivo}"
                     sftp.rename(caminho_remoto, caminhoProcesados)
                     logging.info(f'Movendo {arquivo} para backup')
@@ -80,7 +80,7 @@ def transfereCatalogador():
                     stagingPath = f'{pastadeEspera}/{arquivo}'
                     remotePath = f'{pastaRemotaDestino}/{arquivo}'
                     sftp.put(localPath, stagingPath)
-                    logging.info(f'Enviado {arquivo} -> SFTP BoaVista')
+                    logging.info(f'Enviado para processamento: {arquivo} -> SFTP BoaVista')
                     sftp.rename(stagingPath,remotePath)
                     logging.info(f'Retirado da pasta de espera e inserido para catalogar')
                     os.remove(localPath)
