@@ -82,7 +82,7 @@ def transfereCatalogador():
                     sftp.put(localPath, stagingPath)
                     logging.info(f'Enviado {arquivo} -> SFTP BoaVista')
                     sftp.rename(stagingPath,remotePath)
-                    logging.info(f'Retirado da staging path e inserido para catalogar')
+                    logging.info(f'Retirado da pasta de espera e inserido para catalogar')
                     os.remove(localPath)
                     logging.info(f'Removido localmente: {arquivo}')
     except Exception as e:
