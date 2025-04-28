@@ -40,10 +40,10 @@ def downloadLibercard():
             if stat.S_ISREG(info.st_mode) and arquivo.endswith('.txt'):
                 local = os.path.join(pastaLocal,arquivo)
                 sftp.get(arquivo,local)
-                logging.info(f'Baixado: {arquivo} -> {local}')
+                logging.info(f'Baixado: {arquivo} para -> pasta local')
                 caminhoProcesados = f"{pastaProcessados}/{arquivo}"
                 sftp.rename(caminhoRemoto, caminhoProcesados)
-                logging.info(f'Movendo {arquivo} de: {caminhoRemoto} para: {caminhoProcesados}')
+                logging.info(f'Movendo {arquivo} para backup')
             else:
                 logging.info(f'⏭️ Ignorado (não é .txt ou não é arquivo): {arquivo}')
         except Exception as e:
@@ -56,6 +56,7 @@ def transfereAuttarCatalogador():
     hostDestino = 'ftp.eextrato.com.br'
     usuarioDestino = 'monitoramento'
     senhaDestino = '@#kvZLGDvUl6XLonX1bl79YNgMwTasIvaY'
+    pastaEspera = 'eextrato/LIBERCARD/TRATADOS'
     pastaRemotaDestino= '/eextrato/LIBERCARD'
     pastaLocal = 'C:/Users/jose.alcir/Documents/ArquivosDiarios'
 
@@ -67,10 +68,14 @@ def transfereAuttarCatalogador():
     for arquivo in os.listdir(pastaLocal):
         if arquivo[0].isdigit():
             localPath = os.path.join(pastaLocal, arquivo)
+            stagingPath = f"{pastaEspera}/{arquivo}"
             remotePath = f"{pastaRemotaDestino}/{arquivo}"
 
-            sftp_destino.put(localPath, remotePath)
-            logging.info(f' Enviado: {arquivo} -> {remotePath}')
+            sftp_destino.put(localPath, stagingPath)
+            logging.info(f' Enviado: {arquivo} -> SFTP BoaVista')
+
+            sftp_destino.rename(stagingPath,remotePath)
+            logging.info(f'retirado {arquivo} da pasta de espera e inserido para catalogar')
             
             os.remove(localPath)
             logging.info(f'Removido localmente: {arquivo}')

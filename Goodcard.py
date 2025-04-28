@@ -43,12 +43,12 @@ try:
                     origem =f'/cacique/{arquivo}'
                     destino =f'C:/Users/jose.alcir/Documents/ArquivosDiarios/{arquivo}'
                     sftp.get(origem,destino)
-                    logging.info(f'Movido: {arquivo} -> {destino}')
+                    logging.info(f'baixado: {arquivo} -> Pasta local')
                     caminhoProcesados = f"{pastaProcessados}/{arquivo}"
                     sftp.rename(caminho_remoto, caminhoProcesados)
-                    logging.info(f'Movendo {arquivo} para {caminhoProcesados}')
+                    logging.info(f'Movendo {arquivo} para backup')
                 else:
-                    logging.info(f'⏭️ Ignorado (não é .csv ou não é arquivo): {arquivo}')
+                    logging.info(f'⏭️ Ignorado (não é .txt ou não é arquivo): {arquivo}')
             except Exception as e:
                 logging.info('{e}')
 except Exception as e:
@@ -59,6 +59,7 @@ def transfereCatalogador():
     hostDestino = 'ftp.eextrato.com.br'
     usuarioDestino = 'monitoramento'
     senhaDestino = '@#kvZLGDvUl6XLonX1bl79YNgMwTasIvaY'
+    pastadeEspera = '/eextrato/GOODCARD/TRATADOS'
     pastaRemotaDestino = '/eextrato/GOODCARD/'
     pastaLocal = 'C:/Users/jose.alcir/Documents/ArquivosDiarios'
     cnopts = pysftp.CnOpts()
@@ -76,9 +77,12 @@ def transfereCatalogador():
             for arquivo in os.listdir(pastaLocal):
                 if arquivo.endswith('.txt'):
                     localPath = os.path.join(pastaLocal,arquivo)
+                    stagingPath = f'{pastadeEspera}/{arquivo}'
                     remotePath = f'{pastaRemotaDestino}/{arquivo}'
-                    sftp.put(localPath, remotePath)
+                    sftp.put(localPath, stagingPath)
                     logging.info(f'Enviado {arquivo} -> SFTP BoaVista')
+                    sftp.rename(stagingPath,remotePath)
+                    logging.info(f'Retirado da staging path e inserido para catalogar')
                     os.remove(localPath)
                     logging.info(f'Removido localmente: {arquivo}')
     except Exception as e:

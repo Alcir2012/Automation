@@ -51,7 +51,8 @@ def transfereCatalogador():
     hostDestino = 'ftp.eextrato.com.br'
     usuarioDestino = 'monitoramento'
     senhaDestino = '@#kvZLGDvUl6XLonX1bl79YNgMwTasIvaY'
-    pasta_remota_destino = '/eextrato/ERCARD/TRATADOS'
+    pasta_remota_destino = '/eextrato/ERCARD/'
+    pasta_staging = '/eextrato/ERCARD/TRATADOS'
     pasta_local = 'C:/Users/jose.alcir/Documents/ArquivosDiarios'
 
     # Conectar ao segundo servidor SFTP com senha
@@ -64,11 +65,15 @@ def transfereCatalogador():
     for arquivo in os.listdir(pasta_local):
         if arquivo.startswith('335'):
             local_path = os.path.join(pasta_local, arquivo)
+            staging_path = f"{pasta_staging}/{arquivo}"
             remote_path = f"{pasta_remota_destino}/{arquivo}"
 
-            sftp_destino.put(local_path, remote_path)
+            sftp_destino.put(local_path, staging_path)
             logging.info(f' Enviado: {arquivo} -> SFTP BoaVista')
 
+            sftp_destino.rename(staging_path,remote_path)
+            logging.info(f'{arquivo} enviado para -> catalogador')
+            
             os.remove(local_path)
             logging.info('Removido localmente')
 
