@@ -1067,6 +1067,10 @@ def transfereCatalogador():
     transport_destino.use_compression(True)
     sftp_destino = paramiko.SFTPClient.from_transport(transport_destino)
 
+    transport_destino.window_size = 3 * 1024 * 1024  # 3 MB
+    channel = transport_destino.open_session()
+    channel.settimeout(30)
+
     # Enviar arquivos da pasta local
     for arquivo in os.listdir(pasta_local):
         if arquivo.endswith('.csv'):
