@@ -37,7 +37,7 @@ if os.path.exists(log_path):
             t = t.lower()
             if 'baixado' in t:
                 return 'Baixado localmente'
-            elif 'Enviado' in t:
+            elif 'enviado' in t:
                 return 'Enviado para processamento'
             elif 'Ignorado' in t:
                 return 'Ignorado não é um arquivo'

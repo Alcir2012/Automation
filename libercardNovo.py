@@ -45,7 +45,7 @@ def downloadLibercard():
                 sftp.rename(caminhoRemoto, caminhoProcesados)
                 logging.info(f'Movendo {arquivo} para backup')
             else:
-                logging.info(f'⏭️ Ignorado (não é .txt ou não é arquivo): {arquivo}')
+                logging.info(f'Ignorado (não é .txt ou não é arquivo): {arquivo}')
         except Exception as e:
             logging.info(f'Erro ao processar {arquivo}: {e}')
 
@@ -101,7 +101,7 @@ def transfereSoftCatalogador():
             remotePath = f"{pastaRemotaDestino}/{arquivo}"
 
             sftp_destino.put(localPath, remotePath)
-            logging.info(f' Enviado: {arquivo} -> {remotePath}')
+            logging.info(f' Enviado: {arquivo} -> SFTP BoaVista')
 
             os.remove(localPath)
             logging.info(f'Removido localmente: {arquivo}')

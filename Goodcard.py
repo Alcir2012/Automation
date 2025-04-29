@@ -39,7 +39,7 @@ try:
             try:
                 info = sftp.stat(caminho_remoto)
             # Verifica se é arquivo regular (não é pasta)
-                if stat.S_ISREG(info.st_mode) and arquivo.endswith('.txt'):
+                if stat.S_ISREG(info.st_mode) and arquivo.upper().endswith('.TXT'):
                     origem =f'/cacique/{arquivo}'
                     destino =f'C:/Users/jose.alcir/Documents/ArquivosDiarios/{arquivo}'
                     sftp.get(origem,destino)
@@ -48,7 +48,7 @@ try:
                     sftp.rename(caminho_remoto, caminhoProcesados)
                     logging.info(f'Movendo {arquivo} para backup')
                 else:
-                    logging.info(f'⏭️ Ignorado (não é .txt ou não é arquivo): {arquivo}')
+                    logging.info(f'Ignorado (não é .txt ou não é arquivo): {arquivo}')
             except Exception as e:
                 logging.info('{e}')
 except Exception as e:
@@ -75,7 +75,7 @@ def transfereCatalogador():
     try:
         with pysftp.Connection(host=hostDestino,username=usuarioDestino,password=senhaDestino, cnopts= cnopts) as sftp:
             for arquivo in os.listdir(pastaLocal):
-                if arquivo.endswith('.txt'):
+                if arquivo.upper().endswith('.TXT'):
                     localPath = os.path.join(pastaLocal,arquivo)
                     stagingPath = f'{pastadeEspera}/{arquivo}'
                     remotePath = f'{pastaRemotaDestino}/{arquivo}'
