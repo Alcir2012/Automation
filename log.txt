@@ -784,3 +784,7 @@
 2025-04-27 08:25:31,432 - ERROR - Limite de tentativas excedido. Encerrando busca.
 2025-04-27 08:25:37,257 - WARNING - Tentativa 7: 
 2025-04-27 08:25:40,257 - ERROR - Limite de tentativas excedido. Encerrando busca.
+2025-05-05 09:31:45,825 - WARNING - Tentativa 1: 
+2025-05-05 09:31:48,942 - WARNING - Tentativa 2: 
+2025-05-05 09:31:52,020 - WARNING - Tentativa 3: 
+2025-05-05 09:31:55,021 - ERROR - Limite de tentativas excedido. Encerrando busca.

@@ -90,3 +90,12 @@ porque o host conectado não respondeu
 2025-05-04 17:20:50,832 - INFO - 33587453000115_20250503_MV000001.TXT enviado para -> catalogador
 2025-05-04 17:20:50,834 - INFO - Removido localmente
 2025-05-04 17:20:50,834 - INFO - [chan 0] sftp session closed.
+2025-05-05 09:02:47,654 - INFO - Baixando: 33587453000115_20250504_MV000001.TXT para -> Pasta local
+2025-05-05 09:02:47,768 - INFO - Ignorado oque não for txt
+2025-05-05 09:02:48,336 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-05 09:02:48,834 - INFO - Authentication (password) successful!
+2025-05-05 09:02:49,086 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-05 09:02:50,995 - INFO -  Enviado: 33587453000115_20250504_MV000001.TXT para -> SFTP BoaVista
+2025-05-05 09:02:51,076 - INFO - 33587453000115_20250504_MV000001.TXT enviado para -> catalogador
+2025-05-05 09:02:51,077 - INFO - Removido localmente
+2025-05-05 09:02:51,077 - INFO - [chan 0] sftp session closed.

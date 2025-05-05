@@ -34,7 +34,6 @@ try:
             logging.info('Pasta local não existe')
 
         for arquivo in arquivosDisponiveis:
-            arquivo = arquivo.strip()
             caminho_remoto = f"{pastaOrigem}/{arquivo}"
 
             try:
