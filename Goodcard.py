@@ -4,6 +4,7 @@ import pysftp
 import logging
 import os
 import stat
+import time
 
 
 host = 'integracao.embratec.com.br'
@@ -43,6 +44,7 @@ try:
                     origem =f'/cacique/{arquivo}'
                     destino =f'C:/Users/jose.alcir/Documents/ArquivosDiarios/{arquivo}'
                     sftp.get(origem,destino)
+                    time.sleep(0.5)
                     logging.info(f'Baixado: {arquivo} -> Pasta local')
                     caminhoProcesados = f"{pastaProcessados}/{arquivo}"
                     sftp.rename(caminho_remoto, caminhoProcesados)

@@ -15793,3 +15793,47 @@
 2025-05-05 09:58:32,767 - INFO - Retirado da pasta de espera e inserido para catalogar
 2025-05-05 09:58:32,768 - INFO - Removido localmente: GOODCARD_LIDER_20250418.txt
 2025-05-05 09:58:32,769 - INFO - [chan 0] sftp session closed.
+2025-05-05 16:19:38,141 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-05 16:19:38,558 - INFO - Authentication (password) successful!
+2025-05-05 16:19:38,960 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-05 16:19:39,377 - INFO - ['GOODCARD_COMERCIALZAFFARI_20250226.txt', 'GOODCARD_COMERCIALZAFFARI_20250228.txt', 'Processados', '\\', 'cacique']
+2025-05-05 16:19:39,893 - INFO - Baixado: GOODCARD_COMERCIALZAFFARI_20250226.txt -> Pasta local
+2025-05-05 16:19:39,981 - INFO - Failure
+2025-05-05 16:19:40,438 - INFO - Baixado: GOODCARD_COMERCIALZAFFARI_20250228.txt -> Pasta local
+2025-05-05 16:19:40,514 - INFO - Failure
+2025-05-05 16:19:40,576 - INFO - Ignorado (não é .txt ou não é arquivo): Processados
+2025-05-05 16:19:40,640 - INFO - Ignorado (não é .txt ou não é arquivo): \
+2025-05-05 16:19:40,704 - INFO - Ignorado (não é .txt ou não é arquivo): cacique
+2025-05-05 16:19:40,704 - INFO - [chan 0] sftp session closed.
+2025-05-05 16:19:40,908 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-05 16:19:41,452 - INFO - Authentication (password) successful!
+2025-05-05 16:19:41,862 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-05 16:19:42,550 - INFO - Enviado para processamento: GOODCARD_COMERCIALZAFFARI_20250226.txt -> SFTP BoaVista
+2025-05-05 16:19:42,639 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-05 16:19:42,640 - INFO - Removido localmente: GOODCARD_COMERCIALZAFFARI_20250226.txt
+2025-05-05 16:19:43,002 - INFO - Enviado para processamento: GOODCARD_COMERCIALZAFFARI_20250228.txt -> SFTP BoaVista
+2025-05-05 16:19:43,092 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-05 16:19:43,093 - INFO - Removido localmente: GOODCARD_COMERCIALZAFFARI_20250228.txt
+2025-05-05 16:19:43,093 - INFO - [chan 0] sftp session closed.
+2025-05-05 16:22:01,919 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-05 16:22:02,428 - INFO - Authentication (password) successful!
+2025-05-05 16:22:02,765 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-05 16:22:03,318 - INFO - ['GOODCARD_COMERCIALZAFFARI_20250226.txt', 'GOODCARD_COMERCIALZAFFARI_20250228.txt', 'Processados', '\\', 'cacique']
+2025-05-05 16:22:03,852 - INFO - Baixado: GOODCARD_COMERCIALZAFFARI_20250226.txt -> Pasta local
+2025-05-05 16:22:03,917 - INFO - Failure
+2025-05-05 16:22:04,368 - INFO - Baixado: GOODCARD_COMERCIALZAFFARI_20250228.txt -> Pasta local
+2025-05-05 16:22:04,432 - INFO - Failure
+2025-05-05 16:22:04,495 - INFO - Ignorado (não é .txt ou não é arquivo): Processados
+2025-05-05 16:22:04,567 - INFO - Ignorado (não é .txt ou não é arquivo): \
+2025-05-05 16:22:04,632 - INFO - Ignorado (não é .txt ou não é arquivo): cacique
+2025-05-05 16:22:04,632 - INFO - [chan 0] sftp session closed.
+2025-05-05 16:22:04,829 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-05 16:22:05,525 - INFO - Authentication (password) successful!
+2025-05-05 16:22:05,959 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-05 16:22:06,344 - INFO - Enviado para processamento: GOODCARD_COMERCIALZAFFARI_20250226.txt -> SFTP BoaVista
+2025-05-05 16:22:06,445 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-05 16:22:06,446 - INFO - Removido localmente: GOODCARD_COMERCIALZAFFARI_20250226.txt
+2025-05-05 16:22:06,855 - INFO - Enviado para processamento: GOODCARD_COMERCIALZAFFARI_20250228.txt -> SFTP BoaVista
+2025-05-05 16:22:06,958 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-05 16:22:06,959 - INFO - Removido localmente: GOODCARD_COMERCIALZAFFARI_20250228.txt
+2025-05-05 16:22:06,959 - INFO - [chan 0] sftp session closed.
