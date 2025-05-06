@@ -4,8 +4,14 @@ import stat
 import logging
 
 # Configurando o logging
+script_dir = os.path.dirname(os.path.abspath(__file__))
+os.chdir(script_dir)
+
+# Caminho absoluto para o log
+log_path = os.path.join(script_dir, 'shellboxNovo.log')
+
 logging.basicConfig(
-    filename='shellboxNovo.log',
+    filename=log_path,
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
     encoding='utf-8'

@@ -99,3 +99,28 @@ porque o host conectado não respondeu
 2025-05-05 09:02:51,076 - INFO - 33587453000115_20250504_MV000001.TXT enviado para -> catalogador
 2025-05-05 09:02:51,077 - INFO - Removido localmente
 2025-05-05 09:02:51,077 - INFO - [chan 0] sftp session closed.
+2025-05-06 08:25:47,961 - ERROR - Erro geral 425 Security: Bad IP connecting.
+2025-05-06 08:25:48,697 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-06 08:25:49,742 - INFO - Authentication (password) successful!
+2025-05-06 08:25:50,267 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-06 08:25:50,808 - INFO -  Enviado: 33587453000115_20250505_CN000001.TXT para -> SFTP BoaVista
+2025-05-06 08:25:51,001 - INFO - 33587453000115_20250505_CN000001.TXT enviado para -> catalogador
+2025-05-06 08:25:51,002 - INFO - Removido localmente
+2025-05-06 08:25:51,002 - INFO - [chan 0] sftp session closed.
+2025-05-06 08:26:19,939 - INFO - Baixando: 33587453000115_20250505_CN000001.TXT para -> Pasta local
+2025-05-06 08:26:20,732 - INFO - Baixando: 33587453000115_20250505_MV000001.TXT para -> Pasta local
+2025-05-06 08:26:21,101 - INFO - Baixando: 33587453000115_20250505_RP000001.TXT para -> Pasta local
+2025-05-06 08:26:21,206 - INFO - Ignorado oque não for txt
+2025-05-06 08:26:21,427 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-06 08:26:21,966 - INFO - Authentication (password) successful!
+2025-05-06 08:26:22,209 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-06 08:26:22,543 - INFO -  Enviado: 33587453000115_20250505_CN000001.TXT para -> SFTP BoaVista
+2025-05-06 08:26:22,631 - INFO - 33587453000115_20250505_CN000001.TXT enviado para -> catalogador
+2025-05-06 08:26:22,632 - INFO - Removido localmente
+2025-05-06 08:26:25,495 - INFO -  Enviado: 33587453000115_20250505_MV000001.TXT para -> SFTP BoaVista
+2025-05-06 08:26:25,582 - INFO - 33587453000115_20250505_MV000001.TXT enviado para -> catalogador
+2025-05-06 08:26:25,583 - INFO - Removido localmente
+2025-05-06 08:26:25,916 - INFO -  Enviado: 33587453000115_20250505_RP000001.TXT para -> SFTP BoaVista
+2025-05-06 08:26:25,997 - INFO - 33587453000115_20250505_RP000001.TXT enviado para -> catalogador
+2025-05-06 08:26:25,998 - INFO - Removido localmente
+2025-05-06 08:26:25,998 - INFO - [chan 0] sftp session closed.

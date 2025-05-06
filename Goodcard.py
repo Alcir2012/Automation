@@ -31,6 +31,7 @@ try:
         pastaOrigem = '/cacique'
         pastaDestino ='C:/Users/jose.alcir/Documents/ArquivosDiarios'
         pastaProcessados ='/cacique/Processados'
+        arquivosDuplicados = '/cacique/Novo envio (Nomenclatura duplicada)'
         if not os.path.exists(pastaDestino):
             logging.info('Pasta local não existe')
 
@@ -46,18 +47,30 @@ try:
                     sftp.get(origem,destino)
                     time.sleep(0.5)
                     logging.info(f'Baixado: {arquivo} -> Pasta local')
+
                     caminhoProcesados = f"{pastaProcessados}/{arquivo}"
+                    
                     sftp.rename(caminho_remoto, caminhoProcesados)
                     logging.info(f'Movendo {arquivo} para backup')
+
                 else:
                     logging.info(f'Ignorado (não é .txt ou não é arquivo): {arquivo}')
+
             except Exception as e:
-                logging.info(f'{e}')
+                if "Failure" in str(e):
+                    logging.info(f' Erro ao mover arquivo {arquivo}: {e}')
+                    caminhoDuplicado = f"{arquivosDuplicados}/{arquivo}"
+                    try:
+                        sftp.rename(caminho_remoto,caminhoDuplicado)
+                        logging.info(f"{arquivo} é duplicado, movido para pasta de duplicados")
+                    except Exception as err2:
+                        logging.error(f"Erro ao mover {arquivo} para pasta duplicado: {err2}")
+
 except Exception as e:
     logging.info(f"Não foi possivel conectar: {e}")
 
-
 def transfereCatalogador():
+    
     hostDestino = 'ftp.eextrato.com.br'
     usuarioDestino = 'monitoramento'
     senhaDestino = '@#kvZLGDvUl6XLonX1bl79YNgMwTasIvaY'
@@ -87,8 +100,8 @@ def transfereCatalogador():
                     logging.info(f'Retirado da pasta de espera e inserido para catalogar')
                     os.remove(localPath)
                     logging.info(f'Removido localmente: {arquivo}')
+
     except Exception as e:
         logging.error(f'Erro ao transferir arquivos: {e}')
-
 
 transfereCatalogador()

@@ -692,3 +692,15 @@
 2025-05-05 12:02:10,962 - INFO -  Enviado para processamento: valemaissociedade-vendas-01284-20250505.csv -> "SFTP BoaVista"
 2025-05-05 12:02:10,963 - INFO - Removido localmente: valemaissociedade-vendas-01284-20250505.csv
 2025-05-05 12:02:10,963 - INFO - [chan 0] sftp session closed.
+2025-05-06 11:46:07,602 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-06 11:46:08,022 - INFO - Authentication (publickey) successful!
+2025-05-06 11:46:08,330 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-06 11:46:08,715 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-06 11:46:08,715 - INFO - [chan 0] sftp session closed.
+2025-05-06 11:46:08,934 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-06 11:46:09,289 - INFO - Authentication (publickey) successful!
+2025-05-06 11:46:09,618 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-06 11:46:09,984 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-06 11:46:09,984 - INFO - [chan 0] sftp session closed.
+2025-05-06 11:46:10,212 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-06 11:46:10,632 - INFO - Authentication (publickey) successful!
