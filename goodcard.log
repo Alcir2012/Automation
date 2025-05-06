@@ -19682,3 +19682,27 @@
 2025-05-06 11:36:22,375 - INFO - Retirado da pasta de espera e inserido para catalogar
 2025-05-06 11:36:22,376 - INFO - Removido localmente: GOODCARD_TEJOTAODEARAGUARI_20250505.txt
 2025-05-06 11:36:22,376 - INFO - [chan 0] sftp session closed.
+2025-05-06 13:41:59,932 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-06 13:42:00,426 - INFO - Authentication (password) successful!
+2025-05-06 13:42:00,822 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-06 13:42:01,223 - INFO - ['GOODCARD_ATACADONILOGOEDERT_20250505.txt', 'GOODCARD_POSTOSUDOESTE_20250505.txt', 'Novo envio (Nomenclatura duplicada)', 'Processados', '\\', 'cacique']
+2025-05-06 13:42:02,157 - INFO - Baixado: GOODCARD_ATACADONILOGOEDERT_20250505.txt -> Pasta local
+2025-05-06 13:42:02,229 - INFO - Movendo GOODCARD_ATACADONILOGOEDERT_20250505.txt para backup
+2025-05-06 13:42:03,166 - INFO - Baixado: GOODCARD_POSTOSUDOESTE_20250505.txt -> Pasta local
+2025-05-06 13:42:03,235 - INFO -  Erro ao mover arquivo GOODCARD_POSTOSUDOESTE_20250505.txt: Failure
+2025-05-06 13:42:03,305 - INFO - GOODCARD_POSTOSUDOESTE_20250505.txt é duplicado, movido para pasta de duplicados
+2025-05-06 13:42:03,371 - INFO - Ignorado (não é .txt ou não é arquivo): Novo envio (Nomenclatura duplicada)
+2025-05-06 13:42:03,433 - INFO - Ignorado (não é .txt ou não é arquivo): Processados
+2025-05-06 13:42:03,500 - INFO - Ignorado (não é .txt ou não é arquivo): \
+2025-05-06 13:42:03,569 - INFO - Ignorado (não é .txt ou não é arquivo): cacique
+2025-05-06 13:42:03,569 - INFO - [chan 0] sftp session closed.
+2025-05-06 13:42:04,417 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-06 13:42:05,399 - INFO - Authentication (password) successful!
+2025-05-06 13:42:05,823 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-06 13:42:06,174 - INFO - Enviado para processamento: GOODCARD_ATACADONILOGOEDERT_20250505.txt -> SFTP BoaVista
+2025-05-06 13:42:06,271 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-06 13:42:06,272 - INFO - Removido localmente: GOODCARD_ATACADONILOGOEDERT_20250505.txt
+2025-05-06 13:42:06,635 - INFO - Enviado para processamento: GOODCARD_POSTOSUDOESTE_20250505.txt -> SFTP BoaVista
+2025-05-06 13:42:06,731 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-06 13:42:06,733 - INFO - Removido localmente: GOODCARD_POSTOSUDOESTE_20250505.txt
+2025-05-06 13:42:06,734 - INFO - [chan 0] sftp session closed.
