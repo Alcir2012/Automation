@@ -28,7 +28,7 @@ cnopts = pysftp.CnOpts()
 cnopts.hostkeys = None  # Ignora verificação de chave (não recomendado em produção)
 
 try:
-    with pysftp.Connection(host, username=usuario, password=senha, cnopts=cnopts) as sftp:
+    with pysftp.Connection(host, username=usuario, password=senha,port=222, cnopts=cnopts) as sftp:
         sftp.cwd('/CATALOGADOR/ERRO')
         arquivosDisponiveis = [arq for arq in sftp.listdir() if arq.startswith("PIX_237_341691317")]
         logging.info(arquivosDisponiveis)

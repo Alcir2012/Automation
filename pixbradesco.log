@@ -1,0 +1,23 @@
+2025-05-09 09:18:45,857 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-09 09:18:46,364 - INFO - Authentication (password) successful!
+2025-05-09 09:18:46,732 - INFO - Não foi possivel conectar: Garbage packet received
+2025-05-09 09:18:46,935 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-09 09:18:47,488 - INFO - Authentication (password) successful!
+2025-05-09 09:21:58,503 - INFO - Não foi possivel conectar: 'str' object cannot be interpreted as an integer
+2025-05-09 09:21:58,853 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-09 09:22:00,019 - INFO - Authentication (password) successful!
+2025-05-09 09:22:42,630 - INFO - Não foi possivel conectar: 'str' object cannot be interpreted as an integer
+2025-05-09 09:22:42,817 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-09 09:22:43,487 - INFO - Authentication (password) successful!
+2025-05-09 09:23:10,840 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-09 09:23:11,491 - INFO - Authentication (password) successful!
+2025-05-09 09:23:11,829 - INFO - Não foi possivel conectar: Garbage packet received
+2025-05-09 09:23:12,027 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-09 09:23:12,737 - INFO - Authentication (password) successful!
+2025-05-09 09:25:07,222 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-09 09:25:07,789 - INFO - Authentication (password) successful!
+2025-05-09 09:25:08,060 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-09 09:25:17,676 - INFO - []
+2025-05-09 09:25:17,676 - INFO - [chan 0] sftp session closed.
+2025-05-09 09:25:17,853 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-09 09:25:18,359 - INFO - Authentication (password) successful!
