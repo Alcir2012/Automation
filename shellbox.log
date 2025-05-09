@@ -920,3 +920,231 @@
 2025-05-06 17:37:35,789 - INFO -  Enviado para processamento: valemaissociedade-vendas-01285-20250506.csv -> "SFTP BoaVista"
 2025-05-06 17:37:35,791 - INFO - Removido localmente: valemaissociedade-vendas-01285-20250506.csv
 2025-05-06 17:37:35,791 - INFO - [chan 0] sftp session closed.
+2025-05-07 11:08:02,641 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-07 11:08:03,379 - INFO - Authentication (publickey) successful!
+2025-05-07 11:08:03,851 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-07 11:08:04,555 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-07 11:08:04,555 - INFO - [chan 0] sftp session closed.
+2025-05-07 11:08:04,944 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-07 11:08:05,605 - INFO - Authentication (publickey) successful!
+2025-05-07 11:08:06,025 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-07 11:08:06,709 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-07 11:08:06,709 - INFO - [chan 0] sftp session closed.
+2025-05-07 11:08:07,042 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-07 11:08:07,670 - INFO - Authentication (publickey) successful!
+2025-05-07 11:08:08,103 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-07 11:08:08,787 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-07 11:08:08,787 - INFO - [chan 0] sftp session closed.
+2025-05-07 11:08:09,107 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-07 11:08:09,715 - INFO - Authentication (publickey) successful!
+2025-05-07 11:08:10,129 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-07 11:08:10,794 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-07 11:08:10,795 - INFO - [chan 0] sftp session closed.
+2025-05-07 11:08:11,125 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-07 11:08:11,728 - INFO - Authentication (publickey) successful!
+2025-05-07 11:08:12,149 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-07 11:08:12,831 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-07 11:08:12,831 - INFO - [chan 0] sftp session closed.
+2025-05-07 11:08:13,152 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-07 11:08:13,843 - INFO - Authentication (publickey) successful!
+2025-05-07 11:08:14,313 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-07 11:08:14,996 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-07 11:08:14,996 - INFO - [chan 0] sftp session closed.
+2025-05-07 11:08:15,270 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-07 11:08:16,056 - INFO - Authentication (password) successful!
+2025-05-07 11:08:16,457 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-07 11:08:16,457 - INFO - [chan 0] sftp session closed.
+2025-05-07 16:07:58,715 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-07 16:07:59,425 - INFO - Authentication (publickey) successful!
+2025-05-07 16:07:59,861 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-07 16:08:02,162 - INFO - Baixado: autopostostatusdopanamby-vendas-02186-20250507.csv -> Pasta local
+2025-05-07 16:08:02,938 - INFO - Baixado: autopostostatusdopanamby-mov-finan-02186-20250507.csv -> Pasta local
+2025-05-07 16:08:03,125 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-07 16:08:03,125 - INFO - [chan 0] sftp session closed.
+2025-05-07 16:08:03,602 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-07 16:08:04,224 - INFO - Authentication (publickey) successful!
+2025-05-07 16:08:04,671 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-07 16:08:06,423 - INFO - Baixado: valemaiselaine-mov-finan-01293-20250507.csv -> Pasta local
+2025-05-07 16:08:06,617 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-07 16:08:07,659 - INFO - Baixado: valemaiselaine-vendas-01293-20250507.csv -> Pasta local
+2025-05-07 16:08:07,754 - INFO - [chan 0] sftp session closed.
+2025-05-07 16:08:08,206 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-07 16:08:08,847 - INFO - Authentication (publickey) successful!
+2025-05-07 16:08:09,271 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-07 16:08:11,059 - INFO - Baixado: valemaisfabio-mov-finan-01291-20250507.csv -> Pasta local
+2025-05-07 16:08:12,297 - INFO - Baixado: valemaisfabio-vendas-01293-20250507.csv -> Pasta local
+2025-05-07 16:08:12,491 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-07 16:08:12,492 - INFO - [chan 0] sftp session closed.
+2025-05-07 16:08:13,044 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-07 16:08:13,656 - INFO - Authentication (publickey) successful!
+2025-05-07 16:08:14,076 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-07 16:08:14,801 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-07 16:08:15,968 - INFO - Baixado: valemaisrodrigo-vendas-01287-20250507.csv -> Pasta local
+2025-05-07 16:08:16,916 - INFO - Baixado: valemaisrodrigo-mov-finan-01287-20250507.csv -> Pasta local
+2025-05-07 16:08:17,014 - INFO - [chan 0] sftp session closed.
+2025-05-07 16:08:17,462 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-07 16:08:18,084 - INFO - Authentication (publickey) successful!
+2025-05-07 16:08:18,516 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-07 16:08:20,687 - INFO - Baixado: valemaisrogerio-mov-finan-01292-20250507.csv -> Pasta local
+2025-05-07 16:08:22,375 - INFO - Baixado: valemaisrogerio-vendas-01292-20250507.csv -> Pasta local
+2025-05-07 16:08:22,563 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-07 16:08:22,564 - INFO - [chan 0] sftp session closed.
+2025-05-07 16:08:23,293 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-07 16:08:24,003 - INFO - Authentication (publickey) successful!
+2025-05-07 16:08:24,429 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-07 16:08:26,333 - INFO - Baixado: valemaissociedade-mov-finan-01287-20250507.csv -> Pasta local
+2025-05-07 16:08:27,668 - INFO - Baixado: valemaissociedade-vendas-01286-20250507.csv -> Pasta local
+2025-05-07 16:08:27,855 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-07 16:08:27,855 - INFO - [chan 0] sftp session closed.
+2025-05-07 16:08:28,325 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-07 16:08:29,057 - INFO - Authentication (password) successful!
+2025-05-07 16:08:29,429 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-07 16:08:29,930 - INFO -  Enviado para processamento: autopostostatusdopanamby-mov-finan-02186-20250507.csv -> "SFTP BoaVista"
+2025-05-07 16:08:29,931 - INFO - Removido localmente: autopostostatusdopanamby-mov-finan-02186-20250507.csv
+2025-05-07 16:08:32,613 - INFO -  Enviado para processamento: autopostostatusdopanamby-vendas-02186-20250507.csv -> "SFTP BoaVista"
+2025-05-07 16:08:32,614 - INFO - Removido localmente: autopostostatusdopanamby-vendas-02186-20250507.csv
+2025-05-07 16:08:33,661 - INFO -  Enviado para processamento: valemaiselaine-mov-finan-01293-20250507.csv -> "SFTP BoaVista"
+2025-05-07 16:08:33,662 - INFO - Removido localmente: valemaiselaine-mov-finan-01293-20250507.csv
+2025-05-07 16:08:34,947 - INFO -  Enviado para processamento: valemaiselaine-vendas-01293-20250507.csv -> "SFTP BoaVista"
+2025-05-07 16:08:34,948 - INFO - Removido localmente: valemaiselaine-vendas-01293-20250507.csv
+2025-05-07 16:08:35,982 - INFO -  Enviado para processamento: valemaisfabio-mov-finan-01291-20250507.csv -> "SFTP BoaVista"
+2025-05-07 16:08:35,983 - INFO - Removido localmente: valemaisfabio-mov-finan-01291-20250507.csv
+2025-05-07 16:08:37,270 - INFO -  Enviado para processamento: valemaisfabio-vendas-01293-20250507.csv -> "SFTP BoaVista"
+2025-05-07 16:08:37,271 - INFO - Removido localmente: valemaisfabio-vendas-01293-20250507.csv
+2025-05-07 16:08:37,925 - INFO -  Enviado para processamento: valemaisrodrigo-mov-finan-01287-20250507.csv -> "SFTP BoaVista"
+2025-05-07 16:08:37,926 - INFO - Removido localmente: valemaisrodrigo-mov-finan-01287-20250507.csv
+2025-05-07 16:08:38,823 - INFO -  Enviado para processamento: valemaisrodrigo-vendas-01287-20250507.csv -> "SFTP BoaVista"
+2025-05-07 16:08:38,824 - INFO - Removido localmente: valemaisrodrigo-vendas-01287-20250507.csv
+2025-05-07 16:08:41,446 - INFO -  Enviado para processamento: valemaisrogerio-mov-finan-01292-20250507.csv -> "SFTP BoaVista"
+2025-05-07 16:08:41,447 - INFO - Removido localmente: valemaisrogerio-mov-finan-01292-20250507.csv
+2025-05-07 16:08:44,397 - INFO -  Enviado para processamento: valemaisrogerio-vendas-01292-20250507.csv -> "SFTP BoaVista"
+2025-05-07 16:08:44,398 - INFO - Removido localmente: valemaisrogerio-vendas-01292-20250507.csv
+2025-05-07 16:08:45,862 - INFO -  Enviado para processamento: valemaissociedade-mov-finan-01287-20250507.csv -> "SFTP BoaVista"
+2025-05-07 16:08:45,863 - INFO - Removido localmente: valemaissociedade-mov-finan-01287-20250507.csv
+2025-05-07 16:08:47,806 - INFO -  Enviado para processamento: valemaissociedade-vendas-01286-20250507.csv -> "SFTP BoaVista"
+2025-05-07 16:08:47,807 - INFO - Removido localmente: valemaissociedade-vendas-01286-20250507.csv
+2025-05-07 16:08:47,807 - INFO - [chan 0] sftp session closed.
+2025-05-08 11:50:46,980 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-08 11:50:47,416 - INFO - Authentication (publickey) successful!
+2025-05-08 11:50:47,870 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-08 11:50:49,346 - INFO - Baixado: autopostostatusdopanamby-vendas-02187-20250508.csv -> Pasta local
+2025-05-08 11:50:49,462 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-08 11:50:49,831 - INFO - Baixado: autopostostatusdopanamby-mov-finan-02187-20250508.csv -> Pasta local
+2025-05-08 11:50:49,881 - INFO - [chan 0] sftp session closed.
+2025-05-08 11:50:50,288 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-08 11:50:50,735 - INFO - Authentication (publickey) successful!
+2025-05-08 11:50:51,051 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-08 11:50:52,026 - INFO - Baixado: valemaiselaine-mov-finan-01294-20250508.csv -> Pasta local
+2025-05-08 11:50:52,642 - INFO - Baixado: valemaiselaine-vendas-01294-20250508.csv -> Pasta local
+2025-05-08 11:50:52,742 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-08 11:50:52,742 - INFO - [chan 0] sftp session closed.
+2025-05-08 11:50:53,143 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-08 11:50:53,604 - INFO - Authentication (publickey) successful!
+2025-05-08 11:50:53,885 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-08 11:50:54,855 - INFO - Baixado: valemaisfabio-mov-finan-01292-20250508.csv -> Pasta local
+2025-05-08 11:50:55,478 - INFO - Baixado: valemaisfabio-vendas-01294-20250508.csv -> Pasta local
+2025-05-08 11:50:55,578 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-08 11:50:55,579 - INFO - [chan 0] sftp session closed.
+2025-05-08 11:50:56,096 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-08 11:50:56,493 - INFO - Authentication (publickey) successful!
+2025-05-08 11:50:56,768 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-08 11:50:57,626 - INFO - Baixado: valemaisrodrigo-mov-finan-01288-20250508.csv -> Pasta local
+2025-05-08 11:50:57,782 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-08 11:50:58,352 - INFO - Baixado: valemaisrodrigo-vendas-01288-20250508.csv -> Pasta local
+2025-05-08 11:50:58,404 - INFO - [chan 0] sftp session closed.
+2025-05-08 11:50:59,113 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-08 11:50:59,545 - INFO - Authentication (publickey) successful!
+2025-05-08 11:50:59,858 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-08 11:51:01,541 - INFO - Baixado: valemaisrogerio-vendas-01293-20250508.csv -> Pasta local
+2025-05-08 11:51:01,907 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-08 11:51:02,668 - INFO - Baixado: valemaisrogerio-mov-finan-01293-20250508.csv -> Pasta local
+2025-05-08 11:51:02,723 - INFO - [chan 0] sftp session closed.
+2025-05-08 11:51:04,765 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-08 11:51:05,311 - INFO - Authentication (publickey) successful!
+2025-05-08 11:51:05,686 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-08 11:51:06,856 - INFO - Baixado: valemaissociedade-vendas-01287-20250508.csv -> Pasta local
+2025-05-08 11:51:06,998 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-08 11:51:07,722 - INFO - Baixado: valemaissociedade-mov-finan-01288-20250508.csv -> Pasta local
+2025-05-08 11:51:07,775 - INFO - [chan 0] sftp session closed.
+2025-05-08 11:51:07,952 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-08 11:51:08,523 - INFO - Authentication (password) successful!
+2025-05-08 11:51:08,780 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-08 11:51:09,222 - INFO -  Enviado para processamento: autopostostatusdopanamby-mov-finan-02187-20250508.csv -> "SFTP BoaVista"
+2025-05-08 11:51:09,225 - INFO - Removido localmente: autopostostatusdopanamby-mov-finan-02187-20250508.csv
+2025-05-08 11:51:11,270 - INFO -  Enviado para processamento: autopostostatusdopanamby-vendas-02187-20250508.csv -> "SFTP BoaVista"
+2025-05-08 11:51:11,272 - INFO - Removido localmente: autopostostatusdopanamby-vendas-02187-20250508.csv
+2025-05-08 11:51:11,959 - INFO -  Enviado para processamento: valemaiselaine-mov-finan-01294-20250508.csv -> "SFTP BoaVista"
+2025-05-08 11:51:11,960 - INFO - Removido localmente: valemaiselaine-mov-finan-01294-20250508.csv
+2025-05-08 11:51:12,710 - INFO -  Enviado para processamento: valemaiselaine-vendas-01294-20250508.csv -> "SFTP BoaVista"
+2025-05-08 11:51:12,712 - INFO - Removido localmente: valemaiselaine-vendas-01294-20250508.csv
+2025-05-08 11:51:13,324 - INFO -  Enviado para processamento: valemaisfabio-mov-finan-01292-20250508.csv -> "SFTP BoaVista"
+2025-05-08 11:51:13,325 - INFO - Removido localmente: valemaisfabio-mov-finan-01292-20250508.csv
+2025-05-08 11:51:13,972 - INFO -  Enviado para processamento: valemaisfabio-vendas-01294-20250508.csv -> "SFTP BoaVista"
+2025-05-08 11:51:13,973 - INFO - Removido localmente: valemaisfabio-vendas-01294-20250508.csv
+2025-05-08 11:51:14,425 - INFO -  Enviado para processamento: valemaisrodrigo-mov-finan-01288-20250508.csv -> "SFTP BoaVista"
+2025-05-08 11:51:14,426 - INFO - Removido localmente: valemaisrodrigo-mov-finan-01288-20250508.csv
+2025-05-08 11:51:14,857 - INFO -  Enviado para processamento: valemaisrodrigo-vendas-01288-20250508.csv -> "SFTP BoaVista"
+2025-05-08 11:51:14,858 - INFO - Removido localmente: valemaisrodrigo-vendas-01288-20250508.csv
+2025-05-08 11:51:15,813 - INFO -  Enviado para processamento: valemaisrogerio-mov-finan-01293-20250508.csv -> "SFTP BoaVista"
+2025-05-08 11:51:15,814 - INFO - Removido localmente: valemaisrogerio-mov-finan-01293-20250508.csv
+2025-05-08 11:51:16,976 - INFO -  Enviado para processamento: valemaisrogerio-vendas-01293-20250508.csv -> "SFTP BoaVista"
+2025-05-08 11:51:16,977 - INFO - Removido localmente: valemaisrogerio-vendas-01293-20250508.csv
+2025-05-08 11:51:17,861 - INFO -  Enviado para processamento: valemaissociedade-mov-finan-01288-20250508.csv -> "SFTP BoaVista"
+2025-05-08 11:51:17,865 - INFO - Removido localmente: valemaissociedade-mov-finan-01288-20250508.csv
+2025-05-08 11:51:18,832 - INFO -  Enviado para processamento: valemaissociedade-vendas-01287-20250508.csv -> "SFTP BoaVista"
+2025-05-08 11:51:18,832 - INFO - Removido localmente: valemaissociedade-vendas-01287-20250508.csv
+2025-05-08 11:51:18,832 - INFO - [chan 0] sftp session closed.
+2025-05-08 17:18:37,876 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-08 17:18:38,497 - INFO - Authentication (publickey) successful!
+2025-05-08 17:18:38,952 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-08 17:18:39,690 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-08 17:18:39,690 - INFO - [chan 0] sftp session closed.
+2025-05-08 17:18:40,204 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-08 17:18:40,784 - INFO - Authentication (publickey) successful!
+2025-05-08 17:18:41,221 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-08 17:18:41,907 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-08 17:18:41,907 - INFO - [chan 0] sftp session closed.
+2025-05-08 17:18:42,374 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-08 17:18:43,013 - INFO - Authentication (publickey) successful!
+2025-05-08 17:18:43,454 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-08 17:18:44,145 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-08 17:18:44,145 - INFO - [chan 0] sftp session closed.
+2025-05-08 17:18:44,812 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-08 17:18:45,434 - INFO - Authentication (publickey) successful!
+2025-05-08 17:18:45,926 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-08 17:18:46,939 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-08 17:18:46,940 - INFO - [chan 0] sftp session closed.
+2025-05-08 17:18:47,401 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-08 17:18:48,037 - INFO - Authentication (publickey) successful!
+2025-05-08 17:18:48,723 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-08 17:18:49,401 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-08 17:18:49,401 - INFO - [chan 0] sftp session closed.
+2025-05-08 17:18:49,854 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-08 17:18:50,451 - INFO - Authentication (publickey) successful!
+2025-05-08 17:18:50,887 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-08 17:18:51,586 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-08 17:18:51,586 - INFO - [chan 0] sftp session closed.
+2025-05-08 17:18:51,843 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-08 17:18:52,588 - INFO - Authentication (password) successful!
+2025-05-08 17:18:52,967 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-08 17:18:53,488 - INFO -  Enviado para processamento: autopostopontaldacruz-mov-finan-00170-20250508.csv -> "SFTP BoaVista"
+2025-05-08 17:18:53,488 - INFO - Removido localmente: autopostopontaldacruz-mov-finan-00170-20250508.csv
+2025-05-08 17:18:55,730 - INFO -  Enviado para processamento: autopostopontaldacruz-vendas-00170-20250508.csv -> "SFTP BoaVista"
+2025-05-08 17:18:55,731 - INFO - Removido localmente: autopostopontaldacruz-vendas-00170-20250508.csv
+2025-05-08 17:18:56,247 - INFO -  Enviado para processamento: girleno-30757976000174-mov-finan-00537-20250507.csv -> "SFTP BoaVista"
+2025-05-08 17:18:56,248 - INFO - Removido localmente: girleno-30757976000174-mov-finan-00537-20250507.csv
+2025-05-08 17:18:56,773 - INFO -  Enviado para processamento: girleno-30757976000174-mov-finan-00538-20250508.csv -> "SFTP BoaVista"
+2025-05-08 17:18:56,774 - INFO - Removido localmente: girleno-30757976000174-mov-finan-00538-20250508.csv
+2025-05-08 17:18:57,282 - INFO -  Enviado para processamento: girleno-30757976000174-vendas-00537-20250507.csv -> "SFTP BoaVista"
+2025-05-08 17:18:57,283 - INFO - Removido localmente: girleno-30757976000174-vendas-00537-20250507.csv
+2025-05-08 17:18:57,793 - INFO -  Enviado para processamento: girleno-30757976000174-vendas-00538-20250508.csv -> "SFTP BoaVista"
+2025-05-08 17:18:57,794 - INFO - Removido localmente: girleno-30757976000174-vendas-00538-20250508.csv
+2025-05-08 17:18:58,304 - INFO -  Enviado para processamento: postodanave-mov-finan-01528-20250508.csv -> "SFTP BoaVista"
+2025-05-08 17:18:58,305 - INFO - Removido localmente: postodanave-mov-finan-01528-20250508.csv
+2025-05-08 17:19:01,608 - INFO -  Enviado para processamento: postodanave-vendas-01528-20250508.csv -> "SFTP BoaVista"
+2025-05-08 17:19:01,609 - INFO - Removido localmente: postodanave-vendas-01528-20250508.csv
+2025-05-08 17:19:02,127 - INFO -  Enviado para processamento: postoqualityfiorano-mov-finan-01506-20250508.csv -> "SFTP BoaVista"
+2025-05-08 17:19:02,128 - INFO - Removido localmente: postoqualityfiorano-mov-finan-01506-20250508.csv
+2025-05-08 17:19:02,635 - INFO -  Enviado para processamento: postoqualityfiorano-vendas-01506-20250508.csv -> "SFTP BoaVista"
+2025-05-08 17:19:02,636 - INFO - Removido localmente: postoqualityfiorano-vendas-01506-20250508.csv
+2025-05-08 17:19:02,636 - INFO - [chan 0] sftp session closed.

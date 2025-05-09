@@ -11,10 +11,14 @@ host = 'integracao.embratec.com.br'
 usuario = 'sftp.cacique'
 senha = '!@Cac1qU3'
 
+script_dir = os.path.dirname(os.path.abspath(__file__))
+os.chdir(script_dir)
 
-# Configurando o logging
+# Caminho absoluto para o log
+log_path = os.path.join(script_dir, 'goodcard.log')
+
 logging.basicConfig(
-    filename='goodcard.log',
+    filename=log_path,
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
     encoding='utf-8'
