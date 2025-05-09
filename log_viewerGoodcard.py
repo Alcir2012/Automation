@@ -73,7 +73,8 @@ if os.path.exists(log_path):
         # ========== FILTRO PARA RESUMO (removendo Ignorado e Removido) ==========
         df_filtrado = df[
             (df['tipo'] != 'ignorado') &
-            (df['tipo'] != 'Removido localmente'.lower())
+            (df['tipo'] != 'Removido localmente'.lower()) &
+            (df['tipo'] != 'Erro ao mover'.lower())
         ]
 
         # ========== DETALHAMENTO ==========
