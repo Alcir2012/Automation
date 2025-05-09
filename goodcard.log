@@ -26491,3 +26491,53 @@
 2025-05-09 09:15:12,145 - INFO - Retirado da pasta de espera e inserido para catalogar
 2025-05-09 09:15:12,145 - INFO - Removido localmente: GOODCARD_SUPERMERCADOSCALEGARIS_20250430.txt
 2025-05-09 09:15:12,146 - INFO - [chan 0] sftp session closed.
+2025-05-09 10:15:03,614 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-09 10:15:04,402 - INFO - Authentication (password) successful!
+2025-05-09 10:15:04,801 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-09 10:15:06,314 - INFO - ['2025.txt', 'GOODCARD_SUPERMERCADOSCALEGARIS_20250430.txt', 'Novo envio (Nomenclatura duplicada)', 'Processados', '\\', 'cacique']
+2025-05-09 10:15:07,310 - INFO - Baixado: 2025.txt -> Pasta local
+2025-05-09 10:15:07,386 - INFO -  Erro ao mover arquivo 2025.txt: Failure
+2025-05-09 10:15:07,459 - ERROR - Erro ao mover 2025.txt para pasta duplicado: Failure
+2025-05-09 10:15:08,449 - INFO - Baixado: GOODCARD_SUPERMERCADOSCALEGARIS_20250430.txt -> Pasta local
+2025-05-09 10:15:08,531 - INFO -  Erro ao mover arquivo GOODCARD_SUPERMERCADOSCALEGARIS_20250430.txt: Failure
+2025-05-09 10:15:08,606 - ERROR - Erro ao mover GOODCARD_SUPERMERCADOSCALEGARIS_20250430.txt para pasta duplicado: Failure
+2025-05-09 10:15:08,676 - INFO - Ignorado (não é .txt ou não é arquivo): Novo envio (Nomenclatura duplicada)
+2025-05-09 10:15:08,749 - INFO - Ignorado (não é .txt ou não é arquivo): Processados
+2025-05-09 10:15:08,818 - INFO - Ignorado (não é .txt ou não é arquivo): \
+2025-05-09 10:15:08,887 - INFO - Ignorado (não é .txt ou não é arquivo): cacique
+2025-05-09 10:15:08,887 - INFO - [chan 0] sftp session closed.
+2025-05-09 10:15:09,315 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-09 10:15:10,003 - INFO - Authentication (password) successful!
+2025-05-09 10:15:10,442 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-09 10:15:10,798 - INFO - Enviado para processamento: 2025.txt -> SFTP BoaVista
+2025-05-09 10:15:10,881 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-09 10:15:10,882 - INFO - Removido localmente: 2025.txt
+2025-05-09 10:15:11,227 - INFO - Enviado para processamento: GOODCARD_SUPERMERCADOSCALEGARIS_20250430.txt -> SFTP BoaVista
+2025-05-09 10:15:11,313 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-09 10:15:11,313 - INFO - Removido localmente: GOODCARD_SUPERMERCADOSCALEGARIS_20250430.txt
+2025-05-09 10:15:11,314 - INFO - [chan 0] sftp session closed.
+2025-05-09 12:15:05,754 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-09 12:15:06,431 - INFO - Authentication (password) successful!
+2025-05-09 12:15:06,743 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-09 12:15:08,526 - INFO - ['2025.txt', 'GOODCARD_SUPERMERCADOSCALEGARIS_20250430.txt', 'Novo envio (Nomenclatura duplicada)', 'Processados', '\\', 'cacique']
+2025-05-09 12:15:09,522 - INFO - Baixado: 2025.txt -> Pasta local
+2025-05-09 12:15:09,601 - INFO -  Erro ao mover arquivo 2025.txt: Failure
+2025-05-09 12:15:09,686 - ERROR - Erro ao mover 2025.txt para pasta duplicado: Failure
+2025-05-09 12:15:10,677 - INFO - Baixado: GOODCARD_SUPERMERCADOSCALEGARIS_20250430.txt -> Pasta local
+2025-05-09 12:15:10,754 - INFO -  Erro ao mover arquivo GOODCARD_SUPERMERCADOSCALEGARIS_20250430.txt: Failure
+2025-05-09 12:15:10,831 - ERROR - Erro ao mover GOODCARD_SUPERMERCADOSCALEGARIS_20250430.txt para pasta duplicado: Failure
+2025-05-09 12:15:10,900 - INFO - Ignorado (não é .txt ou não é arquivo): Novo envio (Nomenclatura duplicada)
+2025-05-09 12:15:10,965 - INFO - Ignorado (não é .txt ou não é arquivo): Processados
+2025-05-09 12:15:11,030 - INFO - Ignorado (não é .txt ou não é arquivo): \
+2025-05-09 12:15:11,096 - INFO - Ignorado (não é .txt ou não é arquivo): cacique
+2025-05-09 12:15:11,096 - INFO - [chan 0] sftp session closed.
+2025-05-09 12:15:11,288 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-09 12:15:11,961 - INFO - Authentication (password) successful!
+2025-05-09 12:15:12,562 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-09 12:15:12,909 - INFO - Enviado para processamento: 2025.txt -> SFTP BoaVista
+2025-05-09 12:15:12,995 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-09 12:15:12,995 - INFO - Removido localmente: 2025.txt
+2025-05-09 12:15:13,340 - INFO - Enviado para processamento: GOODCARD_SUPERMERCADOSCALEGARIS_20250430.txt -> SFTP BoaVista
+2025-05-09 12:15:13,421 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-09 12:15:13,421 - INFO - Removido localmente: GOODCARD_SUPERMERCADOSCALEGARIS_20250430.txt
+2025-05-09 12:15:13,422 - INFO - [chan 0] sftp session closed.
