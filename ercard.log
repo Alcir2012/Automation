@@ -170,3 +170,20 @@ porque o host conectado não respondeu
 2025-05-08 17:54:52,541 - INFO - [chan 0] Opened sftp connection (server version 3)
 2025-05-08 17:54:52,542 - INFO - [chan 0] sftp session closed.
 2025-05-09 07:54:56,470 - ERROR - Erro geral [Errno 11001] getaddrinfo failed
+2025-05-09 08:45:02,960 - INFO - Baixando: 33587453000115_20250508_CN000001.TXT para -> Pasta local
+2025-05-09 08:45:04,019 - INFO - Baixando: 33587453000115_20250508_MV000001.TXT para -> Pasta local
+2025-05-09 08:45:06,466 - INFO - Baixando: 33587453000115_20250508_RP000001.TXT para -> Pasta local
+2025-05-09 08:45:06,574 - INFO - Ignorado oque não for txt
+2025-05-09 08:45:06,991 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-09 08:45:07,466 - INFO - Authentication (password) successful!
+2025-05-09 08:45:07,734 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-09 08:45:08,071 - INFO -  Enviado: 33587453000115_20250508_CN000001.TXT para -> SFTP BoaVista
+2025-05-09 08:45:08,152 - INFO - 33587453000115_20250508_CN000001.TXT enviado para -> catalogador
+2025-05-09 08:45:08,152 - INFO - Removido localmente
+2025-05-09 08:45:12,484 - INFO -  Enviado: 33587453000115_20250508_MV000001.TXT para -> SFTP BoaVista
+2025-05-09 08:45:12,573 - INFO - 33587453000115_20250508_MV000001.TXT enviado para -> catalogador
+2025-05-09 08:45:12,575 - INFO - Removido localmente
+2025-05-09 08:45:19,510 - INFO -  Enviado: 33587453000115_20250508_RP000001.TXT para -> SFTP BoaVista
+2025-05-09 08:45:19,607 - INFO - 33587453000115_20250508_RP000001.TXT enviado para -> catalogador
+2025-05-09 08:45:19,608 - INFO - Removido localmente
+2025-05-09 08:45:19,608 - INFO - [chan 0] sftp session closed.

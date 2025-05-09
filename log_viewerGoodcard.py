@@ -74,7 +74,7 @@ if os.path.exists(log_path):
         df_filtrado = df[
             (df['tipo'] != 'ignorado') &
             (df['tipo'] != 'Removido localmente'.lower()) &
-            (df['tipo'] != 'Erro ao mover'.lower())
+            (df['tipo'] != 'erro ao mover'.lower())
         ]
 
         # ========== DETALHAMENTO ==========
