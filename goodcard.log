@@ -32663,3 +32663,25 @@
 2025-05-12 12:15:12,597 - INFO - Retirado da pasta de espera e inserido para catalogar
 2025-05-12 12:15:12,598 - INFO - Removido localmente: GOODCARD_SUPERMERCADOSCALEGARIS_20250430.txt
 2025-05-12 12:15:12,598 - INFO - [chan 0] sftp session closed.
+2025-05-12 14:15:03,562 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-12 14:15:04,043 - INFO - Authentication (password) successful!
+2025-05-12 14:15:04,453 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 14:15:06,507 - INFO - ['Novo envio (Nomenclatura duplicada)', 'Processados', '\\', 'cacique']
+2025-05-12 14:15:06,574 - INFO - Ignorado (não é .txt ou não é arquivo): Novo envio (Nomenclatura duplicada)
+2025-05-12 14:15:06,639 - INFO - Ignorado (não é .txt ou não é arquivo): Processados
+2025-05-12 14:15:06,701 - INFO - Ignorado (não é .txt ou não é arquivo): \
+2025-05-12 14:15:06,764 - INFO - Ignorado (não é .txt ou não é arquivo): cacique
+2025-05-12 14:15:06,765 - INFO - [chan 0] sftp session closed.
+2025-05-12 14:15:06,969 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-12 14:15:07,677 - INFO - Authentication (password) successful!
+2025-05-12 15:15:04,649 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-12 15:15:05,342 - INFO - Authentication (password) successful!
+2025-05-12 15:15:05,735 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 15:15:06,657 - INFO - ['Novo envio (Nomenclatura duplicada)', 'Processados', '\\', 'cacique']
+2025-05-12 15:15:06,720 - INFO - Ignorado (não é .txt ou não é arquivo): Novo envio (Nomenclatura duplicada)
+2025-05-12 15:15:06,783 - INFO - Ignorado (não é .txt ou não é arquivo): Processados
+2025-05-12 15:15:06,849 - INFO - Ignorado (não é .txt ou não é arquivo): \
+2025-05-12 15:15:06,919 - INFO - Ignorado (não é .txt ou não é arquivo): cacique
+2025-05-12 15:15:06,919 - INFO - [chan 0] sftp session closed.
+2025-05-12 15:15:07,120 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-12 15:15:07,662 - INFO - Authentication (password) successful!
