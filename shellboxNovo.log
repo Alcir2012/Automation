@@ -8694,3 +8694,207 @@
 2025-05-12 15:31:47,102 - INFO - Tirando arquivo portalestreladomorumbictroaut-vendas-00472-20250506.csv para -> Catalogador
 2025-05-12 15:31:47,104 - INFO - Removido localmente: portalestreladomorumbictroaut-vendas-00472-20250506.csv
 2025-05-12 15:31:47,105 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:30:04,645 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:30:05,101 - INFO - Authentication (publickey) successful!
+2025-05-12 16:30:05,448 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:30:05,810 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:30:05,810 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:30:06,175 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:30:06,699 - INFO - Authentication (publickey) successful!
+2025-05-12 16:30:06,978 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:30:07,337 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:30:07,337 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:30:07,714 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:30:08,074 - INFO - Authentication (publickey) successful!
+2025-05-12 16:30:08,351 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:30:08,733 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:30:08,733 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:30:09,101 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:30:09,510 - INFO - Authentication (publickey) successful!
+2025-05-12 16:30:09,803 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:30:10,189 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:30:10,190 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:30:11,445 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:30:11,838 - INFO - Authentication (publickey) successful!
+2025-05-12 16:30:12,150 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:30:12,483 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:30:12,483 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:30:12,743 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:30:13,151 - INFO - Authentication (publickey) successful!
+2025-05-12 16:30:13,468 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:30:13,830 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:30:13,830 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:30:14,192 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:30:14,603 - INFO - Authentication (publickey) successful!
+2025-05-12 16:30:14,889 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:30:15,256 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:30:15,256 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:30:15,642 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:30:16,276 - INFO - Authentication (publickey) successful!
+2025-05-12 16:30:16,576 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:30:16,947 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:30:16,948 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:30:17,306 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:30:17,730 - INFO - Authentication (publickey) successful!
+2025-05-12 16:30:18,074 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:30:18,423 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:30:18,423 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:30:18,800 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:30:19,284 - INFO - Authentication (publickey) successful!
+2025-05-12 16:30:19,587 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:30:19,988 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:30:19,988 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:30:20,273 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:30:20,655 - INFO - Authentication (publickey) successful!
+2025-05-12 16:30:21,079 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:30:21,466 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:30:21,466 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:30:21,994 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:30:22,647 - INFO - Authentication (publickey) successful!
+2025-05-12 16:30:22,991 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:30:23,948 - INFO - Baixado: planaltopetroleoceasaltda-vendas-00394-20250506.csv -> Pasta local
+2025-05-12 16:30:24,009 - INFO - Erro ao baixar para pasta local planaltopetroleoceasaltda-vendas-00394-20250506.csv: [Errno 2] No such file
+2025-05-12 16:30:24,594 - INFO - Baixado: planaltopetroleoceasaltda-vendas-00399-20250511.csv -> Pasta local
+2025-05-12 16:30:24,645 - INFO - Erro ao baixar para pasta local planaltopetroleoceasaltda-vendas-00399-20250511.csv: [Errno 2] No such file
+2025-05-12 16:30:25,242 - INFO - Baixado: planaltopetroleoceasaltda-vendas-00400-20250512.csv -> Pasta local
+2025-05-12 16:30:25,393 - INFO - Erro ao baixar para pasta local planaltopetroleoceasaltda-vendas-00400-20250512.csv: [Errno 2] No such file
+2025-05-12 16:30:25,797 - INFO - Baixado: planaltopetroleoceasaltda-mov-finan-00397-20250509.csv -> Pasta local
+2025-05-12 16:30:25,847 - INFO - Erro ao baixar para pasta local planaltopetroleoceasaltda-mov-finan-00397-20250509.csv: [Errno 2] No such file
+2025-05-12 16:30:26,395 - INFO - Baixado: planaltopetroleoceasaltda-vendas-00396-20250508.csv -> Pasta local
+2025-05-12 16:30:26,448 - INFO - Erro ao baixar para pasta local planaltopetroleoceasaltda-vendas-00396-20250508.csv: [Errno 2] No such file
+2025-05-12 16:30:27,026 - INFO - Baixado: planaltopetroleoceasaltda-vendas-00395-20250507.csv -> Pasta local
+2025-05-12 16:30:27,076 - INFO - Erro ao baixar para pasta local planaltopetroleoceasaltda-vendas-00395-20250507.csv: [Errno 2] No such file
+2025-05-12 16:30:27,451 - INFO - Baixado: planaltopetroleoceasaltda-mov-finan-00399-20250511.csv -> Pasta local
+2025-05-12 16:30:27,507 - INFO - Erro ao baixar para pasta local planaltopetroleoceasaltda-mov-finan-00399-20250511.csv: [Errno 2] No such file
+2025-05-12 16:30:27,968 - INFO - Baixado: planaltopetroleoceasaltda-mov-finan-00395-20250507.csv -> Pasta local
+2025-05-12 16:30:28,018 - INFO - Erro ao baixar para pasta local planaltopetroleoceasaltda-mov-finan-00395-20250507.csv: [Errno 2] No such file
+2025-05-12 16:30:28,390 - INFO - Baixado: planaltopetroleoceasaltda-mov-finan-00396-20250508.csv -> Pasta local
+2025-05-12 16:30:28,451 - INFO - Erro ao baixar para pasta local planaltopetroleoceasaltda-mov-finan-00396-20250508.csv: [Errno 2] No such file
+2025-05-12 16:30:29,226 - INFO - Baixado: planaltopetroleoceasaltda-vendas-00398-20250510.csv -> Pasta local
+2025-05-12 16:30:29,282 - INFO - Erro ao baixar para pasta local planaltopetroleoceasaltda-vendas-00398-20250510.csv: [Errno 2] No such file
+2025-05-12 16:30:29,338 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:30:30,207 - INFO - Baixado: planaltopetroleoceasaltda-vendas-00397-20250509.csv -> Pasta local
+2025-05-12 16:30:30,257 - INFO - Erro ao baixar para pasta local planaltopetroleoceasaltda-vendas-00397-20250509.csv: [Errno 2] No such file
+2025-05-12 16:30:30,636 - INFO - Baixado: planaltopetroleoceasaltda-mov-finan-00398-20250510.csv -> Pasta local
+2025-05-12 16:30:30,686 - INFO - Erro ao baixar para pasta local planaltopetroleoceasaltda-mov-finan-00398-20250510.csv: [Errno 2] No such file
+2025-05-12 16:30:31,043 - INFO - Baixado: planaltopetroleoceasaltda-mov-finan-00400-20250512.csv -> Pasta local
+2025-05-12 16:30:31,093 - INFO - Erro ao baixar para pasta local planaltopetroleoceasaltda-mov-finan-00400-20250512.csv: [Errno 2] No such file
+2025-05-12 16:30:31,093 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:30:31,478 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:30:31,869 - INFO - Authentication (publickey) successful!
+2025-05-12 16:30:32,174 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:30:32,581 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:30:32,581 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:30:33,480 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:30:34,419 - INFO - Authentication (publickey) successful!
+2025-05-12 16:30:35,272 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:30:35,654 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:30:35,654 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:30:37,117 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:30:37,724 - INFO - Authentication (publickey) successful!
+2025-05-12 16:30:38,099 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:30:47,314 - INFO - Baixado: portalestreladomorumbictroaut-vendas-00472-20250506.csv -> Pasta local
+2025-05-12 16:30:47,363 - INFO - Erro ao baixar para pasta local portalestreladomorumbictroaut-vendas-00472-20250506.csv: Failure
+2025-05-12 16:30:47,426 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:30:47,426 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:30:47,908 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:30:48,720 - INFO - Authentication (publickey) successful!
+2025-05-12 16:30:49,057 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:30:49,430 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:30:49,430 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:30:49,876 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:30:51,120 - INFO - Authentication (publickey) successful!
+2025-05-12 16:30:51,748 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:30:52,140 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:30:52,140 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:30:52,588 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:30:53,544 - INFO - Authentication (publickey) successful!
+2025-05-12 16:30:54,153 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:30:54,494 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:30:54,494 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:30:55,052 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:30:55,599 - INFO - Authentication (publickey) successful!
+2025-05-12 16:30:55,932 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:30:56,303 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:30:56,303 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:30:56,889 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:30:58,313 - INFO - Authentication (publickey) successful!
+2025-05-12 16:30:59,127 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:30:59,510 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:30:59,510 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:30:59,920 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:31:00,567 - INFO - Authentication (publickey) successful!
+2025-05-12 16:31:01,033 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:31:01,397 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:31:01,397 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:31:01,911 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:31:03,316 - INFO - Authentication (publickey) successful!
+2025-05-12 16:31:03,699 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:31:04,083 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:31:04,083 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:31:05,318 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:31:05,985 - INFO - Authentication (publickey) successful!
+2025-05-12 16:31:06,697 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:31:07,188 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:31:07,189 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:31:07,848 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:31:10,167 - INFO - Authentication (publickey) successful!
+2025-05-12 16:31:10,915 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:31:11,268 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:31:11,269 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:31:11,929 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:31:13,158 - INFO - Authentication (publickey) successful!
+2025-05-12 16:31:14,441 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:31:14,788 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:31:14,788 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:31:16,060 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-12 16:31:16,842 - INFO - Authentication (publickey) successful!
+2025-05-12 16:31:17,428 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:31:17,830 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-12 16:31:17,830 - INFO - [chan 0] sftp session closed.
+2025-05-12 16:31:18,022 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-12 16:31:18,616 - INFO - Authentication (password) successful!
+2025-05-12 16:31:18,885 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-12 16:31:19,465 - INFO -  Enviado para processamento: planaltopetroleoceasaltda-mov-finan-00395-20250507.csv -> "SFTP BoaVista"
+2025-05-12 16:31:19,554 - INFO - Tirando arquivo planaltopetroleoceasaltda-mov-finan-00395-20250507.csv para -> Catalogador
+2025-05-12 16:31:19,556 - INFO - Removido localmente: planaltopetroleoceasaltda-mov-finan-00395-20250507.csv
+2025-05-12 16:31:19,917 - INFO -  Enviado para processamento: planaltopetroleoceasaltda-mov-finan-00396-20250508.csv -> "SFTP BoaVista"
+2025-05-12 16:31:20,018 - INFO - Tirando arquivo planaltopetroleoceasaltda-mov-finan-00396-20250508.csv para -> Catalogador
+2025-05-12 16:31:20,019 - INFO - Removido localmente: planaltopetroleoceasaltda-mov-finan-00396-20250508.csv
+2025-05-12 16:31:20,400 - INFO -  Enviado para processamento: planaltopetroleoceasaltda-mov-finan-00397-20250509.csv -> "SFTP BoaVista"
+2025-05-12 16:31:20,500 - INFO - Tirando arquivo planaltopetroleoceasaltda-mov-finan-00397-20250509.csv para -> Catalogador
+2025-05-12 16:31:20,501 - INFO - Removido localmente: planaltopetroleoceasaltda-mov-finan-00397-20250509.csv
+2025-05-12 16:31:20,876 - INFO -  Enviado para processamento: planaltopetroleoceasaltda-mov-finan-00398-20250510.csv -> "SFTP BoaVista"
+2025-05-12 16:31:20,966 - INFO - Tirando arquivo planaltopetroleoceasaltda-mov-finan-00398-20250510.csv para -> Catalogador
+2025-05-12 16:31:20,966 - INFO - Removido localmente: planaltopetroleoceasaltda-mov-finan-00398-20250510.csv
+2025-05-12 16:31:21,335 - INFO -  Enviado para processamento: planaltopetroleoceasaltda-mov-finan-00399-20250511.csv -> "SFTP BoaVista"
+2025-05-12 16:31:21,424 - INFO - Tirando arquivo planaltopetroleoceasaltda-mov-finan-00399-20250511.csv para -> Catalogador
+2025-05-12 16:31:21,425 - INFO - Removido localmente: planaltopetroleoceasaltda-mov-finan-00399-20250511.csv
+2025-05-12 16:31:21,795 - INFO -  Enviado para processamento: planaltopetroleoceasaltda-mov-finan-00400-20250512.csv -> "SFTP BoaVista"
+2025-05-12 16:31:21,894 - INFO - Tirando arquivo planaltopetroleoceasaltda-mov-finan-00400-20250512.csv para -> Catalogador
+2025-05-12 16:31:21,895 - INFO - Removido localmente: planaltopetroleoceasaltda-mov-finan-00400-20250512.csv
+2025-05-12 16:31:23,322 - INFO -  Enviado para processamento: planaltopetroleoceasaltda-vendas-00394-20250506.csv -> "SFTP BoaVista"
+2025-05-12 16:31:23,413 - INFO - Tirando arquivo planaltopetroleoceasaltda-vendas-00394-20250506.csv para -> Catalogador
+2025-05-12 16:31:23,414 - INFO - Removido localmente: planaltopetroleoceasaltda-vendas-00394-20250506.csv
+2025-05-12 16:31:24,447 - INFO -  Enviado para processamento: planaltopetroleoceasaltda-vendas-00395-20250507.csv -> "SFTP BoaVista"
+2025-05-12 16:31:24,537 - INFO - Tirando arquivo planaltopetroleoceasaltda-vendas-00395-20250507.csv para -> Catalogador
+2025-05-12 16:31:24,537 - INFO - Removido localmente: planaltopetroleoceasaltda-vendas-00395-20250507.csv
+2025-05-12 16:31:25,542 - INFO -  Enviado para processamento: planaltopetroleoceasaltda-vendas-00396-20250508.csv -> "SFTP BoaVista"
+2025-05-12 16:31:25,646 - INFO - Tirando arquivo planaltopetroleoceasaltda-vendas-00396-20250508.csv para -> Catalogador
+2025-05-12 16:31:25,647 - INFO - Removido localmente: planaltopetroleoceasaltda-vendas-00396-20250508.csv
+2025-05-12 16:31:26,446 - INFO -  Enviado para processamento: planaltopetroleoceasaltda-vendas-00397-20250509.csv -> "SFTP BoaVista"
+2025-05-12 16:31:26,535 - INFO - Tirando arquivo planaltopetroleoceasaltda-vendas-00397-20250509.csv para -> Catalogador
+2025-05-12 16:31:26,536 - INFO - Removido localmente: planaltopetroleoceasaltda-vendas-00397-20250509.csv
+2025-05-12 16:31:27,238 - INFO -  Enviado para processamento: planaltopetroleoceasaltda-vendas-00398-20250510.csv -> "SFTP BoaVista"
+2025-05-12 16:31:27,329 - INFO - Tirando arquivo planaltopetroleoceasaltda-vendas-00398-20250510.csv para -> Catalogador
+2025-05-12 16:31:27,330 - INFO - Removido localmente: planaltopetroleoceasaltda-vendas-00398-20250510.csv
+2025-05-12 16:31:28,060 - INFO -  Enviado para processamento: planaltopetroleoceasaltda-vendas-00399-20250511.csv -> "SFTP BoaVista"
+2025-05-12 16:31:28,151 - INFO - Tirando arquivo planaltopetroleoceasaltda-vendas-00399-20250511.csv para -> Catalogador
+2025-05-12 16:31:28,152 - INFO - Removido localmente: planaltopetroleoceasaltda-vendas-00399-20250511.csv
+2025-05-12 16:31:28,886 - INFO -  Enviado para processamento: planaltopetroleoceasaltda-vendas-00400-20250512.csv -> "SFTP BoaVista"
+2025-05-12 16:31:28,999 - INFO - Tirando arquivo planaltopetroleoceasaltda-vendas-00400-20250512.csv para -> Catalogador
+2025-05-12 16:31:29,000 - INFO - Removido localmente: planaltopetroleoceasaltda-vendas-00400-20250512.csv
+2025-05-12 16:32:01,413 - INFO -  Enviado para processamento: portalestreladomorumbictroaut-vendas-00472-20250506.csv -> "SFTP BoaVista"
+2025-05-12 16:32:01,503 - INFO - Tirando arquivo portalestreladomorumbictroaut-vendas-00472-20250506.csv para -> Catalogador
+2025-05-12 16:32:01,507 - INFO - Removido localmente: portalestreladomorumbictroaut-vendas-00472-20250506.csv
+2025-05-12 16:32:01,507 - INFO - [chan 0] sftp session closed.
