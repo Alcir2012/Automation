@@ -8,7 +8,7 @@ st.markdown(f"**Data de referência:** {datetime.today().strftime('%d/%m/%Y')}")
 
 # Lê o arquivo gerado hoje
 try:
-    df_hoje = pd.read_excel("C:/Users/jose.alcir/Documents/Python/Antigos projetos/ProjetosAutomacao/operadoras_sem_arquivos_hoje.xlsx")
+    df_hoje = pd.read_excel("operadoras_sem_arquivos_hoje.xlsx")
     operadoras_excluidas = ["008CARDS","AMEX","BANPARA","BANRICARD","BMGCARD","BNB","BOLETOBB","BRASILCARDNET","BRASILCONVENIOS","CABOSESOLDADOS",
                             "CALCARD","CARTAOPREDATADO","CETELEM","CONVENIOSCARD","CREDNOSSO","CROSCARD","CSF","DESCONHECIDO","DIGIMODAS","ELAVON","GLOBAL PAYMENTS",
                             "HELLOTICKET","INOVEPAY","ITI","KOIN","LAGOACRED","LOSANGO","MAISFACIL","MAXI CARTÃO","OPERADORA TESTE CODIGO","PAGOLIVRE",
