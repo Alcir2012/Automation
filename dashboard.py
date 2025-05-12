@@ -25,7 +25,7 @@ try:
 
         # Lê histórico separado
         try:
-            df_hist = pd.read_excel("C:/Users/jose.alcir/Documents/Python/Antigos projetos/ProjetosAutomacao/operadoras_historico.xlsx")
+            df_hist = pd.read_excel("operadoras_historico.xlsx")
             
             df1 = df_hist[~df_hist["Operadora"].isin(operadoras_excluidas)]
 
