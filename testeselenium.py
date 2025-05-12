@@ -14,6 +14,9 @@ from email.mime.base import MIMEBase
 from email import encoders
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+import pandas as pd
+from openpyxl import load_workbook
+
 
 load_dotenv()
 email_usuario = os.getenv("EMAIL_USUARIO")
@@ -115,11 +118,37 @@ for operadora, dias in operadoras_sem_arquivos:
     ws.append([operadora, dias])
 
 # Salva arquivo
-wb.save("operadoras_sem_arquivos_hoje.xlsx")
+wb.save("C:/Users/jose.alcir/Documents/Python/Antigos projetos/ProjetosAutomacao/operadoras_sem_arquivos_hoje.xlsx")
 
 print("Arquivo gerado com sucesso!")
 
-#Enviando e-mail
+# Lê ou cria histórico
+arquivo_hist = "C:/Users/jose.alcir/Documents/Python/Antigos projetos/ProjetosAutomacao/operadoras_historico.xlsx"
+if os.path.exists(arquivo_hist):
+    df_hist = pd.read_excel(arquivo_hist)
+else:
+    df_hist = pd.DataFrame(columns=["Operadora", "Data"])
+
+# Garante que a data seja string formatada
+data_hoje_str = hoje.strftime('%d/%m/%Y')
+
+# Lista com novas linhas (evitando duplicatas)
+novas_linhas = []
+
+for operadora, _ in operadoras_sem_arquivos:
+    if not ((df_hist["Operadora"] == operadora) & (df_hist["Data"] == data_hoje_str)).any():
+        novas_linhas.append({"Operadora": operadora, "Data": data_hoje_str})
+
+# Se tiver novas, salva
+if novas_linhas:
+    df_novo = pd.DataFrame(novas_linhas)
+    df_hist = pd.concat([df_hist, df_novo], ignore_index=True)
+    df_hist.to_excel(arquivo_hist, index=False)
+    print("Histórico atualizado.")
+else:
+    print("Nenhuma nova entrada para o histórico.")
+
+'''#Enviando e-mail
 
 msg = MIMEMultipart()
 msg['Subject'] = 'Aviso: Operadoras sem arquivos'
@@ -146,6 +175,6 @@ with smtplib.SMTP('smtp.office365.com', 587) as smtp:
     smtp.login(email_usuario, senha_email)
     smtp.send_message(msg)
 
-print("E-mail enviado com sucesso!")
+print("E-mail enviado com sucesso!")'''
 
 time.sleep(100)

@@ -3,30 +3,41 @@ import pandas as pd
 from datetime import datetime
 
 st.set_page_config(page_title="Painel de Operadoras sem Arquivo", layout="wide")
-
-# Título
 st.title("📊 Painel de Operadoras sem Arquivos")
 st.markdown(f"**Data de referência:** {datetime.today().strftime('%d/%m/%Y')}")
 
-# Lendo Excel
+# Lê o arquivo gerado hoje
 try:
-    df = pd.read_excel("operadoras_sem_arquivos_hoje.xlsx")
+    df_hoje = pd.read_excel("operadoras_sem_arquivos_hoje.xlsx")
+    operadoras_excluidas = ["008CARDS","AMEX","BANPARA","BANRICARD","BMGCARD","BNB","BOLETOBB","BRASILCARDNET","BRASILCONVENIOS","CABOSESOLDADOS",
+                            "CALCARD","CARTAOPREDATADO","CETELEM","CONVENIOSCARD","CREDNOSSO","CROSCARD","CSF","DESCONHECIDO","DIGIMODAS","ELAVON","GLOBAL PAYMENTS",
+                            "HELLOTICKET","INOVEPAY","ITI","KOIN","LAGOACRED","LOSANGO","MAISFACIL","MAXI CARTÃO","OPERADORA TESTE CODIGO","PAGOLIVRE",
+                            "PAGSIMPLES","PAGUELOGO","PEDEPRONTO","PITCARD","PIXBB","RAPPI","REDEMED","REDETREL","SESIMAX","SICREDI","SINDPLUS","SOLUCARD",
+                            "SOMA CONTA DIGITAL","SOROCRED","TEGYNBTEN","TESTE","TESTE32","TODOCARTOES","UBEREATS","USACARD","VALECON","VALEMAIS","WEBCARD"]
+    df = df_hoje[~df_hoje["Operadora"].isin(operadoras_excluidas)]
 
-    if df.empty:
-        st.info("🎉 Todas as operadoras enviaram arquivos hoje!")
+    if df_hoje.empty:
+        st.info("Todas as operadoras enviaram arquivos hoje!")
+
     else:
-        # Mostrando total
         st.markdown(f"🔍 Total de operadoras sem arquivos hoje: **{df.shape[0]}**")
-        
-        # Ordenando por quantidade de dias
-        df["Qtd Dias Sem Arquivo"] = df["Dias com 0 arquivos"].apply(lambda x: len(str(x).split(',')))
-        df_sorted = df.sort_values(by="Qtd Dias Sem Arquivo", ascending=False)
+        st.dataframe(df, use_container_width=True)
 
-        st.dataframe(df_sorted[["Operadora", "Dias com 0 arquivos"]], use_container_width=True)
+        # Lê histórico separado
+        try:
+            df_hist = pd.read_excel("operadoras_historico.xlsx")
+            
+            df1 = df_hist[~df_hist["Operadora"].isin(operadoras_excluidas)]
 
-        # Destaques
-        st.subheader("📌 Operadoras com mais dias sem arquivo")
-        st.write(df_sorted.head(5)[["Operadora", "Dias com 0 arquivos"]])
+            # Conta quantas vezes cada operadora aparece
+            contagem = df1["Operadora"].value_counts().reset_index()
+            contagem.columns = ["Operadora", "Qtd Dias Sem Arquivo"]
+
+            st.subheader("📌 Operadoras com mais dias sem arquivo (Histórico)")
+            st.dataframe(contagem.head(5))
+
+        except FileNotFoundError:
+            st.warning("Arquivo de histórico 'operadoras_historico.xlsx' não encontrado.")
 
 except FileNotFoundError:
     st.error("Arquivo 'operadoras_sem_arquivos_hoje.xlsx' não encontrado. Execute o script Selenium primeiro.")
