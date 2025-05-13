@@ -36148,3 +36148,25 @@
 2025-05-13 14:15:16,870 - INFO - Retirado da pasta de espera e inserido para catalogar
 2025-05-13 14:15:16,871 - INFO - Removido localmente: GOODCARD_MERCADOSBH_20250507.txt
 2025-05-13 14:15:16,871 - INFO - [chan 0] sftp session closed.
+2025-05-13 15:15:06,409 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-13 15:15:07,457 - INFO - Authentication (password) successful!
+2025-05-13 15:15:07,833 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-13 15:15:08,791 - INFO - ['Novo envio (Nomenclatura duplicada)', 'Processados', '\\', 'cacique']
+2025-05-13 15:15:08,855 - INFO - Ignorado (não é .txt ou não é arquivo): Novo envio (Nomenclatura duplicada)
+2025-05-13 15:15:08,916 - INFO - Ignorado (não é .txt ou não é arquivo): Processados
+2025-05-13 15:15:08,978 - INFO - Ignorado (não é .txt ou não é arquivo): \
+2025-05-13 15:15:09,042 - INFO - Ignorado (não é .txt ou não é arquivo): cacique
+2025-05-13 15:15:09,042 - INFO - [chan 0] sftp session closed.
+2025-05-13 15:15:09,228 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-13 15:15:09,910 - INFO - Authentication (password) successful!
+2025-05-13 16:15:05,095 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-13 16:15:05,596 - INFO - Authentication (password) successful!
+2025-05-13 16:15:05,944 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-13 16:15:07,826 - INFO - ['Novo envio (Nomenclatura duplicada)', 'Processados', '\\', 'cacique']
+2025-05-13 16:15:07,902 - INFO - Ignorado (não é .txt ou não é arquivo): Novo envio (Nomenclatura duplicada)
+2025-05-13 16:15:07,974 - INFO - Ignorado (não é .txt ou não é arquivo): Processados
+2025-05-13 16:15:08,041 - INFO - Ignorado (não é .txt ou não é arquivo): \
+2025-05-13 16:15:08,105 - INFO - Ignorado (não é .txt ou não é arquivo): cacique
+2025-05-13 16:15:08,105 - INFO - [chan 0] sftp session closed.
+2025-05-13 16:15:08,326 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-13 16:15:08,902 - INFO - Authentication (password) successful!
