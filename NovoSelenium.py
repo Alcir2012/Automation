@@ -81,5 +81,57 @@ time.sleep(2)
 pesquisar1 = navegador.find_element(By.ID,"formulario:j_idt1838")
 pesquisar1.click()
 
+time.sleep(20)
+
+# Localiza a tabela pelo ID
+tabela = navegador.find_element(By.ID, "formulario:tblData")
+
+# Encontra todos os <tbody> da tabela
+todos_tbody = tabela.find_elements(By.TAG_NAME, "tbody")
+
+# Lista para armazenar os dados
+dados_tabela = []
+
+# Percorre cada <tbody>
+
+#gerando excel
+wb = openpyxl.Workbook()
+ws = wb.active
+ws.title = "dados MAO"
+
+# Define o cabeçalho
+ws.append([
+    "ignorar", "ignorar", "data", "catalogador", "proc1", "proc2",
+    "ativo", "empresa", "operadora", "nome original", "novo nome",
+    "tamanho em kb", "checksum"
+])
+total_linhas = 0
+
+for tbody in todos_tbody:
+    linhas = tbody.find_elements(By.TAG_NAME, "tr")
+    for linha in linhas:
+        colunas = linha.find_elements(By.TAG_NAME, "td")
+        dados_linha = []
+
+        for coluna in colunas:
+            try:
+                img = coluna.find_element(By.TAG_NAME, "img")
+                dados_linha.append(img.get_attribute("title").strip())
+            except:
+                dados_linha.append(coluna.text.strip())
+
+        if any(dados_linha):  # Apenas se tiver conteúdo
+            # Garante que tenha 13 colunas
+            while len(dados_linha) < 13:
+                dados_linha.append("")
+            ws.append(dados_linha[:13])  # Limita a 13 no máximo
+            total_linhas += 1
+
+# Exibe todos os dados coletados
+'''for linha in dados_tabela:
+    print(linha)'''
+
+#salvar arquivo
+wb.save("dados_MAO.xlsx")
 
 time.sleep(80)
