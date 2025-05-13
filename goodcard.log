@@ -35495,3 +35495,37 @@
 2025-05-13 08:25:22,293 - INFO - Retirado da pasta de espera e inserido para catalogar
 2025-05-13 08:25:22,335 - INFO - Removido localmente: SANTALUCIA_14252_20250512.TXT
 2025-05-13 08:25:22,338 - INFO - [chan 0] sftp session closed.
+2025-05-13 09:15:06,455 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-13 09:15:06,976 - INFO - Authentication (password) successful!
+2025-05-13 09:15:07,360 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-13 09:15:08,304 - INFO - ['2025.txt', 'GOODCARD_AUTOPOSTODASALTURAS_20250512.txt', 'GOODCARD_REDEENERGIA_20250512.txt', 'GOODCARD_SUPERMERCADOVIVENDAS_20250512.txt', 'Novo envio (Nomenclatura duplicada)', 'Processados', '\\', 'cacique']
+2025-05-13 09:15:09,238 - INFO - Baixado: 2025.txt -> Pasta local
+2025-05-13 09:15:09,309 - INFO -  Erro ao mover arquivo 2025.txt: Failure
+2025-05-13 09:15:09,383 - ERROR - Erro ao mover 2025.txt para pasta duplicado: Failure
+2025-05-13 09:15:10,324 - INFO - Baixado: GOODCARD_AUTOPOSTODASALTURAS_20250512.txt -> Pasta local
+2025-05-13 09:15:10,409 - INFO - Movendo GOODCARD_AUTOPOSTODASALTURAS_20250512.txt para backup
+2025-05-13 09:15:11,372 - INFO - Baixado: GOODCARD_REDEENERGIA_20250512.txt -> Pasta local
+2025-05-13 09:15:11,472 - INFO - Movendo GOODCARD_REDEENERGIA_20250512.txt para backup
+2025-05-13 09:15:12,431 - INFO - Baixado: GOODCARD_SUPERMERCADOVIVENDAS_20250512.txt -> Pasta local
+2025-05-13 09:15:12,504 - INFO - Movendo GOODCARD_SUPERMERCADOVIVENDAS_20250512.txt para backup
+2025-05-13 09:15:12,566 - INFO - Ignorado (não é .txt ou não é arquivo): Novo envio (Nomenclatura duplicada)
+2025-05-13 09:15:12,628 - INFO - Ignorado (não é .txt ou não é arquivo): Processados
+2025-05-13 09:15:12,690 - INFO - Ignorado (não é .txt ou não é arquivo): \
+2025-05-13 09:15:12,753 - INFO - Ignorado (não é .txt ou não é arquivo): cacique
+2025-05-13 09:15:12,753 - INFO - [chan 0] sftp session closed.
+2025-05-13 09:15:12,938 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-13 09:15:13,600 - INFO - Authentication (password) successful!
+2025-05-13 09:15:14,158 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-13 09:15:14,486 - INFO - Enviado para processamento: 2025.txt -> SFTP BoaVista
+2025-05-13 09:15:14,566 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-13 09:15:14,568 - INFO - Removido localmente: 2025.txt
+2025-05-13 09:15:14,920 - INFO - Enviado para processamento: GOODCARD_AUTOPOSTODASALTURAS_20250512.txt -> SFTP BoaVista
+2025-05-13 09:15:15,002 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-13 09:15:15,003 - INFO - Removido localmente: GOODCARD_AUTOPOSTODASALTURAS_20250512.txt
+2025-05-13 09:15:15,337 - INFO - Enviado para processamento: GOODCARD_REDEENERGIA_20250512.txt -> SFTP BoaVista
+2025-05-13 09:15:15,422 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-13 09:15:15,423 - INFO - Removido localmente: GOODCARD_REDEENERGIA_20250512.txt
+2025-05-13 09:15:15,870 - INFO - Enviado para processamento: GOODCARD_SUPERMERCADOVIVENDAS_20250512.txt -> SFTP BoaVista
+2025-05-13 09:15:15,960 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-13 09:15:15,961 - INFO - Removido localmente: GOODCARD_SUPERMERCADOVIVENDAS_20250512.txt
+2025-05-13 09:15:15,961 - INFO - [chan 0] sftp session closed.

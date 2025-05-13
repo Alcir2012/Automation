@@ -45,7 +45,8 @@ time.sleep(5)
 navegador.get('https://www.eextrato.com.br/conciliador/pages/monitoramentoArquivoOperadora/monitoramentoArquivoOperadora.xhtml')
 
 time.sleep(5)
- 
+
+#selecionando todas empresas
 wait = WebDriverWait(navegador,10)
 empresa = navegador.find_element(By.ID,"formulario:j_idt1759:j_idt1769")
 time.sleep(1)
@@ -58,5 +59,27 @@ empresa.send_keys("SELECIONE")
 time.sleep(1)
 empresa.send_keys(Keys.ENTER)
 time.sleep(5)
+
+#Filtrando data
+data_hoje = datetime.today().strftime('%d/%m/%Y')
+campo_data = navegador.find_element(By.ID, "formulario:j_idt1759:dataVendaIInputDate")
+time.sleep(2)
+campo_data.click()
+time.sleep(0.5)
+campo_data.clear()
+time.sleep(0.5)
+campo_data.send_keys(data_hoje)
+time.sleep(0.5)
+campo_data = navegador.find_element(By.ID,"formulario:j_idt1759:dataVendaFInputDate")
+time.sleep(2)
+campo_data.click()
+time.sleep(0.5)
+campo_data.clear()
+time.sleep(0.5)
+campo_data.send_keys(data_hoje)
+time.sleep(2)
+pesquisar1 = navegador.find_element(By.ID,"formulario:j_idt1838")
+pesquisar1.click()
+
 
 time.sleep(80)
