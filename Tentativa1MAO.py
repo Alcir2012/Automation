@@ -2,25 +2,13 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 import openpyxl
 import time
 from datetime import datetime
-import smtplib
-from email.message import EmailMessage
 from dotenv import load_dotenv
 import os
-from email.mime.base import MIMEBase
-from email import encoders
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
-import pandas as pd
 from openpyxl import load_workbook
 
-
-load_dotenv()
-email_usuario = os.getenv("EMAIL_USUARIO")
-senha_email = os.getenv("EMAIL_SENHA")
 
 #abrir navegador
 navegador = webdriver.Chrome()
@@ -83,17 +71,6 @@ pesquisar1.click()
 
 time.sleep(20)
 
-# Localiza a tabela pelo ID
-tabela = navegador.find_element(By.ID, "formulario:tblData")
-
-# Encontra todos os <tbody> da tabela
-todos_tbody = tabela.find_elements(By.TAG_NAME, "tbody")
-
-# Lista para armazenar os dados
-dados_tabela = []
-
-# Percorre cada <tbody>
-
 #gerando excel
 wb = openpyxl.Workbook()
 ws = wb.active
@@ -105,27 +82,43 @@ ws.append([
     "ativo", "empresa", "operadora", "nome original", "novo nome",
     "tamanho em kb", "checksum"
 ])
-total_linhas = 0
 
-for tbody in todos_tbody:
-    linhas = tbody.find_elements(By.TAG_NAME, "tr")
-    for linha in linhas:
-        colunas = linha.find_elements(By.TAG_NAME, "td")
-        dados_linha = []
+def extrair_dados():
+    # Localiza a tabela pelo ID
+    tabela = navegador.find_element(By.ID, "formulario:tblData")
+    # Encontra todos os <tbody> da tabela
+    todos_tbody = tabela.find_elements(By.TAG_NAME, "tbody")
+    # Lista para armazenar os dados
+    dados_tabela = []
+    for tbody in todos_tbody:
+        linhas = tbody.find_elements(By.TAG_NAME, "tr")
+        for linha in linhas:
+            colunas = linha.find_elements(By.TAG_NAME, "td")
+            dados_linha = []
+            for coluna in colunas:
+                try:
+                    img = coluna.find_element(By.TAG_NAME, "img")
+                    dados_linha.append(img.get_attribute("title").strip())
+                except:
+                    dados_linha.append(coluna.text.strip())
+            if any(dados_linha):  # Apenas se tiver conteúdo
+                # Garante que tenha 13 colunas
+                while len(dados_linha) < 13:
+                    dados_linha.append("")
+                ws.append(dados_linha[:13])  # Limita a 13 no máximo
 
-        for coluna in colunas:
-            try:
-                img = coluna.find_element(By.TAG_NAME, "img")
-                dados_linha.append(img.get_attribute("title").strip())
-            except:
-                dados_linha.append(coluna.text.strip())
-
-        if any(dados_linha):  # Apenas se tiver conteúdo
-            # Garante que tenha 13 colunas
-            while len(dados_linha) < 13:
-                dados_linha.append("")
-            ws.append(dados_linha[:13])  # Limita a 13 no máximo
-            total_linhas += 1
+while True:
+    extrair_dados()
+    try:
+        proximo = navegador.find_element(By.ID,"formulario:tblData:j_idt1963_ds_next")
+        if "ui-steate-disabled" in proximo.get_attribute("class"):
+            break
+        else:
+            proximo.click()
+            time.sleep(3)
+    except Exception as e:
+        print(f'Erro ao extrair dados: {e}')
+        break
 
 # Exibe todos os dados coletados
 '''for linha in dados_tabela:

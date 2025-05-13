@@ -6,14 +6,8 @@ from selenium.webdriver.support import expected_conditions as EC
 import openpyxl
 import time
 from datetime import datetime
-import smtplib
-from email.message import EmailMessage
 from dotenv import load_dotenv
 import os
-from email.mime.base import MIMEBase
-from email import encoders
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
 import pandas as pd
 from openpyxl import load_workbook
 

@@ -35994,3 +35994,157 @@
 2025-05-13 11:16:25,527 - INFO - Retirado da pasta de espera e inserido para catalogar
 2025-05-13 11:16:25,536 - INFO - Removido localmente: GOODCARD_TRINOSDERIVADOSDEPETROLEO_20250512.txt
 2025-05-13 11:16:25,536 - INFO - [chan 0] sftp session closed.
+2025-05-13 12:15:07,803 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-13 12:15:08,301 - INFO - Authentication (password) successful!
+2025-05-13 12:15:08,698 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-13 12:15:09,722 - INFO - ['2025.txt', 'GOODCARD_ATACADONILOGOEDERT_20250512.txt', 'GOODCARD_LISBOASUPERMERCADOS_20250512.txt', 'GOODCARD_MERCADOSBH_20250505.txt', 'GOODCARD_MERCADOSBH_20250506.txt', 'GOODCARD_MERCADOSBH_20250507.txt', 'GOODCARD_MERCADOSBH_20250511.txt', 'GOODCARD_MERCADOSBH_20250512.txt', 'GOODCARD_MODAZINE_20250512.txt', 'GOODCARD_POSTOSUDOESTE_20250512.txt', 'GOODCARD_REDEMAISBARATO_20250512.txt', 'GOODCARD_SENHORASANTANA_20250512.txt', 'Novo envio (Nomenclatura duplicada)', 'Processados', '\\', 'cacique']
+2025-05-13 12:15:10,685 - INFO - Baixado: 2025.txt -> Pasta local
+2025-05-13 12:15:10,762 - INFO -  Erro ao mover arquivo 2025.txt: Failure
+2025-05-13 12:15:10,844 - ERROR - Erro ao mover 2025.txt para pasta duplicado: Failure
+2025-05-13 12:15:11,847 - INFO - Baixado: GOODCARD_ATACADONILOGOEDERT_20250512.txt -> Pasta local
+2025-05-13 12:15:11,993 - INFO - Movendo GOODCARD_ATACADONILOGOEDERT_20250512.txt para backup
+2025-05-13 12:15:13,131 - INFO - Baixado: GOODCARD_LISBOASUPERMERCADOS_20250512.txt -> Pasta local
+2025-05-13 12:15:13,218 - INFO - Movendo GOODCARD_LISBOASUPERMERCADOS_20250512.txt para backup
+2025-05-13 12:15:14,197 - INFO - Baixado: GOODCARD_MERCADOSBH_20250505.txt -> Pasta local
+2025-05-13 12:15:14,326 - INFO -  Erro ao mover arquivo GOODCARD_MERCADOSBH_20250505.txt: Failure
+2025-05-13 12:15:14,404 - ERROR - Erro ao mover GOODCARD_MERCADOSBH_20250505.txt para pasta duplicado: Failure
+2025-05-13 12:15:15,433 - INFO - Baixado: GOODCARD_MERCADOSBH_20250506.txt -> Pasta local
+2025-05-13 12:15:15,505 - INFO -  Erro ao mover arquivo GOODCARD_MERCADOSBH_20250506.txt: Failure
+2025-05-13 12:15:15,579 - ERROR - Erro ao mover GOODCARD_MERCADOSBH_20250506.txt para pasta duplicado: Failure
+2025-05-13 12:15:16,557 - INFO - Baixado: GOODCARD_MERCADOSBH_20250507.txt -> Pasta local
+2025-05-13 12:15:16,663 - INFO -  Erro ao mover arquivo GOODCARD_MERCADOSBH_20250507.txt: Failure
+2025-05-13 12:15:16,733 - ERROR - Erro ao mover GOODCARD_MERCADOSBH_20250507.txt para pasta duplicado: Failure
+2025-05-13 12:15:17,681 - INFO - Baixado: GOODCARD_MERCADOSBH_20250511.txt -> Pasta local
+2025-05-13 12:15:17,753 - INFO -  Erro ao mover arquivo GOODCARD_MERCADOSBH_20250511.txt: Failure
+2025-05-13 12:15:17,825 - INFO - GOODCARD_MERCADOSBH_20250511.txt é duplicado, movido para pasta de duplicados
+2025-05-13 12:15:18,781 - INFO - Baixado: GOODCARD_MERCADOSBH_20250512.txt -> Pasta local
+2025-05-13 12:15:18,861 - INFO -  Erro ao mover arquivo GOODCARD_MERCADOSBH_20250512.txt: Failure
+2025-05-13 12:15:18,935 - INFO - GOODCARD_MERCADOSBH_20250512.txt é duplicado, movido para pasta de duplicados
+2025-05-13 12:15:19,880 - INFO - Baixado: GOODCARD_MODAZINE_20250512.txt -> Pasta local
+2025-05-13 12:15:19,954 - INFO - Movendo GOODCARD_MODAZINE_20250512.txt para backup
+2025-05-13 12:15:20,925 - INFO - Baixado: GOODCARD_POSTOSUDOESTE_20250512.txt -> Pasta local
+2025-05-13 12:15:20,995 - INFO -  Erro ao mover arquivo GOODCARD_POSTOSUDOESTE_20250512.txt: Failure
+2025-05-13 12:15:21,066 - INFO - GOODCARD_POSTOSUDOESTE_20250512.txt é duplicado, movido para pasta de duplicados
+2025-05-13 12:15:22,018 - INFO - Baixado: GOODCARD_REDEMAISBARATO_20250512.txt -> Pasta local
+2025-05-13 12:15:22,091 - INFO - Movendo GOODCARD_REDEMAISBARATO_20250512.txt para backup
+2025-05-13 12:15:23,050 - INFO - Baixado: GOODCARD_SENHORASANTANA_20250512.txt -> Pasta local
+2025-05-13 12:15:23,125 - INFO - Movendo GOODCARD_SENHORASANTANA_20250512.txt para backup
+2025-05-13 12:15:23,190 - INFO - Ignorado (não é .txt ou não é arquivo): Novo envio (Nomenclatura duplicada)
+2025-05-13 12:15:23,253 - INFO - Ignorado (não é .txt ou não é arquivo): Processados
+2025-05-13 12:15:23,319 - INFO - Ignorado (não é .txt ou não é arquivo): \
+2025-05-13 12:15:23,383 - INFO - Ignorado (não é .txt ou não é arquivo): cacique
+2025-05-13 12:15:23,385 - INFO - [chan 0] sftp session closed.
+2025-05-13 12:15:23,600 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-13 12:15:24,138 - INFO - Authentication (password) successful!
+2025-05-13 12:15:24,711 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-13 12:15:25,042 - INFO - Enviado para processamento: 2025.txt -> SFTP BoaVista
+2025-05-13 12:15:25,122 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-13 12:15:25,123 - INFO - Removido localmente: 2025.txt
+2025-05-13 12:15:25,457 - INFO - Enviado para processamento: GOODCARD_ATACADONILOGOEDERT_20250512.txt -> SFTP BoaVista
+2025-05-13 12:15:25,547 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-13 12:15:25,548 - INFO - Removido localmente: GOODCARD_ATACADONILOGOEDERT_20250512.txt
+2025-05-13 12:15:25,878 - INFO - Enviado para processamento: GOODCARD_LISBOASUPERMERCADOS_20250512.txt -> SFTP BoaVista
+2025-05-13 12:15:25,958 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-13 12:15:25,959 - INFO - Removido localmente: GOODCARD_LISBOASUPERMERCADOS_20250512.txt
+2025-05-13 12:15:26,285 - INFO - Enviado para processamento: GOODCARD_MERCADOSBH_20250505.txt -> SFTP BoaVista
+2025-05-13 12:15:26,369 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-13 12:15:26,370 - INFO - Removido localmente: GOODCARD_MERCADOSBH_20250505.txt
+2025-05-13 12:15:26,705 - INFO - Enviado para processamento: GOODCARD_MERCADOSBH_20250506.txt -> SFTP BoaVista
+2025-05-13 12:15:26,790 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-13 12:15:26,791 - INFO - Removido localmente: GOODCARD_MERCADOSBH_20250506.txt
+2025-05-13 12:15:27,128 - INFO - Enviado para processamento: GOODCARD_MERCADOSBH_20250507.txt -> SFTP BoaVista
+2025-05-13 12:15:27,209 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-13 12:15:27,210 - INFO - Removido localmente: GOODCARD_MERCADOSBH_20250507.txt
+2025-05-13 12:15:27,542 - INFO - Enviado para processamento: GOODCARD_MERCADOSBH_20250511.txt -> SFTP BoaVista
+2025-05-13 12:15:27,623 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-13 12:15:27,624 - INFO - Removido localmente: GOODCARD_MERCADOSBH_20250511.txt
+2025-05-13 12:15:27,946 - INFO - Enviado para processamento: GOODCARD_MERCADOSBH_20250512.txt -> SFTP BoaVista
+2025-05-13 12:15:28,026 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-13 12:15:28,026 - INFO - Removido localmente: GOODCARD_MERCADOSBH_20250512.txt
+2025-05-13 12:15:28,372 - INFO - Enviado para processamento: GOODCARD_MODAZINE_20250512.txt -> SFTP BoaVista
+2025-05-13 12:15:28,454 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-13 12:15:28,455 - INFO - Removido localmente: GOODCARD_MODAZINE_20250512.txt
+2025-05-13 12:15:28,781 - INFO - Enviado para processamento: GOODCARD_POSTOSUDOESTE_20250512.txt -> SFTP BoaVista
+2025-05-13 12:15:28,861 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-13 12:15:28,862 - INFO - Removido localmente: GOODCARD_POSTOSUDOESTE_20250512.txt
+2025-05-13 12:15:29,187 - INFO - Enviado para processamento: GOODCARD_REDEMAISBARATO_20250512.txt -> SFTP BoaVista
+2025-05-13 12:15:29,267 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-13 12:15:29,268 - INFO - Removido localmente: GOODCARD_REDEMAISBARATO_20250512.txt
+2025-05-13 12:15:29,602 - INFO - Enviado para processamento: GOODCARD_SENHORASANTANA_20250512.txt -> SFTP BoaVista
+2025-05-13 12:15:29,686 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-13 12:15:29,687 - INFO - Removido localmente: GOODCARD_SENHORASANTANA_20250512.txt
+2025-05-13 12:15:29,687 - INFO - [chan 0] sftp session closed.
+2025-05-13 13:15:09,846 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-13 13:15:10,612 - INFO - Authentication (password) successful!
+2025-05-13 13:15:10,993 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-13 13:15:12,175 - INFO - ['2025.txt', 'GOODCARD_MERCADOSBH_20250505.txt', 'GOODCARD_MERCADOSBH_20250506.txt', 'GOODCARD_MERCADOSBH_20250507.txt', 'Novo envio (Nomenclatura duplicada)', 'Processados', '\\', 'cacique']
+2025-05-13 13:15:13,994 - INFO - Baixado: 2025.txt -> Pasta local
+2025-05-13 13:15:14,071 - INFO -  Erro ao mover arquivo 2025.txt: Failure
+2025-05-13 13:15:14,142 - ERROR - Erro ao mover 2025.txt para pasta duplicado: Failure
+2025-05-13 13:15:15,460 - INFO - Baixado: GOODCARD_MERCADOSBH_20250505.txt -> Pasta local
+2025-05-13 13:15:15,536 - INFO -  Erro ao mover arquivo GOODCARD_MERCADOSBH_20250505.txt: Failure
+2025-05-13 13:15:15,625 - ERROR - Erro ao mover GOODCARD_MERCADOSBH_20250505.txt para pasta duplicado: Failure
+2025-05-13 13:15:17,050 - INFO - Baixado: GOODCARD_MERCADOSBH_20250506.txt -> Pasta local
+2025-05-13 13:15:17,217 - INFO -  Erro ao mover arquivo GOODCARD_MERCADOSBH_20250506.txt: Failure
+2025-05-13 13:15:17,290 - ERROR - Erro ao mover GOODCARD_MERCADOSBH_20250506.txt para pasta duplicado: Failure
+2025-05-13 13:15:18,318 - INFO - Baixado: GOODCARD_MERCADOSBH_20250507.txt -> Pasta local
+2025-05-13 13:15:18,398 - INFO -  Erro ao mover arquivo GOODCARD_MERCADOSBH_20250507.txt: Failure
+2025-05-13 13:15:18,749 - ERROR - Erro ao mover GOODCARD_MERCADOSBH_20250507.txt para pasta duplicado: Failure
+2025-05-13 13:15:18,813 - INFO - Ignorado (não é .txt ou não é arquivo): Novo envio (Nomenclatura duplicada)
+2025-05-13 13:15:18,893 - INFO - Ignorado (não é .txt ou não é arquivo): Processados
+2025-05-13 13:15:18,958 - INFO - Ignorado (não é .txt ou não é arquivo): \
+2025-05-13 13:15:19,023 - INFO - Ignorado (não é .txt ou não é arquivo): cacique
+2025-05-13 13:15:19,023 - INFO - [chan 0] sftp session closed.
+2025-05-13 13:15:19,995 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-13 13:15:21,820 - INFO - Authentication (password) successful!
+2025-05-13 13:15:22,097 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-13 13:15:22,470 - INFO - Enviado para processamento: 2025.txt -> SFTP BoaVista
+2025-05-13 13:15:22,563 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-13 13:15:22,564 - INFO - Removido localmente: 2025.txt
+2025-05-13 13:15:22,941 - INFO - Enviado para processamento: GOODCARD_MERCADOSBH_20250505.txt -> SFTP BoaVista
+2025-05-13 13:15:23,326 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-13 13:15:23,327 - INFO - Removido localmente: GOODCARD_MERCADOSBH_20250505.txt
+2025-05-13 13:15:23,804 - INFO - Enviado para processamento: GOODCARD_MERCADOSBH_20250506.txt -> SFTP BoaVista
+2025-05-13 13:15:23,902 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-13 13:15:23,903 - INFO - Removido localmente: GOODCARD_MERCADOSBH_20250506.txt
+2025-05-13 13:15:24,287 - INFO - Enviado para processamento: GOODCARD_MERCADOSBH_20250507.txt -> SFTP BoaVista
+2025-05-13 13:15:24,382 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-13 13:15:24,383 - INFO - Removido localmente: GOODCARD_MERCADOSBH_20250507.txt
+2025-05-13 13:15:24,383 - INFO - [chan 0] sftp session closed.
+2025-05-13 14:15:05,091 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-13 14:15:05,690 - INFO - Authentication (password) successful!
+2025-05-13 14:15:06,054 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-13 14:15:08,069 - INFO - ['2025.txt', 'GOODCARD_MERCADOSBH_20250505.txt', 'GOODCARD_MERCADOSBH_20250506.txt', 'GOODCARD_MERCADOSBH_20250507.txt', 'Novo envio (Nomenclatura duplicada)', 'Processados', '\\', 'cacique']
+2025-05-13 14:15:09,074 - INFO - Baixado: 2025.txt -> Pasta local
+2025-05-13 14:15:09,162 - INFO -  Erro ao mover arquivo 2025.txt: Failure
+2025-05-13 14:15:09,235 - ERROR - Erro ao mover 2025.txt para pasta duplicado: Failure
+2025-05-13 14:15:10,262 - INFO - Baixado: GOODCARD_MERCADOSBH_20250505.txt -> Pasta local
+2025-05-13 14:15:10,337 - INFO -  Erro ao mover arquivo GOODCARD_MERCADOSBH_20250505.txt: Failure
+2025-05-13 14:15:10,407 - ERROR - Erro ao mover GOODCARD_MERCADOSBH_20250505.txt para pasta duplicado: Failure
+2025-05-13 14:15:11,458 - INFO - Baixado: GOODCARD_MERCADOSBH_20250506.txt -> Pasta local
+2025-05-13 14:15:11,547 - INFO -  Erro ao mover arquivo GOODCARD_MERCADOSBH_20250506.txt: Failure
+2025-05-13 14:15:11,619 - ERROR - Erro ao mover GOODCARD_MERCADOSBH_20250506.txt para pasta duplicado: Failure
+2025-05-13 14:15:12,645 - INFO - Baixado: GOODCARD_MERCADOSBH_20250507.txt -> Pasta local
+2025-05-13 14:15:12,725 - INFO -  Erro ao mover arquivo GOODCARD_MERCADOSBH_20250507.txt: Failure
+2025-05-13 14:15:12,798 - ERROR - Erro ao mover GOODCARD_MERCADOSBH_20250507.txt para pasta duplicado: Failure
+2025-05-13 14:15:12,863 - INFO - Ignorado (não é .txt ou não é arquivo): Novo envio (Nomenclatura duplicada)
+2025-05-13 14:15:12,937 - INFO - Ignorado (não é .txt ou não é arquivo): Processados
+2025-05-13 14:15:13,000 - INFO - Ignorado (não é .txt ou não é arquivo): \
+2025-05-13 14:15:13,067 - INFO - Ignorado (não é .txt ou não é arquivo): cacique
+2025-05-13 14:15:13,067 - INFO - [chan 0] sftp session closed.
+2025-05-13 14:15:13,245 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-13 14:15:13,904 - INFO - Authentication (password) successful!
+2025-05-13 14:15:14,511 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-13 14:15:15,320 - INFO - Enviado para processamento: 2025.txt -> SFTP BoaVista
+2025-05-13 14:15:15,411 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-13 14:15:15,412 - INFO - Removido localmente: 2025.txt
+2025-05-13 14:15:15,852 - INFO - Enviado para processamento: GOODCARD_MERCADOSBH_20250505.txt -> SFTP BoaVista
+2025-05-13 14:15:15,938 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-13 14:15:15,939 - INFO - Removido localmente: GOODCARD_MERCADOSBH_20250505.txt
+2025-05-13 14:15:16,379 - INFO - Enviado para processamento: GOODCARD_MERCADOSBH_20250506.txt -> SFTP BoaVista
+2025-05-13 14:15:16,459 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-13 14:15:16,460 - INFO - Removido localmente: GOODCARD_MERCADOSBH_20250506.txt
+2025-05-13 14:15:16,790 - INFO - Enviado para processamento: GOODCARD_MERCADOSBH_20250507.txt -> SFTP BoaVista
+2025-05-13 14:15:16,870 - INFO - Retirado da pasta de espera e inserido para catalogar
+2025-05-13 14:15:16,871 - INFO - Removido localmente: GOODCARD_MERCADOSBH_20250507.txt
+2025-05-13 14:15:16,871 - INFO - [chan 0] sftp session closed.
