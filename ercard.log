@@ -248,3 +248,8 @@ porque o host conectado não respondeu
 2025-05-13 07:57:28,898 - INFO - 33587453000115_20250512_RP000001.TXT enviado para -> catalogador
 2025-05-13 07:57:28,900 - INFO - Removido localmente
 2025-05-13 07:57:28,900 - INFO - [chan 0] sftp session closed.
+2025-05-13 08:45:03,352 - INFO - Ignorado oque não for txt
+2025-05-13 08:45:03,580 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-13 08:45:04,090 - INFO - Authentication (password) successful!
+2025-05-13 08:45:04,340 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-13 08:45:04,340 - INFO - [chan 0] sftp session closed.
