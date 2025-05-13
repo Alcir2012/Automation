@@ -62,10 +62,10 @@ empresa.send_keys("Selecione")
 time.sleep(2)
 empresa.send_keys(Keys.ENTER)
 
-time.sleep(5)
+time.sleep(7)
 
 #Pesquisar
-pesquisar = navegador.find_element("id","formulario:j_idt1792")
+pesquisar = navegador.find_element(By.CLASS_NAME,"btn-padrao")
 pesquisar.click()
 
 time.sleep(20)
