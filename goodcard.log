@@ -36170,3 +36170,14 @@
 2025-05-13 16:15:08,105 - INFO - [chan 0] sftp session closed.
 2025-05-13 16:15:08,326 - INFO - Connected (version 2.0, client OpenSSH_7.4)
 2025-05-13 16:15:08,902 - INFO - Authentication (password) successful!
+2025-05-13 17:15:04,037 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-13 17:15:04,554 - INFO - Authentication (password) successful!
+2025-05-13 17:15:04,895 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-13 17:15:05,902 - INFO - ['Novo envio (Nomenclatura duplicada)', 'Processados', '\\', 'cacique']
+2025-05-13 17:15:05,984 - INFO - Ignorado (não é .txt ou não é arquivo): Novo envio (Nomenclatura duplicada)
+2025-05-13 17:15:06,046 - INFO - Ignorado (não é .txt ou não é arquivo): Processados
+2025-05-13 17:15:06,108 - INFO - Ignorado (não é .txt ou não é arquivo): \
+2025-05-13 17:15:06,169 - INFO - Ignorado (não é .txt ou não é arquivo): cacique
+2025-05-13 17:15:06,169 - INFO - [chan 0] sftp session closed.
+2025-05-13 17:15:06,374 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-13 17:15:07,091 - INFO - Authentication (password) successful!
