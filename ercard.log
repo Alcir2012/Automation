@@ -270,3 +270,10 @@ porque o host conectado não respondeu
 2025-05-14 08:45:26,251 - INFO - 33587453000115_20250513_RP000001.TXT enviado para -> catalogador
 2025-05-14 08:45:26,255 - INFO - Removido localmente
 2025-05-14 08:45:26,256 - INFO - [chan 0] sftp session closed.
+2025-05-15 08:45:24,102 - ERROR - Erro geral [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu
+2025-05-15 08:45:24,423 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-15 08:45:24,929 - INFO - Authentication (password) successful!
+2025-05-15 08:45:25,183 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 08:45:25,184 - INFO - [chan 0] sftp session closed.
