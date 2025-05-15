@@ -5,11 +5,13 @@ import logging
 import os
 import stat
 import time
+from dotenv import load_dotenv
 
+load_dotenv()
 
 host = 'integracao.embratec.com.br'
-usuario = 'sftp.cacique'
-senha = '!@Cac1qU3'
+usuario = os.getenv("goodcard_user")
+senha = os.getenv("goodcard_pass")
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
 os.chdir(script_dir)
@@ -76,8 +78,8 @@ except Exception as e:
 def transfereCatalogador():
     
     hostDestino = 'ftp.eextrato.com.br'
-    usuarioDestino = 'monitoramento'
-    senhaDestino = '@#kvZLGDvUl6XLonX1bl79YNgMwTasIvaY'
+    usuarioDestino = os.getenv("catalogador_user")
+    senhaDestino = os.getenv("catalogador_pass")
     pastadeEspera = '/eextrato/GOODCARD/TRATADOS'
     pastaRemotaDestino = '/eextrato/GOODCARD/'
     pastaLocal = 'C:/Users/jose.alcir/Documents/ArquivosDiarios'
