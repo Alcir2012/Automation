@@ -62,7 +62,7 @@ time.sleep(7)
 pesquisar = navegador.find_element(By.CLASS_NAME,"btn-padrao")
 pesquisar.click()
 
-time.sleep(70)
+time.sleep(90)
 
 #pegando operadoras zeradas
 

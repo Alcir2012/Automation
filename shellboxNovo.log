@@ -12194,3 +12194,342 @@
 2025-05-14 16:31:21,938 - INFO - Authentication (password) successful!
 2025-05-14 16:31:22,348 - INFO - [chan 0] Opened sftp connection (server version 3)
 2025-05-14 16:31:22,491 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:30:03,043 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:30:03,794 - INFO - Authentication (publickey) successful!
+2025-05-15 14:30:04,365 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:30:05,050 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:30:05,736 - INFO - Baixado: girleno-30757976000174-mov-finan-00545-20250515.csv -> Pasta local
+2025-05-15 14:30:06,497 - INFO - Baixado: girleno-30757976000174-vendas-00545-20250515.csv -> Pasta local
+2025-05-15 14:30:06,672 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:30:07,449 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:30:08,274 - INFO - Authentication (publickey) successful!
+2025-05-15 14:30:08,855 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:30:10,098 - INFO - Baixado: postoqualityfiorano-mov-finan-01513-20250515.csv -> Pasta local
+2025-05-15 14:30:10,846 - INFO - Baixado: postoqualityfiorano-vendas-01513-20250515.csv -> Pasta local
+2025-05-15 14:30:11,032 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:30:11,032 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:30:11,502 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:30:12,117 - INFO - Authentication (publickey) successful!
+2025-05-15 14:30:12,541 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:30:13,905 - INFO - Baixado: postodanave-mov-finan-01535-20250515.csv -> Pasta local
+2025-05-15 14:30:14,119 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:30:16,151 - INFO - Baixado: postodanave-vendas-01535-20250515.csv -> Pasta local
+2025-05-15 14:30:16,253 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:30:16,588 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:30:17,265 - INFO - Authentication (publickey) successful!
+2025-05-15 14:30:17,768 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:30:20,512 - INFO - Baixado: autopostopontaldacruz-vendas-00177-20250515.csv -> Pasta local
+2025-05-15 14:30:21,384 - INFO - Baixado: autopostopontaldacruz-mov-finan-00177-20250515.csv -> Pasta local
+2025-05-15 14:30:21,589 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:30:21,589 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:30:21,922 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:30:22,589 - INFO - Authentication (publickey) successful!
+2025-05-15 14:30:23,224 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:30:23,948 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:30:24,844 - INFO - Baixado: bauerpostoscomdecombeconvltd-25261880000342-mov-finan-01297-20250515.csv -> Pasta local
+2025-05-15 14:30:25,679 - INFO - Baixado: bauerpostoscomdecombeconvltd-25261880000342-vendas-01297-20250515.csv -> Pasta local
+2025-05-15 14:30:25,796 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:30:26,158 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:30:27,266 - INFO - Authentication (publickey) successful!
+2025-05-15 14:30:27,743 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:30:29,568 - INFO - Baixado: cafedaterra-40939392000173-mov-finan-00242-20250515.csv -> Pasta local
+2025-05-15 14:30:30,633 - INFO - Baixado: cafedaterra-40939392000173-vendas-00242-20250515.csv -> Pasta local
+2025-05-15 14:30:30,833 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:30:30,833 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:30:31,203 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:30:31,841 - INFO - Authentication (publickey) successful!
+2025-05-15 14:30:32,359 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:30:33,769 - INFO - Baixado: falcao-10588194000141-vendas-00031-20250515.csv -> Pasta local
+2025-05-15 14:30:34,556 - INFO - Baixado: falcao-10588194000141-mov-finan-00031-20250515.csv -> Pasta local
+2025-05-15 14:30:34,745 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:30:34,746 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:30:35,068 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:30:35,942 - INFO - Authentication (publickey) successful!
+2025-05-15 14:30:36,666 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:30:38,235 - INFO - Baixado: toscano-05932284000259-vendas-00810-20250515.csv -> Pasta local
+2025-05-15 14:30:39,075 - INFO - Baixado: toscano-05932284000259-mov-finan-00810-20250515.csv -> Pasta local
+2025-05-15 14:30:39,290 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:30:39,290 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:30:39,627 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:30:41,401 - INFO - Authentication (publickey) successful!
+2025-05-15 14:30:42,613 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:30:44,116 - INFO - Baixado: manauscomdederivdepetroleoltd-mov-finan-00149-20250515.csv -> Pasta local
+2025-05-15 14:30:47,770 - INFO - Baixado: manauscomdederivdepetroleoltd-vendas-00149-20250515.csv -> Pasta local
+2025-05-15 14:30:47,956 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:30:47,956 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:30:48,323 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:30:49,882 - INFO - Authentication (publickey) successful!
+2025-05-15 14:30:50,898 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:30:52,766 - INFO - Baixado: redepdfpostoesplanada-vendas-00339-20250515.csv -> Pasta local
+2025-05-15 14:30:53,523 - INFO - Baixado: redepdfpostoesplanada-mov-finan-00339-20250515.csv -> Pasta local
+2025-05-15 14:30:53,710 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:30:53,711 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:30:54,187 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:30:54,783 - INFO - Authentication (publickey) successful!
+2025-05-15 14:30:55,259 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:30:56,523 - INFO - Baixado: rionegrocomderivdepetro-mov-finan-01554-20250515.csv -> Pasta local
+2025-05-15 14:30:56,714 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:30:58,903 - INFO - Baixado: rionegrocomderivdepetro-vendas-01554-20250515.csv -> Pasta local
+2025-05-15 14:30:58,997 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:30:59,309 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:31:00,125 - INFO - Authentication (publickey) successful!
+2025-05-15 14:31:00,891 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:31:02,750 - INFO - Baixado: planaltopetroleoceasaltda-vendas-00403-20250515.csv -> Pasta local
+2025-05-15 14:31:02,940 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:31:03,603 - INFO - Baixado: planaltopetroleoceasaltda-mov-finan-00403-20250515.csv -> Pasta local
+2025-05-15 14:31:03,696 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:31:04,024 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:31:05,474 - INFO - Authentication (publickey) successful!
+2025-05-15 14:31:06,002 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:31:07,263 - INFO - Baixado: liber-33899485000156-mov-finan-01387-20250515.csv -> Pasta local
+2025-05-15 14:31:08,028 - INFO - Baixado: liber-33899485000156-vendas-01410-20250515.csv -> Pasta local
+2025-05-15 14:31:08,227 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:31:08,227 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:31:08,539 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:31:10,314 - INFO - Authentication (publickey) successful!
+2025-05-15 14:31:11,693 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:31:12,362 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:31:13,178 - INFO - Baixado: enzoitaipava-mov-finan-00677-20250515.csv -> Pasta local
+2025-05-15 14:31:16,468 - INFO - Baixado: enzoitaipava-vendas-00677-20250515.csv -> Pasta local
+2025-05-15 14:31:16,564 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:31:16,981 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:31:18,469 - INFO - Authentication (publickey) successful!
+2025-05-15 14:31:20,027 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:31:22,054 - INFO - Baixado: portalestreladomorumbictroaut-mov-finan-00904-20250515.csv -> Pasta local
+2025-05-15 14:31:35,944 - INFO - Baixado: portalestreladomorumbictroaut-vendas-00481-20250515.csv -> Pasta local
+2025-05-15 14:31:36,134 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:31:36,135 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:31:36,717 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:31:38,260 - INFO - Authentication (publickey) successful!
+2025-05-15 14:31:39,152 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:31:40,813 - INFO - Baixado: postopalhaseca-mov-finan-01591-20250515.csv -> Pasta local
+2025-05-15 14:31:41,005 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:31:44,646 - INFO - Baixado: postopalhaseca-vendas-01591-20250515.csv -> Pasta local
+2025-05-15 14:31:44,745 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:31:45,215 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:31:46,008 - INFO - Authentication (publickey) successful!
+2025-05-15 14:31:46,752 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:31:48,736 - INFO - Baixado: phoenixiicomdecomb-vendas-01585-20250515.csv -> Pasta local
+2025-05-15 14:31:48,929 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:31:49,896 - INFO - Baixado: phoenixiicomdecomb-mov-finan-01585-20250515.csv -> Pasta local
+2025-05-15 14:31:49,994 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:31:50,480 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:31:51,155 - INFO - Authentication (publickey) successful!
+2025-05-15 14:31:51,578 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:31:52,981 - INFO - Baixado: autopostolopescachamorra-mov-finan-00566-20250515.csv -> Pasta local
+2025-05-15 14:31:53,173 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:31:56,867 - INFO - Baixado: autopostolopescachamorra-vendas-00566-20250515.csv -> Pasta local
+2025-05-15 14:31:56,960 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:31:57,464 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:31:58,119 - INFO - Authentication (publickey) successful!
+2025-05-15 14:31:58,548 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:31:59,781 - INFO - Baixado: km-33643875000160-mov-finan-00595-20250515.csv -> Pasta local
+2025-05-15 14:31:59,967 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:32:01,010 - INFO - Baixado: km-33643875000160-vendas-00595-20250515.csv -> Pasta local
+2025-05-15 14:32:01,111 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:32:01,621 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:32:02,354 - INFO - Authentication (publickey) successful!
+2025-05-15 14:32:02,834 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:32:04,793 - INFO - Baixado: postopeliberio-mov-finan-01529-20250515.csv -> Pasta local
+2025-05-15 14:32:04,988 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:32:08,798 - INFO - Baixado: postopeliberio-vendas-01529-20250515.csv -> Pasta local
+2025-05-15 14:32:08,893 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:32:09,371 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:32:10,048 - INFO - Authentication (publickey) successful!
+2025-05-15 14:32:10,471 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:32:11,722 - INFO - Baixado: postoqualitycasablanca-mov-finan-01294-20250515.csv -> Pasta local
+2025-05-15 14:32:12,784 - INFO - Baixado: postoqualitycasablanca-vendas-01293-20250515.csv -> Pasta local
+2025-05-15 14:32:12,972 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:32:12,973 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:32:13,407 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:32:14,231 - INFO - Authentication (publickey) successful!
+2025-05-15 14:32:14,761 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:32:20,471 - INFO - Baixado: postokalilandia-vendas-00287-20250515.csv -> Pasta local
+2025-05-15 14:32:20,664 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:32:21,608 - INFO - Baixado: postokalilandia-mov-finan-00287-20250515.csv -> Pasta local
+2025-05-15 14:32:21,712 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:32:22,198 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:32:22,781 - INFO - Authentication (publickey) successful!
+2025-05-15 14:32:23,350 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:32:24,032 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:32:24,033 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:32:24,535 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:32:25,150 - INFO - Authentication (publickey) successful!
+2025-05-15 14:32:25,588 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:32:26,869 - INFO - Baixado: postoboavista-mov-finan-01318-20250515.csv -> Pasta local
+2025-05-15 14:32:27,069 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:32:27,759 - INFO - Baixado: postoboavista-vendas-01318-20250515.csv -> Pasta local
+2025-05-15 14:32:27,865 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:32:28,337 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:32:28,968 - INFO - Authentication (publickey) successful!
+2025-05-15 14:32:29,706 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:32:32,301 - INFO - Baixado: rededompedrodepostos-vendas-01545-20250515.csv -> Pasta local
+2025-05-15 14:32:32,530 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:32:33,293 - INFO - Baixado: rededompedrodepostos-mov-finan-01546-20250515.csv -> Pasta local
+2025-05-15 14:32:33,400 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:32:33,894 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:32:34,595 - INFO - Authentication (publickey) successful!
+2025-05-15 14:32:35,125 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:32:35,887 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:32:35,888 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:32:36,391 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-15 14:32:37,099 - INFO - Authentication (publickey) successful!
+2025-05-15 14:32:37,706 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:32:39,058 - INFO - Baixado: major-21859871000135-vendas-00016-20250515.csv -> Pasta local
+2025-05-15 14:32:39,939 - INFO - Baixado: major-21859871000135-mov-finan-00016-20250515.csv -> Pasta local
+2025-05-15 14:32:40,162 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-15 14:32:40,162 - INFO - [chan 0] sftp session closed.
+2025-05-15 14:32:40,482 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-15 14:32:41,229 - INFO - Authentication (password) successful!
+2025-05-15 14:32:41,635 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-15 14:32:42,448 - INFO -  Enviado para processamento: autopostolopescachamorra-mov-finan-00566-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:32:42,582 - INFO - Tirando arquivo autopostolopescachamorra-mov-finan-00566-20250515.csv para -> Catalogador
+2025-05-15 14:32:42,582 - INFO - Removido localmente: autopostolopescachamorra-mov-finan-00566-20250515.csv
+2025-05-15 14:32:58,475 - INFO -  Enviado para processamento: autopostolopescachamorra-vendas-00566-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:32:58,611 - INFO - Tirando arquivo autopostolopescachamorra-vendas-00566-20250515.csv para -> Catalogador
+2025-05-15 14:32:58,612 - INFO - Removido localmente: autopostolopescachamorra-vendas-00566-20250515.csv
+2025-05-15 14:32:59,151 - INFO -  Enviado para processamento: autopostopontaldacruz-mov-finan-00177-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:32:59,286 - INFO - Tirando arquivo autopostopontaldacruz-mov-finan-00177-20250515.csv para -> Catalogador
+2025-05-15 14:32:59,287 - INFO - Removido localmente: autopostopontaldacruz-mov-finan-00177-20250515.csv
+2025-05-15 14:33:01,473 - INFO -  Enviado para processamento: autopostopontaldacruz-vendas-00177-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:33:01,607 - INFO - Tirando arquivo autopostopontaldacruz-vendas-00177-20250515.csv para -> Catalogador
+2025-05-15 14:33:01,607 - INFO - Removido localmente: autopostopontaldacruz-vendas-00177-20250515.csv
+2025-05-15 14:33:02,149 - INFO -  Enviado para processamento: bauerpostoscomdecombeconvltd-25261880000342-mov-finan-01297-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:33:02,283 - INFO - Tirando arquivo bauerpostoscomdecombeconvltd-25261880000342-mov-finan-01297-20250515.csv para -> Catalogador
+2025-05-15 14:33:02,284 - INFO - Removido localmente: bauerpostoscomdecombeconvltd-25261880000342-mov-finan-01297-20250515.csv
+2025-05-15 14:33:02,822 - INFO -  Enviado para processamento: bauerpostoscomdecombeconvltd-25261880000342-vendas-01297-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:33:02,956 - INFO - Tirando arquivo bauerpostoscomdecombeconvltd-25261880000342-vendas-01297-20250515.csv para -> Catalogador
+2025-05-15 14:33:02,957 - INFO - Removido localmente: bauerpostoscomdecombeconvltd-25261880000342-vendas-01297-20250515.csv
+2025-05-15 14:33:03,493 - INFO -  Enviado para processamento: cafedaterra-40939392000173-mov-finan-00242-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:33:03,627 - INFO - Tirando arquivo cafedaterra-40939392000173-mov-finan-00242-20250515.csv para -> Catalogador
+2025-05-15 14:33:03,628 - INFO - Removido localmente: cafedaterra-40939392000173-mov-finan-00242-20250515.csv
+2025-05-15 14:33:04,169 - INFO -  Enviado para processamento: cafedaterra-40939392000173-vendas-00242-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:33:04,304 - INFO - Tirando arquivo cafedaterra-40939392000173-vendas-00242-20250515.csv para -> Catalogador
+2025-05-15 14:33:04,304 - INFO - Removido localmente: cafedaterra-40939392000173-vendas-00242-20250515.csv
+2025-05-15 14:33:04,842 - INFO -  Enviado para processamento: enzoitaipava-mov-finan-00677-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:33:04,978 - INFO - Tirando arquivo enzoitaipava-mov-finan-00677-20250515.csv para -> Catalogador
+2025-05-15 14:33:04,978 - INFO - Removido localmente: enzoitaipava-mov-finan-00677-20250515.csv
+2025-05-15 14:33:11,628 - INFO -  Enviado para processamento: enzoitaipava-vendas-00677-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:33:11,763 - INFO - Tirando arquivo enzoitaipava-vendas-00677-20250515.csv para -> Catalogador
+2025-05-15 14:33:11,764 - INFO - Removido localmente: enzoitaipava-vendas-00677-20250515.csv
+2025-05-15 14:33:12,302 - INFO -  Enviado para processamento: falcao-10588194000141-mov-finan-00031-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:33:12,439 - INFO - Tirando arquivo falcao-10588194000141-mov-finan-00031-20250515.csv para -> Catalogador
+2025-05-15 14:33:12,439 - INFO - Removido localmente: falcao-10588194000141-mov-finan-00031-20250515.csv
+2025-05-15 14:33:12,979 - INFO -  Enviado para processamento: falcao-10588194000141-vendas-00031-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:33:13,113 - INFO - Tirando arquivo falcao-10588194000141-vendas-00031-20250515.csv para -> Catalogador
+2025-05-15 14:33:13,114 - INFO - Removido localmente: falcao-10588194000141-vendas-00031-20250515.csv
+2025-05-15 14:33:13,654 - INFO -  Enviado para processamento: girleno-30757976000174-mov-finan-00545-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:33:13,787 - INFO - Tirando arquivo girleno-30757976000174-mov-finan-00545-20250515.csv para -> Catalogador
+2025-05-15 14:33:13,787 - INFO - Removido localmente: girleno-30757976000174-mov-finan-00545-20250515.csv
+2025-05-15 14:33:14,324 - INFO -  Enviado para processamento: girleno-30757976000174-vendas-00545-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:33:14,457 - INFO - Tirando arquivo girleno-30757976000174-vendas-00545-20250515.csv para -> Catalogador
+2025-05-15 14:33:14,458 - INFO - Removido localmente: girleno-30757976000174-vendas-00545-20250515.csv
+2025-05-15 14:33:15,000 - INFO -  Enviado para processamento: km-33643875000160-mov-finan-00595-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:33:15,135 - INFO - Tirando arquivo km-33643875000160-mov-finan-00595-20250515.csv para -> Catalogador
+2025-05-15 14:33:15,135 - INFO - Removido localmente: km-33643875000160-mov-finan-00595-20250515.csv
+2025-05-15 14:33:15,673 - INFO -  Enviado para processamento: km-33643875000160-vendas-00595-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:33:15,807 - INFO - Tirando arquivo km-33643875000160-vendas-00595-20250515.csv para -> Catalogador
+2025-05-15 14:33:15,807 - INFO - Removido localmente: km-33643875000160-vendas-00595-20250515.csv
+2025-05-15 14:33:16,348 - INFO -  Enviado para processamento: liber-33899485000156-mov-finan-01387-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:33:16,481 - INFO - Tirando arquivo liber-33899485000156-mov-finan-01387-20250515.csv para -> Catalogador
+2025-05-15 14:33:16,482 - INFO - Removido localmente: liber-33899485000156-mov-finan-01387-20250515.csv
+2025-05-15 14:33:17,024 - INFO -  Enviado para processamento: liber-33899485000156-vendas-01410-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:33:17,157 - INFO - Tirando arquivo liber-33899485000156-vendas-01410-20250515.csv para -> Catalogador
+2025-05-15 14:33:17,157 - INFO - Removido localmente: liber-33899485000156-vendas-01410-20250515.csv
+2025-05-15 14:33:17,695 - INFO -  Enviado para processamento: major-21859871000135-mov-finan-00016-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:33:17,830 - INFO - Tirando arquivo major-21859871000135-mov-finan-00016-20250515.csv para -> Catalogador
+2025-05-15 14:33:17,830 - INFO - Removido localmente: major-21859871000135-mov-finan-00016-20250515.csv
+2025-05-15 14:33:18,370 - INFO -  Enviado para processamento: major-21859871000135-vendas-00016-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:33:18,501 - INFO - Tirando arquivo major-21859871000135-vendas-00016-20250515.csv para -> Catalogador
+2025-05-15 14:33:18,502 - INFO - Removido localmente: major-21859871000135-vendas-00016-20250515.csv
+2025-05-15 14:33:19,045 - INFO -  Enviado para processamento: manauscomdederivdepetroleoltd-mov-finan-00149-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:33:19,180 - INFO - Tirando arquivo manauscomdederivdepetroleoltd-mov-finan-00149-20250515.csv para -> Catalogador
+2025-05-15 14:33:19,180 - INFO - Removido localmente: manauscomdederivdepetroleoltd-mov-finan-00149-20250515.csv
+2025-05-15 14:33:26,293 - INFO -  Enviado para processamento: manauscomdederivdepetroleoltd-vendas-00149-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:33:26,429 - INFO - Tirando arquivo manauscomdederivdepetroleoltd-vendas-00149-20250515.csv para -> Catalogador
+2025-05-15 14:33:26,430 - INFO - Removido localmente: manauscomdederivdepetroleoltd-vendas-00149-20250515.csv
+2025-05-15 14:33:27,528 - INFO -  Enviado para processamento: phoenixiicomdecomb-mov-finan-01585-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:33:27,660 - INFO - Tirando arquivo phoenixiicomdecomb-mov-finan-01585-20250515.csv para -> Catalogador
+2025-05-15 14:33:27,660 - INFO - Removido localmente: phoenixiicomdecomb-mov-finan-01585-20250515.csv
+2025-05-15 14:33:29,166 - INFO -  Enviado para processamento: phoenixiicomdecomb-vendas-01585-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:33:29,302 - INFO - Tirando arquivo phoenixiicomdecomb-vendas-01585-20250515.csv para -> Catalogador
+2025-05-15 14:33:29,302 - INFO - Removido localmente: phoenixiicomdecomb-vendas-01585-20250515.csv
+2025-05-15 14:33:29,844 - INFO -  Enviado para processamento: planaltopetroleoceasaltda-mov-finan-00403-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:33:29,976 - INFO - Tirando arquivo planaltopetroleoceasaltda-mov-finan-00403-20250515.csv para -> Catalogador
+2025-05-15 14:33:29,977 - INFO - Removido localmente: planaltopetroleoceasaltda-mov-finan-00403-20250515.csv
+2025-05-15 14:33:30,931 - INFO -  Enviado para processamento: planaltopetroleoceasaltda-vendas-00403-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:33:31,067 - INFO - Tirando arquivo planaltopetroleoceasaltda-vendas-00403-20250515.csv para -> Catalogador
+2025-05-15 14:33:31,067 - INFO - Removido localmente: planaltopetroleoceasaltda-vendas-00403-20250515.csv
+2025-05-15 14:33:32,159 - INFO -  Enviado para processamento: portalestreladomorumbictroaut-mov-finan-00904-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:33:32,293 - INFO - Tirando arquivo portalestreladomorumbictroaut-mov-finan-00904-20250515.csv para -> Catalogador
+2025-05-15 14:33:32,293 - INFO - Removido localmente: portalestreladomorumbictroaut-mov-finan-00904-20250515.csv
+2025-05-15 14:34:15,203 - INFO -  Enviado para processamento: portalestreladomorumbictroaut-vendas-00481-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:34:15,338 - INFO - Tirando arquivo portalestreladomorumbictroaut-vendas-00481-20250515.csv para -> Catalogador
+2025-05-15 14:34:15,339 - INFO - Removido localmente: portalestreladomorumbictroaut-vendas-00481-20250515.csv
+2025-05-15 14:34:15,878 - INFO -  Enviado para processamento: postoboavista-mov-finan-01318-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:34:16,013 - INFO - Tirando arquivo postoboavista-mov-finan-01318-20250515.csv para -> Catalogador
+2025-05-15 14:34:16,014 - INFO - Removido localmente: postoboavista-mov-finan-01318-20250515.csv
+2025-05-15 14:34:16,547 - INFO -  Enviado para processamento: postoboavista-vendas-01318-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:34:16,681 - INFO - Tirando arquivo postoboavista-vendas-01318-20250515.csv para -> Catalogador
+2025-05-15 14:34:16,681 - INFO - Removido localmente: postoboavista-vendas-01318-20250515.csv
+2025-05-15 14:34:17,222 - INFO -  Enviado para processamento: postodanave-mov-finan-01535-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:34:17,358 - INFO - Tirando arquivo postodanave-mov-finan-01535-20250515.csv para -> Catalogador
+2025-05-15 14:34:17,358 - INFO - Removido localmente: postodanave-mov-finan-01535-20250515.csv
+2025-05-15 14:34:20,877 - INFO -  Enviado para processamento: postodanave-vendas-01535-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:34:21,010 - INFO - Tirando arquivo postodanave-vendas-01535-20250515.csv para -> Catalogador
+2025-05-15 14:34:21,011 - INFO - Removido localmente: postodanave-vendas-01535-20250515.csv
+2025-05-15 14:34:21,717 - INFO -  Enviado para processamento: postokalilandia-mov-finan-00287-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:34:21,853 - INFO - Tirando arquivo postokalilandia-mov-finan-00287-20250515.csv para -> Catalogador
+2025-05-15 14:34:21,853 - INFO - Removido localmente: postokalilandia-mov-finan-00287-20250515.csv
+2025-05-15 14:34:51,840 - INFO -  Enviado para processamento: postokalilandia-vendas-00287-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:34:51,976 - INFO - Tirando arquivo postokalilandia-vendas-00287-20250515.csv para -> Catalogador
+2025-05-15 14:34:51,977 - INFO - Removido localmente: postokalilandia-vendas-00287-20250515.csv
+2025-05-15 14:34:52,515 - INFO -  Enviado para processamento: postopalhaseca-mov-finan-01591-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:34:52,651 - INFO - Tirando arquivo postopalhaseca-mov-finan-01591-20250515.csv para -> Catalogador
+2025-05-15 14:34:52,652 - INFO - Removido localmente: postopalhaseca-mov-finan-01591-20250515.csv
+2025-05-15 14:35:00,537 - INFO -  Enviado para processamento: postopalhaseca-vendas-01591-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:35:00,670 - INFO - Tirando arquivo postopalhaseca-vendas-01591-20250515.csv para -> Catalogador
+2025-05-15 14:35:00,671 - INFO - Removido localmente: postopalhaseca-vendas-01591-20250515.csv
+2025-05-15 14:35:01,211 - INFO -  Enviado para processamento: postopeliberio-mov-finan-01529-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:35:01,346 - INFO - Tirando arquivo postopeliberio-mov-finan-01529-20250515.csv para -> Catalogador
+2025-05-15 14:35:01,347 - INFO - Removido localmente: postopeliberio-mov-finan-01529-20250515.csv
+2025-05-15 14:35:08,779 - INFO -  Enviado para processamento: postopeliberio-vendas-01529-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:35:08,914 - INFO - Tirando arquivo postopeliberio-vendas-01529-20250515.csv para -> Catalogador
+2025-05-15 14:35:08,914 - INFO - Removido localmente: postopeliberio-vendas-01529-20250515.csv
+2025-05-15 14:35:09,453 - INFO -  Enviado para processamento: postoqualitycasablanca-mov-finan-01294-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:35:09,587 - INFO - Tirando arquivo postoqualitycasablanca-mov-finan-01294-20250515.csv para -> Catalogador
+2025-05-15 14:35:09,588 - INFO - Removido localmente: postoqualitycasablanca-mov-finan-01294-20250515.csv
+2025-05-15 14:35:10,272 - INFO -  Enviado para processamento: postoqualitycasablanca-vendas-01293-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:35:10,408 - INFO - Tirando arquivo postoqualitycasablanca-vendas-01293-20250515.csv para -> Catalogador
+2025-05-15 14:35:10,408 - INFO - Removido localmente: postoqualitycasablanca-vendas-01293-20250515.csv
+2025-05-15 14:35:10,947 - INFO -  Enviado para processamento: postoqualityfiorano-mov-finan-01513-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:35:11,082 - INFO - Tirando arquivo postoqualityfiorano-mov-finan-01513-20250515.csv para -> Catalogador
+2025-05-15 14:35:11,082 - INFO - Removido localmente: postoqualityfiorano-mov-finan-01513-20250515.csv
+2025-05-15 14:35:11,621 - INFO -  Enviado para processamento: postoqualityfiorano-vendas-01513-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:35:11,758 - INFO - Tirando arquivo postoqualityfiorano-vendas-01513-20250515.csv para -> Catalogador
+2025-05-15 14:35:11,758 - INFO - Removido localmente: postoqualityfiorano-vendas-01513-20250515.csv
+2025-05-15 14:35:12,297 - INFO -  Enviado para processamento: rededompedrodepostos-mov-finan-01546-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:35:12,433 - INFO - Tirando arquivo rededompedrodepostos-mov-finan-01546-20250515.csv para -> Catalogador
+2025-05-15 14:35:12,433 - INFO - Removido localmente: rededompedrodepostos-mov-finan-01546-20250515.csv
+2025-05-15 14:35:15,767 - INFO -  Enviado para processamento: rededompedrodepostos-vendas-01545-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:35:15,902 - INFO - Tirando arquivo rededompedrodepostos-vendas-01545-20250515.csv para -> Catalogador
+2025-05-15 14:35:15,903 - INFO - Removido localmente: rededompedrodepostos-vendas-01545-20250515.csv
+2025-05-15 14:35:16,441 - INFO -  Enviado para processamento: redepdfpostoesplanada-mov-finan-00339-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:35:16,577 - INFO - Tirando arquivo redepdfpostoesplanada-mov-finan-00339-20250515.csv para -> Catalogador
+2025-05-15 14:35:16,577 - INFO - Removido localmente: redepdfpostoesplanada-mov-finan-00339-20250515.csv
+2025-05-15 14:35:17,536 - INFO -  Enviado para processamento: redepdfpostoesplanada-vendas-00339-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:35:17,671 - INFO - Tirando arquivo redepdfpostoesplanada-vendas-00339-20250515.csv para -> Catalogador
+2025-05-15 14:35:17,672 - INFO - Removido localmente: redepdfpostoesplanada-vendas-00339-20250515.csv
+2025-05-15 14:35:18,214 - INFO -  Enviado para processamento: rionegrocomderivdepetro-mov-finan-01554-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:35:18,349 - INFO - Tirando arquivo rionegrocomderivdepetro-mov-finan-01554-20250515.csv para -> Catalogador
+2025-05-15 14:35:18,350 - INFO - Removido localmente: rionegrocomderivdepetro-mov-finan-01554-20250515.csv
+2025-05-15 14:35:21,394 - INFO -  Enviado para processamento: rionegrocomderivdepetro-vendas-01554-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:35:21,531 - INFO - Tirando arquivo rionegrocomderivdepetro-vendas-01554-20250515.csv para -> Catalogador
+2025-05-15 14:35:21,531 - INFO - Removido localmente: rionegrocomderivdepetro-vendas-01554-20250515.csv
+2025-05-15 14:35:22,083 - INFO -  Enviado para processamento: toscano-05932284000259-mov-finan-00810-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:35:22,218 - INFO - Tirando arquivo toscano-05932284000259-mov-finan-00810-20250515.csv para -> Catalogador
+2025-05-15 14:35:22,219 - INFO - Removido localmente: toscano-05932284000259-mov-finan-00810-20250515.csv
+2025-05-15 14:35:22,764 - INFO -  Enviado para processamento: toscano-05932284000259-vendas-00810-20250515.csv -> "SFTP BoaVista"
+2025-05-15 14:35:22,897 - INFO - Tirando arquivo toscano-05932284000259-vendas-00810-20250515.csv para -> Catalogador
+2025-05-15 14:35:22,906 - INFO - Removido localmente: toscano-05932284000259-vendas-00810-20250515.csv
+2025-05-15 14:35:22,906 - INFO - [chan 0] sftp session closed.

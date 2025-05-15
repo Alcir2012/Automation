@@ -1,10 +1,26 @@
 import streamlit as st
 import pandas as pd
 from datetime import datetime
+import subprocess
 
 st.set_page_config(page_title="Painel de Operadoras sem Arquivo", layout="wide")
 st.title("📊 Painel de Operadoras sem Arquivos")
 st.markdown(f"**Data de referência:** {datetime.today().strftime('%d/%m/%Y')}")
+
+def get_last_git_commit_date():
+    try:
+        result = subprocess.check_output(
+            ["git", "log", "-1", "--format=%cd"],
+            stderr=subprocess.DEVNULL,
+            universal_newlines=True
+        )
+        return result.strip()
+    except Exception as e:
+        return "Não foi possível obter a data de atualização."
+
+last_update = get_last_git_commit_date()
+
+st.sidebar.markdown(f"🕒 Última atualização: **{last_update}**")
 
 # Lê o arquivo gerado hoje
 try:
