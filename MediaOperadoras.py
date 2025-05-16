@@ -120,6 +120,6 @@ for operadora in df["Operadora"].unique():
 df_resultado = pd.DataFrame(resultados)
 df_resultado["Média (sem hoje)"] = df_resultado["Média (sem hoje)"].astype(int)
 df_resultado["Diferença"] = df_resultado["Diferença"].astype(int)
-df_resultado.to_excel("media_arquivos_operadoras.xlsx", index=False)
+df_resultado.to_excel("C:/Users/jose.alcir/Documents/Python/Antigos projetos/ProjetosAutomacao/media_arquivos_operadoras.xlsx", index=False)
 
 print("Arquivo gerado com sucesso com comparativo de média!")
