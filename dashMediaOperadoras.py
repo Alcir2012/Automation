@@ -1,12 +1,28 @@
 import streamlit as st
 import pandas as pd
 import altair as alt
+import subprocess
 
 # Carregar dados
 df = pd.read_excel("media_arquivos_operadoras.xlsx")
 
 st.set_page_config(page_title="Monitoramento de Operadoras", layout="wide")
 st.title("📦 Monitoramento de Arquivos por Operadora")
+
+def get_last_git_commit_date():
+    try:
+        result = subprocess.check_output(
+            ["git", "log", "-1", "--format=%cd"],
+            stderr=subprocess.DEVNULL,
+            universal_newlines=True
+        )
+        return result.strip()
+    except Exception as e:
+        return "Não foi possível obter a data de atualização."
+
+last_update = get_last_git_commit_date()
+
+st.sidebar.markdown(f"🕒 Última atualização: **{last_update}**")
 
 # =========================
 # 🔴 TOPO: Destaque Abaixo da Média
