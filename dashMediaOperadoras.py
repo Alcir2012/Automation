@@ -27,7 +27,7 @@ st.sidebar.markdown(f"🕒 Última atualização: **{last_update}**")
 # =========================
 # 🔴 TOPO: Destaque Abaixo da Média
 # =========================
-st.markdown("## 🚨 Operadoras abaixo da média (HOJE)")
+st.markdown("## 🚨 Operadoras abaixo da média de envios (HOJE)")
 
 df["Diferença %"] = ((df["Média (sem hoje)"] - df["Hoje"]) / df["Média (sem hoje)"]) * 100
 df["Diferença %"] = df["Diferença %"].round(1)
@@ -93,4 +93,4 @@ st.altair_chart(chart)
 
 # Rodapé
 st.markdown("---")
-st.caption("Desenvolvido por Alcir 🧠 com Streamlit")
+st.caption("Desenvolvido por Alcir com Streamlit")
