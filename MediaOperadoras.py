@@ -52,7 +52,7 @@ time.sleep(7)
 pesquisar = navegador.find_element(By.CLASS_NAME,"btn-padrao")
 pesquisar.click()
 
-time.sleep(70)
+time.sleep(30)
 
 # Cabeçalhos com datas
 header_data = navegador.find_element(By.XPATH, "//tbody[@id='formulario:tblHeader_data']/tr")

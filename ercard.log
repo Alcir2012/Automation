@@ -316,3 +316,27 @@ porque o host conectado não respondeu
 2025-05-16 08:45:06,137 - INFO - Authentication (password) successful!
 2025-05-16 08:45:06,391 - INFO - [chan 0] Opened sftp connection (server version 3)
 2025-05-16 08:45:06,391 - INFO - [chan 0] sftp session closed.
+2025-05-17 10:08:33,698 - ERROR - Erro geral [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu
+2025-05-17 10:08:33,874 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-17 10:08:34,429 - INFO - Authentication (password) successful!
+2025-05-17 10:08:34,686 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-17 10:08:34,686 - INFO - [chan 0] sftp session closed.
+2025-05-17 10:09:16,173 - INFO - Baixando: 33587453000115_20250516_CN000001.TXT para -> Pasta local
+2025-05-17 10:09:18,438 - INFO - Baixando: 33587453000115_20250516_MV000001.TXT para -> Pasta local
+2025-05-17 10:09:19,132 - INFO - Baixando: 33587453000115_20250516_RP000001.TXT para -> Pasta local
+2025-05-17 10:09:19,330 - INFO - Ignorado oque não for txt
+2025-05-17 10:09:19,902 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-17 10:09:20,696 - INFO - Authentication (password) successful!
+2025-05-17 10:09:21,111 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-17 10:09:21,664 - INFO -  Enviado: 33587453000115_20250516_CN000001.TXT para -> SFTP BoaVista
+2025-05-17 10:09:21,804 - INFO - 33587453000115_20250516_CN000001.TXT enviado para -> catalogador
+2025-05-17 10:09:21,806 - INFO - Removido localmente
+2025-05-17 10:09:26,385 - INFO -  Enviado: 33587453000115_20250516_MV000001.TXT para -> SFTP BoaVista
+2025-05-17 10:09:26,525 - INFO - 33587453000115_20250516_MV000001.TXT enviado para -> catalogador
+2025-05-17 10:09:26,527 - INFO - Removido localmente
+2025-05-17 10:09:27,088 - INFO -  Enviado: 33587453000115_20250516_RP000001.TXT para -> SFTP BoaVista
+2025-05-17 10:09:27,228 - INFO - 33587453000115_20250516_RP000001.TXT enviado para -> catalogador
+2025-05-17 10:09:27,230 - INFO - Removido localmente
+2025-05-17 10:09:27,230 - INFO - [chan 0] sftp session closed.
