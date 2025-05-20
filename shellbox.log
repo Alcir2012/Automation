@@ -3900,3 +3900,37 @@
 2025-05-20 12:08:35,707 - INFO -  Enviado para processamento: valemaissociedade-vendas-01299-20250520.csv -> "SFTP BoaVista"
 2025-05-20 12:08:35,718 - INFO - Removido localmente: valemaissociedade-vendas-01299-20250520.csv
 2025-05-20 12:08:35,718 - INFO - [chan 0] sftp session closed.
+2025-05-20 13:08:03,608 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-20 13:08:04,290 - INFO - Authentication (publickey) successful!
+2025-05-20 13:08:04,782 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-20 13:08:05,534 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-20 13:08:05,535 - INFO - [chan 0] sftp session closed.
+2025-05-20 13:08:05,919 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-20 13:08:06,606 - INFO - Authentication (publickey) successful!
+2025-05-20 13:08:07,056 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-20 13:08:07,820 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-20 13:08:07,821 - INFO - [chan 0] sftp session closed.
+2025-05-20 13:08:08,200 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-20 13:08:08,893 - INFO - Authentication (publickey) successful!
+2025-05-20 13:08:09,340 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-20 13:08:10,049 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-20 13:08:10,049 - INFO - [chan 0] sftp session closed.
+2025-05-20 13:08:10,423 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-20 13:08:11,073 - INFO - Authentication (publickey) successful!
+2025-05-20 13:08:11,510 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-20 13:08:12,202 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-20 13:08:12,202 - INFO - [chan 0] sftp session closed.
+2025-05-20 13:08:12,579 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-20 13:08:13,213 - INFO - Authentication (publickey) successful!
+2025-05-20 13:08:13,651 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-20 13:08:14,337 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-20 13:08:14,337 - INFO - [chan 0] sftp session closed.
+2025-05-20 13:08:15,261 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-20 13:08:15,919 - INFO - Authentication (publickey) successful!
+2025-05-20 13:08:16,402 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-20 13:08:17,102 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-20 13:08:17,103 - INFO - [chan 0] sftp session closed.
+2025-05-20 13:08:17,473 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-20 13:08:18,258 - INFO - Authentication (password) successful!
+2025-05-20 13:08:18,654 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-20 13:08:18,655 - INFO - [chan 0] sftp session closed.
