@@ -380,3 +380,8 @@ porque o host conectado não respondeu
 2025-05-21 08:45:04,865 - INFO - Authentication (password) successful!
 2025-05-21 08:45:05,284 - INFO - [chan 0] Opened sftp connection (server version 3)
 2025-05-21 08:45:05,285 - INFO - [chan 0] sftp session closed.
+2025-05-21 13:14:57,141 - INFO - Ignorado oque não for txt
+2025-05-21 13:14:57,501 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-21 13:14:58,265 - INFO - Authentication (password) successful!
+2025-05-21 13:14:58,661 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-21 13:14:58,662 - INFO - [chan 0] sftp session closed.
