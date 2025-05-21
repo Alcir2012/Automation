@@ -35881,3 +35881,46 @@
 2025-05-21 09:50:30,274 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
 2025-05-21 09:50:30,975 - INFO - Authentication (password) successful!
 2025-05-21 09:50:31,362 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-21 10:50:12,908 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-21 10:50:13,758 - INFO - Auth banner: b'**********************************************************\n*   => ACESSO PERMITIDO SOMENTE A PESSOAS AUTORIZADAS!   *\n*                                                        *\n*   => CASO NAO TENHA AUTORIZACAO FACA LOGOUT AGORA!     *\n*                                                        *\n*   => TODAS AS ACOES PODEM SER MONITORADAS!             *\n*                                                        *\n*   => VOCE CONCORDA COM OS PROCESSOS DE MONITORACAO!    *\n*                                                        *\n**********************************************************\n'
+2025-05-21 10:50:13,759 - INFO - Authentication (publickey) successful!
+2025-05-21 10:50:14,216 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-21 10:50:16,090 - INFO - Baixado: 0372088200015820250410.txt para -> pasta local
+2025-05-21 10:50:16,193 - INFO - Erro ao processar 0372088200015820250410.txt: Failure
+2025-05-21 10:50:17,416 - INFO - Baixado: 0372088200015820250501.txt para -> pasta local
+2025-05-21 10:50:17,516 - INFO - Erro ao processar 0372088200015820250501.txt: Failure
+2025-05-21 10:50:18,532 - INFO - Baixado: 0372088200015820250507.txt para -> pasta local
+2025-05-21 10:50:18,631 - INFO - Erro ao processar 0372088200015820250507.txt: Failure
+2025-05-21 10:50:20,044 - INFO - Baixado: 0372088200015820250506.txt para -> pasta local
+2025-05-21 10:50:20,145 - INFO - Erro ao processar 0372088200015820250506.txt: Failure
+2025-05-21 10:50:21,251 - INFO - Baixado: 0372088200015820250515.txt para -> pasta local
+2025-05-21 10:50:21,352 - INFO - Erro ao processar 0372088200015820250515.txt: Failure
+2025-05-21 10:50:22,266 - INFO - Baixado: 0372088200015820250516.txt para -> pasta local
+2025-05-21 10:50:22,366 - INFO - Erro ao processar 0372088200015820250516.txt: Failure
+2025-05-21 10:50:22,467 - INFO - Ignorado (não é .txt ou não é arquivo): Processados
+2025-05-21 10:50:22,468 - INFO - [chan 0] sftp session closed.
+2025-05-21 10:50:22,860 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-21 10:50:23,623 - INFO - Authentication (password) successful!
+2025-05-21 10:50:24,011 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-21 10:50:25,096 - INFO -  Enviado: 0372088200015820250410.txt -> SFTP BoaVista
+2025-05-21 10:50:25,227 - INFO - retirado 0372088200015820250410.txt da pasta de espera e inserido para catalogar
+2025-05-21 10:50:25,229 - INFO - Removido localmente: 0372088200015820250410.txt
+2025-05-21 10:50:26,476 - INFO -  Enviado: 0372088200015820250501.txt -> SFTP BoaVista
+2025-05-21 10:50:26,605 - INFO - retirado 0372088200015820250501.txt da pasta de espera e inserido para catalogar
+2025-05-21 10:50:26,607 - INFO - Removido localmente: 0372088200015820250501.txt
+2025-05-21 10:50:28,088 - INFO -  Enviado: 0372088200015820250506.txt -> SFTP BoaVista
+2025-05-21 10:50:28,219 - INFO - retirado 0372088200015820250506.txt da pasta de espera e inserido para catalogar
+2025-05-21 10:50:28,222 - INFO - Removido localmente: 0372088200015820250506.txt
+2025-05-21 10:50:29,156 - INFO -  Enviado: 0372088200015820250507.txt -> SFTP BoaVista
+2025-05-21 10:50:29,286 - INFO - retirado 0372088200015820250507.txt da pasta de espera e inserido para catalogar
+2025-05-21 10:50:29,287 - INFO - Removido localmente: 0372088200015820250507.txt
+2025-05-21 10:50:30,116 - INFO -  Enviado: 0372088200015820250515.txt -> SFTP BoaVista
+2025-05-21 10:50:30,245 - INFO - retirado 0372088200015820250515.txt da pasta de espera e inserido para catalogar
+2025-05-21 10:50:30,246 - INFO - Removido localmente: 0372088200015820250515.txt
+2025-05-21 10:50:30,929 - INFO -  Enviado: 0372088200015820250516.txt -> SFTP BoaVista
+2025-05-21 10:50:31,062 - INFO - retirado 0372088200015820250516.txt da pasta de espera e inserido para catalogar
+2025-05-21 10:50:31,064 - INFO - Removido localmente: 0372088200015820250516.txt
+2025-05-21 10:50:31,064 - INFO - [chan 0] sftp session closed.
+2025-05-21 10:50:31,400 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-21 10:50:32,452 - INFO - Authentication (password) successful!
+2025-05-21 10:50:32,839 - INFO - [chan 0] Opened sftp connection (server version 3)
