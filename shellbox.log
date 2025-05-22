@@ -4276,3 +4276,13 @@
 2025-05-21 16:08:15,993 - INFO - Authentication (password) successful!
 2025-05-21 16:08:16,420 - INFO - [chan 0] Opened sftp connection (server version 3)
 2025-05-21 16:08:16,420 - INFO - [chan 0] sftp session closed.
+2025-05-22 06:42:32,251 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-22 06:42:32,779 - INFO - Authentication (publickey) successful!
+2025-05-22 06:42:33,236 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-22 06:42:33,630 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-22 06:42:33,631 - INFO - [chan 0] sftp session closed.
+2025-05-22 06:42:34,575 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-22 06:42:34,983 - INFO - Authentication (publickey) successful!
+2025-05-22 06:42:35,355 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-22 06:42:35,741 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-22 06:42:35,742 - INFO - [chan 0] sftp session closed.

@@ -15998,3 +15998,13 @@
 2025-05-21 16:31:09,161 - INFO - Authentication (password) successful!
 2025-05-21 16:31:09,562 - INFO - [chan 0] Opened sftp connection (server version 3)
 2025-05-21 16:31:09,695 - INFO - [chan 0] sftp session closed.
+2025-05-22 06:42:32,247 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-22 06:42:32,977 - INFO - Authentication (publickey) successful!
+2025-05-22 06:42:33,378 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-22 06:42:33,735 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-22 06:42:33,735 - INFO - [chan 0] sftp session closed.
+2025-05-22 06:42:34,745 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-22 06:42:35,160 - INFO - Authentication (publickey) successful!
+2025-05-22 06:42:35,460 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-22 06:42:35,846 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-22 06:42:35,846 - INFO - [chan 0] sftp session closed.
