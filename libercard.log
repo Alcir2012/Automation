@@ -39650,3 +39650,16 @@
 2025-05-23 12:50:15,996 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
 2025-05-23 12:50:16,724 - INFO - Authentication (password) successful!
 2025-05-23 12:50:17,132 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 13:50:11,707 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-23 13:50:12,497 - INFO - Auth banner: b'**********************************************************\n*   => ACESSO PERMITIDO SOMENTE A PESSOAS AUTORIZADAS!   *\n*                                                        *\n*   => CASO NAO TENHA AUTORIZACAO FACA LOGOUT AGORA!     *\n*                                                        *\n*   => TODAS AS ACOES PODEM SER MONITORADAS!             *\n*                                                        *\n*   => VOCE CONCORDA COM OS PROCESSOS DE MONITORACAO!    *\n*                                                        *\n**********************************************************\n'
+2025-05-23 13:50:12,497 - INFO - Authentication (publickey) successful!
+2025-05-23 13:50:12,915 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 13:50:13,567 - INFO - Ignorado (não é .txt ou não é arquivo): Processados
+2025-05-23 13:50:13,567 - INFO - [chan 0] sftp session closed.
+2025-05-23 13:50:13,848 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-23 13:50:14,617 - INFO - Authentication (password) successful!
+2025-05-23 13:50:15,022 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 13:50:15,022 - INFO - [chan 0] sftp session closed.
+2025-05-23 13:50:15,354 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-23 13:50:16,040 - INFO - Authentication (password) successful!
+2025-05-23 13:50:16,412 - INFO - [chan 0] Opened sftp connection (server version 3)
