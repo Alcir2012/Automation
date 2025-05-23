@@ -17467,3 +17467,182 @@
 2025-05-23 09:31:09,919 - INFO - Authentication (password) successful!
 2025-05-23 09:31:10,295 - INFO - [chan 0] Opened sftp connection (server version 3)
 2025-05-23 09:31:10,418 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:30:02,898 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:30:03,546 - INFO - Authentication (publickey) successful!
+2025-05-23 10:30:04,143 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:30:04,799 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:30:04,799 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:30:05,134 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:30:05,860 - INFO - Authentication (publickey) successful!
+2025-05-23 10:30:06,286 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:30:07,534 - INFO - Baixado: postoqualityfiorano-mov-finan-01521-20250523.csv -> Pasta local
+2025-05-23 10:30:07,723 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:30:08,374 - INFO - Baixado: postoqualityfiorano-vendas-01521-20250523.csv -> Pasta local
+2025-05-23 10:30:08,467 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:30:08,781 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:30:09,434 - INFO - Authentication (publickey) successful!
+2025-05-23 10:30:09,889 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:30:10,588 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:30:10,588 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:30:10,902 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:30:11,484 - INFO - Authentication (publickey) successful!
+2025-05-23 10:30:11,919 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:30:12,582 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:30:12,582 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:30:12,888 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:30:13,650 - INFO - Authentication (publickey) successful!
+2025-05-23 10:30:14,086 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:30:14,781 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:30:14,781 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:30:15,099 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:30:15,719 - INFO - Authentication (publickey) successful!
+2025-05-23 10:30:16,147 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:30:16,827 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:30:16,827 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:30:17,138 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:30:17,734 - INFO - Authentication (publickey) successful!
+2025-05-23 10:30:18,197 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:30:18,850 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:30:18,850 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:30:19,161 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:30:19,815 - INFO - Authentication (publickey) successful!
+2025-05-23 10:30:20,227 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:30:20,883 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:30:20,884 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:30:21,196 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:30:21,953 - INFO - Authentication (publickey) successful!
+2025-05-23 10:30:22,686 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:30:23,336 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:30:23,336 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:30:23,652 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:30:25,205 - INFO - Authentication (publickey) successful!
+2025-05-23 10:30:26,152 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:30:26,815 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:30:26,815 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:30:27,124 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:30:29,451 - INFO - Authentication (publickey) successful!
+2025-05-23 10:30:30,024 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:30:30,730 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:30:31,481 - INFO - Baixado: rionegrocomderivdepetro-mov-finan-01562-20250523.csv -> Pasta local
+2025-05-23 10:30:31,583 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:30:31,900 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:30:32,693 - INFO - Authentication (publickey) successful!
+2025-05-23 10:30:33,446 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:30:34,088 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:30:34,089 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:30:34,406 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:30:35,847 - INFO - Authentication (publickey) successful!
+2025-05-23 10:30:36,924 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:30:38,155 - INFO - Baixado: liber-33899485000156-mov-finan-01395-20250523.csv -> Pasta local
+2025-05-23 10:30:38,345 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:30:38,346 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:30:38,656 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:30:39,455 - INFO - Authentication (publickey) successful!
+2025-05-23 10:30:40,228 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:30:40,904 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:30:40,904 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:30:41,215 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:30:42,196 - INFO - Authentication (publickey) successful!
+2025-05-23 10:30:42,784 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:30:43,436 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:30:43,437 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:30:43,740 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:30:44,685 - INFO - Authentication (publickey) successful!
+2025-05-23 10:30:45,267 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:30:46,806 - INFO - Baixado: postopalhaseca-mov-finan-01599-20250523.csv -> Pasta local
+2025-05-23 10:30:46,996 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:30:46,996 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:30:47,309 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:30:48,229 - INFO - Authentication (publickey) successful!
+2025-05-23 10:30:48,914 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:30:50,957 - INFO - Baixado: phoenixiicomdecomb-mov-finan-01593-20250523.csv -> Pasta local
+2025-05-23 10:30:52,078 - INFO - Baixado: phoenixiicomdecomb-vendas-01593-20250523.csv -> Pasta local
+2025-05-23 10:30:52,265 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:30:52,265 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:30:52,646 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:30:53,823 - INFO - Authentication (publickey) successful!
+2025-05-23 10:30:54,694 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:30:55,355 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:30:55,355 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:30:55,672 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:30:56,689 - INFO - Authentication (publickey) successful!
+2025-05-23 10:30:57,523 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:30:58,183 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:30:58,183 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:30:58,501 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:31:00,115 - INFO - Authentication (publickey) successful!
+2025-05-23 10:31:01,070 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:31:02,529 - INFO - Baixado: postopeliberio-mov-finan-01537-20250523.csv -> Pasta local
+2025-05-23 10:31:02,737 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:31:02,737 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:31:03,071 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:31:03,889 - INFO - Authentication (publickey) successful!
+2025-05-23 10:31:04,898 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:31:05,587 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:31:05,587 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:31:05,902 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:31:06,962 - INFO - Authentication (publickey) successful!
+2025-05-23 10:31:07,864 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:31:08,533 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:31:08,533 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:31:08,866 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:31:10,177 - INFO - Authentication (publickey) successful!
+2025-05-23 10:31:11,241 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:31:11,928 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:31:11,928 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:31:13,237 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:31:13,962 - INFO - Authentication (publickey) successful!
+2025-05-23 10:31:14,938 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:31:15,618 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:31:15,618 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:31:15,929 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:31:17,334 - INFO - Authentication (publickey) successful!
+2025-05-23 10:31:18,116 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:31:19,443 - INFO - Baixado: rededompedrodepostos-mov-finan-01554-20250523.csv -> Pasta local
+2025-05-23 10:31:19,634 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:31:21,241 - INFO - Baixado: rededompedrodepostos-vendas-01553-20250523.csv -> Pasta local
+2025-05-23 10:31:21,334 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:31:21,650 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:31:22,253 - INFO - Authentication (publickey) successful!
+2025-05-23 10:31:22,826 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:31:23,482 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:31:23,482 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:31:23,791 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-23 10:31:24,442 - INFO - Authentication (publickey) successful!
+2025-05-23 10:31:25,528 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:31:26,179 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-23 10:31:26,179 - INFO - [chan 0] sftp session closed.
+2025-05-23 10:31:26,645 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-23 10:31:27,431 - INFO - Authentication (password) successful!
+2025-05-23 10:31:27,832 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 10:31:28,504 - INFO -  Enviado para processamento: liber-33899485000156-mov-finan-01395-20250523.csv -> "SFTP BoaVista"
+2025-05-23 10:31:28,640 - INFO - Tirando arquivo liber-33899485000156-mov-finan-01395-20250523.csv para -> Catalogador
+2025-05-23 10:31:28,640 - INFO - Removido localmente: liber-33899485000156-mov-finan-01395-20250523.csv
+2025-05-23 10:31:30,276 - INFO -  Enviado para processamento: phoenixiicomdecomb-mov-finan-01593-20250523.csv -> "SFTP BoaVista"
+2025-05-23 10:31:30,412 - INFO - Tirando arquivo phoenixiicomdecomb-mov-finan-01593-20250523.csv para -> Catalogador
+2025-05-23 10:31:30,412 - INFO - Removido localmente: phoenixiicomdecomb-mov-finan-01593-20250523.csv
+2025-05-23 10:31:31,647 - INFO -  Enviado para processamento: phoenixiicomdecomb-vendas-01593-20250523.csv -> "SFTP BoaVista"
+2025-05-23 10:31:31,782 - INFO - Tirando arquivo phoenixiicomdecomb-vendas-01593-20250523.csv para -> Catalogador
+2025-05-23 10:31:31,783 - INFO - Removido localmente: phoenixiicomdecomb-vendas-01593-20250523.csv
+2025-05-23 10:31:32,326 - INFO -  Enviado para processamento: postopalhaseca-mov-finan-01599-20250523.csv -> "SFTP BoaVista"
+2025-05-23 10:31:32,461 - INFO - Tirando arquivo postopalhaseca-mov-finan-01599-20250523.csv para -> Catalogador
+2025-05-23 10:31:32,461 - INFO - Removido localmente: postopalhaseca-mov-finan-01599-20250523.csv
+2025-05-23 10:31:33,011 - INFO -  Enviado para processamento: postopeliberio-mov-finan-01537-20250523.csv -> "SFTP BoaVista"
+2025-05-23 10:31:33,145 - INFO - Tirando arquivo postopeliberio-mov-finan-01537-20250523.csv para -> Catalogador
+2025-05-23 10:31:33,145 - INFO - Removido localmente: postopeliberio-mov-finan-01537-20250523.csv
+2025-05-23 10:31:33,695 - INFO -  Enviado para processamento: postoqualityfiorano-mov-finan-01521-20250523.csv -> "SFTP BoaVista"
+2025-05-23 10:31:33,830 - INFO - Tirando arquivo postoqualityfiorano-mov-finan-01521-20250523.csv para -> Catalogador
+2025-05-23 10:31:33,831 - INFO - Removido localmente: postoqualityfiorano-mov-finan-01521-20250523.csv
+2025-05-23 10:31:34,376 - INFO -  Enviado para processamento: postoqualityfiorano-vendas-01521-20250523.csv -> "SFTP BoaVista"
+2025-05-23 10:31:34,510 - INFO - Tirando arquivo postoqualityfiorano-vendas-01521-20250523.csv para -> Catalogador
+2025-05-23 10:31:34,511 - INFO - Removido localmente: postoqualityfiorano-vendas-01521-20250523.csv
+2025-05-23 10:31:35,052 - INFO -  Enviado para processamento: rededompedrodepostos-mov-finan-01554-20250523.csv -> "SFTP BoaVista"
+2025-05-23 10:31:35,186 - INFO - Tirando arquivo rededompedrodepostos-mov-finan-01554-20250523.csv para -> Catalogador
+2025-05-23 10:31:35,187 - INFO - Removido localmente: rededompedrodepostos-mov-finan-01554-20250523.csv
+2025-05-23 10:31:38,359 - INFO -  Enviado para processamento: rededompedrodepostos-vendas-01553-20250523.csv -> "SFTP BoaVista"
+2025-05-23 10:31:38,498 - INFO - Tirando arquivo rededompedrodepostos-vendas-01553-20250523.csv para -> Catalogador
+2025-05-23 10:31:38,499 - INFO - Removido localmente: rededompedrodepostos-vendas-01553-20250523.csv
+2025-05-23 10:31:39,063 - INFO -  Enviado para processamento: rionegrocomderivdepetro-mov-finan-01562-20250523.csv -> "SFTP BoaVista"
+2025-05-23 10:31:39,204 - INFO - Tirando arquivo rionegrocomderivdepetro-mov-finan-01562-20250523.csv para -> Catalogador
+2025-05-23 10:31:39,204 - INFO - Removido localmente: rionegrocomderivdepetro-mov-finan-01562-20250523.csv
+2025-05-23 10:31:39,205 - INFO - [chan 0] sftp session closed.
