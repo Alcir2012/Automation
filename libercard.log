@@ -38508,3 +38508,1024 @@
 2025-05-23 06:54:01,542 - INFO - Movendo 0410321700034020250522.txt para backup
 2025-05-23 06:54:02,247 - INFO - Baixado: LIBERCARD_20250522000000_061951_14242030000119.txt para -> pasta local
 2025-05-23 06:54:02,337 - INFO - Movendo LIBERCARD_20250522000000_061951_14242030000119.txt para backup
+2025-05-23 06:54:03,102 - INFO - Baixado: 2152271400021020250522.txt para -> pasta local
+2025-05-23 06:54:03,201 - INFO - Movendo 2152271400021020250522.txt para backup
+2025-05-23 06:54:03,891 - INFO - Baixado: 4106511600019620250522.txt para -> pasta local
+2025-05-23 06:54:03,990 - INFO - Movendo 4106511600019620250522.txt para backup
+2025-05-23 06:54:04,643 - INFO - Baixado: 0463237400018020250522.txt para -> pasta local
+2025-05-23 06:54:04,739 - INFO - Movendo 0463237400018020250522.txt para backup
+2025-05-23 06:54:05,411 - INFO - Baixado: 0463237400034220250522.txt para -> pasta local
+2025-05-23 06:54:05,506 - INFO - Movendo 0463237400034220250522.txt para backup
+2025-05-23 06:54:06,432 - INFO - Baixado: 2914220200015020250522.txt para -> pasta local
+2025-05-23 06:54:06,527 - INFO - Movendo 2914220200015020250522.txt para backup
+2025-05-23 06:54:07,208 - INFO - Baixado: 0951761700066820250522.txt para -> pasta local
+2025-05-23 06:54:07,303 - INFO - Movendo 0951761700066820250522.txt para backup
+2025-05-23 06:54:07,991 - INFO - Baixado: 0537791700063820250522.txt para -> pasta local
+2025-05-23 06:54:08,111 - INFO - Movendo 0537791700063820250522.txt para backup
+2025-05-23 06:54:08,828 - INFO - Baixado: 0094539600022020250522.txt para -> pasta local
+2025-05-23 06:54:08,935 - INFO - Movendo 0094539600022020250522.txt para backup
+2025-05-23 06:54:09,633 - INFO - Baixado: 1888559600011020250522.txt para -> pasta local
+2025-05-23 06:54:09,729 - INFO - Movendo 1888559600011020250522.txt para backup
+2025-05-23 06:54:10,471 - INFO - Baixado: LIBERCARD_20250522000000_061952_13722711000111.txt para -> pasta local
+2025-05-23 06:54:10,564 - INFO - Movendo LIBERCARD_20250522000000_061952_13722711000111.txt para backup
+2025-05-23 06:54:11,330 - INFO - Baixado: LIBERCARD_20250522000000_061953_08394192000684.txt para -> pasta local
+2025-05-23 06:54:11,427 - INFO - Movendo LIBERCARD_20250522000000_061953_08394192000684.txt para backup
+2025-05-23 06:54:13,440 - INFO - Baixado: 0951761700058720250522.txt para -> pasta local
+2025-05-23 06:54:13,536 - INFO - Movendo 0951761700058720250522.txt para backup
+2025-05-23 06:54:14,496 - INFO - Baixado: 0634151200010620250522.txt para -> pasta local
+2025-05-23 06:54:14,635 - INFO - Movendo 0634151200010620250522.txt para backup
+2025-05-23 06:54:15,660 - INFO - Baixado: 1437880100010820250522.txt para -> pasta local
+2025-05-23 06:54:15,753 - INFO - Movendo 1437880100010820250522.txt para backup
+2025-05-23 06:54:16,408 - INFO - Baixado: 1066489300012320250522.txt para -> pasta local
+2025-05-23 06:54:16,516 - INFO - Movendo 1066489300012320250522.txt para backup
+2025-05-23 06:54:17,330 - INFO - Baixado: 2354429900014020250522.txt para -> pasta local
+2025-05-23 06:54:17,427 - INFO - Movendo 2354429900014020250522.txt para backup
+2025-05-23 06:54:18,109 - INFO - Baixado: 2615837900015620250522.txt para -> pasta local
+2025-05-23 06:54:18,209 - INFO - Movendo 2615837900015620250522.txt para backup
+2025-05-23 06:54:18,904 - INFO - Baixado: 2152271400030020250522.txt para -> pasta local
+2025-05-23 06:54:18,999 - INFO - Movendo 2152271400030020250522.txt para backup
+2025-05-23 06:54:19,691 - INFO - Baixado: 2152271400056320250522.txt para -> pasta local
+2025-05-23 06:54:19,788 - INFO - Movendo 2152271400056320250522.txt para backup
+2025-05-23 06:54:20,770 - INFO - Baixado: 0460116500017020250522.txt para -> pasta local
+2025-05-23 06:54:21,383 - INFO - Movendo 0460116500017020250522.txt para backup
+2025-05-23 06:54:22,883 - INFO - Baixado: 0312314200056820250522.txt para -> pasta local
+2025-05-23 06:54:22,978 - INFO - Movendo 0312314200056820250522.txt para backup
+2025-05-23 06:54:23,753 - INFO - Baixado: LIBERCARD_20250522000000_061954_02114945000160.txt para -> pasta local
+2025-05-23 06:54:23,850 - INFO - Movendo LIBERCARD_20250522000000_061954_02114945000160.txt para backup
+2025-05-23 06:54:24,531 - INFO - Baixado: 1075718700012620250522.txt para -> pasta local
+2025-05-23 06:54:24,629 - INFO - Movendo 1075718700012620250522.txt para backup
+2025-05-23 06:54:25,310 - INFO - Baixado: LIBERCARD_20250522000000_061955_32768826000191.txt para -> pasta local
+2025-05-23 06:54:25,405 - INFO - Movendo LIBERCARD_20250522000000_061955_32768826000191.txt para backup
+2025-05-23 06:54:26,103 - INFO - Baixado: 2093621200019220250522.txt para -> pasta local
+2025-05-23 06:54:26,195 - INFO - Movendo 2093621200019220250522.txt para backup
+2025-05-23 06:54:26,892 - INFO - Baixado: 2093621200027320250522.txt para -> pasta local
+2025-05-23 06:54:27,004 - INFO - Movendo 2093621200027320250522.txt para backup
+2025-05-23 06:54:27,689 - INFO - Baixado: 2093621200043520250522.txt para -> pasta local
+2025-05-23 06:54:27,787 - INFO - Movendo 2093621200043520250522.txt para backup
+2025-05-23 06:54:28,473 - INFO - Baixado: 0878139400025520250522.txt para -> pasta local
+2025-05-23 06:54:28,575 - INFO - Movendo 0878139400025520250522.txt para backup
+2025-05-23 06:54:30,803 - INFO - Baixado: 2395778700042220250522.txt para -> pasta local
+2025-05-23 06:54:31,038 - INFO - Movendo 2395778700042220250522.txt para backup
+2025-05-23 06:54:31,966 - INFO - Baixado: 2395778700050320250522.txt para -> pasta local
+2025-05-23 06:54:32,059 - INFO - Movendo 2395778700050320250522.txt para backup
+2025-05-23 06:54:32,937 - INFO - Baixado: 3121818500013920250522.txt para -> pasta local
+2025-05-23 06:54:33,034 - INFO - Movendo 3121818500013920250522.txt para backup
+2025-05-23 06:54:33,768 - INFO - Baixado: 0094539600014020250522.txt para -> pasta local
+2025-05-23 06:54:33,877 - INFO - Movendo 0094539600014020250522.txt para backup
+2025-05-23 06:54:35,197 - INFO - Baixado: 2886160800012020250522.txt para -> pasta local
+2025-05-23 06:54:35,291 - INFO - Movendo 2886160800012020250522.txt para backup
+2025-05-23 06:54:35,989 - INFO - Baixado: 4750387000014720250522.txt para -> pasta local
+2025-05-23 06:54:36,082 - INFO - Movendo 4750387000014720250522.txt para backup
+2025-05-23 06:54:36,738 - INFO - Baixado: 4750387000022820250522.txt para -> pasta local
+2025-05-23 06:54:36,832 - INFO - Movendo 4750387000022820250522.txt para backup
+2025-05-23 06:54:37,491 - INFO - Baixado: 4750387000030920250522.txt para -> pasta local
+2025-05-23 06:54:37,587 - INFO - Movendo 4750387000030920250522.txt para backup
+2025-05-23 06:54:38,267 - INFO - Baixado: 4750387000049020250522.txt para -> pasta local
+2025-05-23 06:54:38,362 - INFO - Movendo 4750387000049020250522.txt para backup
+2025-05-23 06:54:39,019 - INFO - Baixado: 0463237400042320250522.txt para -> pasta local
+2025-05-23 06:54:39,113 - INFO - Movendo 0463237400042320250522.txt para backup
+2025-05-23 06:54:39,781 - INFO - Baixado: 0410321700018820250522.txt para -> pasta local
+2025-05-23 06:54:39,876 - INFO - Movendo 0410321700018820250522.txt para backup
+2025-05-23 06:54:40,547 - INFO - Baixado: 0463237400026120250522.txt para -> pasta local
+2025-05-23 06:54:40,640 - INFO - Movendo 0463237400026120250522.txt para backup
+2025-05-23 06:54:41,308 - INFO - Baixado: 0463237400050420250522.txt para -> pasta local
+2025-05-23 06:54:41,411 - INFO - Movendo 0463237400050420250522.txt para backup
+2025-05-23 06:54:42,070 - INFO - Baixado: 0463237400069520250522.txt para -> pasta local
+2025-05-23 06:54:42,163 - INFO - Movendo 0463237400069520250522.txt para backup
+2025-05-23 06:54:42,831 - INFO - Baixado: 0463237400077620250522.txt para -> pasta local
+2025-05-23 06:54:42,925 - INFO - Movendo 0463237400077620250522.txt para backup
+2025-05-23 06:54:43,582 - INFO - Baixado: LIBERCARD_20250522000000_061956_39346861000161.txt para -> pasta local
+2025-05-23 06:54:43,677 - INFO - Movendo LIBERCARD_20250522000000_061956_39346861000161.txt para backup
+2025-05-23 06:54:44,345 - INFO - Baixado: LIBERCARD_20250522000000_061957_30721896000320.txt para -> pasta local
+2025-05-23 06:54:44,440 - INFO - Movendo LIBERCARD_20250522000000_061957_30721896000320.txt para backup
+2025-05-23 06:54:45,100 - INFO - Baixado: LIBERCARD_20250522000000_061958_16785684000114.txt para -> pasta local
+2025-05-23 06:54:45,192 - INFO - Movendo LIBERCARD_20250522000000_061958_16785684000114.txt para backup
+2025-05-23 06:54:45,856 - INFO - Baixado: LIBERCARD_20250522000000_061959_05599698000127.txt para -> pasta local
+2025-05-23 06:54:45,949 - INFO - Movendo LIBERCARD_20250522000000_061959_05599698000127.txt para backup
+2025-05-23 06:54:46,653 - INFO - Baixado: LIBERCARD_20250522000000_061960_10325989000167.txt para -> pasta local
+2025-05-23 06:54:46,858 - INFO - Movendo LIBERCARD_20250522000000_061960_10325989000167.txt para backup
+2025-05-23 06:54:47,575 - INFO - Baixado: LIBERCARD_20250522000000_061961_10366394000150.txt para -> pasta local
+2025-05-23 06:54:47,675 - INFO - Movendo LIBERCARD_20250522000000_061961_10366394000150.txt para backup
+2025-05-23 06:54:47,857 - INFO - Ignorado (não é .txt ou não é arquivo): Processados
+2025-05-23 06:54:48,046 - INFO - [chan 0] sftp session closed.
+2025-05-23 06:54:48,956 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-23 06:54:49,958 - INFO - Authentication (password) successful!
+2025-05-23 06:54:50,368 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 06:54:50,949 - INFO -  Enviado: 0018257400012820250522.txt -> SFTP BoaVista
+2025-05-23 06:54:51,084 - INFO - retirado 0018257400012820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:54:51,085 - INFO - Removido localmente: 0018257400012820250522.txt
+2025-05-23 06:54:51,630 - INFO -  Enviado: 0019520100019120250522.txt -> SFTP BoaVista
+2025-05-23 06:54:51,761 - INFO - retirado 0019520100019120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:54:51,762 - INFO - Removido localmente: 0019520100019120250522.txt
+2025-05-23 06:54:52,304 - INFO -  Enviado: 0019520100027220250522.txt -> SFTP BoaVista
+2025-05-23 06:54:52,437 - INFO - retirado 0019520100027220250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:54:52,438 - INFO - Removido localmente: 0019520100027220250522.txt
+2025-05-23 06:54:52,983 - INFO -  Enviado: 0020605800019620250522.txt -> SFTP BoaVista
+2025-05-23 06:54:53,120 - INFO - retirado 0020605800019620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:54:53,121 - INFO - Removido localmente: 0020605800019620250522.txt
+2025-05-23 06:54:53,670 - INFO -  Enviado: 0020605800035820250522.txt -> SFTP BoaVista
+2025-05-23 06:54:53,807 - INFO - retirado 0020605800035820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:54:53,809 - INFO - Removido localmente: 0020605800035820250522.txt
+2025-05-23 06:54:54,354 - INFO -  Enviado: 0030754900012320250522.txt -> SFTP BoaVista
+2025-05-23 06:54:54,490 - INFO - retirado 0030754900012320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:54:54,491 - INFO - Removido localmente: 0030754900012320250522.txt
+2025-05-23 06:54:55,043 - INFO -  Enviado: 0046743900012920250522.txt -> SFTP BoaVista
+2025-05-23 06:54:55,180 - INFO - retirado 0046743900012920250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:54:55,182 - INFO - Removido localmente: 0046743900012920250522.txt
+2025-05-23 06:54:55,727 - INFO -  Enviado: 0060241400019020250522.txt -> SFTP BoaVista
+2025-05-23 06:54:55,863 - INFO - retirado 0060241400019020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:54:55,865 - INFO - Removido localmente: 0060241400019020250522.txt
+2025-05-23 06:54:56,412 - INFO -  Enviado: 0062653000014020250522.txt -> SFTP BoaVista
+2025-05-23 06:54:56,549 - INFO - retirado 0062653000014020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:54:56,550 - INFO - Removido localmente: 0062653000014020250522.txt
+2025-05-23 06:54:57,096 - INFO -  Enviado: 0075322100013020250522.txt -> SFTP BoaVista
+2025-05-23 06:54:57,232 - INFO - retirado 0075322100013020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:54:57,233 - INFO - Removido localmente: 0075322100013020250522.txt
+2025-05-23 06:54:57,788 - INFO -  Enviado: 0094539600014020250522.txt -> SFTP BoaVista
+2025-05-23 06:54:57,927 - INFO - retirado 0094539600014020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:54:57,928 - INFO - Removido localmente: 0094539600014020250522.txt
+2025-05-23 06:54:58,487 - INFO -  Enviado: 0094539600022020250522.txt -> SFTP BoaVista
+2025-05-23 06:54:58,622 - INFO - retirado 0094539600022020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:54:58,624 - INFO - Removido localmente: 0094539600022020250522.txt
+2025-05-23 06:54:59,173 - INFO -  Enviado: 0112074100017920250522.txt -> SFTP BoaVista
+2025-05-23 06:54:59,312 - INFO - retirado 0112074100017920250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:54:59,313 - INFO - Removido localmente: 0112074100017920250522.txt
+2025-05-23 06:54:59,861 - INFO -  Enviado: 0117157500013020250522.txt -> SFTP BoaVista
+2025-05-23 06:54:59,999 - INFO - retirado 0117157500013020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:00,001 - INFO - Removido localmente: 0117157500013020250522.txt
+2025-05-23 06:55:00,552 - INFO -  Enviado: 0119460000010920250522.txt -> SFTP BoaVista
+2025-05-23 06:55:00,690 - INFO - retirado 0119460000010920250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:00,692 - INFO - Removido localmente: 0119460000010920250522.txt
+2025-05-23 06:55:01,236 - INFO -  Enviado: 0133338600011620250522.txt -> SFTP BoaVista
+2025-05-23 06:55:01,374 - INFO - retirado 0133338600011620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:01,376 - INFO - Removido localmente: 0133338600011620250522.txt
+2025-05-23 06:55:01,929 - INFO -  Enviado: 0153594100019220250522.txt -> SFTP BoaVista
+2025-05-23 06:55:02,064 - INFO - retirado 0153594100019220250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:02,066 - INFO - Removido localmente: 0153594100019220250522.txt
+2025-05-23 06:55:02,628 - INFO -  Enviado: 0153594100027320250522.txt -> SFTP BoaVista
+2025-05-23 06:55:02,765 - INFO - retirado 0153594100027320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:02,766 - INFO - Removido localmente: 0153594100027320250522.txt
+2025-05-23 06:55:03,316 - INFO -  Enviado: 0165672300010620250522.txt -> SFTP BoaVista
+2025-05-23 06:55:03,455 - INFO - retirado 0165672300010620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:03,457 - INFO - Removido localmente: 0165672300010620250522.txt
+2025-05-23 06:55:04,006 - INFO -  Enviado: 0174062700014120250522.txt -> SFTP BoaVista
+2025-05-23 06:55:04,143 - INFO - retirado 0174062700014120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:04,144 - INFO - Removido localmente: 0174062700014120250522.txt
+2025-05-23 06:55:04,701 - INFO -  Enviado: 0174625100018220250522.txt -> SFTP BoaVista
+2025-05-23 06:55:04,838 - INFO - retirado 0174625100018220250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:04,838 - INFO - Removido localmente: 0174625100018220250522.txt
+2025-05-23 06:55:05,586 - INFO -  Enviado: 0177839700010020250522.txt -> SFTP BoaVista
+2025-05-23 06:55:05,723 - INFO - retirado 0177839700010020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:05,725 - INFO - Removido localmente: 0177839700010020250522.txt
+2025-05-23 06:55:06,270 - INFO -  Enviado: 0178115400012020250522.txt -> SFTP BoaVista
+2025-05-23 06:55:06,408 - INFO - retirado 0178115400012020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:06,410 - INFO - Removido localmente: 0178115400012020250522.txt
+2025-05-23 06:55:06,966 - INFO -  Enviado: 0227420900017920250522.txt -> SFTP BoaVista
+2025-05-23 06:55:07,103 - INFO - retirado 0227420900017920250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:07,104 - INFO - Removido localmente: 0227420900017920250522.txt
+2025-05-23 06:55:07,663 - INFO -  Enviado: 0229274700019620250522.txt -> SFTP BoaVista
+2025-05-23 06:55:07,800 - INFO - retirado 0229274700019620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:07,802 - INFO - Removido localmente: 0229274700019620250522.txt
+2025-05-23 06:55:08,351 - INFO -  Enviado: 0229274700043920250522.txt -> SFTP BoaVista
+2025-05-23 06:55:08,485 - INFO - retirado 0229274700043920250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:08,487 - INFO - Removido localmente: 0229274700043920250522.txt
+2025-05-23 06:55:09,044 - INFO -  Enviado: 0256915600011320250522.txt -> SFTP BoaVista
+2025-05-23 06:55:09,181 - INFO - retirado 0256915600011320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:09,183 - INFO - Removido localmente: 0256915600011320250522.txt
+2025-05-23 06:55:09,727 - INFO -  Enviado: 0283417100014120250522.txt -> SFTP BoaVista
+2025-05-23 06:55:09,862 - INFO - retirado 0283417100014120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:09,864 - INFO - Removido localmente: 0283417100014120250522.txt
+2025-05-23 06:55:10,419 - INFO -  Enviado: 0283417100022220250522.txt -> SFTP BoaVista
+2025-05-23 06:55:10,557 - INFO - retirado 0283417100022220250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:10,558 - INFO - Removido localmente: 0283417100022220250522.txt
+2025-05-23 06:55:11,115 - INFO -  Enviado: 0283417100030320250522.txt -> SFTP BoaVista
+2025-05-23 06:55:11,250 - INFO - retirado 0283417100030320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:11,252 - INFO - Removido localmente: 0283417100030320250522.txt
+2025-05-23 06:55:11,810 - INFO -  Enviado: 0290832400015820250522.txt -> SFTP BoaVista
+2025-05-23 06:55:11,942 - INFO - retirado 0290832400015820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:11,943 - INFO - Removido localmente: 0290832400015820250522.txt
+2025-05-23 06:55:12,486 - INFO -  Enviado: 0305339500018920250522.txt -> SFTP BoaVista
+2025-05-23 06:55:12,623 - INFO - retirado 0305339500018920250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:12,625 - INFO - Removido localmente: 0305339500018920250522.txt
+2025-05-23 06:55:13,164 - INFO -  Enviado: 0305339500026020250522.txt -> SFTP BoaVista
+2025-05-23 06:55:13,300 - INFO - retirado 0305339500026020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:13,301 - INFO - Removido localmente: 0305339500026020250522.txt
+2025-05-23 06:55:13,849 - INFO -  Enviado: 0312314200013420250522.txt -> SFTP BoaVista
+2025-05-23 06:55:13,982 - INFO - retirado 0312314200013420250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:13,984 - INFO - Removido localmente: 0312314200013420250522.txt
+2025-05-23 06:55:14,534 - INFO -  Enviado: 0312314200056820250522.txt -> SFTP BoaVista
+2025-05-23 06:55:14,671 - INFO - retirado 0312314200056820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:14,673 - INFO - Removido localmente: 0312314200056820250522.txt
+2025-05-23 06:55:15,223 - INFO -  Enviado: 0312314200064920250522.txt -> SFTP BoaVista
+2025-05-23 06:55:15,360 - INFO - retirado 0312314200064920250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:15,362 - INFO - Removido localmente: 0312314200064920250522.txt
+2025-05-23 06:55:15,984 - INFO -  Enviado: 0312314200072020250522.txt -> SFTP BoaVista
+2025-05-23 06:55:16,119 - INFO - retirado 0312314200072020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:16,120 - INFO - Removido localmente: 0312314200072020250522.txt
+2025-05-23 06:55:16,668 - INFO -  Enviado: 0313555300014020250522.txt -> SFTP BoaVista
+2025-05-23 06:55:16,806 - INFO - retirado 0313555300014020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:16,808 - INFO - Removido localmente: 0313555300014020250522.txt
+2025-05-23 06:55:17,353 - INFO -  Enviado: 0331254900010020250522.txt -> SFTP BoaVista
+2025-05-23 06:55:17,489 - INFO - retirado 0331254900010020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:17,490 - INFO - Removido localmente: 0331254900010020250522.txt
+2025-05-23 06:55:18,043 - INFO -  Enviado: 0333492100018920250522.txt -> SFTP BoaVista
+2025-05-23 06:55:18,179 - INFO - retirado 0333492100018920250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:18,180 - INFO - Removido localmente: 0333492100018920250522.txt
+2025-05-23 06:55:19,134 - INFO -  Enviado: 0372088200015820250410.txt -> SFTP BoaVista
+2025-05-23 06:55:19,271 - INFO - retirado 0372088200015820250410.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:19,273 - INFO - Removido localmente: 0372088200015820250410.txt
+2025-05-23 06:55:20,701 - INFO -  Enviado: 0372088200015820250501.txt -> SFTP BoaVista
+2025-05-23 06:55:20,838 - INFO - retirado 0372088200015820250501.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:20,839 - INFO - Removido localmente: 0372088200015820250501.txt
+2025-05-23 06:55:22,445 - INFO -  Enviado: 0372088200015820250506.txt -> SFTP BoaVista
+2025-05-23 06:55:22,580 - INFO - retirado 0372088200015820250506.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:22,580 - INFO - Removido localmente: 0372088200015820250506.txt
+2025-05-23 06:55:23,599 - INFO -  Enviado: 0372088200015820250507.txt -> SFTP BoaVista
+2025-05-23 06:55:23,735 - INFO - retirado 0372088200015820250507.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:23,736 - INFO - Removido localmente: 0372088200015820250507.txt
+2025-05-23 06:55:24,675 - INFO -  Enviado: 0372088200015820250515.txt -> SFTP BoaVista
+2025-05-23 06:55:24,812 - INFO - retirado 0372088200015820250515.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:24,814 - INFO - Removido localmente: 0372088200015820250515.txt
+2025-05-23 06:55:25,548 - INFO -  Enviado: 0372088200015820250516.txt -> SFTP BoaVista
+2025-05-23 06:55:25,681 - INFO - retirado 0372088200015820250516.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:25,682 - INFO - Removido localmente: 0372088200015820250516.txt
+2025-05-23 06:55:26,377 - INFO -  Enviado: 0372088200015820250519.txt -> SFTP BoaVista
+2025-05-23 06:55:26,513 - INFO - retirado 0372088200015820250519.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:26,514 - INFO - Removido localmente: 0372088200015820250519.txt
+2025-05-23 06:55:27,193 - INFO -  Enviado: 0372088200015820250522.txt -> SFTP BoaVista
+2025-05-23 06:55:27,327 - INFO - retirado 0372088200015820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:27,328 - INFO - Removido localmente: 0372088200015820250522.txt
+2025-05-23 06:55:27,875 - INFO -  Enviado: 0378308500011020250522.txt -> SFTP BoaVista
+2025-05-23 06:55:28,009 - INFO - retirado 0378308500011020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:28,010 - INFO - Removido localmente: 0378308500011020250522.txt
+2025-05-23 06:55:28,558 - INFO -  Enviado: 0380386100010420250522.txt -> SFTP BoaVista
+2025-05-23 06:55:28,698 - INFO - retirado 0380386100010420250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:28,699 - INFO - Removido localmente: 0380386100010420250522.txt
+2025-05-23 06:55:29,244 - INFO -  Enviado: 0396321300010720250522.txt -> SFTP BoaVista
+2025-05-23 06:55:29,380 - INFO - retirado 0396321300010720250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:29,381 - INFO - Removido localmente: 0396321300010720250522.txt
+2025-05-23 06:55:29,935 - INFO -  Enviado: 0406453300019820250522.txt -> SFTP BoaVista
+2025-05-23 06:55:30,068 - INFO - retirado 0406453300019820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:30,070 - INFO - Removido localmente: 0406453300019820250522.txt
+2025-05-23 06:55:30,612 - INFO -  Enviado: 0406453300027920250522.txt -> SFTP BoaVista
+2025-05-23 06:55:30,747 - INFO - retirado 0406453300027920250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:30,747 - INFO - Removido localmente: 0406453300027920250522.txt
+2025-05-23 06:55:31,304 - INFO -  Enviado: 0406453300035020250522.txt -> SFTP BoaVista
+2025-05-23 06:55:31,438 - INFO - retirado 0406453300035020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:31,439 - INFO - Removido localmente: 0406453300035020250522.txt
+2025-05-23 06:55:31,997 - INFO -  Enviado: 0406453300043020250522.txt -> SFTP BoaVista
+2025-05-23 06:55:32,140 - INFO - retirado 0406453300043020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:32,141 - INFO - Removido localmente: 0406453300043020250522.txt
+2025-05-23 06:55:32,691 - INFO -  Enviado: 0406453300051120250522.txt -> SFTP BoaVista
+2025-05-23 06:55:32,827 - INFO - retirado 0406453300051120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:32,828 - INFO - Removido localmente: 0406453300051120250522.txt
+2025-05-23 06:55:33,377 - INFO -  Enviado: 0407895300012320250522.txt -> SFTP BoaVista
+2025-05-23 06:55:33,511 - INFO - retirado 0407895300012320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:33,511 - INFO - Removido localmente: 0407895300012320250522.txt
+2025-05-23 06:55:34,062 - INFO -  Enviado: 0410321700018820250522.txt -> SFTP BoaVista
+2025-05-23 06:55:34,195 - INFO - retirado 0410321700018820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:34,196 - INFO - Removido localmente: 0410321700018820250522.txt
+2025-05-23 06:55:34,748 - INFO -  Enviado: 0410321700034020250522.txt -> SFTP BoaVista
+2025-05-23 06:55:34,885 - INFO - retirado 0410321700034020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:34,886 - INFO - Removido localmente: 0410321700034020250522.txt
+2025-05-23 06:55:35,441 - INFO -  Enviado: 0414845300011020250522.txt -> SFTP BoaVista
+2025-05-23 06:55:35,576 - INFO - retirado 0414845300011020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:35,577 - INFO - Removido localmente: 0414845300011020250522.txt
+2025-05-23 06:55:36,127 - INFO -  Enviado: 0423469300013820250522.txt -> SFTP BoaVista
+2025-05-23 06:55:36,263 - INFO - retirado 0423469300013820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:36,264 - INFO - Removido localmente: 0423469300013820250522.txt
+2025-05-23 06:55:36,814 - INFO -  Enviado: 0423469300021920250522.txt -> SFTP BoaVista
+2025-05-23 06:55:36,950 - INFO - retirado 0423469300021920250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:36,951 - INFO - Removido localmente: 0423469300021920250522.txt
+2025-05-23 06:55:37,494 - INFO -  Enviado: 0424787200010020250522.txt -> SFTP BoaVista
+2025-05-23 06:55:37,630 - INFO - retirado 0424787200010020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:37,631 - INFO - Removido localmente: 0424787200010020250522.txt
+2025-05-23 06:55:38,179 - INFO -  Enviado: 0426490000028820250522.txt -> SFTP BoaVista
+2025-05-23 06:55:38,316 - INFO - retirado 0426490000028820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:38,317 - INFO - Removido localmente: 0426490000028820250522.txt
+2025-05-23 06:55:38,862 - INFO -  Enviado: 0431914500010020250522.txt -> SFTP BoaVista
+2025-05-23 06:55:38,997 - INFO - retirado 0431914500010020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:38,998 - INFO - Removido localmente: 0431914500010020250522.txt
+2025-05-23 06:55:39,557 - INFO -  Enviado: 0455893900012720250522.txt -> SFTP BoaVista
+2025-05-23 06:55:39,693 - INFO - retirado 0455893900012720250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:39,694 - INFO - Removido localmente: 0455893900012720250522.txt
+2025-05-23 06:55:40,254 - INFO -  Enviado: 0460116500017020250522.txt -> SFTP BoaVista
+2025-05-23 06:55:40,389 - INFO - retirado 0460116500017020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:40,390 - INFO - Removido localmente: 0460116500017020250522.txt
+2025-05-23 06:55:40,944 - INFO -  Enviado: 0463237400018020250522.txt -> SFTP BoaVista
+2025-05-23 06:55:41,079 - INFO - retirado 0463237400018020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:41,080 - INFO - Removido localmente: 0463237400018020250522.txt
+2025-05-23 06:55:41,626 - INFO -  Enviado: 0463237400026120250522.txt -> SFTP BoaVista
+2025-05-23 06:55:41,767 - INFO - retirado 0463237400026120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:41,769 - INFO - Removido localmente: 0463237400026120250522.txt
+2025-05-23 06:55:42,322 - INFO -  Enviado: 0463237400034220250522.txt -> SFTP BoaVista
+2025-05-23 06:55:42,456 - INFO - retirado 0463237400034220250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:42,457 - INFO - Removido localmente: 0463237400034220250522.txt
+2025-05-23 06:55:43,015 - INFO -  Enviado: 0463237400042320250522.txt -> SFTP BoaVista
+2025-05-23 06:55:43,150 - INFO - retirado 0463237400042320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:43,151 - INFO - Removido localmente: 0463237400042320250522.txt
+2025-05-23 06:55:43,698 - INFO -  Enviado: 0463237400050420250522.txt -> SFTP BoaVista
+2025-05-23 06:55:43,833 - INFO - retirado 0463237400050420250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:43,835 - INFO - Removido localmente: 0463237400050420250522.txt
+2025-05-23 06:55:44,384 - INFO -  Enviado: 0463237400069520250522.txt -> SFTP BoaVista
+2025-05-23 06:55:44,520 - INFO - retirado 0463237400069520250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:44,521 - INFO - Removido localmente: 0463237400069520250522.txt
+2025-05-23 06:55:45,072 - INFO -  Enviado: 0463237400077620250522.txt -> SFTP BoaVista
+2025-05-23 06:55:45,210 - INFO - retirado 0463237400077620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:45,211 - INFO - Removido localmente: 0463237400077620250522.txt
+2025-05-23 06:55:45,763 - INFO -  Enviado: 0467560400027020250522.txt -> SFTP BoaVista
+2025-05-23 06:55:45,899 - INFO - retirado 0467560400027020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:45,900 - INFO - Removido localmente: 0467560400027020250522.txt
+2025-05-23 06:55:46,460 - INFO -  Enviado: 0477807700014820250522.txt -> SFTP BoaVista
+2025-05-23 06:55:46,593 - INFO - retirado 0477807700014820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:46,594 - INFO - Removido localmente: 0477807700014820250522.txt
+2025-05-23 06:55:47,149 - INFO -  Enviado: 0478714000010220250522.txt -> SFTP BoaVista
+2025-05-23 06:55:47,284 - INFO - retirado 0478714000010220250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:47,286 - INFO - Removido localmente: 0478714000010220250522.txt
+2025-05-23 06:55:47,833 - INFO -  Enviado: 0483990000018820250522.txt -> SFTP BoaVista
+2025-05-23 06:55:47,968 - INFO - retirado 0483990000018820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:47,970 - INFO - Removido localmente: 0483990000018820250522.txt
+2025-05-23 06:55:48,537 - INFO -  Enviado: 0484270000018420250522.txt -> SFTP BoaVista
+2025-05-23 06:55:48,674 - INFO - retirado 0484270000018420250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:48,676 - INFO - Removido localmente: 0484270000018420250522.txt
+2025-05-23 06:55:49,221 - INFO -  Enviado: 0484314300011620250522.txt -> SFTP BoaVista
+2025-05-23 06:55:49,361 - INFO - retirado 0484314300011620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:49,362 - INFO - Removido localmente: 0484314300011620250522.txt
+2025-05-23 06:55:49,919 - INFO -  Enviado: 0496327000015920250522.txt -> SFTP BoaVista
+2025-05-23 06:55:50,055 - INFO - retirado 0496327000015920250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:50,057 - INFO - Removido localmente: 0496327000015920250522.txt
+2025-05-23 06:55:50,606 - INFO -  Enviado: 0496771100019020250522.txt -> SFTP BoaVista
+2025-05-23 06:55:50,743 - INFO - retirado 0496771100019020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:50,744 - INFO - Removido localmente: 0496771100019020250522.txt
+2025-05-23 06:55:51,297 - INFO -  Enviado: 0497153100018220250522.txt -> SFTP BoaVista
+2025-05-23 06:55:51,433 - INFO - retirado 0497153100018220250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:51,434 - INFO - Removido localmente: 0497153100018220250522.txt
+2025-05-23 06:55:51,988 - INFO -  Enviado: 0499552600010020250522.txt -> SFTP BoaVista
+2025-05-23 06:55:52,125 - INFO - retirado 0499552600010020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:52,126 - INFO - Removido localmente: 0499552600010020250522.txt
+2025-05-23 06:55:52,678 - INFO -  Enviado: 0502407800016020250522.txt -> SFTP BoaVista
+2025-05-23 06:55:52,814 - INFO - retirado 0502407800016020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:52,815 - INFO - Removido localmente: 0502407800016020250522.txt
+2025-05-23 06:55:53,373 - INFO -  Enviado: 0521566000010320250522.txt -> SFTP BoaVista
+2025-05-23 06:55:53,510 - INFO - retirado 0521566000010320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:53,513 - INFO - Removido localmente: 0521566000010320250522.txt
+2025-05-23 06:55:54,074 - INFO -  Enviado: 0527191500015520250522.txt -> SFTP BoaVista
+2025-05-23 06:55:54,211 - INFO - retirado 0527191500015520250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:54,213 - INFO - Removido localmente: 0527191500015520250522.txt
+2025-05-23 06:55:54,769 - INFO -  Enviado: 0533942200010020250522.txt -> SFTP BoaVista
+2025-05-23 06:55:54,905 - INFO - retirado 0533942200010020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:54,906 - INFO - Removido localmente: 0533942200010020250522.txt
+2025-05-23 06:55:55,491 - INFO -  Enviado: 0536985000018520250522.txt -> SFTP BoaVista
+2025-05-23 06:55:55,627 - INFO - retirado 0536985000018520250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:55,628 - INFO - Removido localmente: 0536985000018520250522.txt
+2025-05-23 06:55:56,194 - INFO -  Enviado: 0537791700012320250522.txt -> SFTP BoaVista
+2025-05-23 06:55:56,330 - INFO - retirado 0537791700012320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:56,331 - INFO - Removido localmente: 0537791700012320250522.txt
+2025-05-23 06:55:56,889 - INFO -  Enviado: 0537791700063820250522.txt -> SFTP BoaVista
+2025-05-23 06:55:57,024 - INFO - retirado 0537791700063820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:57,025 - INFO - Removido localmente: 0537791700063820250522.txt
+2025-05-23 06:55:57,580 - INFO -  Enviado: 0539036100010520250522.txt -> SFTP BoaVista
+2025-05-23 06:55:57,714 - INFO - retirado 0539036100010520250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:57,715 - INFO - Removido localmente: 0539036100010520250522.txt
+2025-05-23 06:55:58,256 - INFO -  Enviado: 0539653200010320250522.txt -> SFTP BoaVista
+2025-05-23 06:55:58,390 - INFO - retirado 0539653200010320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:58,391 - INFO - Removido localmente: 0539653200010320250522.txt
+2025-05-23 06:55:58,935 - INFO -  Enviado: 0541783800010720250522.txt -> SFTP BoaVista
+2025-05-23 06:55:59,069 - INFO - retirado 0541783800010720250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:59,070 - INFO - Removido localmente: 0541783800010720250522.txt
+2025-05-23 06:55:59,615 - INFO -  Enviado: 0544525600012620250522.txt -> SFTP BoaVista
+2025-05-23 06:55:59,752 - INFO - retirado 0544525600012620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:55:59,753 - INFO - Removido localmente: 0544525600012620250522.txt
+2025-05-23 06:56:00,307 - INFO -  Enviado: 0547195500014020250522.txt -> SFTP BoaVista
+2025-05-23 06:56:00,443 - INFO - retirado 0547195500014020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:00,444 - INFO - Removido localmente: 0547195500014020250522.txt
+2025-05-23 06:56:00,999 - INFO -  Enviado: 0549183600015020250522.txt -> SFTP BoaVista
+2025-05-23 06:56:01,137 - INFO - retirado 0549183600015020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:01,137 - INFO - Removido localmente: 0549183600015020250522.txt
+2025-05-23 06:56:01,685 - INFO -  Enviado: 0568637800010420250522.txt -> SFTP BoaVista
+2025-05-23 06:56:01,821 - INFO - retirado 0568637800010420250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:01,822 - INFO - Removido localmente: 0568637800010420250522.txt
+2025-05-23 06:56:02,369 - INFO -  Enviado: 0577254800017320250522.txt -> SFTP BoaVista
+2025-05-23 06:56:02,506 - INFO - retirado 0577254800017320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:02,507 - INFO - Removido localmente: 0577254800017320250522.txt
+2025-05-23 06:56:03,100 - INFO -  Enviado: 0589228200010020250522.txt -> SFTP BoaVista
+2025-05-23 06:56:03,241 - INFO - retirado 0589228200010020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:03,243 - INFO - Removido localmente: 0589228200010020250522.txt
+2025-05-23 06:56:03,864 - INFO -  Enviado: 0589228200028320250522.txt -> SFTP BoaVista
+2025-05-23 06:56:04,000 - INFO - retirado 0589228200028320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:04,001 - INFO - Removido localmente: 0589228200028320250522.txt
+2025-05-23 06:56:04,548 - INFO -  Enviado: 0589228200036420250522.txt -> SFTP BoaVista
+2025-05-23 06:56:04,689 - INFO - retirado 0589228200036420250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:04,689 - INFO - Removido localmente: 0589228200036420250522.txt
+2025-05-23 06:56:05,247 - INFO -  Enviado: 0589228200044520250522.txt -> SFTP BoaVista
+2025-05-23 06:56:05,385 - INFO - retirado 0589228200044520250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:05,386 - INFO - Removido localmente: 0589228200044520250522.txt
+2025-05-23 06:56:05,924 - INFO -  Enviado: 0592178600010120250522.txt -> SFTP BoaVista
+2025-05-23 06:56:06,060 - INFO - retirado 0592178600010120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:06,060 - INFO - Removido localmente: 0592178600010120250522.txt
+2025-05-23 06:56:06,611 - INFO -  Enviado: 0595947900010120250522.txt -> SFTP BoaVista
+2025-05-23 06:56:06,745 - INFO - retirado 0595947900010120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:06,746 - INFO - Removido localmente: 0595947900010120250522.txt
+2025-05-23 06:56:07,290 - INFO -  Enviado: 0603902800011920250522.txt -> SFTP BoaVista
+2025-05-23 06:56:07,434 - INFO - retirado 0603902800011920250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:07,435 - INFO - Removido localmente: 0603902800011920250522.txt
+2025-05-23 06:56:07,983 - INFO -  Enviado: 0603902800038020250522.txt -> SFTP BoaVista
+2025-05-23 06:56:08,119 - INFO - retirado 0603902800038020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:08,120 - INFO - Removido localmente: 0603902800038020250522.txt
+2025-05-23 06:56:08,668 - INFO -  Enviado: 0603902800046120250522.txt -> SFTP BoaVista
+2025-05-23 06:56:08,801 - INFO - retirado 0603902800046120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:08,802 - INFO - Removido localmente: 0603902800046120250522.txt
+2025-05-23 06:56:09,344 - INFO -  Enviado: 0603902800062320250522.txt -> SFTP BoaVista
+2025-05-23 06:56:09,480 - INFO - retirado 0603902800062320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:09,480 - INFO - Removido localmente: 0603902800062320250522.txt
+2025-05-23 06:56:10,048 - INFO -  Enviado: 0606592600014120250522.txt -> SFTP BoaVista
+2025-05-23 06:56:10,184 - INFO - retirado 0606592600014120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:10,185 - INFO - Removido localmente: 0606592600014120250522.txt
+2025-05-23 06:56:10,735 - INFO -  Enviado: 0616520800014720250522.txt -> SFTP BoaVista
+2025-05-23 06:56:10,869 - INFO - retirado 0616520800014720250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:10,870 - INFO - Removido localmente: 0616520800014720250522.txt
+2025-05-23 06:56:11,419 - INFO -  Enviado: 0622808300015720250522.txt -> SFTP BoaVista
+2025-05-23 06:56:11,555 - INFO - retirado 0622808300015720250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:11,556 - INFO - Removido localmente: 0622808300015720250522.txt
+2025-05-23 06:56:12,099 - INFO -  Enviado: 0625094200010420250522.txt -> SFTP BoaVista
+2025-05-23 06:56:12,235 - INFO - retirado 0625094200010420250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:12,235 - INFO - Removido localmente: 0625094200010420250522.txt
+2025-05-23 06:56:12,792 - INFO -  Enviado: 0634151200010620250522.txt -> SFTP BoaVista
+2025-05-23 06:56:12,937 - INFO - retirado 0634151200010620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:12,937 - INFO - Removido localmente: 0634151200010620250522.txt
+2025-05-23 06:56:13,492 - INFO -  Enviado: 0635194700012320250522.txt -> SFTP BoaVista
+2025-05-23 06:56:13,626 - INFO - retirado 0635194700012320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:13,627 - INFO - Removido localmente: 0635194700012320250522.txt
+2025-05-23 06:56:14,322 - INFO -  Enviado: 0688766800018920250522.txt -> SFTP BoaVista
+2025-05-23 06:56:14,456 - INFO - retirado 0688766800018920250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:14,457 - INFO - Removido localmente: 0688766800018920250522.txt
+2025-05-23 06:56:15,000 - INFO -  Enviado: 0704156900014420250522.txt -> SFTP BoaVista
+2025-05-23 06:56:15,136 - INFO - retirado 0704156900014420250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:15,137 - INFO - Removido localmente: 0704156900014420250522.txt
+2025-05-23 06:56:15,696 - INFO -  Enviado: 0711063500019020250522.txt -> SFTP BoaVista
+2025-05-23 06:56:15,830 - INFO - retirado 0711063500019020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:15,831 - INFO - Removido localmente: 0711063500019020250522.txt
+2025-05-23 06:56:16,393 - INFO -  Enviado: 0711063500027120250522.txt -> SFTP BoaVista
+2025-05-23 06:56:16,528 - INFO - retirado 0711063500027120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:16,529 - INFO - Removido localmente: 0711063500027120250522.txt
+2025-05-23 06:56:17,080 - INFO -  Enviado: 0712320700010020250522.txt -> SFTP BoaVista
+2025-05-23 06:56:17,219 - INFO - retirado 0712320700010020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:17,221 - INFO - Removido localmente: 0712320700010020250522.txt
+2025-05-23 06:56:17,766 - INFO -  Enviado: 0721314300012020250522.txt -> SFTP BoaVista
+2025-05-23 06:56:17,903 - INFO - retirado 0721314300012020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:17,904 - INFO - Removido localmente: 0721314300012020250522.txt
+2025-05-23 06:56:18,456 - INFO -  Enviado: 0721314300020120250522.txt -> SFTP BoaVista
+2025-05-23 06:56:18,593 - INFO - retirado 0721314300020120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:18,595 - INFO - Removido localmente: 0721314300020120250522.txt
+2025-05-23 06:56:19,158 - INFO -  Enviado: 0721314300047320250522.txt -> SFTP BoaVista
+2025-05-23 06:56:19,294 - INFO - retirado 0721314300047320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:19,296 - INFO - Removido localmente: 0721314300047320250522.txt
+2025-05-23 06:56:19,852 - INFO -  Enviado: 0721314300063520250522.txt -> SFTP BoaVista
+2025-05-23 06:56:19,991 - INFO - retirado 0721314300063520250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:19,993 - INFO - Removido localmente: 0721314300063520250522.txt
+2025-05-23 06:56:20,573 - INFO -  Enviado: 0724064100016220250522.txt -> SFTP BoaVista
+2025-05-23 06:56:20,710 - INFO - retirado 0724064100016220250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:20,712 - INFO - Removido localmente: 0724064100016220250522.txt
+2025-05-23 06:56:21,263 - INFO -  Enviado: 0726424500017520250522.txt -> SFTP BoaVista
+2025-05-23 06:56:21,400 - INFO - retirado 0726424500017520250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:21,401 - INFO - Removido localmente: 0726424500017520250522.txt
+2025-05-23 06:56:21,960 - INFO -  Enviado: 0729882100010320250522.txt -> SFTP BoaVista
+2025-05-23 06:56:22,098 - INFO - retirado 0729882100010320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:22,099 - INFO - Removido localmente: 0729882100010320250522.txt
+2025-05-23 06:56:22,651 - INFO -  Enviado: 0730419900035220250522.txt -> SFTP BoaVista
+2025-05-23 06:56:22,787 - INFO - retirado 0730419900035220250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:22,789 - INFO - Removido localmente: 0730419900035220250522.txt
+2025-05-23 06:56:23,342 - INFO -  Enviado: 0734278500101020250522.txt -> SFTP BoaVista
+2025-05-23 06:56:23,478 - INFO - retirado 0734278500101020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:23,479 - INFO - Removido localmente: 0734278500101020250522.txt
+2025-05-23 06:56:24,037 - INFO -  Enviado: 0742011000015120250522.txt -> SFTP BoaVista
+2025-05-23 06:56:24,175 - INFO - retirado 0742011000015120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:24,177 - INFO - Removido localmente: 0742011000015120250522.txt
+2025-05-23 06:56:24,740 - INFO -  Enviado: 0744877700016220250522.txt -> SFTP BoaVista
+2025-05-23 06:56:24,878 - INFO - retirado 0744877700016220250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:24,880 - INFO - Removido localmente: 0744877700016220250522.txt
+2025-05-23 06:56:25,442 - INFO -  Enviado: 0746747500013120250522.txt -> SFTP BoaVista
+2025-05-23 06:56:25,579 - INFO - retirado 0746747500013120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:25,581 - INFO - Removido localmente: 0746747500013120250522.txt
+2025-05-23 06:56:26,131 - INFO -  Enviado: 0767119800018420250522.txt -> SFTP BoaVista
+2025-05-23 06:56:26,267 - INFO - retirado 0767119800018420250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:26,268 - INFO - Removido localmente: 0767119800018420250522.txt
+2025-05-23 06:56:26,817 - INFO -  Enviado: 0767208200016020250522.txt -> SFTP BoaVista
+2025-05-23 06:56:26,953 - INFO - retirado 0767208200016020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:26,954 - INFO - Removido localmente: 0767208200016020250522.txt
+2025-05-23 06:56:27,498 - INFO -  Enviado: 0767208200024020250522.txt -> SFTP BoaVista
+2025-05-23 06:56:27,635 - INFO - retirado 0767208200024020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:27,636 - INFO - Removido localmente: 0767208200024020250522.txt
+2025-05-23 06:56:28,189 - INFO -  Enviado: 0770916300019720250522.txt -> SFTP BoaVista
+2025-05-23 06:56:28,325 - INFO - retirado 0770916300019720250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:28,326 - INFO - Removido localmente: 0770916300019720250522.txt
+2025-05-23 06:56:28,871 - INFO -  Enviado: 0770916300027820250522.txt -> SFTP BoaVista
+2025-05-23 06:56:29,006 - INFO - retirado 0770916300027820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:29,007 - INFO - Removido localmente: 0770916300027820250522.txt
+2025-05-23 06:56:29,556 - INFO -  Enviado: 0776837100016720250522.txt -> SFTP BoaVista
+2025-05-23 06:56:29,694 - INFO - retirado 0776837100016720250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:29,695 - INFO - Removido localmente: 0776837100016720250522.txt
+2025-05-23 06:56:30,261 - INFO -  Enviado: 0777037800011320250522.txt -> SFTP BoaVista
+2025-05-23 06:56:30,398 - INFO - retirado 0777037800011320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:30,399 - INFO - Removido localmente: 0777037800011320250522.txt
+2025-05-23 06:56:30,944 - INFO -  Enviado: 0785733200013620250522.txt -> SFTP BoaVista
+2025-05-23 06:56:31,080 - INFO - retirado 0785733200013620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:31,082 - INFO - Removido localmente: 0785733200013620250522.txt
+2025-05-23 06:56:31,633 - INFO -  Enviado: 0788511100017120250522.txt -> SFTP BoaVista
+2025-05-23 06:56:31,779 - INFO - retirado 0788511100017120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:31,780 - INFO - Removido localmente: 0788511100017120250522.txt
+2025-05-23 06:56:32,344 - INFO -  Enviado: 0814362500011420250522.txt -> SFTP BoaVista
+2025-05-23 06:56:32,479 - INFO - retirado 0814362500011420250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:32,480 - INFO - Removido localmente: 0814362500011420250522.txt
+2025-05-23 06:56:33,029 - INFO -  Enviado: 0817837500015820250522.txt -> SFTP BoaVista
+2025-05-23 06:56:33,168 - INFO - retirado 0817837500015820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:33,169 - INFO - Removido localmente: 0817837500015820250522.txt
+2025-05-23 06:56:33,755 - INFO -  Enviado: 0820786900011320250522.txt -> SFTP BoaVista
+2025-05-23 06:56:33,889 - INFO - retirado 0820786900011320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:33,890 - INFO - Removido localmente: 0820786900011320250522.txt
+2025-05-23 06:56:34,443 - INFO -  Enviado: 0820786900038520250522.txt -> SFTP BoaVista
+2025-05-23 06:56:34,582 - INFO - retirado 0820786900038520250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:34,583 - INFO - Removido localmente: 0820786900038520250522.txt
+2025-05-23 06:56:35,133 - INFO -  Enviado: 0837404700012720250522.txt -> SFTP BoaVista
+2025-05-23 06:56:35,266 - INFO - retirado 0837404700012720250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:35,267 - INFO - Removido localmente: 0837404700012720250522.txt
+2025-05-23 06:56:35,824 - INFO -  Enviado: 0851894300011220250522.txt -> SFTP BoaVista
+2025-05-23 06:56:35,960 - INFO - retirado 0851894300011220250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:35,961 - INFO - Removido localmente: 0851894300011220250522.txt
+2025-05-23 06:56:36,506 - INFO -  Enviado: 0858534800010820250522.txt -> SFTP BoaVista
+2025-05-23 06:56:36,640 - INFO - retirado 0858534800010820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:36,640 - INFO - Removido localmente: 0858534800010820250522.txt
+2025-05-23 06:56:37,210 - INFO -  Enviado: 0878139400017420250522.txt -> SFTP BoaVista
+2025-05-23 06:56:37,347 - INFO - retirado 0878139400017420250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:37,347 - INFO - Removido localmente: 0878139400017420250522.txt
+2025-05-23 06:56:37,897 - INFO -  Enviado: 0878139400025520250522.txt -> SFTP BoaVista
+2025-05-23 06:56:38,040 - INFO - retirado 0878139400025520250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:38,041 - INFO - Removido localmente: 0878139400025520250522.txt
+2025-05-23 06:56:38,588 - INFO -  Enviado: 0879865200012520250522.txt -> SFTP BoaVista
+2025-05-23 06:56:38,723 - INFO - retirado 0879865200012520250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:38,724 - INFO - Removido localmente: 0879865200012520250522.txt
+2025-05-23 06:56:39,273 - INFO -  Enviado: 0892663100014820250522.txt -> SFTP BoaVista
+2025-05-23 06:56:39,408 - INFO - retirado 0892663100014820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:39,408 - INFO - Removido localmente: 0892663100014820250522.txt
+2025-05-23 06:56:39,954 - INFO -  Enviado: 0894485100010220250522.txt -> SFTP BoaVista
+2025-05-23 06:56:40,093 - INFO - retirado 0894485100010220250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:40,093 - INFO - Removido localmente: 0894485100010220250522.txt
+2025-05-23 06:56:40,659 - INFO -  Enviado: 0918221700013420250522.txt -> SFTP BoaVista
+2025-05-23 06:56:40,795 - INFO - retirado 0918221700013420250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:40,796 - INFO - Removido localmente: 0918221700013420250522.txt
+2025-05-23 06:56:41,352 - INFO -  Enviado: 0918221700021520250522.txt -> SFTP BoaVista
+2025-05-23 06:56:41,487 - INFO - retirado 0918221700021520250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:41,488 - INFO - Removido localmente: 0918221700021520250522.txt
+2025-05-23 06:56:42,044 - INFO -  Enviado: 0921535300034520250522.txt -> SFTP BoaVista
+2025-05-23 06:56:42,187 - INFO - retirado 0921535300034520250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:42,188 - INFO - Removido localmente: 0921535300034520250522.txt
+2025-05-23 06:56:42,730 - INFO -  Enviado: 0921535300042620250522.txt -> SFTP BoaVista
+2025-05-23 06:56:42,867 - INFO - retirado 0921535300042620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:42,868 - INFO - Removido localmente: 0921535300042620250522.txt
+2025-05-23 06:56:43,436 - INFO -  Enviado: 0930502900015620250522.txt -> SFTP BoaVista
+2025-05-23 06:56:43,572 - INFO - retirado 0930502900015620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:43,573 - INFO - Removido localmente: 0930502900015620250522.txt
+2025-05-23 06:56:44,116 - INFO -  Enviado: 0933618300019520250522.txt -> SFTP BoaVista
+2025-05-23 06:56:44,251 - INFO - retirado 0933618300019520250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:44,252 - INFO - Removido localmente: 0933618300019520250522.txt
+2025-05-23 06:56:44,823 - INFO -  Enviado: 0934781800015020250522.txt -> SFTP BoaVista
+2025-05-23 06:56:44,957 - INFO - retirado 0934781800015020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:44,957 - INFO - Removido localmente: 0934781800015020250522.txt
+2025-05-23 06:56:45,506 - INFO -  Enviado: 0951761700015320250522.txt -> SFTP BoaVista
+2025-05-23 06:56:45,643 - INFO - retirado 0951761700015320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:45,644 - INFO - Removido localmente: 0951761700015320250522.txt
+2025-05-23 06:56:46,228 - INFO -  Enviado: 0951761700031520250522.txt -> SFTP BoaVista
+2025-05-23 06:56:46,366 - INFO - retirado 0951761700031520250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:46,367 - INFO - Removido localmente: 0951761700031520250522.txt
+2025-05-23 06:56:46,929 - INFO -  Enviado: 0951761700040420250522.txt -> SFTP BoaVista
+2025-05-23 06:56:47,066 - INFO - retirado 0951761700040420250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:47,066 - INFO - Removido localmente: 0951761700040420250522.txt
+2025-05-23 06:56:47,617 - INFO -  Enviado: 0951761700058720250522.txt -> SFTP BoaVista
+2025-05-23 06:56:47,762 - INFO - retirado 0951761700058720250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:47,765 - INFO - Removido localmente: 0951761700058720250522.txt
+2025-05-23 06:56:48,317 - INFO -  Enviado: 0951761700066820250522.txt -> SFTP BoaVista
+2025-05-23 06:56:48,507 - INFO - retirado 0951761700066820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:48,509 - INFO - Removido localmente: 0951761700066820250522.txt
+2025-05-23 06:56:49,072 - INFO -  Enviado: 0954025600016620250522.txt -> SFTP BoaVista
+2025-05-23 06:56:49,206 - INFO - retirado 0954025600016620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:49,207 - INFO - Removido localmente: 0954025600016620250522.txt
+2025-05-23 06:56:49,751 - INFO -  Enviado: 0963435000018420250522.txt -> SFTP BoaVista
+2025-05-23 06:56:49,886 - INFO - retirado 0963435000018420250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:49,887 - INFO - Removido localmente: 0963435000018420250522.txt
+2025-05-23 06:56:50,586 - INFO -  Enviado: 1018831500016820250522.txt -> SFTP BoaVista
+2025-05-23 06:56:50,724 - INFO - retirado 1018831500016820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:50,725 - INFO - Removido localmente: 1018831500016820250522.txt
+2025-05-23 06:56:51,271 - INFO -  Enviado: 1023788800013420250522.txt -> SFTP BoaVista
+2025-05-23 06:56:51,413 - INFO - retirado 1023788800013420250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:51,414 - INFO - Removido localmente: 1023788800013420250522.txt
+2025-05-23 06:56:51,963 - INFO -  Enviado: 1023788800021520250522.txt -> SFTP BoaVista
+2025-05-23 06:56:52,099 - INFO - retirado 1023788800021520250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:52,101 - INFO - Removido localmente: 1023788800021520250522.txt
+2025-05-23 06:56:52,655 - INFO -  Enviado: 1023804200011920250522.txt -> SFTP BoaVista
+2025-05-23 06:56:52,792 - INFO - retirado 1023804200011920250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:52,793 - INFO - Removido localmente: 1023804200011920250522.txt
+2025-05-23 06:56:53,338 - INFO -  Enviado: 1026417000013720250522.txt -> SFTP BoaVista
+2025-05-23 06:56:53,474 - INFO - retirado 1026417000013720250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:53,476 - INFO - Removido localmente: 1026417000013720250522.txt
+2025-05-23 06:56:54,026 - INFO -  Enviado: 1030633400014120250522.txt -> SFTP BoaVista
+2025-05-23 06:56:54,160 - INFO - retirado 1030633400014120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:54,161 - INFO - Removido localmente: 1030633400014120250522.txt
+2025-05-23 06:56:54,706 - INFO -  Enviado: 1031901400012620250522.txt -> SFTP BoaVista
+2025-05-23 06:56:54,840 - INFO - retirado 1031901400012620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:54,842 - INFO - Removido localmente: 1031901400012620250522.txt
+2025-05-23 06:56:55,399 - INFO -  Enviado: 1032873900018020250522.txt -> SFTP BoaVista
+2025-05-23 06:56:55,535 - INFO - retirado 1032873900018020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:55,536 - INFO - Removido localmente: 1032873900018020250522.txt
+2025-05-23 06:56:56,086 - INFO -  Enviado: 1036209500014720250522.txt -> SFTP BoaVista
+2025-05-23 06:56:56,240 - INFO - retirado 1036209500014720250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:56,241 - INFO - Removido localmente: 1036209500014720250522.txt
+2025-05-23 06:56:56,786 - INFO -  Enviado: 1037125600016920250522.txt -> SFTP BoaVista
+2025-05-23 06:56:56,922 - INFO - retirado 1037125600016920250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:56,923 - INFO - Removido localmente: 1037125600016920250522.txt
+2025-05-23 06:56:57,499 - INFO -  Enviado: 1038681100012620250522.txt -> SFTP BoaVista
+2025-05-23 06:56:57,652 - INFO - retirado 1038681100012620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:57,654 - INFO - Removido localmente: 1038681100012620250522.txt
+2025-05-23 06:56:58,198 - INFO -  Enviado: 1039579500013820250522.txt -> SFTP BoaVista
+2025-05-23 06:56:58,333 - INFO - retirado 1039579500013820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:58,334 - INFO - Removido localmente: 1039579500013820250522.txt
+2025-05-23 06:56:58,894 - INFO -  Enviado: 1047869100019720250522.txt -> SFTP BoaVista
+2025-05-23 06:56:59,034 - INFO - retirado 1047869100019720250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:59,035 - INFO - Removido localmente: 1047869100019720250522.txt
+2025-05-23 06:56:59,585 - INFO -  Enviado: 1051654200017520250522.txt -> SFTP BoaVista
+2025-05-23 06:56:59,724 - INFO - retirado 1051654200017520250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:56:59,726 - INFO - Removido localmente: 1051654200017520250522.txt
+2025-05-23 06:57:00,277 - INFO -  Enviado: 1066489300012320250522.txt -> SFTP BoaVista
+2025-05-23 06:57:00,414 - INFO - retirado 1066489300012320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:00,416 - INFO - Removido localmente: 1066489300012320250522.txt
+2025-05-23 06:57:00,969 - INFO -  Enviado: 1067890900015720250522.txt -> SFTP BoaVista
+2025-05-23 06:57:01,108 - INFO - retirado 1067890900015720250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:01,109 - INFO - Removido localmente: 1067890900015720250522.txt
+2025-05-23 06:57:01,834 - INFO -  Enviado: 1075718700012620250522.txt -> SFTP BoaVista
+2025-05-23 06:57:01,974 - INFO - retirado 1075718700012620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:01,977 - INFO - Removido localmente: 1075718700012620250522.txt
+2025-05-23 06:57:02,535 - INFO -  Enviado: 1096208300015320250522.txt -> SFTP BoaVista
+2025-05-23 06:57:02,672 - INFO - retirado 1096208300015320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:02,674 - INFO - Removido localmente: 1096208300015320250522.txt
+2025-05-23 06:57:03,232 - INFO -  Enviado: 1100668700019920250522.txt -> SFTP BoaVista
+2025-05-23 06:57:03,366 - INFO - retirado 1100668700019920250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:03,368 - INFO - Removido localmente: 1100668700019920250522.txt
+2025-05-23 06:57:03,918 - INFO -  Enviado: 1114565900015220250522.txt -> SFTP BoaVista
+2025-05-23 06:57:04,053 - INFO - retirado 1114565900015220250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:04,055 - INFO - Removido localmente: 1114565900015220250522.txt
+2025-05-23 06:57:04,618 - INFO -  Enviado: 1118672700012120250522.txt -> SFTP BoaVista
+2025-05-23 06:57:04,755 - INFO - retirado 1118672700012120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:04,756 - INFO - Removido localmente: 1118672700012120250522.txt
+2025-05-23 06:57:05,326 - INFO -  Enviado: 1132256500010120250522.txt -> SFTP BoaVista
+2025-05-23 06:57:05,464 - INFO - retirado 1132256500010120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:05,465 - INFO - Removido localmente: 1132256500010120250522.txt
+2025-05-23 06:57:06,008 - INFO -  Enviado: 1144486200012020250522.txt -> SFTP BoaVista
+2025-05-23 06:57:06,143 - INFO - retirado 1144486200012020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:06,144 - INFO - Removido localmente: 1144486200012020250522.txt
+2025-05-23 06:57:06,693 - INFO -  Enviado: 1172857500014120250522.txt -> SFTP BoaVista
+2025-05-23 06:57:06,830 - INFO - retirado 1172857500014120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:06,832 - INFO - Removido localmente: 1172857500014120250522.txt
+2025-05-23 06:57:07,386 - INFO -  Enviado: 1180539700010520250522.txt -> SFTP BoaVista
+2025-05-23 06:57:07,522 - INFO - retirado 1180539700010520250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:07,524 - INFO - Removido localmente: 1180539700010520250522.txt
+2025-05-23 06:57:08,076 - INFO -  Enviado: 1181206200011420250522.txt -> SFTP BoaVista
+2025-05-23 06:57:08,215 - INFO - retirado 1181206200011420250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:08,216 - INFO - Removido localmente: 1181206200011420250522.txt
+2025-05-23 06:57:08,771 - INFO -  Enviado: 1193884600019320250522.txt -> SFTP BoaVista
+2025-05-23 06:57:08,910 - INFO - retirado 1193884600019320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:08,912 - INFO - Removido localmente: 1193884600019320250522.txt
+2025-05-23 06:57:09,463 - INFO -  Enviado: 1199280900016320250522.txt -> SFTP BoaVista
+2025-05-23 06:57:09,605 - INFO - retirado 1199280900016320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:09,606 - INFO - Removido localmente: 1199280900016320250522.txt
+2025-05-23 06:57:10,155 - INFO -  Enviado: 1227312400020020250522.txt -> SFTP BoaVista
+2025-05-23 06:57:10,292 - INFO - retirado 1227312400020020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:10,294 - INFO - Removido localmente: 1227312400020020250522.txt
+2025-05-23 06:57:10,858 - INFO -  Enviado: 1233810900011220250522.txt -> SFTP BoaVista
+2025-05-23 06:57:11,001 - INFO - retirado 1233810900011220250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:11,002 - INFO - Removido localmente: 1233810900011220250522.txt
+2025-05-23 06:57:11,550 - INFO -  Enviado: 1335272100010220250522.txt -> SFTP BoaVista
+2025-05-23 06:57:11,684 - INFO - retirado 1335272100010220250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:11,685 - INFO - Removido localmente: 1335272100010220250522.txt
+2025-05-23 06:57:12,275 - INFO -  Enviado: 1371115900016620250522.txt -> SFTP BoaVista
+2025-05-23 06:57:12,413 - INFO - retirado 1371115900016620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:12,413 - INFO - Removido localmente: 1371115900016620250522.txt
+2025-05-23 06:57:12,964 - INFO -  Enviado: 1371115900040920250522.txt -> SFTP BoaVista
+2025-05-23 06:57:13,098 - INFO - retirado 1371115900040920250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:13,099 - INFO - Removido localmente: 1371115900040920250522.txt
+2025-05-23 06:57:13,675 - INFO -  Enviado: 1400066100012120250522.txt -> SFTP BoaVista
+2025-05-23 06:57:13,812 - INFO - retirado 1400066100012120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:13,814 - INFO - Removido localmente: 1400066100012120250522.txt
+2025-05-23 06:57:14,367 - INFO -  Enviado: 1437880100010820250522.txt -> SFTP BoaVista
+2025-05-23 06:57:14,504 - INFO - retirado 1437880100010820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:14,505 - INFO - Removido localmente: 1437880100010820250522.txt
+2025-05-23 06:57:15,060 - INFO -  Enviado: 1450778600014220250522.txt -> SFTP BoaVista
+2025-05-23 06:57:15,197 - INFO - retirado 1450778600014220250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:15,199 - INFO - Removido localmente: 1450778600014220250522.txt
+2025-05-23 06:57:15,754 - INFO -  Enviado: 1466535700010120250522.txt -> SFTP BoaVista
+2025-05-23 06:57:15,889 - INFO - retirado 1466535700010120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:15,890 - INFO - Removido localmente: 1466535700010120250522.txt
+2025-05-23 06:57:16,441 - INFO -  Enviado: 1469244800012820250522.txt -> SFTP BoaVista
+2025-05-23 06:57:16,577 - INFO - retirado 1469244800012820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:16,578 - INFO - Removido localmente: 1469244800012820250522.txt
+2025-05-23 06:57:17,124 - INFO -  Enviado: 1471238700011320250522.txt -> SFTP BoaVista
+2025-05-23 06:57:17,261 - INFO - retirado 1471238700011320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:17,262 - INFO - Removido localmente: 1471238700011320250522.txt
+2025-05-23 06:57:17,814 - INFO -  Enviado: 1484325500012020250522.txt -> SFTP BoaVista
+2025-05-23 06:57:17,954 - INFO - retirado 1484325500012020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:17,955 - INFO - Removido localmente: 1484325500012020250522.txt
+2025-05-23 06:57:18,503 - INFO -  Enviado: 1496691400011620250522.txt -> SFTP BoaVista
+2025-05-23 06:57:18,641 - INFO - retirado 1496691400011620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:18,642 - INFO - Removido localmente: 1496691400011620250522.txt
+2025-05-23 06:57:19,197 - INFO -  Enviado: 1519975100015620250522.txt -> SFTP BoaVista
+2025-05-23 06:57:19,335 - INFO - retirado 1519975100015620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:19,337 - INFO - Removido localmente: 1519975100015620250522.txt
+2025-05-23 06:57:19,891 - INFO -  Enviado: 1519975100040720250522.txt -> SFTP BoaVista
+2025-05-23 06:57:20,029 - INFO - retirado 1519975100040720250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:20,031 - INFO - Removido localmente: 1519975100040720250522.txt
+2025-05-23 06:57:20,579 - INFO -  Enviado: 1576282900010720250522.txt -> SFTP BoaVista
+2025-05-23 06:57:20,713 - INFO - retirado 1576282900010720250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:20,713 - INFO - Removido localmente: 1576282900010720250522.txt
+2025-05-23 06:57:21,278 - INFO -  Enviado: 1652640000017520250522.txt -> SFTP BoaVista
+2025-05-23 06:57:21,412 - INFO - retirado 1652640000017520250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:21,413 - INFO - Removido localmente: 1652640000017520250522.txt
+2025-05-23 06:57:21,966 - INFO -  Enviado: 1657891700010820250522.txt -> SFTP BoaVista
+2025-05-23 06:57:22,104 - INFO - retirado 1657891700010820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:22,105 - INFO - Removido localmente: 1657891700010820250522.txt
+2025-05-23 06:57:22,680 - INFO -  Enviado: 1711879400019520250522.txt -> SFTP BoaVista
+2025-05-23 06:57:22,819 - INFO - retirado 1711879400019520250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:22,821 - INFO - Removido localmente: 1711879400019520250522.txt
+2025-05-23 06:57:23,369 - INFO -  Enviado: 1833915400017820250522.txt -> SFTP BoaVista
+2025-05-23 06:57:23,505 - INFO - retirado 1833915400017820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:23,507 - INFO - Removido localmente: 1833915400017820250522.txt
+2025-05-23 06:57:24,078 - INFO -  Enviado: 1888559600011020250522.txt -> SFTP BoaVista
+2025-05-23 06:57:24,216 - INFO - retirado 1888559600011020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:24,217 - INFO - Removido localmente: 1888559600011020250522.txt
+2025-05-23 06:57:24,779 - INFO -  Enviado: 1891534300014120250522.txt -> SFTP BoaVista
+2025-05-23 06:57:24,916 - INFO - retirado 1891534300014120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:24,916 - INFO - Removido localmente: 1891534300014120250522.txt
+2025-05-23 06:57:25,470 - INFO -  Enviado: 1915906700010020250522.txt -> SFTP BoaVista
+2025-05-23 06:57:25,606 - INFO - retirado 1915906700010020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:25,607 - INFO - Removido localmente: 1915906700010020250522.txt
+2025-05-23 06:57:26,151 - INFO -  Enviado: 1933297500014520250522.txt -> SFTP BoaVista
+2025-05-23 06:57:26,287 - INFO - retirado 1933297500014520250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:26,289 - INFO - Removido localmente: 1933297500014520250522.txt
+2025-05-23 06:57:26,839 - INFO -  Enviado: 2077189800010920250522.txt -> SFTP BoaVista
+2025-05-23 06:57:26,977 - INFO - retirado 2077189800010920250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:26,978 - INFO - Removido localmente: 2077189800010920250522.txt
+2025-05-23 06:57:27,530 - INFO -  Enviado: 2093621200019220250522.txt -> SFTP BoaVista
+2025-05-23 06:57:27,667 - INFO - retirado 2093621200019220250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:27,669 - INFO - Removido localmente: 2093621200019220250522.txt
+2025-05-23 06:57:28,223 - INFO -  Enviado: 2093621200027320250522.txt -> SFTP BoaVista
+2025-05-23 06:57:28,362 - INFO - retirado 2093621200027320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:28,363 - INFO - Removido localmente: 2093621200027320250522.txt
+2025-05-23 06:57:28,906 - INFO -  Enviado: 2093621200043520250522.txt -> SFTP BoaVista
+2025-05-23 06:57:29,046 - INFO - retirado 2093621200043520250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:29,048 - INFO - Removido localmente: 2093621200043520250522.txt
+2025-05-23 06:57:29,625 - INFO -  Enviado: 2109476900019620250522.txt -> SFTP BoaVista
+2025-05-23 06:57:29,763 - INFO - retirado 2109476900019620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:29,764 - INFO - Removido localmente: 2109476900019620250522.txt
+2025-05-23 06:57:30,328 - INFO -  Enviado: 2109476900027720250522.txt -> SFTP BoaVista
+2025-05-23 06:57:30,466 - INFO - retirado 2109476900027720250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:30,468 - INFO - Removido localmente: 2109476900027720250522.txt
+2025-05-23 06:57:31,022 - INFO -  Enviado: 2152271400013020250522.txt -> SFTP BoaVista
+2025-05-23 06:57:31,163 - INFO - retirado 2152271400013020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:31,164 - INFO - Removido localmente: 2152271400013020250522.txt
+2025-05-23 06:57:31,727 - INFO -  Enviado: 2152271400021020250522.txt -> SFTP BoaVista
+2025-05-23 06:57:31,863 - INFO - retirado 2152271400021020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:31,865 - INFO - Removido localmente: 2152271400021020250522.txt
+2025-05-23 06:57:32,427 - INFO -  Enviado: 2152271400030020250522.txt -> SFTP BoaVista
+2025-05-23 06:57:32,564 - INFO - retirado 2152271400030020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:32,566 - INFO - Removido localmente: 2152271400030020250522.txt
+2025-05-23 06:57:33,134 - INFO -  Enviado: 2152271400056320250522.txt -> SFTP BoaVista
+2025-05-23 06:57:33,273 - INFO - retirado 2152271400056320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:33,275 - INFO - Removido localmente: 2152271400056320250522.txt
+2025-05-23 06:57:33,828 - INFO -  Enviado: 2170148400017620250522.txt -> SFTP BoaVista
+2025-05-23 06:57:33,968 - INFO - retirado 2170148400017620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:33,970 - INFO - Removido localmente: 2170148400017620250522.txt
+2025-05-23 06:57:34,529 - INFO -  Enviado: 2188694300013320250522.txt -> SFTP BoaVista
+2025-05-23 06:57:34,666 - INFO - retirado 2188694300013320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:34,668 - INFO - Removido localmente: 2188694300013320250522.txt
+2025-05-23 06:57:35,220 - INFO -  Enviado: 2213363400015520250522.txt -> SFTP BoaVista
+2025-05-23 06:57:35,360 - INFO - retirado 2213363400015520250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:35,362 - INFO - Removido localmente: 2213363400015520250522.txt
+2025-05-23 06:57:35,916 - INFO -  Enviado: 2217048500010220250522.txt -> SFTP BoaVista
+2025-05-23 06:57:36,055 - INFO - retirado 2217048500010220250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:36,056 - INFO - Removido localmente: 2217048500010220250522.txt
+2025-05-23 06:57:36,612 - INFO -  Enviado: 2221672000012120250522.txt -> SFTP BoaVista
+2025-05-23 06:57:36,749 - INFO - retirado 2221672000012120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:36,750 - INFO - Removido localmente: 2221672000012120250522.txt
+2025-05-23 06:57:37,301 - INFO -  Enviado: 2242364600011420250522.txt -> SFTP BoaVista
+2025-05-23 06:57:37,438 - INFO - retirado 2242364600011420250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:37,438 - INFO - Removido localmente: 2242364600011420250522.txt
+2025-05-23 06:57:37,989 - INFO -  Enviado: 2242958800013620250522.txt -> SFTP BoaVista
+2025-05-23 06:57:38,125 - INFO - retirado 2242958800013620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:38,126 - INFO - Removido localmente: 2242958800013620250522.txt
+2025-05-23 06:57:38,676 - INFO -  Enviado: 2271336800013020250522.txt -> SFTP BoaVista
+2025-05-23 06:57:38,812 - INFO - retirado 2271336800013020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:38,813 - INFO - Removido localmente: 2271336800013020250522.txt
+2025-05-23 06:57:39,373 - INFO -  Enviado: 2279957600010120250522.txt -> SFTP BoaVista
+2025-05-23 06:57:39,510 - INFO - retirado 2279957600010120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:39,512 - INFO - Removido localmente: 2279957600010120250522.txt
+2025-05-23 06:57:40,062 - INFO -  Enviado: 2321109300010720250522.txt -> SFTP BoaVista
+2025-05-23 06:57:40,201 - INFO - retirado 2321109300010720250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:40,202 - INFO - Removido localmente: 2321109300010720250522.txt
+2025-05-23 06:57:40,753 - INFO -  Enviado: 2347323600014020250522.txt -> SFTP BoaVista
+2025-05-23 06:57:40,892 - INFO - retirado 2347323600014020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:40,893 - INFO - Removido localmente: 2347323600014020250522.txt
+2025-05-23 06:57:41,443 - INFO -  Enviado: 2347323600022120250522.txt -> SFTP BoaVista
+2025-05-23 06:57:41,581 - INFO - retirado 2347323600022120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:41,582 - INFO - Removido localmente: 2347323600022120250522.txt
+2025-05-23 06:57:42,142 - INFO -  Enviado: 2354429900014020250522.txt -> SFTP BoaVista
+2025-05-23 06:57:42,280 - INFO - retirado 2354429900014020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:42,282 - INFO - Removido localmente: 2354429900014020250522.txt
+2025-05-23 06:57:42,839 - INFO -  Enviado: 2360299300017720250522.txt -> SFTP BoaVista
+2025-05-23 06:57:42,976 - INFO - retirado 2360299300017720250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:42,978 - INFO - Removido localmente: 2360299300017720250522.txt
+2025-05-23 06:57:43,558 - INFO -  Enviado: 2370871200016520250522.txt -> SFTP BoaVista
+2025-05-23 06:57:43,692 - INFO - retirado 2370871200016520250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:43,694 - INFO - Removido localmente: 2370871200016520250522.txt
+2025-05-23 06:57:44,247 - INFO -  Enviado: 2395778700018020250522.txt -> SFTP BoaVista
+2025-05-23 06:57:44,385 - INFO - retirado 2395778700018020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:44,387 - INFO - Removido localmente: 2395778700018020250522.txt
+2025-05-23 06:57:44,947 - INFO -  Enviado: 2395778700034120250522.txt -> SFTP BoaVista
+2025-05-23 06:57:45,087 - INFO - retirado 2395778700034120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:45,088 - INFO - Removido localmente: 2395778700034120250522.txt
+2025-05-23 06:57:45,641 - INFO -  Enviado: 2395778700042220250522.txt -> SFTP BoaVista
+2025-05-23 06:57:45,779 - INFO - retirado 2395778700042220250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:45,781 - INFO - Removido localmente: 2395778700042220250522.txt
+2025-05-23 06:57:46,344 - INFO -  Enviado: 2395778700050320250522.txt -> SFTP BoaVista
+2025-05-23 06:57:46,481 - INFO - retirado 2395778700050320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:46,482 - INFO - Removido localmente: 2395778700050320250522.txt
+2025-05-23 06:57:47,031 - INFO -  Enviado: 2409599800011320250522.txt -> SFTP BoaVista
+2025-05-23 06:57:47,168 - INFO - retirado 2409599800011320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:47,169 - INFO - Removido localmente: 2409599800011320250522.txt
+2025-05-23 06:57:47,720 - INFO -  Enviado: 2422108900018420250522.txt -> SFTP BoaVista
+2025-05-23 06:57:47,859 - INFO - retirado 2422108900018420250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:47,860 - INFO - Removido localmente: 2422108900018420250522.txt
+2025-05-23 06:57:48,419 - INFO -  Enviado: 2462699700015820250522.txt -> SFTP BoaVista
+2025-05-23 06:57:48,559 - INFO - retirado 2462699700015820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:48,560 - INFO - Removido localmente: 2462699700015820250522.txt
+2025-05-23 06:57:49,115 - INFO -  Enviado: 2483110500015020250522.txt -> SFTP BoaVista
+2025-05-23 06:57:49,253 - INFO - retirado 2483110500015020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:49,255 - INFO - Removido localmente: 2483110500015020250522.txt
+2025-05-23 06:57:49,813 - INFO -  Enviado: 2509271500014220250522.txt -> SFTP BoaVista
+2025-05-23 06:57:49,949 - INFO - retirado 2509271500014220250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:49,950 - INFO - Removido localmente: 2509271500014220250522.txt
+2025-05-23 06:57:50,500 - INFO -  Enviado: 2614668500017220250522.txt -> SFTP BoaVista
+2025-05-23 06:57:50,639 - INFO - retirado 2614668500017220250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:50,640 - INFO - Removido localmente: 2614668500017220250522.txt
+2025-05-23 06:57:51,194 - INFO -  Enviado: 2615837900015620250522.txt -> SFTP BoaVista
+2025-05-23 06:57:51,332 - INFO - retirado 2615837900015620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:51,333 - INFO - Removido localmente: 2615837900015620250522.txt
+2025-05-23 06:57:51,895 - INFO -  Enviado: 2653577100017720250522.txt -> SFTP BoaVista
+2025-05-23 06:57:52,041 - INFO - retirado 2653577100017720250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:52,041 - INFO - Removido localmente: 2653577100017720250522.txt
+2025-05-23 06:57:52,586 - INFO -  Enviado: 2653580200019020250522.txt -> SFTP BoaVista
+2025-05-23 06:57:52,724 - INFO - retirado 2653580200019020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:52,725 - INFO - Removido localmente: 2653580200019020250522.txt
+2025-05-23 06:57:53,285 - INFO -  Enviado: 2654149500015020250522.txt -> SFTP BoaVista
+2025-05-23 06:57:53,420 - INFO - retirado 2654149500015020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:53,423 - INFO - Removido localmente: 2654149500015020250522.txt
+2025-05-23 06:57:53,985 - INFO -  Enviado: 2664358600010420250522.txt -> SFTP BoaVista
+2025-05-23 06:57:54,124 - INFO - retirado 2664358600010420250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:54,124 - INFO - Removido localmente: 2664358600010420250522.txt
+2025-05-23 06:57:54,678 - INFO -  Enviado: 2675288200013520250522.txt -> SFTP BoaVista
+2025-05-23 06:57:54,818 - INFO - retirado 2675288200013520250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:54,819 - INFO - Removido localmente: 2675288200013520250522.txt
+2025-05-23 06:57:55,378 - INFO -  Enviado: 2695961600018820250522.txt -> SFTP BoaVista
+2025-05-23 06:57:55,515 - INFO - retirado 2695961600018820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:55,517 - INFO - Removido localmente: 2695961600018820250522.txt
+2025-05-23 06:57:56,090 - INFO -  Enviado: 2764316100015020250522.txt -> SFTP BoaVista
+2025-05-23 06:57:56,229 - INFO - retirado 2764316100015020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:56,231 - INFO - Removido localmente: 2764316100015020250522.txt
+2025-05-23 06:57:56,789 - INFO -  Enviado: 2816207200015420250522.txt -> SFTP BoaVista
+2025-05-23 06:57:56,926 - INFO - retirado 2816207200015420250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:56,927 - INFO - Removido localmente: 2816207200015420250522.txt
+2025-05-23 06:57:57,488 - INFO -  Enviado: 2886160800012020250522.txt -> SFTP BoaVista
+2025-05-23 06:57:57,627 - INFO - retirado 2886160800012020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:57,628 - INFO - Removido localmente: 2886160800012020250522.txt
+2025-05-23 06:57:58,187 - INFO -  Enviado: 2914220200015020250522.txt -> SFTP BoaVista
+2025-05-23 06:57:58,323 - INFO - retirado 2914220200015020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:58,325 - INFO - Removido localmente: 2914220200015020250522.txt
+2025-05-23 06:57:58,884 - INFO -  Enviado: 2923758700013920250522.txt -> SFTP BoaVista
+2025-05-23 06:57:59,019 - INFO - retirado 2923758700013920250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:59,020 - INFO - Removido localmente: 2923758700013920250522.txt
+2025-05-23 06:57:59,581 - INFO -  Enviado: 3066725800010720250522.txt -> SFTP BoaVista
+2025-05-23 06:57:59,716 - INFO - retirado 3066725800010720250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:57:59,717 - INFO - Removido localmente: 3066725800010720250522.txt
+2025-05-23 06:58:00,258 - INFO -  Enviado: 3073795000016420250522.txt -> SFTP BoaVista
+2025-05-23 06:58:00,393 - INFO - retirado 3073795000016420250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:58:00,394 - INFO - Removido localmente: 3073795000016420250522.txt
+2025-05-23 06:58:00,936 - INFO -  Enviado: 3087255700018320250522.txt -> SFTP BoaVista
+2025-05-23 06:58:01,073 - INFO - retirado 3087255700018320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:58:01,075 - INFO - Removido localmente: 3087255700018320250522.txt
+2025-05-23 06:58:01,617 - INFO -  Enviado: 3121818500013920250522.txt -> SFTP BoaVista
+2025-05-23 06:58:01,750 - INFO - retirado 3121818500013920250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:58:01,751 - INFO - Removido localmente: 3121818500013920250522.txt
+2025-05-23 06:58:02,324 - INFO -  Enviado: 3191877100019620250522.txt -> SFTP BoaVista
+2025-05-23 06:58:02,462 - INFO - retirado 3191877100019620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:58:02,463 - INFO - Removido localmente: 3191877100019620250522.txt
+2025-05-23 06:58:03,019 - INFO -  Enviado: 3218798900018020250522.txt -> SFTP BoaVista
+2025-05-23 06:58:03,154 - INFO - retirado 3218798900018020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:58:03,155 - INFO - Removido localmente: 3218798900018020250522.txt
+2025-05-23 06:58:03,708 - INFO -  Enviado: 3376492100018020250522.txt -> SFTP BoaVista
+2025-05-23 06:58:03,844 - INFO - retirado 3376492100018020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:58:03,845 - INFO - Removido localmente: 3376492100018020250522.txt
+2025-05-23 06:58:04,393 - INFO -  Enviado: 3523320400015720250522.txt -> SFTP BoaVista
+2025-05-23 06:58:04,534 - INFO - retirado 3523320400015720250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:58:04,535 - INFO - Removido localmente: 3523320400015720250522.txt
+2025-05-23 06:58:05,104 - INFO -  Enviado: 4106511600019620250522.txt -> SFTP BoaVista
+2025-05-23 06:58:05,272 - INFO - retirado 4106511600019620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:58:05,273 - INFO - Removido localmente: 4106511600019620250522.txt
+2025-05-23 06:58:05,904 - INFO -  Enviado: 4141601700010120250522.txt -> SFTP BoaVista
+2025-05-23 06:58:06,045 - INFO - retirado 4141601700010120250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:58:06,046 - INFO - Removido localmente: 4141601700010120250522.txt
+2025-05-23 06:58:06,615 - INFO -  Enviado: 4144927300010320250522.txt -> SFTP BoaVista
+2025-05-23 06:58:06,752 - INFO - retirado 4144927300010320250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:58:06,753 - INFO - Removido localmente: 4144927300010320250522.txt
+2025-05-23 06:58:07,326 - INFO -  Enviado: 4155345400017720250522.txt -> SFTP BoaVista
+2025-05-23 06:58:07,463 - INFO - retirado 4155345400017720250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:58:07,464 - INFO - Removido localmente: 4155345400017720250522.txt
+2025-05-23 06:58:08,028 - INFO -  Enviado: 4156676100019220250522.txt -> SFTP BoaVista
+2025-05-23 06:58:08,175 - INFO - retirado 4156676100019220250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:58:08,177 - INFO - Removido localmente: 4156676100019220250522.txt
+2025-05-23 06:58:08,727 - INFO -  Enviado: 4156757900015620250522.txt -> SFTP BoaVista
+2025-05-23 06:58:08,863 - INFO - retirado 4156757900015620250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:58:08,864 - INFO - Removido localmente: 4156757900015620250522.txt
+2025-05-23 06:58:09,409 - INFO -  Enviado: 4750387000014720250522.txt -> SFTP BoaVista
+2025-05-23 06:58:09,547 - INFO - retirado 4750387000014720250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:58:09,549 - INFO - Removido localmente: 4750387000014720250522.txt
+2025-05-23 06:58:10,091 - INFO -  Enviado: 4750387000022820250522.txt -> SFTP BoaVista
+2025-05-23 06:58:10,248 - INFO - retirado 4750387000022820250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:58:10,249 - INFO - Removido localmente: 4750387000022820250522.txt
+2025-05-23 06:58:10,815 - INFO -  Enviado: 4750387000030920250522.txt -> SFTP BoaVista
+2025-05-23 06:58:10,956 - INFO - retirado 4750387000030920250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:58:10,957 - INFO - Removido localmente: 4750387000030920250522.txt
+2025-05-23 06:58:11,545 - INFO -  Enviado: 4750387000049020250522.txt -> SFTP BoaVista
+2025-05-23 06:58:11,682 - INFO - retirado 4750387000049020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:58:11,683 - INFO - Removido localmente: 4750387000049020250522.txt
+2025-05-23 06:58:12,246 - INFO -  Enviado: 6340166500012720250522.txt -> SFTP BoaVista
+2025-05-23 06:58:12,385 - INFO - retirado 6340166500012720250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:58:12,386 - INFO - Removido localmente: 6340166500012720250522.txt
+2025-05-23 06:58:12,950 - INFO -  Enviado: 7031510600016020250522.txt -> SFTP BoaVista
+2025-05-23 06:58:13,086 - INFO - retirado 7031510600016020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:58:13,088 - INFO - Removido localmente: 7031510600016020250522.txt
+2025-05-23 06:58:13,634 - INFO -  Enviado: 7253713700019020250522.txt -> SFTP BoaVista
+2025-05-23 06:58:13,769 - INFO - retirado 7253713700019020250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:58:13,770 - INFO - Removido localmente: 7253713700019020250522.txt
+2025-05-23 06:58:14,329 - INFO -  Enviado: 7377006700018920250522.txt -> SFTP BoaVista
+2025-05-23 06:58:14,467 - INFO - retirado 7377006700018920250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:58:14,469 - INFO - Removido localmente: 7377006700018920250522.txt
+2025-05-23 06:58:15,028 - INFO -  Enviado: 7380714100019420250522.txt -> SFTP BoaVista
+2025-05-23 06:58:15,166 - INFO - retirado 7380714100019420250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:58:15,167 - INFO - Removido localmente: 7380714100019420250522.txt
+2025-05-23 06:58:15,727 - INFO -  Enviado: 7401021600017420250522.txt -> SFTP BoaVista
+2025-05-23 06:58:15,863 - INFO - retirado 7401021600017420250522.txt da pasta de espera e inserido para catalogar
+2025-05-23 06:58:15,864 - INFO - Removido localmente: 7401021600017420250522.txt
+2025-05-23 06:58:15,865 - INFO - [chan 0] sftp session closed.
+2025-05-23 06:58:16,225 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-23 06:58:16,993 - INFO - Authentication (password) successful!
+2025-05-23 06:58:17,402 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-23 06:58:17,968 - INFO -  Enviado: LIBERCARD_20250522000000_061943_01928075000108.txt -> SFTP BoaVista
+2025-05-23 06:58:17,969 - INFO - Removido localmente: LIBERCARD_20250522000000_061943_01928075000108.txt
+2025-05-23 06:58:18,524 - INFO -  Enviado: LIBERCARD_20250522000000_061944_08574018000109.txt -> SFTP BoaVista
+2025-05-23 06:58:18,526 - INFO - Removido localmente: LIBERCARD_20250522000000_061944_08574018000109.txt
+2025-05-23 06:58:19,077 - INFO -  Enviado: LIBERCARD_20250522000000_061945_08574018000532.txt -> SFTP BoaVista
+2025-05-23 06:58:19,078 - INFO - Removido localmente: LIBERCARD_20250522000000_061945_08574018000532.txt
+2025-05-23 06:58:19,626 - INFO -  Enviado: LIBERCARD_20250522000000_061946_08394192000170.txt -> SFTP BoaVista
+2025-05-23 06:58:19,628 - INFO - Removido localmente: LIBERCARD_20250522000000_061946_08394192000170.txt
+2025-05-23 06:58:20,180 - INFO -  Enviado: LIBERCARD_20250522000000_061947_08090734000200.txt -> SFTP BoaVista
+2025-05-23 06:58:20,182 - INFO - Removido localmente: LIBERCARD_20250522000000_061947_08090734000200.txt
+2025-05-23 06:58:20,731 - INFO -  Enviado: LIBERCARD_20250522000000_061948_08090734000382.txt -> SFTP BoaVista
+2025-05-23 06:58:20,732 - INFO - Removido localmente: LIBERCARD_20250522000000_061948_08090734000382.txt
+2025-05-23 06:58:21,296 - INFO -  Enviado: LIBERCARD_20250522000000_061949_28261163000147.txt -> SFTP BoaVista
+2025-05-23 06:58:21,296 - INFO - Removido localmente: LIBERCARD_20250522000000_061949_28261163000147.txt
+2025-05-23 06:58:21,849 - INFO -  Enviado: LIBERCARD_20250522000000_061950_09238322000148.txt -> SFTP BoaVista
+2025-05-23 06:58:21,851 - INFO - Removido localmente: LIBERCARD_20250522000000_061950_09238322000148.txt
+2025-05-23 06:58:22,401 - INFO -  Enviado: LIBERCARD_20250522000000_061951_14242030000119.txt -> SFTP BoaVista
+2025-05-23 06:58:22,403 - INFO - Removido localmente: LIBERCARD_20250522000000_061951_14242030000119.txt
+2025-05-23 06:58:22,954 - INFO -  Enviado: LIBERCARD_20250522000000_061952_13722711000111.txt -> SFTP BoaVista
+2025-05-23 06:58:22,956 - INFO - Removido localmente: LIBERCARD_20250522000000_061952_13722711000111.txt
+2025-05-23 06:58:23,516 - INFO -  Enviado: LIBERCARD_20250522000000_061953_08394192000684.txt -> SFTP BoaVista
+2025-05-23 06:58:23,518 - INFO - Removido localmente: LIBERCARD_20250522000000_061953_08394192000684.txt
+2025-05-23 06:58:24,078 - INFO -  Enviado: LIBERCARD_20250522000000_061954_02114945000160.txt -> SFTP BoaVista
+2025-05-23 06:58:24,080 - INFO - Removido localmente: LIBERCARD_20250522000000_061954_02114945000160.txt
+2025-05-23 06:58:24,638 - INFO -  Enviado: LIBERCARD_20250522000000_061955_32768826000191.txt -> SFTP BoaVista
+2025-05-23 06:58:24,639 - INFO - Removido localmente: LIBERCARD_20250522000000_061955_32768826000191.txt
+2025-05-23 06:58:25,202 - INFO -  Enviado: LIBERCARD_20250522000000_061956_39346861000161.txt -> SFTP BoaVista
+2025-05-23 06:58:25,203 - INFO - Removido localmente: LIBERCARD_20250522000000_061956_39346861000161.txt
+2025-05-23 06:58:25,757 - INFO -  Enviado: LIBERCARD_20250522000000_061957_30721896000320.txt -> SFTP BoaVista
+2025-05-23 06:58:25,758 - INFO - Removido localmente: LIBERCARD_20250522000000_061957_30721896000320.txt
+2025-05-23 06:58:26,316 - INFO -  Enviado: LIBERCARD_20250522000000_061958_16785684000114.txt -> SFTP BoaVista
+2025-05-23 06:58:26,318 - INFO - Removido localmente: LIBERCARD_20250522000000_061958_16785684000114.txt
+2025-05-23 06:58:26,872 - INFO -  Enviado: LIBERCARD_20250522000000_061959_05599698000127.txt -> SFTP BoaVista
+2025-05-23 06:58:26,873 - INFO - Removido localmente: LIBERCARD_20250522000000_061959_05599698000127.txt
+2025-05-23 06:58:27,433 - INFO -  Enviado: LIBERCARD_20250522000000_061960_10325989000167.txt -> SFTP BoaVista
+2025-05-23 06:58:27,435 - INFO - Removido localmente: LIBERCARD_20250522000000_061960_10325989000167.txt
+2025-05-23 06:58:27,985 - INFO -  Enviado: LIBERCARD_20250522000000_061961_10366394000150.txt -> SFTP BoaVista
+2025-05-23 06:58:27,986 - INFO - Removido localmente: LIBERCARD_20250522000000_061961_10366394000150.txt
+2025-05-23 06:58:28,548 - INFO -  Enviado: LIBERCARD_20250522000000_062000_00063960000109.txt -> SFTP BoaVista
+2025-05-23 06:58:28,549 - INFO - Removido localmente: LIBERCARD_20250522000000_062000_00063960000109.txt
+2025-05-23 06:58:29,112 - INFO -  Enviado: LIBERCARD_20250522000000_062001_93209765000117.txt -> SFTP BoaVista
+2025-05-23 06:58:29,113 - INFO - Removido localmente: LIBERCARD_20250522000000_062001_93209765000117.txt
+2025-05-23 06:58:29,681 - INFO -  Enviado: LIBERCARD_20250522000000_062002_75315333000109.txt -> SFTP BoaVista
+2025-05-23 06:58:29,692 - INFO - Removido localmente: LIBERCARD_20250522000000_062002_75315333000109.txt
