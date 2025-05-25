@@ -49,3 +49,30 @@
 2025-05-13 14:31:43,913 - INFO - [chan 0] sftp session closed.
 2025-05-13 14:31:44,253 - INFO - Connected (version 2.0, client OpenSSH_7.4)
 2025-05-13 14:31:45,352 - INFO - Authentication (password) successful!
+2025-05-25 16:29:58,549 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-25 16:29:59,356 - INFO - Authentication (password) successful!
+2025-05-25 16:29:59,771 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-25 16:30:18,125 - INFO - ['PIX_237_341691317__DDMMYYYY_059.RET', 'PIX_237_341691317__DDMMYYYY_2153.RET']
+2025-05-25 16:30:18,405 - INFO -  Erro ao mover arquivo PIX_237_341691317__DDMMYYYY_059.RET: [Errno 2] No such file
+2025-05-25 16:30:18,681 - INFO -  Erro ao mover arquivo PIX_237_341691317__DDMMYYYY_2153.RET: [Errno 2] No such file
+2025-05-25 16:30:18,681 - INFO - [chan 0] sftp session closed.
+2025-05-25 16:30:18,964 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-25 16:30:19,924 - INFO - Authentication (password) successful!
+2025-05-25 16:30:50,053 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-25 16:30:50,844 - INFO - Authentication (password) successful!
+2025-05-25 16:30:51,257 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-25 16:31:06,875 - INFO - ['PIX_237_341691317__DDMMYYYY_059.RET', 'PIX_237_341691317__DDMMYYYY_2153.RET']
+2025-05-25 16:31:07,153 - INFO -  Erro ao mover arquivo PIX_237_341691317__DDMMYYYY_059.RET: [Errno 2] No such file
+2025-05-25 16:31:07,432 - INFO -  Erro ao mover arquivo PIX_237_341691317__DDMMYYYY_2153.RET: [Errno 2] No such file
+2025-05-25 16:31:07,433 - INFO - [chan 0] sftp session closed.
+2025-05-25 16:31:07,717 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-25 16:31:08,504 - INFO - Authentication (password) successful!
+2025-05-25 16:31:33,965 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-25 16:31:34,705 - INFO - Authentication (password) successful!
+2025-05-25 16:31:35,091 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-25 16:31:49,571 - INFO - ['PIX_237_341691317__DDMMYYYY_059.RET', 'PIX_237_341691317__DDMMYYYY_2153.RET']
+2025-05-25 16:31:49,821 - INFO -  Erro ao mover arquivo PIX_237_341691317__DDMMYYYY_059.RET: [Errno 2] No such file
+2025-05-25 16:31:50,076 - INFO -  Erro ao mover arquivo PIX_237_341691317__DDMMYYYY_2153.RET: [Errno 2] No such file
+2025-05-25 16:31:50,076 - INFO - [chan 0] sftp session closed.
+2025-05-25 16:31:50,357 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-25 16:31:51,293 - INFO - Authentication (password) successful!
