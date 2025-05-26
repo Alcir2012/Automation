@@ -44211,3 +44211,16 @@
 2025-05-26 07:57:44,816 - INFO - Removido localmente: LIBERCARD_20250525000000_062184_93209765000117.txt
 2025-05-26 07:57:45,365 - INFO -  Enviado: LIBERCARD_20250525000000_062185_75315333000109.txt -> SFTP BoaVista
 2025-05-26 07:57:45,369 - INFO - Removido localmente: LIBERCARD_20250525000000_062185_75315333000109.txt
+2025-05-26 08:50:12,257 - INFO - Connected (version 2.0, client OpenSSH_7.4)
+2025-05-26 08:50:13,073 - INFO - Auth banner: b'**********************************************************\n*   => ACESSO PERMITIDO SOMENTE A PESSOAS AUTORIZADAS!   *\n*                                                        *\n*   => CASO NAO TENHA AUTORIZACAO FACA LOGOUT AGORA!     *\n*                                                        *\n*   => TODAS AS ACOES PODEM SER MONITORADAS!             *\n*                                                        *\n*   => VOCE CONCORDA COM OS PROCESSOS DE MONITORACAO!    *\n*                                                        *\n**********************************************************\n'
+2025-05-26 08:50:13,073 - INFO - Authentication (publickey) successful!
+2025-05-26 08:50:13,501 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-26 08:50:14,166 - INFO - Ignorado (não é .txt ou não é arquivo): Processados
+2025-05-26 08:50:14,166 - INFO - [chan 0] sftp session closed.
+2025-05-26 08:50:14,424 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-26 08:50:15,168 - INFO - Authentication (password) successful!
+2025-05-26 08:50:15,542 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-26 08:50:15,542 - INFO - [chan 0] sftp session closed.
+2025-05-26 08:50:15,886 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-26 08:50:16,628 - INFO - Authentication (password) successful!
+2025-05-26 08:50:17,029 - INFO - [chan 0] Opened sftp connection (server version 3)
