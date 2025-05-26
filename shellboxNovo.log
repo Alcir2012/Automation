@@ -18762,3 +18762,170 @@
 2025-05-24 10:36:08,050 - INFO - Tirando arquivo rionegrocomderivdepetro-vendas-01563-20250524.csv para -> Catalogador
 2025-05-24 10:36:08,053 - INFO - Removido localmente: rionegrocomderivdepetro-vendas-01563-20250524.csv
 2025-05-24 10:36:08,053 - INFO - [chan 0] sftp session closed.
+2025-05-26 15:55:07,612 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-26 15:55:08,296 - INFO - Authentication (publickey) successful!
+2025-05-26 15:55:08,757 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-26 15:55:10,018 - INFO - Baixado: girleno-30757976000174-mov-finan-00556-20250526.csv -> Pasta local
+2025-05-26 15:55:10,797 - INFO - Baixado: girleno-30757976000174-mov-finan-00555-20250525.csv -> Pasta local
+2025-05-26 15:55:11,575 - INFO - Baixado: girleno-30757976000174-vendas-00555-20250525.csv -> Pasta local
+2025-05-26 15:55:12,350 - INFO - Baixado: girleno-30757976000174-vendas-00556-20250526.csv -> Pasta local
+2025-05-26 15:55:12,544 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-26 15:55:13,224 - INFO - Baixado: girleno-30757976000174-mov-finan-00554-20250524.csv -> Pasta local
+2025-05-26 15:55:13,997 - INFO - Baixado: girleno-30757976000174-vendas-00554-20250524.csv -> Pasta local
+2025-05-26 15:55:14,093 - INFO - [chan 0] sftp session closed.
+2025-05-26 15:55:14,419 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-26 15:55:15,167 - INFO - Authentication (publickey) successful!
+2025-05-26 15:55:15,612 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-26 15:55:16,907 - INFO - Baixado: postoqualityfiorano-mov-finan-01523-20250525.csv -> Pasta local
+2025-05-26 15:55:17,692 - INFO - Baixado: postoqualityfiorano-vendas-01524-20250526.csv -> Pasta local
+2025-05-26 15:55:18,478 - INFO - Baixado: postoqualityfiorano-vendas-01523-20250525.csv -> Pasta local
+2025-05-26 15:55:18,675 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-26 15:55:19,378 - INFO - Baixado: postoqualityfiorano-mov-finan-01524-20250526.csv -> Pasta local
+2025-05-26 15:55:19,476 - INFO - [chan 0] sftp session closed.
+2025-05-26 15:55:19,806 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-26 15:55:20,478 - INFO - Authentication (publickey) successful!
+2025-05-26 15:55:20,934 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-26 15:55:22,371 - INFO - Baixado: postodanave-mov-finan-01546-20250526.csv -> Pasta local
+2025-05-26 15:55:24,924 - INFO - Baixado: postodanave-vendas-01545-20250525.csv -> Pasta local
+2025-05-26 15:55:25,120 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-26 15:55:26,783 - INFO - Baixado: postodanave-vendas-01546-20250526.csv -> Pasta local
+2025-05-26 15:55:27,716 - INFO - Baixado: postodanave-mov-finan-01545-20250525.csv -> Pasta local
+2025-05-26 15:55:27,816 - INFO - [chan 0] sftp session closed.
+2025-05-26 15:55:28,166 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-26 15:55:28,758 - INFO - Authentication (publickey) successful!
+2025-05-26 15:55:29,198 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-26 15:55:30,484 - INFO - Baixado: autopostopontaldacruz-mov-finan-00187-20250525.csv -> Pasta local
+2025-05-26 15:55:31,282 - INFO - Baixado: autopostopontaldacruz-mov-finan-00188-20250526.csv -> Pasta local
+2025-05-26 15:55:32,936 - INFO - Baixado: autopostopontaldacruz-vendas-00187-20250525.csv -> Pasta local
+2025-05-26 15:55:33,727 - INFO - Baixado: autopostopontaldacruz-mov-finan-00186-20250524.csv -> Pasta local
+2025-05-26 15:55:35,582 - INFO - Baixado: autopostopontaldacruz-vendas-00188-20250526.csv -> Pasta local
+2025-05-26 15:55:35,779 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-26 15:55:37,026 - INFO - Baixado: autopostopontaldacruz-vendas-00186-20250524.csv -> Pasta local
+2025-05-26 15:55:37,124 - INFO - [chan 0] sftp session closed.
+2025-05-26 15:55:37,461 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-26 15:55:38,093 - INFO - Authentication (publickey) successful!
+2025-05-26 15:55:38,525 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-26 15:55:39,895 - INFO - Baixado: bauerpostoscomdecombeconvltd-25261880000342-vendas-01308-20250526.csv -> Pasta local
+2025-05-26 15:55:40,660 - INFO - Baixado: bauerpostoscomdecombeconvltd-25261880000342-vendas-01307-20250525.csv -> Pasta local
+2025-05-26 15:55:40,854 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-26 15:55:41,519 - INFO - Baixado: bauerpostoscomdecombeconvltd-25261880000342-mov-finan-01308-20250526.csv -> Pasta local
+2025-05-26 15:55:42,278 - INFO - Baixado: bauerpostoscomdecombeconvltd-25261880000342-mov-finan-01307-20250525.csv -> Pasta local
+2025-05-26 15:55:43,193 - INFO - Baixado: bauerpostoscomdecombeconvltd-25261880000342-vendas-01306-20250524.csv -> Pasta local
+2025-05-26 15:55:44,006 - INFO - Baixado: bauerpostoscomdecombeconvltd-25261880000342-mov-finan-01306-20250524.csv -> Pasta local
+2025-05-26 15:55:44,101 - INFO - [chan 0] sftp session closed.
+2025-05-26 15:55:44,426 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-26 15:55:45,066 - INFO - Authentication (publickey) successful!
+2025-05-26 15:55:45,504 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-26 15:55:47,037 - INFO - Baixado: cafedaterra-40939392000173-vendas-00251-20250524.csv -> Pasta local
+2025-05-26 15:55:47,925 - INFO - Baixado: cafedaterra-40939392000173-mov-finan-00252-20250525.csv -> Pasta local
+2025-05-26 15:55:48,808 - INFO - Baixado: cafedaterra-40939392000173-vendas-00253-20250526.csv -> Pasta local
+2025-05-26 15:55:49,015 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-26 15:55:49,938 - INFO - Baixado: cafedaterra-40939392000173-mov-finan-00251-20250524.csv -> Pasta local
+2025-05-26 15:55:50,979 - INFO - Baixado: cafedaterra-40939392000173-mov-finan-00253-20250526.csv -> Pasta local
+2025-05-26 15:55:51,927 - INFO - Baixado: cafedaterra-40939392000173-vendas-00252-20250525.csv -> Pasta local
+2025-05-26 15:55:52,025 - INFO - [chan 0] sftp session closed.
+2025-05-26 15:55:52,452 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-26 15:55:53,058 - INFO - Authentication (publickey) successful!
+2025-05-26 15:55:53,538 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-26 15:55:54,802 - INFO - Baixado: falcao-10588194000141-vendas-00042-20250526.csv -> Pasta local
+2025-05-26 15:55:55,582 - INFO - Baixado: falcao-10588194000141-mov-finan-00041-20250525.csv -> Pasta local
+2025-05-26 15:55:56,389 - INFO - Baixado: falcao-10588194000141-vendas-00041-20250525.csv -> Pasta local
+2025-05-26 15:55:57,167 - INFO - Baixado: falcao-10588194000141-vendas-00040-20250524.csv -> Pasta local
+2025-05-26 15:55:57,359 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-26 15:55:58,037 - INFO - Baixado: falcao-10588194000141-mov-finan-00042-20250526.csv -> Pasta local
+2025-05-26 15:55:58,823 - INFO - Baixado: falcao-10588194000141-mov-finan-00040-20250524.csv -> Pasta local
+2025-05-26 15:55:58,918 - INFO - [chan 0] sftp session closed.
+2025-05-26 15:55:59,386 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-26 15:56:00,052 - INFO - Authentication (publickey) successful!
+2025-05-26 15:56:00,487 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-26 15:56:01,737 - INFO - Baixado: toscano-05932284000259-mov-finan-00819-20250524.csv -> Pasta local
+2025-05-26 15:56:02,514 - INFO - Baixado: toscano-05932284000259-mov-finan-00821-20250526.csv -> Pasta local
+2025-05-26 15:56:03,300 - INFO - Baixado: toscano-05932284000259-mov-finan-00820-20250525.csv -> Pasta local
+2025-05-26 15:56:04,094 - INFO - Baixado: toscano-05932284000259-vendas-00819-20250524.csv -> Pasta local
+2025-05-26 15:56:04,850 - INFO - Baixado: toscano-05932284000259-vendas-00821-20250526.csv -> Pasta local
+2025-05-26 15:56:05,040 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-26 15:56:05,701 - INFO - Baixado: toscano-05932284000259-vendas-00820-20250525.csv -> Pasta local
+2025-05-26 15:56:05,796 - INFO - [chan 0] sftp session closed.
+2025-05-26 15:56:06,272 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-26 15:56:06,938 - INFO - Authentication (publickey) successful!
+2025-05-26 15:56:07,372 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-26 15:56:08,856 - INFO - Baixado: manauscomdederivdepetroleoltd-mov-finan-00158-20250524.csv -> Pasta local
+2025-05-26 15:56:15,056 - INFO - Baixado: manauscomdederivdepetroleoltd-vendas-00159-20250525.csv -> Pasta local
+2025-05-26 15:56:15,968 - INFO - Baixado: manauscomdederivdepetroleoltd-mov-finan-00159-20250525.csv -> Pasta local
+2025-05-26 15:56:16,167 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-26 15:56:19,202 - INFO - Baixado: manauscomdederivdepetroleoltd-vendas-00160-20250526.csv -> Pasta local
+2025-05-26 15:56:23,069 - INFO - Baixado: manauscomdederivdepetroleoltd-vendas-00158-20250524.csv -> Pasta local
+2025-05-26 15:56:24,001 - INFO - Baixado: manauscomdederivdepetroleoltd-mov-finan-00160-20250526.csv -> Pasta local
+2025-05-26 15:56:24,100 - INFO - [chan 0] sftp session closed.
+2025-05-26 15:56:24,607 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-26 15:56:25,225 - INFO - Authentication (publickey) successful!
+2025-05-26 15:56:25,651 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-26 15:56:27,634 - INFO - Baixado: redepdfpostoesplanada-vendas-00348-20250524.csv -> Pasta local
+2025-05-26 15:56:28,440 - INFO - Baixado: redepdfpostoesplanada-mov-finan-00349-20250525.csv -> Pasta local
+2025-05-26 15:56:29,221 - INFO - Baixado: redepdfpostoesplanada-mov-finan-00350-20250526.csv -> Pasta local
+2025-05-26 15:56:30,531 - INFO - Baixado: redepdfpostoesplanada-vendas-00349-20250525.csv -> Pasta local
+2025-05-26 15:56:31,760 - INFO - Baixado: redepdfpostoesplanada-vendas-00350-20250526.csv -> Pasta local
+2025-05-26 15:56:31,954 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-26 15:56:32,635 - INFO - Baixado: redepdfpostoesplanada-mov-finan-00348-20250524.csv -> Pasta local
+2025-05-26 15:56:32,731 - INFO - [chan 0] sftp session closed.
+2025-05-26 15:56:33,206 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-26 15:56:33,947 - INFO - Authentication (publickey) successful!
+2025-05-26 15:56:34,441 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-26 15:56:35,830 - INFO - Baixado: rionegrocomderivdepetro-mov-finan-01565-20250526.csv -> Pasta local
+2025-05-26 15:56:38,089 - INFO - Baixado: rionegrocomderivdepetro-vendas-01564-20250525.csv -> Pasta local
+2025-05-26 15:56:38,281 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-26 15:56:38,955 - INFO - Baixado: rionegrocomderivdepetro-mov-finan-01564-20250525.csv -> Pasta local
+2025-05-26 15:56:40,567 - INFO - Baixado: rionegrocomderivdepetro-vendas-01565-20250526.csv -> Pasta local
+2025-05-26 15:56:40,665 - INFO - [chan 0] sftp session closed.
+2025-05-26 15:56:41,121 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-26 15:56:41,697 - INFO - Authentication (publickey) successful!
+2025-05-26 15:56:42,119 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-26 15:56:44,013 - INFO - Baixado: planaltopetroleoceasaltda-vendas-00414-20250526.csv -> Pasta local
+2025-05-26 15:56:44,796 - INFO - Baixado: planaltopetroleoceasaltda-mov-finan-00412-20250524.csv -> Pasta local
+2025-05-26 15:56:46,176 - INFO - Baixado: planaltopetroleoceasaltda-vendas-00413-20250525.csv -> Pasta local
+2025-05-26 15:56:47,377 - INFO - Baixado: planaltopetroleoceasaltda-vendas-00412-20250524.csv -> Pasta local
+2025-05-26 15:56:47,573 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-26 15:56:48,257 - INFO - Baixado: planaltopetroleoceasaltda-mov-finan-00414-20250526.csv -> Pasta local
+2025-05-26 15:56:49,024 - INFO - Baixado: planaltopetroleoceasaltda-mov-finan-00413-20250525.csv -> Pasta local
+2025-05-26 15:56:49,120 - INFO - [chan 0] sftp session closed.
+2025-05-26 15:56:49,445 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-26 15:56:50,066 - INFO - Authentication (publickey) successful!
+2025-05-26 15:56:50,593 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-26 15:56:51,890 - INFO - Baixado: liber-33899485000156-vendas-01420-20250525.csv -> Pasta local
+2025-05-26 15:56:52,683 - INFO - Baixado: liber-33899485000156-mov-finan-01397-20250525.csv -> Pasta local
+2025-05-26 15:56:53,466 - INFO - Baixado: liber-33899485000156-vendas-01421-20250526.csv -> Pasta local
+2025-05-26 15:56:53,665 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-26 15:56:54,347 - INFO - Baixado: liber-33899485000156-mov-finan-01398-20250526.csv -> Pasta local
+2025-05-26 15:56:55,127 - INFO - Baixado: liber-33899485000156-vendas-01419-20250524.csv -> Pasta local
+2025-05-26 15:56:55,228 - INFO - [chan 0] sftp session closed.
+2025-05-26 15:56:55,545 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-26 15:56:56,242 - INFO - Authentication (publickey) successful!
+2025-05-26 15:56:56,674 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-26 15:57:00,711 - INFO - Baixado: enzoitaipava-vendas-00688-20250526.csv -> Pasta local
+2025-05-26 15:57:01,575 - INFO - Baixado: enzoitaipava-mov-finan-00686-20250524.csv -> Pasta local
+2025-05-26 15:57:02,442 - INFO - Baixado: enzoitaipava-mov-finan-00687-20250525.csv -> Pasta local
+2025-05-26 15:57:02,633 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-26 15:57:05,499 - INFO - Baixado: enzoitaipava-vendas-00687-20250525.csv -> Pasta local
+2025-05-26 15:57:06,375 - INFO - Baixado: enzoitaipava-mov-finan-00688-20250526.csv -> Pasta local
+2025-05-26 15:57:09,765 - INFO - Baixado: enzoitaipava-vendas-00686-20250524.csv -> Pasta local
+2025-05-26 15:57:09,862 - INFO - [chan 0] sftp session closed.
+2025-05-26 15:57:10,226 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-26 15:57:10,853 - INFO - Authentication (publickey) successful!
+2025-05-26 15:57:11,310 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-26 15:57:13,241 - INFO - Baixado: portalestreladomorumbictroaut-mov-finan-00914-20250525.csv -> Pasta local
+2025-05-26 15:57:14,683 - INFO - Baixado: portalestreladomorumbictroaut-mov-finan-00913-20250524.csv -> Pasta local
+2025-05-26 15:57:29,047 - INFO - Baixado: portalestreladomorumbictroaut-vendas-00491-20250525.csv -> Pasta local
+2025-05-26 15:57:29,242 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-26 15:57:41,958 - INFO - Baixado: portalestreladomorumbictroaut-vendas-00490-20250524.csv -> Pasta local
+2025-05-26 15:57:43,181 - INFO - Baixado: portalestreladomorumbictroaut-mov-finan-00915-20250526.csv -> Pasta local
+2025-05-26 15:57:57,704 - INFO - Baixado: portalestreladomorumbictroaut-vendas-00492-20250526.csv -> Pasta local
+2025-05-26 15:57:57,802 - INFO - [chan 0] sftp session closed.
+2025-05-26 15:57:58,355 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-26 15:57:58,979 - INFO - Authentication (publickey) successful!
+2025-05-26 15:57:59,430 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-26 15:58:01,131 - INFO - Baixado: postopalhaseca-mov-finan-01601-20250525.csv -> Pasta local
+2025-05-26 15:58:04,871 - INFO - Baixado: postopalhaseca-vendas-01602-20250526.csv -> Pasta local
+2025-05-26 15:58:05,065 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-26 15:58:05,834 - INFO - Baixado: postopalhaseca-mov-finan-01602-20250526.csv -> Pasta local
+2025-05-26 15:58:09,972 - INFO - Baixado: postopalhaseca-vendas-01601-20250525.csv -> Pasta local
+2025-05-26 15:58:10,070 - INFO - [chan 0] sftp session closed.
