@@ -73,20 +73,24 @@ col4.metric("📉 Diferença", int(dados_op["Diferença"]), delta_color="inverse
 st.markdown(f"#### 🧭 Status: **:red['{dados_op['Status']}']**" if dados_op["Status"] == "ABAIXO" else f"#### 🧭 Status: **:green['{dados_op['Status']}']**")
 
 # Gráfico da operadora selecionada
-graf_op = pd.DataFrame({
-    "Tipo": ["Média (sem hoje)", "Hoje"],
-    "Quantidade": [dados_op["Média (sem hoje)"], dados_op["Hoje"]]
-})
+# Certifique-se de que a coluna "Data" está em formato datetime
+df["Data"] = pd.to_datetime(df["Data"], errors="coerce")
 
-chart = alt.Chart(graf_op).mark_bar().encode(
-    x="Tipo",
-    y="Quantidade",
-    color="Tipo",
-    tooltip=["Tipo", "Quantidade"]
+# Filtra os registros da operadora selecionada
+historico_op = df[df["Operadora"] == operadora_selecionada].sort_values("Data")
+
+# Garante que só dados válidos sejam plotados
+historico_op = historico_op.dropna(subset=["Data", "Quantidade"])
+
+# Gráfico com a linha do tempo
+chart = alt.Chart(historico_op).mark_bar().encode(
+    x=alt.X("Data:T", title="Data"),
+    y=alt.Y("Quantidade:Q", title="Arquivos Enviados"),
+    tooltip=["Data", "Quantidade"]
 ).properties(
-    width=400,
+    width=700,
     height=300,
-    title=f"Comparativo de envios - {dados_op['Operadora']}"
+    title=f"Evolução de envios - {operadora_selecionada}"
 )
 
 st.altair_chart(chart)
