@@ -5646,3 +5646,73 @@
 2025-05-29 09:08:19,589 - INFO - Authentication (password) successful!
 2025-05-29 09:08:19,966 - INFO - [chan 0] Opened sftp connection (server version 3)
 2025-05-29 09:08:19,967 - INFO - [chan 0] sftp session closed.
+2025-05-29 11:08:04,491 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-29 11:08:07,173 - INFO - Authentication (publickey) successful!
+2025-05-29 11:08:07,839 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-29 11:08:56,456 - INFO - Baixado: autopostostatusdopanamby-vendas-02208-20250529.csv -> Pasta local
+2025-05-29 11:08:56,656 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-29 11:08:57,378 - INFO - Baixado: autopostostatusdopanamby-mov-finan-02208-20250529.csv -> Pasta local
+2025-05-29 11:08:57,478 - INFO - [chan 0] sftp session closed.
+2025-05-29 11:08:57,969 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-29 11:08:58,543 - INFO - Authentication (publickey) successful!
+2025-05-29 11:08:58,964 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-29 11:09:00,913 - INFO - Baixado: valemaiselaine-mov-finan-01315-20250529.csv -> Pasta local
+2025-05-29 11:09:01,107 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-29 11:09:02,239 - INFO - Baixado: valemaiselaine-vendas-01315-20250529.csv -> Pasta local
+2025-05-29 11:09:02,332 - INFO - [chan 0] sftp session closed.
+2025-05-29 11:09:02,822 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-29 11:09:03,475 - INFO - Authentication (publickey) successful!
+2025-05-29 11:09:03,917 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-29 11:09:05,825 - INFO - Baixado: valemaisfabio-vendas-01315-20250529.csv -> Pasta local
+2025-05-29 11:09:06,026 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-29 11:09:07,206 - INFO - Baixado: valemaisfabio-mov-finan-01313-20250529.csv -> Pasta local
+2025-05-29 11:09:07,305 - INFO - [chan 0] sftp session closed.
+2025-05-29 11:09:07,818 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-29 11:09:08,490 - INFO - Authentication (publickey) successful!
+2025-05-29 11:09:08,930 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-29 11:09:10,604 - INFO - Baixado: valemaisrodrigo-mov-finan-01309-20250529.csv -> Pasta local
+2025-05-29 11:09:10,800 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-29 11:09:11,733 - INFO - Baixado: valemaisrodrigo-vendas-01309-20250529.csv -> Pasta local
+2025-05-29 11:09:11,836 - INFO - [chan 0] sftp session closed.
+2025-05-29 11:09:12,286 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-29 11:09:12,943 - INFO - Authentication (publickey) successful!
+2025-05-29 11:09:13,391 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-29 11:09:15,665 - INFO - Baixado: valemaisrogerio-mov-finan-01314-20250529.csv -> Pasta local
+2025-05-29 11:09:17,141 - INFO - Baixado: valemaisrogerio-vendas-01314-20250529.csv -> Pasta local
+2025-05-29 11:09:17,340 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo): Processados
+2025-05-29 11:09:17,340 - INFO - [chan 0] sftp session closed.
+2025-05-29 11:09:17,846 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-29 11:09:18,454 - INFO - Authentication (publickey) successful!
+2025-05-29 11:09:18,888 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-29 11:09:21,218 - INFO - Baixado: valemaissociedade-mov-finan-01309-20250529.csv -> Pasta local
+2025-05-29 11:09:22,653 - INFO - Baixado: valemaissociedade-vendas-01308-20250529.csv -> Pasta local
+2025-05-29 11:09:22,841 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-29 11:09:22,841 - INFO - [chan 0] sftp session closed.
+2025-05-29 11:09:23,120 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-29 11:09:23,920 - INFO - Authentication (password) successful!
+2025-05-29 11:09:24,328 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-29 11:09:24,882 - INFO -  Enviado para processamento: autopostostatusdopanamby-mov-finan-02208-20250529.csv -> "SFTP BoaVista"
+2025-05-29 11:09:24,885 - INFO - Removido localmente: autopostostatusdopanamby-mov-finan-02208-20250529.csv
+2025-05-29 11:09:27,320 - INFO -  Enviado para processamento: autopostostatusdopanamby-vendas-02208-20250529.csv -> "SFTP BoaVista"
+2025-05-29 11:09:27,322 - INFO - Removido localmente: autopostostatusdopanamby-vendas-02208-20250529.csv
+2025-05-29 11:09:28,316 - INFO -  Enviado para processamento: valemaiselaine-mov-finan-01315-20250529.csv -> "SFTP BoaVista"
+2025-05-29 11:09:28,318 - INFO - Removido localmente: valemaiselaine-mov-finan-01315-20250529.csv
+2025-05-29 11:09:29,439 - INFO -  Enviado para processamento: valemaiselaine-vendas-01315-20250529.csv -> "SFTP BoaVista"
+2025-05-29 11:09:29,440 - INFO - Removido localmente: valemaiselaine-vendas-01315-20250529.csv
+2025-05-29 11:09:30,425 - INFO -  Enviado para processamento: valemaisfabio-mov-finan-01313-20250529.csv -> "SFTP BoaVista"
+2025-05-29 11:09:30,427 - INFO - Removido localmente: valemaisfabio-mov-finan-01313-20250529.csv
+2025-05-29 11:09:31,413 - INFO -  Enviado para processamento: valemaisfabio-vendas-01315-20250529.csv -> "SFTP BoaVista"
+2025-05-29 11:09:31,415 - INFO - Removido localmente: valemaisfabio-vendas-01315-20250529.csv
+2025-05-29 11:09:32,121 - INFO -  Enviado para processamento: valemaisrodrigo-mov-finan-01309-20250529.csv -> "SFTP BoaVista"
+2025-05-29 11:09:32,123 - INFO - Removido localmente: valemaisrodrigo-mov-finan-01309-20250529.csv
+2025-05-29 11:09:32,815 - INFO -  Enviado para processamento: valemaisrodrigo-vendas-01309-20250529.csv -> "SFTP BoaVista"
+2025-05-29 11:09:32,817 - INFO - Removido localmente: valemaisrodrigo-vendas-01309-20250529.csv
+2025-05-29 11:09:34,387 - INFO -  Enviado para processamento: valemaisrogerio-mov-finan-01314-20250529.csv -> "SFTP BoaVista"
+2025-05-29 11:09:34,389 - INFO - Removido localmente: valemaisrogerio-mov-finan-01314-20250529.csv
+2025-05-29 11:09:36,269 - INFO -  Enviado para processamento: valemaisrogerio-vendas-01314-20250529.csv -> "SFTP BoaVista"
+2025-05-29 11:09:36,271 - INFO - Removido localmente: valemaisrogerio-vendas-01314-20250529.csv
+2025-05-29 11:09:37,686 - INFO -  Enviado para processamento: valemaissociedade-mov-finan-01309-20250529.csv -> "SFTP BoaVista"
+2025-05-29 11:09:37,688 - INFO - Removido localmente: valemaissociedade-mov-finan-01309-20250529.csv
+2025-05-29 11:09:39,243 - INFO -  Enviado para processamento: valemaissociedade-vendas-01308-20250529.csv -> "SFTP BoaVista"
+2025-05-29 11:09:39,245 - INFO - Removido localmente: valemaissociedade-vendas-01308-20250529.csv
+2025-05-29 11:09:39,246 - INFO - [chan 0] sftp session closed.
