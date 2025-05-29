@@ -511,3 +511,20 @@ porque o host conectado não respondeu
 2025-05-28 08:45:07,514 - INFO - Authentication (password) successful!
 2025-05-28 08:45:08,199 - INFO - [chan 0] Opened sftp connection (server version 3)
 2025-05-28 08:45:08,200 - INFO - [chan 0] sftp session closed.
+2025-05-29 07:51:59,443 - INFO - Baixando: 33587453000115_20250528_CN000001.TXT para -> Pasta local
+2025-05-29 07:52:01,155 - INFO - Baixando: 33587453000115_20250528_MV000001.TXT para -> Pasta local
+2025-05-29 07:52:01,912 - INFO - Baixando: 33587453000115_20250528_RP000001.TXT para -> Pasta local
+2025-05-29 07:52:02,104 - INFO - Ignorado oque não for txt
+2025-05-29 07:52:02,590 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-29 07:52:03,341 - INFO - Authentication (password) successful!
+2025-05-29 07:52:03,745 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-29 07:52:04,291 - INFO -  Enviado: 33587453000115_20250528_CN000001.TXT para -> SFTP BoaVista
+2025-05-29 07:52:04,427 - INFO - 33587453000115_20250528_CN000001.TXT enviado para -> catalogador
+2025-05-29 07:52:04,427 - INFO - Removido localmente
+2025-05-29 07:52:07,648 - INFO -  Enviado: 33587453000115_20250528_MV000001.TXT para -> SFTP BoaVista
+2025-05-29 07:52:07,782 - INFO - 33587453000115_20250528_MV000001.TXT enviado para -> catalogador
+2025-05-29 07:52:07,782 - INFO - Removido localmente
+2025-05-29 07:52:08,322 - INFO -  Enviado: 33587453000115_20250528_RP000001.TXT para -> SFTP BoaVista
+2025-05-29 07:52:08,457 - INFO - 33587453000115_20250528_RP000001.TXT enviado para -> catalogador
+2025-05-29 07:52:08,465 - INFO - Removido localmente
+2025-05-29 07:52:08,465 - INFO - [chan 0] sftp session closed.
