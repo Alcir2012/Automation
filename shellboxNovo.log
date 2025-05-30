@@ -23078,3 +23078,179 @@
 2025-05-30 14:35:12,172 - INFO - Tirando arquivo toscano-05932284000259-vendas-00825-20250530.csv para -> Catalogador
 2025-05-30 14:35:12,175 - INFO - Removido localmente: toscano-05932284000259-vendas-00825-20250530.csv
 2025-05-30 14:35:12,176 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:50:22,971 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:50:23,484 - INFO - Authentication (publickey) successful!
+2025-05-30 15:50:23,759 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:50:24,150 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:50:24,151 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:50:24,421 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:50:24,823 - INFO - Authentication (publickey) successful!
+2025-05-30 15:50:25,111 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:50:25,473 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:50:25,474 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:50:25,789 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:50:26,160 - INFO - Authentication (publickey) successful!
+2025-05-30 15:50:26,428 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:50:26,791 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:50:26,792 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:50:27,088 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:50:27,519 - INFO - Authentication (publickey) successful!
+2025-05-30 15:50:27,798 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:50:28,169 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:50:28,169 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:50:28,828 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:50:29,272 - INFO - Authentication (publickey) successful!
+2025-05-30 15:50:29,582 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:50:29,934 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:50:29,935 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:50:30,395 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:50:30,829 - INFO - Authentication (publickey) successful!
+2025-05-30 15:50:31,103 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:50:31,473 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:50:31,474 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:50:32,093 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:50:32,539 - INFO - Authentication (publickey) successful!
+2025-05-30 15:50:32,806 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:50:33,165 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:50:33,165 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:50:33,632 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:50:34,050 - INFO - Authentication (publickey) successful!
+2025-05-30 15:50:34,342 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:50:34,740 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:50:34,740 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:50:35,448 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:50:35,881 - INFO - Authentication (publickey) successful!
+2025-05-30 15:50:36,162 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:50:36,523 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:50:36,524 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:50:37,108 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:50:37,522 - INFO - Authentication (publickey) successful!
+2025-05-30 15:50:37,920 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:50:38,277 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:50:38,277 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:50:38,717 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:50:39,111 - INFO - Authentication (publickey) successful!
+2025-05-30 15:50:39,483 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:50:39,856 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:50:39,857 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:50:40,375 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:50:40,756 - INFO - Authentication (publickey) successful!
+2025-05-30 15:50:41,041 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:50:41,421 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:50:41,421 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:50:41,903 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:50:42,301 - INFO - Authentication (publickey) successful!
+2025-05-30 15:50:42,563 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:50:42,914 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:50:42,914 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:50:43,622 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:50:44,042 - INFO - Authentication (publickey) successful!
+2025-05-30 15:50:44,334 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:50:44,727 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:50:44,728 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:50:45,360 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:50:45,780 - INFO - Authentication (publickey) successful!
+2025-05-30 15:50:46,049 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:50:46,399 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:50:46,399 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:50:46,924 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:50:47,338 - INFO - Authentication (publickey) successful!
+2025-05-30 15:50:47,626 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:50:47,992 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:50:47,992 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:50:48,690 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:50:49,095 - INFO - Authentication (publickey) successful!
+2025-05-30 15:50:49,405 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:50:49,781 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:50:49,782 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:50:50,327 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:50:50,705 - INFO - Authentication (publickey) successful!
+2025-05-30 15:50:50,993 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:50:51,369 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:50:51,370 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:50:52,066 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:50:52,517 - INFO - Authentication (publickey) successful!
+2025-05-30 15:50:52,783 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:50:53,137 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:50:53,137 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:50:53,549 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:50:54,048 - INFO - Authentication (publickey) successful!
+2025-05-30 15:50:54,319 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:50:54,687 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:50:54,688 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:50:55,106 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:50:55,524 - INFO - Authentication (publickey) successful!
+2025-05-30 15:50:55,792 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:50:56,159 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:50:56,159 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:50:56,417 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:50:56,842 - INFO - Authentication (publickey) successful!
+2025-05-30 15:50:57,141 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:50:57,538 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:50:57,538 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:50:57,802 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:50:58,228 - INFO - Authentication (publickey) successful!
+2025-05-30 15:50:58,545 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:50:58,951 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:50:58,952 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:50:59,456 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:50:59,883 - INFO - Authentication (publickey) successful!
+2025-05-30 15:51:00,197 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:51:00,587 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:51:00,588 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:51:01,016 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:51:01,437 - INFO - Authentication (publickey) successful!
+2025-05-30 15:51:01,725 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:51:02,105 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:51:02,106 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:51:02,514 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:51:02,932 - INFO - Authentication (publickey) successful!
+2025-05-30 15:51:03,208 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:51:03,584 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:51:03,585 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:51:04,254 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:51:04,670 - INFO - Authentication (publickey) successful!
+2025-05-30 15:51:04,952 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:51:05,333 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:51:05,333 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:51:05,744 - INFO - Connected (version 2.0, client OpenSSH_8.0)
+2025-05-30 15:51:06,237 - INFO - Authentication (publickey) successful!
+2025-05-30 15:51:06,589 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:51:07,344 - INFO - Baixado: panda04comdederdepetltda-43105668000106-vendas-00002-20250528.csv -> Pasta local
+2025-05-30 15:51:07,829 - INFO - Baixado: panda04comdederdepetltda-43105668000106-vendas-00004-20250530.csv -> Pasta local
+2025-05-30 15:51:08,445 - INFO - Baixado: panda04comdederdepetltda-43105668000106-vendas-00001-20250527.csv -> Pasta local
+2025-05-30 15:51:08,898 - INFO - Baixado: panda04comdederdepetltda-43105668000106-mov-finan-00004-20250530.csv -> Pasta local
+2025-05-30 15:51:08,999 - INFO - ⏭️ Ignorado (não é .csv ou não é arquivo)
+2025-05-30 15:51:09,438 - INFO - Baixado: panda04comdederdepetltda-43105668000106-vendas-00003-20250529.csv -> Pasta local
+2025-05-30 15:51:09,924 - INFO - Baixado: panda04comdederdepetltda-43105668000106-mov-finan-00001-20250527.csv -> Pasta local
+2025-05-30 15:51:10,358 - INFO - Baixado: panda04comdederdepetltda-43105668000106-mov-finan-00002-20250528.csv -> Pasta local
+2025-05-30 15:51:10,785 - INFO - Baixado: panda04comdederdepetltda-43105668000106-mov-finan-00003-20250529.csv -> Pasta local
+2025-05-30 15:51:10,837 - INFO - [chan 0] sftp session closed.
+2025-05-30 15:51:11,189 - INFO - Connected (version 2.0, client mod_sftp/0.9.9)
+2025-05-30 15:51:11,722 - INFO - Authentication (password) successful!
+2025-05-30 15:51:11,974 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-05-30 15:51:12,501 - INFO -  Enviado para processamento: panda04comdederdepetltda-43105668000106-mov-finan-00001-20250527.csv -> "SFTP BoaVista"
+2025-05-30 15:51:12,587 - INFO - Tirando arquivo panda04comdederdepetltda-43105668000106-mov-finan-00001-20250527.csv para -> Catalogador
+2025-05-30 15:51:12,588 - INFO - Removido localmente: panda04comdederdepetltda-43105668000106-mov-finan-00001-20250527.csv
+2025-05-30 15:51:12,930 - INFO -  Enviado para processamento: panda04comdederdepetltda-43105668000106-mov-finan-00002-20250528.csv -> "SFTP BoaVista"
+2025-05-30 15:51:13,019 - INFO - Tirando arquivo panda04comdederdepetltda-43105668000106-mov-finan-00002-20250528.csv para -> Catalogador
+2025-05-30 15:51:13,021 - INFO - Removido localmente: panda04comdederdepetltda-43105668000106-mov-finan-00002-20250528.csv
+2025-05-30 15:51:13,362 - INFO -  Enviado para processamento: panda04comdederdepetltda-43105668000106-mov-finan-00003-20250529.csv -> "SFTP BoaVista"
+2025-05-30 15:51:13,463 - INFO - Tirando arquivo panda04comdederdepetltda-43105668000106-mov-finan-00003-20250529.csv para -> Catalogador
+2025-05-30 15:51:13,465 - INFO - Removido localmente: panda04comdederdepetltda-43105668000106-mov-finan-00003-20250529.csv
+2025-05-30 15:51:13,808 - INFO -  Enviado para processamento: panda04comdederdepetltda-43105668000106-mov-finan-00004-20250530.csv -> "SFTP BoaVista"
+2025-05-30 15:51:13,906 - INFO - Tirando arquivo panda04comdederdepetltda-43105668000106-mov-finan-00004-20250530.csv para -> Catalogador
+2025-05-30 15:51:13,908 - INFO - Removido localmente: panda04comdederdepetltda-43105668000106-mov-finan-00004-20250530.csv
+2025-05-30 15:51:14,265 - INFO -  Enviado para processamento: panda04comdederdepetltda-43105668000106-vendas-00001-20250527.csv -> "SFTP BoaVista"
+2025-05-30 15:51:14,351 - INFO - Tirando arquivo panda04comdederdepetltda-43105668000106-vendas-00001-20250527.csv para -> Catalogador
+2025-05-30 15:51:14,352 - INFO - Removido localmente: panda04comdederdepetltda-43105668000106-vendas-00001-20250527.csv
+2025-05-30 15:51:14,701 - INFO -  Enviado para processamento: panda04comdederdepetltda-43105668000106-vendas-00002-20250528.csv -> "SFTP BoaVista"
+2025-05-30 15:51:14,794 - INFO - Tirando arquivo panda04comdederdepetltda-43105668000106-vendas-00002-20250528.csv para -> Catalogador
+2025-05-30 15:51:14,795 - INFO - Removido localmente: panda04comdederdepetltda-43105668000106-vendas-00002-20250528.csv
+2025-05-30 15:51:15,137 - INFO -  Enviado para processamento: panda04comdederdepetltda-43105668000106-vendas-00003-20250529.csv -> "SFTP BoaVista"
+2025-05-30 15:51:15,223 - INFO - Tirando arquivo panda04comdederdepetltda-43105668000106-vendas-00003-20250529.csv para -> Catalogador
+2025-05-30 15:51:15,225 - INFO - Removido localmente: panda04comdederdepetltda-43105668000106-vendas-00003-20250529.csv
+2025-05-30 15:51:15,604 - INFO -  Enviado para processamento: panda04comdederdepetltda-43105668000106-vendas-00004-20250530.csv -> "SFTP BoaVista"
+2025-05-30 15:51:15,829 - INFO - Tirando arquivo panda04comdederdepetltda-43105668000106-vendas-00004-20250530.csv para -> Catalogador
+2025-05-30 15:51:15,830 - INFO - Removido localmente: panda04comdederdepetltda-43105668000106-vendas-00004-20250530.csv
+2025-05-30 15:51:15,831 - INFO - [chan 0] sftp session closed.

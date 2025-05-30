@@ -1099,6 +1099,46 @@ def posto_major():
     sftp.close()
     transport.close()
 
+def panda04():
+    host = 'ftp02.main.sao.equals.com.br'
+    usuario = 'panda04comdederdepetltda-43105'
+    caminhoChave = 'C:/Certificados Operadoras/Shellbox/panda04comdederdepetltda-43105.com.br/panda04.pem'
+    pastaOrigem = '/download/retorno/layout-equals'
+    pastaLocal = 'C:/Users/jose.alcir/Documents/ArquivosDiarios'
+    pastaProcessados = '/download/retorno/layout-equals/Processados'
+
+    os.makedirs(pastaLocal, exist_ok=True)
+
+    chavePrivada = paramiko.RSAKey.from_private_key_file(caminhoChave)
+
+    transport = paramiko.Transport((host, 20220))
+    transport.connect(username=usuario, pkey=chavePrivada)
+    sftp = paramiko.SFTPClient.from_transport(transport)
+
+    sftp.chdir(pastaOrigem)
+    arquivos = sftp.listdir()
+
+    for arquivo in arquivos:
+        caminho_remoto = f"{pastaOrigem}/{arquivo}"
+        
+        try:
+            info = sftp.stat(caminho_remoto)
+            # Verifica se é arquivo regular (não é pasta)
+            if stat.S_ISREG(info.st_mode) and arquivo.endswith('.csv'):
+                local = os.path.join(pastaLocal, arquivo)
+                sftp.get(arquivo, local)
+                logging.info(f'Baixado: {arquivo} -> Pasta local')
+                caminhoProcesados = f"{pastaProcessados}/{arquivo}"
+                sftp.rename(caminho_remoto, caminhoProcesados)
+
+            else:
+                logging.info(f'⏭️ Ignorado (não é .csv ou não é arquivo)')
+        except Exception as e:
+            logging.info(f'Erro ao baixar para pasta local {arquivo}: {e}')
+
+    sftp.close()
+    transport.close()
+
 def transfereCatalogador():
     hostDestino = 'ftp.eextrato.com.br'
     usuarioDestino = 'monitoramento'
@@ -1164,4 +1204,5 @@ posto_boavista()
 posto_dompedro()
 posto_esplanada()
 posto_major()
+panda04()
 transfereCatalogador()
